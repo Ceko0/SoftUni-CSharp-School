@@ -18,6 +18,7 @@
                 outputLetter += letter;
             }
             Console.WriteLine(outputLetter);
+
         }
     }
 }
