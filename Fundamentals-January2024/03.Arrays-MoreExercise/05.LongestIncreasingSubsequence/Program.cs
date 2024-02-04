@@ -1,13 +1,23 @@
-﻿namespace _05.LongestIncreasingSubsequence
+﻿using System.Runtime.CompilerServices;
+
+namespace _05.LongestIncreasingSubsequence
 {
     internal class Program
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello, World!");
+            int[] integersNumbers = Console.ReadLine()
+                .Split()
+                .Select(int.Parse)
+                .ToArray();
+            int n = integersNumbers.Length -1;
+            int[] len = new int[n];
+
+            for (int i = 0; i < n; i++)
+            {
+                len[i] = 1
+
+            }
         }
     }
 }
-от тая задача нищо не разбирам 
-
-    zvanni mi kato sednesh 
