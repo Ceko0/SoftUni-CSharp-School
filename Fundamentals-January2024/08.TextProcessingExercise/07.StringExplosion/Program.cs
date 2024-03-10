@@ -16,7 +16,7 @@
                 }
                 if (str != 0)
                 {
-                    text = text.Remove(i,1);
+                    text = text.Remove(i, 1);
                     str--;
                     i--;
                 }

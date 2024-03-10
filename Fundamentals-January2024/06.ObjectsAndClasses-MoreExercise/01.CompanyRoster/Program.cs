@@ -13,7 +13,7 @@
         public decimal Salary { get; set; }
         public override string ToString()
         {
-            return $"{Name} {Salary}\n";
+            return $"{Name} {Salary:f2}\n";
         }
     }
 
@@ -59,9 +59,10 @@
             string maxDepartment = salary.FirstOrDefault(x => x.Value == maxSalary).Key;
 
             Console.WriteLine($"Highest Average Salary: {maxDepartment}");
-            var maxDepartmentEmployees = employees
-                .FirstOrDefault(x => x.Key == maxDepartment).Value
-                .OrderByDescending(x => x.Salary);
+
+            var maxDepartmentEmployees = employees[maxDepartment]
+                .OrderByDescending(e => e.Salary);
+
             Console.WriteLine(string.Join(" ", maxDepartmentEmployees).Trim());
         }
     }

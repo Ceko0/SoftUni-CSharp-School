@@ -1,4 +1,6 @@
-﻿namespace _03.LongerLine
+﻿using System;
+
+namespace _03.LongerLine
 {
     internal class Program
     {
@@ -13,12 +15,12 @@
             double x4 = double.Parse(Console.ReadLine());
             double y4 = double.Parse(Console.ReadLine());
 
-            double firstLine = NewMethod(x1, x2) + NewMethod(y1, y2);
-            double secondLine = NewMethod(x3, x4) + NewMethod(y3, y4);
+            double firstLineLength = Distance(x1, y1, x2, y2);
+            double secondLineLength = Distance(x3, y3, x4, y4);
 
-            if (firstLine > secondLine)
+            if (firstLineLength >= secondLineLength)
             {
-                if (CloserToZeroCheck(x1, y1, x2, y2))
+                if (CloserToZero(x1, y1, x2, y2))
                 {
                     Console.WriteLine($"({x1}, {y1})({x2}, {y2})");
                 }
@@ -26,11 +28,10 @@
                 {
                     Console.WriteLine($"({x2}, {y2})({x1}, {y1})");
                 }
-
             }
             else
             {
-                if (!CloserToZeroCheck(x3, y3, x4, y4))
+                if (CloserToZero(x3, y3, x4, y4))
                 {
                     Console.WriteLine($"({x3}, {y3})({x4}, {y4})");
                 }
@@ -38,60 +39,23 @@
                 {
                     Console.WriteLine($"({x4}, {y4})({x3}, {y3})");
                 }
-
             }
         }
 
-        private static bool CloserToZeroCheck(double x1, double y1, double x2, double y2)
+        private static bool CloserToZero(double x1, double y1, double x2, double y2)
         {
-            if (x1 < x2)
-            {
-                if (y1 < y2)
-                {
-                    return true;
-                }
-                else if (x1 < y2)
-                {
-                    return true;
-                }
-            }
-            else
-            {
-                if (y1 < y2)
-                {
-                    if (x2 > y1)
-                    {
-                        return true;
-                    }
-                }
-            }
-
-            return false;
+            return DistanceFromOrigin(x1, y1) <= DistanceFromOrigin(x2, y2);
         }
 
-        private static double NewMethod(double x1, double x2)
+        private static double Distance(double x1, double y1, double x2, double y2)
         {
-            double sideOne = 0;
-            if (biger(x1, x2))
-            {
-                sideOne = x1 - x2;
-            }
-            else
-            {
-                sideOne = x2 - x1;
-            }
-
-            return Math.Pow(sideOne, 2);
+            return Math.Sqrt(Math.Pow(x2 - x1, 2) + Math.Pow(y2 - y1, 2));
         }
 
-        private static bool biger(double x1, double x2)
+        private static double DistanceFromOrigin(double x, double y)
         {
-            if (x1 > x2)
-            {
-                return true;
-            }
-
-            return false;
+            return Math.Sqrt(x * x + y * y);
         }
     }
 }
+

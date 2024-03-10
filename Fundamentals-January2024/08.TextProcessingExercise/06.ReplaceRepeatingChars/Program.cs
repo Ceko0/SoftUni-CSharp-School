@@ -13,7 +13,7 @@ namespace _06.ReplaceRepeatingChars
             for (int i = 1; i < text.Length; i++)
             {
                 char previousLetter = text[i - 1];
-                if(previousLetter != text[i])
+                if (previousLetter != text[i])
                 {
                     sb.Append(previousLetter);
                 }
