@@ -9,7 +9,7 @@ namespace _1.WinningTicket
             string[] tickets = Console.ReadLine()
                 .Split(new[] { ',', ' ' }, StringSplitOptions.RemoveEmptyEntries)
                 .ToArray();
-            string pattern = @"(?<series>[/@/#/$/^]{6,10})";
+            string pattern = @"(?<series>[@]{6,10}|[#]{6,10}|[$]{6,10}|[/^]{6,10})";
 
             foreach (string ticket in tickets)
             {
