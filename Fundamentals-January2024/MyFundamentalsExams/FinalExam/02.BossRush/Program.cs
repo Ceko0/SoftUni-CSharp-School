@@ -1,7 +1,7 @@
-﻿using System.Text;
-using System.Text.RegularExpressions;
+﻿using System.Text.RegularExpressions;
+using System.Text;
 
-namespace ConsoleApp5
+namespace _02.BossRush
 {
     internal class Program
     {
@@ -17,7 +17,7 @@ namespace ConsoleApp5
                 MatchCollection matches = Regex.Matches(input, pattern);
                 if (matches.Count > 0)
                 {
-                    foreach (Match match in matches )
+                    foreach (Match match in matches)
                     {
                         string name = match.Groups["bossName"].Value;
                         string title = match.Groups["title"].Value;
@@ -33,4 +33,3 @@ namespace ConsoleApp5
             }
         }
     }
-}

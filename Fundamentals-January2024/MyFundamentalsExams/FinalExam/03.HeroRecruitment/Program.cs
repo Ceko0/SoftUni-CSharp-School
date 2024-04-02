@@ -1,6 +1,6 @@
 ﻿using System.Text;
 
-namespace ConsoleApp6
+namespace _03.HeroRecruitment
 {
     internal class Program
     {
@@ -62,14 +62,14 @@ namespace ConsoleApp6
                                 break;
                             }
                         }
-                        if(!spellCheck) Console.WriteLine($"{heroName} doesn't know {spellToAdd}.");
+                        if (!spellCheck) Console.WriteLine($"{heroName} doesn't know {spellToAdd}.");
                         break;
                 }
             }
 
             Console.WriteLine("Heroes:");
 
-            foreach (var (name , spellBook) in heroesList)
+            foreach (var (name, spellBook) in heroesList)
             {
                 StringBuilder sb = new StringBuilder();
                 sb.Append($"== {name}: ");
@@ -78,7 +78,7 @@ namespace ConsoleApp6
                     sb.Append($"{spell}, ");
                 }
 
-                Console.WriteLine(sb.ToString().Trim(',',' '));
+                Console.WriteLine(sb.ToString().Trim(',', ' '));
             }
         }
     }

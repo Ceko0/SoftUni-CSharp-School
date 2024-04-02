@@ -1,18 +1,18 @@
-﻿namespace _03
+﻿namespace _03.PhoneShop
 {
     internal class Program
     {
         static void Main(string[] args)
         {
             List<string> phoneList = Console.ReadLine()
-                .Split(", " , StringSplitOptions.RemoveEmptyEntries)
+                .Split(", ", StringSplitOptions.RemoveEmptyEntries)
                 .ToList();
 
             string income = "";
             while ((income = Console.ReadLine()) != "End")
             {
                 List<string> commands = income
-                    .Split(" - " , StringSplitOptions.RemoveEmptyEntries)
+                    .Split(" - ", StringSplitOptions.RemoveEmptyEntries)
                     .ToList();
                 switch (commands[0])
                 {
@@ -40,7 +40,7 @@
                                 phoneList.Add(PhonesToAdd[1]);
                                 continue;
                             }
-                            phoneList.Insert(index +1 , PhonesToAdd[1]);
+                            phoneList.Insert(index + 1, PhonesToAdd[1]);
                         }
                         break;
                     case "Last":
@@ -53,7 +53,7 @@
                 }
             }
 
-            Console.WriteLine(string.Join(", ", phoneList).Trim(',',' '));
+            Console.WriteLine(string.Join(", ", phoneList).Trim(',', ' '));
         }
     }
 }

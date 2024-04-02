@@ -1,4 +1,4 @@
-﻿namespace ConsoleApp4
+﻿namespace _01.Hogwarts
 {
     internal class Program
     {
@@ -30,7 +30,7 @@
                         string letter = commands[2];
                         if (index >= 0 && index < spell.Length)
                         {
-                            spell = spell.Remove(index,1);
+                            spell = spell.Remove(index, 1);
                             spell = spell.Insert(index, letter);
                             Console.WriteLine("Done!");
                         }

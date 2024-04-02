@@ -1,4 +1,4 @@
-﻿namespace _02
+﻿namespace _02.TaxCalculator
 {
     internal class Program
     {
@@ -14,7 +14,7 @@
                     .Split()
                     .ToList();
                 double tax = 0;
-                
+
                 switch (currentCar[0])
                 {
                     case "family":
@@ -61,7 +61,7 @@
                         {
                             years--;
                             tax -= 9;
-                        } 
+                        }
                         while (kilometers >= 2000)
                         {
                             kilometers -= 2000;

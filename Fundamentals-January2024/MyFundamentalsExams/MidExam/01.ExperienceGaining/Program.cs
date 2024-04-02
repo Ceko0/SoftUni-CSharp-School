@@ -1,4 +1,4 @@
-﻿namespace _01
+﻿namespace _01.ExperienceGaining
 {
     internal class Program
     {
