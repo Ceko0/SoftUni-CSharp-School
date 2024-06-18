@@ -1,0 +1,16 @@
+﻿namespace _01.GenericBoxOfString
+{
+    public class Program
+    {
+        static void Main(string[] args)
+        {
+            int counter = int.Parse(Console.ReadLine());
+            Box<string> box = new();
+            for (int i = 0; i < counter; i++)
+            {              
+                box.Elements.Add(Console.ReadLine());
+            }
+            Console.WriteLine(box);
+        }
+    }
+}
