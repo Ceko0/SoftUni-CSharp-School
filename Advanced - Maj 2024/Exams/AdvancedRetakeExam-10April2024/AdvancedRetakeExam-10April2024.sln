@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.PiePursuit", "01.PiePursuit\01.PiePursuit.csproj", "{B05DCD39-82AA-480B-A982-AF5A5315FFE7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.EscapeTheMaze", "02.EscapeTheMaze\02.EscapeTheMaze.csproj", "{F64A1A44-ADA7-4FB1-AE95-BC5D4D24D79D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B05DCD39-82AA-480B-A982-AF5A5315FFE7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B05DCD39-82AA-480B-A982-AF5A5315FFE7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B05DCD39-82AA-480B-A982-AF5A5315FFE7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B05DCD39-82AA-480B-A982-AF5A5315FFE7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F64A1A44-ADA7-4FB1-AE95-BC5D4D24D79D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F64A1A44-ADA7-4FB1-AE95-BC5D4D24D79D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F64A1A44-ADA7-4FB1-AE95-BC5D4D24D79D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F64A1A44-ADA7-4FB1-AE95-BC5D4D24D79D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {71468A73-D5A4-4AA8-8A10-EE2D3E200244}
+	EndGlobalSection
+EndGlobal
