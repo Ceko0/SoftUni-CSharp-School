@@ -1,0 +1,35 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net6.0</TargetFramework>
+    <PackageIcon>game.png</PackageIcon>
+    <ApplicationIcon>Icon\snake_38881.ico</ApplicationIcon>
+    <StartupObject>SimpleSnake.StartUp</StartupObject>
+	<ApplicationIcon>Resources\snake.ico</ApplicationIcon>
+  </PropertyGroup>
+
+	<ItemGroup>
+    <Content Include="Icon\snake_38881.ico" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Core\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Update="Icon\game.png">
+      <Pack>True</Pack>
+      <PackagePath>\</PackagePath>
+    </None>
+    <None Update="Utilities\snake.ico">
+      <Pack>True</Pack>
+      <PackagePath>\</PackagePath>
+    </None>
+    <None Update="Utilities\snake.Jpeg">
+      <Pack>True</Pack>
+      <PackagePath>\</PackagePath>
+    </None>
+  </ItemGroup>
+
+</Project>
