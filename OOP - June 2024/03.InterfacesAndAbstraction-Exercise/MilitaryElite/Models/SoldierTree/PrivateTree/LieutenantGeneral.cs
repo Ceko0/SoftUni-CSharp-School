@@ -1,4 +1,5 @@
-﻿using MilitaryElite.Interfaces.SoldierInterfece.PrivateInterfeceInterfece;
+﻿using Interfaces.SoldierInterfece.PrivateInterfece;
+using MilitaryElite.Interfaces.SoldierInterfece.PrivateInterfece;
 using System.Text;
 
 namespace MilitaryElite.Models.SoldierTree.PrivateTree
@@ -11,8 +12,7 @@ namespace MilitaryElite.Models.SoldierTree.PrivateTree
             privates = new();
         }
         public readonly List<Private> privates;
-
-        public IReadOnlyCollection<Private> Privates => privates.AsReadOnly();
+        IReadOnlyCollection<IPrivate> ILieutenantGeneral.Privates => privates.AsReadOnly();
 
         public void AddPrivate(Private priv)
         {
@@ -24,7 +24,7 @@ namespace MilitaryElite.Models.SoldierTree.PrivateTree
             sb.AppendLine(base.ToString());
             sb.Append("Privates:");
 
-            foreach (Private @private in this.Privates)
+            foreach (Private @private in this.privates)
             {
                 sb.AppendLine();
                 sb.Append("  ");

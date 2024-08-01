@@ -1,8 +1,9 @@
 ﻿using MilitaryElite.Enums;
+using MilitaryElite.Interfaces.SoldierInterfece.PrivateInterfece.SpecialisedSoldierInterfece.SetForSpecialistInterfece;
 
 namespace MilitaryElite.Models.SoldierTree.PrivateTree.SpecialisedSoldierTree.SetForSpecialistTree
 {
-    public class Mission
+    public class Mission : IMission
     {
         public Mission(string codeName, MissionState state)
         {

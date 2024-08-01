@@ -1,6 +1,8 @@
-﻿namespace MilitaryElite.Models.SoldierTree.PrivateTree.SpecialisedSoldierTree.SetForSpecialistTree 
+﻿using MilitaryElite.Interfaces.SoldierInterfece.PrivateInterfece.SpecialisedSoldierInterfece.SetForSpecialistInterfece;
+
+namespace MilitaryElite.Models.SoldierTree.PrivateTree.SpecialisedSoldierTree.SetForSpecialistTree 
 { 
-    public class Repair
+    public class Repair : IRepiar
     {
         public Repair(string partName, int workedHours)
         {

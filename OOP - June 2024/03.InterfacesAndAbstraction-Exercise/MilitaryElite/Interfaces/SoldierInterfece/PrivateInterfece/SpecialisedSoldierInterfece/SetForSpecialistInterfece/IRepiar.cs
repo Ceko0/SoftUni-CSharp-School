@@ -2,6 +2,7 @@
 {
     public interface IRepiar
     {
-
+        string PartName { get; }
+        int WorkedHours { get; }
     }
 }

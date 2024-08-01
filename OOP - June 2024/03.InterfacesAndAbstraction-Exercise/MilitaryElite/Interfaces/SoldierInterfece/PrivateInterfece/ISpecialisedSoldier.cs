@@ -1,9 +1,9 @@
 ﻿using MilitaryElite.Enums;
-using MilitaryElite.Interfaces.SoldierInterfece.PrivateInterfeceInterfece;
+using Interfaces.SoldierInterfece.PrivateInterfece;
 
-namespace Interfaces.SoldierInterfece.PrivateInterfeceInterefece
+namespace Interfaces.SoldierInterfece.PrivateInterfece
 {
-    public interface ISpecialisedSoldier : ILieutenantGeneral
+    public interface ISpecialisedSoldier : IPrivate
     {
         SoldierCorps Corps { get; }
     }

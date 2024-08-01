@@ -1,6 +1,8 @@
-﻿namespace MilitaryElite.Models.SoldierTree.PrivateTree
+﻿using Interfaces.SoldierInterfece.PrivateInterfece;
+
+namespace MilitaryElite.Models.SoldierTree.PrivateTree
 {
-    public class Private : Soldier
+    public class Private : Soldier , IPrivate
     {
         public Private(int id, string firstName, string lastName, Decimal salary)
             : base(id, firstName, lastName)

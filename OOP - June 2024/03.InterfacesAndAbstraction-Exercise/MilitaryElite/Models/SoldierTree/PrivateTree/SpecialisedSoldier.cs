@@ -22,5 +22,7 @@ namespace Models.SoldierTree.PrivateTree
 
             return sb.ToString();
         }
+
+        public IReadOnlyCollection<Private> Privates { get; }
     }
 }

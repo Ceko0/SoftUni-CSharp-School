@@ -1,11 +1,9 @@
 ﻿using Interfaces.SoldierInterfece.PrivateInterfece;
-using MilitaryElite.Models.SoldierTree.PrivateTree;
 
-namespace MilitaryElite.Interfaces.SoldierInterfece.PrivateInterfeceInterfece
+namespace MilitaryElite.Interfaces.SoldierInterfece.PrivateInterfece
 {
-    public interface ILieutenantGeneral : ISpecialisedSoldier
+    public interface ILieutenantGeneral : IPrivate
     {
-        IReadOnlyCollection<Private> Privates { get; }
+        IReadOnlyCollection<IPrivate> Privates { get; }
     }
-    
 }

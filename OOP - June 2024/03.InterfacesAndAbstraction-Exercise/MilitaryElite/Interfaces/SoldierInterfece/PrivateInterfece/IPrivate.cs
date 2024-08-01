@@ -1,8 +1,6 @@
-﻿using Interfaces.SoldierInterfece;
-
-namespace Interfaces.SoldierInterfece.PrivateInterfece
+﻿namespace Interfaces.SoldierInterfece.PrivateInterfece
 {
-    public interface ISpecialisedSoldier : ISoldier
+    public interface IPrivate : ISoldier
     {
         decimal Salary { get; }
     }

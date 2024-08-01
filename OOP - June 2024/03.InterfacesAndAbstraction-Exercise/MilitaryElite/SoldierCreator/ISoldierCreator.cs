@@ -1,9 +1,9 @@
 ﻿using Interfaces.SoldierInterfece;
 using MilitaryElite.Enums;
-using MilitaryElite.Models.SoldierTree;
 using MilitaryElite.Models.SoldierTree.PrivateTree;
 using MilitaryElite.Models.SoldierTree.PrivateTree.SpecialisedSoldierTree;
 using MilitaryElite.Models.SoldierTree.PrivateTree.SpecialisedSoldierTree.SetForSpecialistTree;
+using Models.SoldierTree.PrivateTree;
 
 namespace MilitaryElite.SoldierCreator
 {
