@@ -8,7 +8,6 @@ namespace TheContentDepartment.Models.Class.TeamMemberChild
         public TeamLead(string name, string path)
             : base(name, ValidatePath(path))
         {
-            //if (!TeamLeadPath.TryParse(path, out TeamLeadPath pathResult)) throw new ArgumentException(ExceptionMessages.PathIncorrect, nameof(path));
         }
         private static string ValidatePath(string path)
         {
@@ -20,7 +19,7 @@ namespace TheContentDepartment.Models.Class.TeamMemberChild
 
         public override string ToString()
         {
-            return $"{Name} ({GetType().Name}) – Currently working on {InProgress.Count} tasks.";
+            return $"{Name} ({GetType().Name}) - Currently working on {InProgress.Count} tasks.";
         }
     }
 }

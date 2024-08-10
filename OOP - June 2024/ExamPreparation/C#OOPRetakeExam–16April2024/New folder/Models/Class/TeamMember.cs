@@ -14,12 +14,12 @@ namespace TheContentDepartment.Models.Class
             Name = name;
             Path = path;
             inProgress = new();
-            InProgress = inProgress.AsReadOnly();
+           
         }
 
         public string Name { get; }
         public string Path { get; }
-        public IReadOnlyCollection<string> InProgress { get; }
+        public IReadOnlyCollection<string> InProgress => inProgress.AsReadOnly();
         public void WorkOnTask(string resourceName)
         {
             inProgress.Add(resourceName);

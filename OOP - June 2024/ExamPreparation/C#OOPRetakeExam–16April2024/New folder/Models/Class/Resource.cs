@@ -18,7 +18,7 @@ namespace TheContentDepartment.Models.Class
         public string Name { get; }
         public string Creator { get; }
         public int Priority { get; }
-        public bool IsTested { get; private set;  }
+        public bool IsTested { get; private set; }
         public bool IsApproved { get; private set; }
         public void Test()
         {

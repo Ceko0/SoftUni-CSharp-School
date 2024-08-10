@@ -67,9 +67,13 @@ namespace TheContentDepartment.Core
                 return $"{resourceName} cannot be approved without being tested.";
             ITeamMember teamLead = this.members.FirstOrDefault(m => m.Path == "Master");
             if (isApprovedByTeamLead == true) resource.Approve();
-            return isApprovedByTeamLead == true
-                ? $"{teamLead.Name} approved {resourceName}."
-                : $"{teamLead.Name} returned {resourceName} for a re-test.";
+            if (isApprovedByTeamLead)
+            {
+                teamLead.FinishTask(resourceName);
+                return $"{teamLead.Name} approved {resourceName}.";
+            }
+                
+             return $"{teamLead.Name} returned {resourceName} for a re-test.";
         }
 
         public string DepartmentReport()
