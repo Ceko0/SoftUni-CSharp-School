@@ -1,0 +1,15 @@
+D:\ProgramsScool\PB-september.2023\PB-MoreExercises\ConditionalStatementsAdvanced-MoreExercises\08.PointOnRectangleBorder\bin\Debug\net6.0\08.PointOnRectangleBorder.exe
+D:\ProgramsScool\PB-september.2023\PB-MoreExercises\ConditionalStatementsAdvanced-MoreExercises\08.PointOnRectangleBorder\bin\Debug\net6.0\08.PointOnRectangleBorder.deps.json
+D:\ProgramsScool\PB-september.2023\PB-MoreExercises\ConditionalStatementsAdvanced-MoreExercises\08.PointOnRectangleBorder\bin\Debug\net6.0\08.PointOnRectangleBorder.runtimeconfig.json
+D:\ProgramsScool\PB-september.2023\PB-MoreExercises\ConditionalStatementsAdvanced-MoreExercises\08.PointOnRectangleBorder\bin\Debug\net6.0\08.PointOnRectangleBorder.dll
+D:\ProgramsScool\PB-september.2023\PB-MoreExercises\ConditionalStatementsAdvanced-MoreExercises\08.PointOnRectangleBorder\bin\Debug\net6.0\08.PointOnRectangleBorder.pdb
+D:\ProgramsScool\PB-september.2023\PB-MoreExercises\ConditionalStatementsAdvanced-MoreExercises\08.PointOnRectangleBorder\obj\Debug\net6.0\08.PointOnRectangleBorder.csproj.AssemblyReference.cache
+D:\ProgramsScool\PB-september.2023\PB-MoreExercises\ConditionalStatementsAdvanced-MoreExercises\08.PointOnRectangleBorder\obj\Debug\net6.0\08.PointOnRectangleBorder.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProgramsScool\PB-september.2023\PB-MoreExercises\ConditionalStatementsAdvanced-MoreExercises\08.PointOnRectangleBorder\obj\Debug\net6.0\08.PointOnRectangleBorder.AssemblyInfoInputs.cache
+D:\ProgramsScool\PB-september.2023\PB-MoreExercises\ConditionalStatementsAdvanced-MoreExercises\08.PointOnRectangleBorder\obj\Debug\net6.0\08.PointOnRectangleBorder.AssemblyInfo.cs
+D:\ProgramsScool\PB-september.2023\PB-MoreExercises\ConditionalStatementsAdvanced-MoreExercises\08.PointOnRectangleBorder\obj\Debug\net6.0\08.PointOnRectangleBorder.csproj.CoreCompileInputs.cache
+D:\ProgramsScool\PB-september.2023\PB-MoreExercises\ConditionalStatementsAdvanced-MoreExercises\08.PointOnRectangleBorder\obj\Debug\net6.0\08.PointOnRectangleBorder.dll
+D:\ProgramsScool\PB-september.2023\PB-MoreExercises\ConditionalStatementsAdvanced-MoreExercises\08.PointOnRectangleBorder\obj\Debug\net6.0\refint\08.PointOnRectangleBorder.dll
+D:\ProgramsScool\PB-september.2023\PB-MoreExercises\ConditionalStatementsAdvanced-MoreExercises\08.PointOnRectangleBorder\obj\Debug\net6.0\08.PointOnRectangleBorder.pdb
+D:\ProgramsScool\PB-september.2023\PB-MoreExercises\ConditionalStatementsAdvanced-MoreExercises\08.PointOnRectangleBorder\obj\Debug\net6.0\08.PointOnRectangleBorder.genruntimeconfig.cache
+D:\ProgramsScool\PB-september.2023\PB-MoreExercises\ConditionalStatementsAdvanced-MoreExercises\08.PointOnRectangleBorder\obj\Debug\net6.0\ref\08.PointOnRectangleBorder.dll

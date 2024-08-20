@@ -1,0 +1,15 @@
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\02,MultidimensionalArrays-Lab\7.PascalTriangle\bin\Debug\net8.0\7.PascalTriangle.exe
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\02,MultidimensionalArrays-Lab\7.PascalTriangle\bin\Debug\net8.0\7.PascalTriangle.deps.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\02,MultidimensionalArrays-Lab\7.PascalTriangle\bin\Debug\net8.0\7.PascalTriangle.runtimeconfig.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\02,MultidimensionalArrays-Lab\7.PascalTriangle\bin\Debug\net8.0\7.PascalTriangle.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\02,MultidimensionalArrays-Lab\7.PascalTriangle\bin\Debug\net8.0\7.PascalTriangle.pdb
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\02,MultidimensionalArrays-Lab\7.PascalTriangle\obj\Debug\net8.0\7.PascalTriangle.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\02,MultidimensionalArrays-Lab\7.PascalTriangle\obj\Debug\net8.0\7.PascalTriangle.AssemblyInfoInputs.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\02,MultidimensionalArrays-Lab\7.PascalTriangle\obj\Debug\net8.0\7.PascalTriangle.AssemblyInfo.cs
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\02,MultidimensionalArrays-Lab\7.PascalTriangle\obj\Debug\net8.0\7.PascalTriangle.csproj.CoreCompileInputs.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\02,MultidimensionalArrays-Lab\7.PascalTriangle\obj\Debug\net8.0\7.PascalTriangle.sourcelink.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\02,MultidimensionalArrays-Lab\7.PascalTriangle\obj\Debug\net8.0\7.PascalTriangle.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\02,MultidimensionalArrays-Lab\7.PascalTriangle\obj\Debug\net8.0\refint\7.PascalTriangle.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\02,MultidimensionalArrays-Lab\7.PascalTriangle\obj\Debug\net8.0\7.PascalTriangle.pdb
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\02,MultidimensionalArrays-Lab\7.PascalTriangle\obj\Debug\net8.0\7.PascalTriangle.genruntimeconfig.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\02,MultidimensionalArrays-Lab\7.PascalTriangle\obj\Debug\net8.0\ref\7.PascalTriangle.dll

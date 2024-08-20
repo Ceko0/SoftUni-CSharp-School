@@ -1,0 +1,15 @@
+D:\ProgramsScool\Fundamental C# 2024\testingSwitchExpresion\01. Match Tickets\bin\Debug\net6.0\01. Match Tickets.exe
+D:\ProgramsScool\Fundamental C# 2024\testingSwitchExpresion\01. Match Tickets\bin\Debug\net6.0\01. Match Tickets.deps.json
+D:\ProgramsScool\Fundamental C# 2024\testingSwitchExpresion\01. Match Tickets\bin\Debug\net6.0\01. Match Tickets.runtimeconfig.json
+D:\ProgramsScool\Fundamental C# 2024\testingSwitchExpresion\01. Match Tickets\bin\Debug\net6.0\01. Match Tickets.dll
+D:\ProgramsScool\Fundamental C# 2024\testingSwitchExpresion\01. Match Tickets\bin\Debug\net6.0\01. Match Tickets.pdb
+D:\ProgramsScool\Fundamental C# 2024\testingSwitchExpresion\01. Match Tickets\obj\Debug\net6.0\01. Match Tickets.csproj.AssemblyReference.cache
+D:\ProgramsScool\Fundamental C# 2024\testingSwitchExpresion\01. Match Tickets\obj\Debug\net6.0\01. Match Tickets.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProgramsScool\Fundamental C# 2024\testingSwitchExpresion\01. Match Tickets\obj\Debug\net6.0\01. Match Tickets.AssemblyInfoInputs.cache
+D:\ProgramsScool\Fundamental C# 2024\testingSwitchExpresion\01. Match Tickets\obj\Debug\net6.0\01. Match Tickets.AssemblyInfo.cs
+D:\ProgramsScool\Fundamental C# 2024\testingSwitchExpresion\01. Match Tickets\obj\Debug\net6.0\01. Match Tickets.csproj.CoreCompileInputs.cache
+D:\ProgramsScool\Fundamental C# 2024\testingSwitchExpresion\01. Match Tickets\obj\Debug\net6.0\01. Match Tickets.dll
+D:\ProgramsScool\Fundamental C# 2024\testingSwitchExpresion\01. Match Tickets\obj\Debug\net6.0\refint\01. Match Tickets.dll
+D:\ProgramsScool\Fundamental C# 2024\testingSwitchExpresion\01. Match Tickets\obj\Debug\net6.0\01. Match Tickets.pdb
+D:\ProgramsScool\Fundamental C# 2024\testingSwitchExpresion\01. Match Tickets\obj\Debug\net6.0\01. Match Tickets.genruntimeconfig.cache
+D:\ProgramsScool\Fundamental C# 2024\testingSwitchExpresion\01. Match Tickets\obj\Debug\net6.0\ref\01. Match Tickets.dll

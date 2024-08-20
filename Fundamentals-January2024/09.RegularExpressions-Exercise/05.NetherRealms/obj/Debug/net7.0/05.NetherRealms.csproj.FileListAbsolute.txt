@@ -1,0 +1,15 @@
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\09.RegularExpressions-Exercise\05.NetherRealms\bin\Debug\net7.0\05.NetherRealms.exe
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\09.RegularExpressions-Exercise\05.NetherRealms\bin\Debug\net7.0\05.NetherRealms.deps.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\09.RegularExpressions-Exercise\05.NetherRealms\bin\Debug\net7.0\05.NetherRealms.runtimeconfig.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\09.RegularExpressions-Exercise\05.NetherRealms\bin\Debug\net7.0\05.NetherRealms.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\09.RegularExpressions-Exercise\05.NetherRealms\bin\Debug\net7.0\05.NetherRealms.pdb
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\09.RegularExpressions-Exercise\05.NetherRealms\obj\Debug\net7.0\05.NetherRealms.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\09.RegularExpressions-Exercise\05.NetherRealms\obj\Debug\net7.0\05.NetherRealms.AssemblyInfoInputs.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\09.RegularExpressions-Exercise\05.NetherRealms\obj\Debug\net7.0\05.NetherRealms.AssemblyInfo.cs
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\09.RegularExpressions-Exercise\05.NetherRealms\obj\Debug\net7.0\05.NetherRealms.csproj.CoreCompileInputs.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\09.RegularExpressions-Exercise\05.NetherRealms\obj\Debug\net7.0\05.NetherRealms.sourcelink.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\09.RegularExpressions-Exercise\05.NetherRealms\obj\Debug\net7.0\05.NetherRealms.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\09.RegularExpressions-Exercise\05.NetherRealms\obj\Debug\net7.0\refint\05.NetherRealms.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\09.RegularExpressions-Exercise\05.NetherRealms\obj\Debug\net7.0\05.NetherRealms.pdb
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\09.RegularExpressions-Exercise\05.NetherRealms\obj\Debug\net7.0\05.NetherRealms.genruntimeconfig.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\09.RegularExpressions-Exercise\05.NetherRealms\obj\Debug\net7.0\ref\05.NetherRealms.dll

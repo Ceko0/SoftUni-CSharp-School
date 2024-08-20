@@ -1,0 +1,15 @@
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\02.DataTypesAndVariables-Exercise\04.SumOfChars\bin\Debug\net6.0\04.SumOfChars.exe
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\02.DataTypesAndVariables-Exercise\04.SumOfChars\bin\Debug\net6.0\04.SumOfChars.deps.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\02.DataTypesAndVariables-Exercise\04.SumOfChars\bin\Debug\net6.0\04.SumOfChars.runtimeconfig.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\02.DataTypesAndVariables-Exercise\04.SumOfChars\bin\Debug\net6.0\04.SumOfChars.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\02.DataTypesAndVariables-Exercise\04.SumOfChars\bin\Debug\net6.0\04.SumOfChars.pdb
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\02.DataTypesAndVariables-Exercise\04.SumOfChars\obj\Debug\net6.0\04.SumOfChars.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\02.DataTypesAndVariables-Exercise\04.SumOfChars\obj\Debug\net6.0\04.SumOfChars.AssemblyInfoInputs.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\02.DataTypesAndVariables-Exercise\04.SumOfChars\obj\Debug\net6.0\04.SumOfChars.AssemblyInfo.cs
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\02.DataTypesAndVariables-Exercise\04.SumOfChars\obj\Debug\net6.0\04.SumOfChars.csproj.CoreCompileInputs.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\02.DataTypesAndVariables-Exercise\04.SumOfChars\obj\Debug\net6.0\04.SumOfChars.sourcelink.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\02.DataTypesAndVariables-Exercise\04.SumOfChars\obj\Debug\net6.0\04.SumOfChars.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\02.DataTypesAndVariables-Exercise\04.SumOfChars\obj\Debug\net6.0\refint\04.SumOfChars.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\02.DataTypesAndVariables-Exercise\04.SumOfChars\obj\Debug\net6.0\04.SumOfChars.pdb
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\02.DataTypesAndVariables-Exercise\04.SumOfChars\obj\Debug\net6.0\04.SumOfChars.genruntimeconfig.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\02.DataTypesAndVariables-Exercise\04.SumOfChars\obj\Debug\net6.0\ref\04.SumOfChars.dll

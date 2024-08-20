@@ -1,0 +1,15 @@
+D:\ProgramsScool\PB-september.2023\ProgrammingBasicsOnlinePre-Exam-14and15October2023\02.BraceletStand\bin\Debug\net6.0\02.BraceletStand.exe
+D:\ProgramsScool\PB-september.2023\ProgrammingBasicsOnlinePre-Exam-14and15October2023\02.BraceletStand\bin\Debug\net6.0\02.BraceletStand.deps.json
+D:\ProgramsScool\PB-september.2023\ProgrammingBasicsOnlinePre-Exam-14and15October2023\02.BraceletStand\bin\Debug\net6.0\02.BraceletStand.runtimeconfig.json
+D:\ProgramsScool\PB-september.2023\ProgrammingBasicsOnlinePre-Exam-14and15October2023\02.BraceletStand\bin\Debug\net6.0\02.BraceletStand.dll
+D:\ProgramsScool\PB-september.2023\ProgrammingBasicsOnlinePre-Exam-14and15October2023\02.BraceletStand\bin\Debug\net6.0\02.BraceletStand.pdb
+D:\ProgramsScool\PB-september.2023\ProgrammingBasicsOnlinePre-Exam-14and15October2023\02.BraceletStand\obj\Debug\net6.0\02.BraceletStand.csproj.AssemblyReference.cache
+D:\ProgramsScool\PB-september.2023\ProgrammingBasicsOnlinePre-Exam-14and15October2023\02.BraceletStand\obj\Debug\net6.0\02.BraceletStand.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProgramsScool\PB-september.2023\ProgrammingBasicsOnlinePre-Exam-14and15October2023\02.BraceletStand\obj\Debug\net6.0\02.BraceletStand.AssemblyInfoInputs.cache
+D:\ProgramsScool\PB-september.2023\ProgrammingBasicsOnlinePre-Exam-14and15October2023\02.BraceletStand\obj\Debug\net6.0\02.BraceletStand.AssemblyInfo.cs
+D:\ProgramsScool\PB-september.2023\ProgrammingBasicsOnlinePre-Exam-14and15October2023\02.BraceletStand\obj\Debug\net6.0\02.BraceletStand.csproj.CoreCompileInputs.cache
+D:\ProgramsScool\PB-september.2023\ProgrammingBasicsOnlinePre-Exam-14and15October2023\02.BraceletStand\obj\Debug\net6.0\02.BraceletStand.dll
+D:\ProgramsScool\PB-september.2023\ProgrammingBasicsOnlinePre-Exam-14and15October2023\02.BraceletStand\obj\Debug\net6.0\refint\02.BraceletStand.dll
+D:\ProgramsScool\PB-september.2023\ProgrammingBasicsOnlinePre-Exam-14and15October2023\02.BraceletStand\obj\Debug\net6.0\02.BraceletStand.pdb
+D:\ProgramsScool\PB-september.2023\ProgrammingBasicsOnlinePre-Exam-14and15October2023\02.BraceletStand\obj\Debug\net6.0\02.BraceletStand.genruntimeconfig.cache
+D:\ProgramsScool\PB-september.2023\ProgrammingBasicsOnlinePre-Exam-14and15October2023\02.BraceletStand\obj\Debug\net6.0\ref\02.BraceletStand.dll

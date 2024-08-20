@@ -1,0 +1,15 @@
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\07.ImplementingStackAndQueue\CustumList\bin\Debug\net6.0\CustomList.exe
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\07.ImplementingStackAndQueue\CustumList\bin\Debug\net6.0\CustomList.deps.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\07.ImplementingStackAndQueue\CustumList\bin\Debug\net6.0\CustomList.runtimeconfig.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\07.ImplementingStackAndQueue\CustumList\bin\Debug\net6.0\CustomList.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\07.ImplementingStackAndQueue\CustumList\bin\Debug\net6.0\CustomList.pdb
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\07.ImplementingStackAndQueue\CustumList\obj\Debug\net6.0\CustomList.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\07.ImplementingStackAndQueue\CustumList\obj\Debug\net6.0\CustomList.AssemblyInfoInputs.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\07.ImplementingStackAndQueue\CustumList\obj\Debug\net6.0\CustomList.AssemblyInfo.cs
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\07.ImplementingStackAndQueue\CustumList\obj\Debug\net6.0\CustomList.csproj.CoreCompileInputs.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\07.ImplementingStackAndQueue\CustumList\obj\Debug\net6.0\CustomList.sourcelink.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\07.ImplementingStackAndQueue\CustumList\obj\Debug\net6.0\CustomList.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\07.ImplementingStackAndQueue\CustumList\obj\Debug\net6.0\refint\CustomList.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\07.ImplementingStackAndQueue\CustumList\obj\Debug\net6.0\CustomList.pdb
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\07.ImplementingStackAndQueue\CustumList\obj\Debug\net6.0\CustomList.genruntimeconfig.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\07.ImplementingStackAndQueue\CustumList\obj\Debug\net6.0\ref\CustomList.dll

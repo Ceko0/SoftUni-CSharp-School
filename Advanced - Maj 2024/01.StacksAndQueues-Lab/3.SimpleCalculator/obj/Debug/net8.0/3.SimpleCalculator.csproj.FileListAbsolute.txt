@@ -1,0 +1,15 @@
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\01.StacksAndQueues-Lab\3.SimpleCalculator\bin\Debug\net8.0\3.SimpleCalculator.exe
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\01.StacksAndQueues-Lab\3.SimpleCalculator\bin\Debug\net8.0\3.SimpleCalculator.deps.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\01.StacksAndQueues-Lab\3.SimpleCalculator\bin\Debug\net8.0\3.SimpleCalculator.runtimeconfig.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\01.StacksAndQueues-Lab\3.SimpleCalculator\bin\Debug\net8.0\3.SimpleCalculator.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\01.StacksAndQueues-Lab\3.SimpleCalculator\bin\Debug\net8.0\3.SimpleCalculator.pdb
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\01.StacksAndQueues-Lab\3.SimpleCalculator\obj\Debug\net8.0\3.SimpleCalculator.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\01.StacksAndQueues-Lab\3.SimpleCalculator\obj\Debug\net8.0\3.SimpleCalculator.AssemblyInfoInputs.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\01.StacksAndQueues-Lab\3.SimpleCalculator\obj\Debug\net8.0\3.SimpleCalculator.AssemblyInfo.cs
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\01.StacksAndQueues-Lab\3.SimpleCalculator\obj\Debug\net8.0\3.SimpleCalculator.csproj.CoreCompileInputs.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\01.StacksAndQueues-Lab\3.SimpleCalculator\obj\Debug\net8.0\3.SimpleCalculator.sourcelink.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\01.StacksAndQueues-Lab\3.SimpleCalculator\obj\Debug\net8.0\3.SimpleCalculator.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\01.StacksAndQueues-Lab\3.SimpleCalculator\obj\Debug\net8.0\refint\3.SimpleCalculator.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\01.StacksAndQueues-Lab\3.SimpleCalculator\obj\Debug\net8.0\3.SimpleCalculator.pdb
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\01.StacksAndQueues-Lab\3.SimpleCalculator\obj\Debug\net8.0\3.SimpleCalculator.genruntimeconfig.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\01.StacksAndQueues-Lab\3.SimpleCalculator\obj\Debug\net8.0\ref\3.SimpleCalculator.dll

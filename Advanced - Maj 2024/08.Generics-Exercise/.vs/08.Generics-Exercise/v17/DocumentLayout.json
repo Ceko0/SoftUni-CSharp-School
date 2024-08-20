@@ -1,0 +1,295 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\Advanced - Maj 2024\\08.Generics-Exercise\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{ED4C2279-B8B1-44A9-A21E-7433D8BD9E1A}|02.GenericBoxOfInteger\\02.GenericBoxOfInteger.csproj|d:\\programsscool\\git hub\\softuni-csharp\\advanced - maj 2024\\08.generics-exercise\\02.genericboxofinteger\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED4C2279-B8B1-44A9-A21E-7433D8BD9E1A}|02.GenericBoxOfInteger\\02.GenericBoxOfInteger.csproj|solutionrelative:02.genericboxofinteger\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED4C2279-B8B1-44A9-A21E-7433D8BD9E1A}|02.GenericBoxOfInteger\\02.GenericBoxOfInteger.csproj|d:\\programsscool\\git hub\\softuni-csharp\\advanced - maj 2024\\08.generics-exercise\\02.genericboxofinteger\\box.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED4C2279-B8B1-44A9-A21E-7433D8BD9E1A}|02.GenericBoxOfInteger\\02.GenericBoxOfInteger.csproj|solutionrelative:02.genericboxofinteger\\box.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3ED1B4D8-5CAF-44FE-BDBD-C7AE0B630926}|09.CustomLinkedList\\09.CustomLinkedList.csproj|d:\\programsscool\\git hub\\softuni-csharp\\advanced - maj 2024\\08.generics-exercise\\09.customlinkedlist\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3ED1B4D8-5CAF-44FE-BDBD-C7AE0B630926}|09.CustomLinkedList\\09.CustomLinkedList.csproj|solutionrelative:09.customlinkedlist\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FA5EAFF-36C7-4315-BA88-C27EE91FAD8B}|08.Threeuple\\08.Threeuple.csproj|d:\\programsscool\\git hub\\softuni-csharp\\advanced - maj 2024\\08.generics-exercise\\08.threeuple\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FA5EAFF-36C7-4315-BA88-C27EE91FAD8B}|08.Threeuple\\08.Threeuple.csproj|solutionrelative:08.threeuple\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FA5EAFF-36C7-4315-BA88-C27EE91FAD8B}|08.Threeuple\\08.Threeuple.csproj|d:\\programsscool\\git hub\\softuni-csharp\\advanced - maj 2024\\08.generics-exercise\\08.threeuple\\threeuple.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FA5EAFF-36C7-4315-BA88-C27EE91FAD8B}|08.Threeuple\\08.Threeuple.csproj|solutionrelative:08.threeuple\\threeuple.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{185252C2-FF7C-432E-8690-BAA547367B81}|07.Tuple\\07.Tuple.csproj|d:\\programsscool\\git hub\\softuni-csharp\\advanced - maj 2024\\08.generics-exercise\\07.tuple\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{185252C2-FF7C-432E-8690-BAA547367B81}|07.Tuple\\07.Tuple.csproj|solutionrelative:07.tuple\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{185252C2-FF7C-432E-8690-BAA547367B81}|07.Tuple\\07.Tuple.csproj|d:\\programsscool\\git hub\\softuni-csharp\\advanced - maj 2024\\08.generics-exercise\\07.tuple\\tuple.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{185252C2-FF7C-432E-8690-BAA547367B81}|07.Tuple\\07.Tuple.csproj|solutionrelative:07.tuple\\tuple.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{080CD041-C054-47B4-84EC-F24136321BCD}|06.GenericCountMethodDouble\\06.GenericCountMethodDouble.csproj|d:\\programsscool\\git hub\\softuni-csharp\\advanced - maj 2024\\08.generics-exercise\\06.genericcountmethoddouble\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{080CD041-C054-47B4-84EC-F24136321BCD}|06.GenericCountMethodDouble\\06.GenericCountMethodDouble.csproj|solutionrelative:06.genericcountmethoddouble\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E2A7C65-B5BD-4B40-A13F-1530287A340A}|05.GenericCountMethodString\\05.GenericCountMethodString.csproj|d:\\programsscool\\git hub\\softuni-csharp\\advanced - maj 2024\\08.generics-exercise\\05.genericcountmethodstring\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E2A7C65-B5BD-4B40-A13F-1530287A340A}|05.GenericCountMethodString\\05.GenericCountMethodString.csproj|solutionrelative:05.genericcountmethodstring\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E2A7C65-B5BD-4B40-A13F-1530287A340A}|05.GenericCountMethodString\\05.GenericCountMethodString.csproj|d:\\programsscool\\git hub\\softuni-csharp\\advanced - maj 2024\\08.generics-exercise\\05.genericcountmethodstring\\box.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E2A7C65-B5BD-4B40-A13F-1530287A340A}|05.GenericCountMethodString\\05.GenericCountMethodString.csproj|solutionrelative:05.genericcountmethodstring\\box.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{834A5DED-6F03-4EDB-BA3B-62EFAE33C637}|03.GenericSwapMethodString\\03.GenericSwapMethodString.csproj|d:\\programsscool\\git hub\\softuni-csharp\\advanced - maj 2024\\08.generics-exercise\\03.genericswapmethodstring\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{834A5DED-6F03-4EDB-BA3B-62EFAE33C637}|03.GenericSwapMethodString\\03.GenericSwapMethodString.csproj|solutionrelative:03.genericswapmethodstring\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{834A5DED-6F03-4EDB-BA3B-62EFAE33C637}|03.GenericSwapMethodString\\03.GenericSwapMethodString.csproj|d:\\programsscool\\git hub\\softuni-csharp\\advanced - maj 2024\\08.generics-exercise\\03.genericswapmethodstring\\box.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{834A5DED-6F03-4EDB-BA3B-62EFAE33C637}|03.GenericSwapMethodString\\03.GenericSwapMethodString.csproj|solutionrelative:03.genericswapmethodstring\\box.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFD08100-DD2D-4C24-BF77-39DF74236DE1}|04.GenericSwapMethodInteger\\04.GenericSwapMethodInteger.csproj|d:\\programsscool\\git hub\\softuni-csharp\\advanced - maj 2024\\08.generics-exercise\\04.genericswapmethodinteger\\box.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CFD08100-DD2D-4C24-BF77-39DF74236DE1}|04.GenericSwapMethodInteger\\04.GenericSwapMethodInteger.csproj|solutionrelative:04.genericswapmethodinteger\\box.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFD08100-DD2D-4C24-BF77-39DF74236DE1}|04.GenericSwapMethodInteger\\04.GenericSwapMethodInteger.csproj|d:\\programsscool\\git hub\\softuni-csharp\\advanced - maj 2024\\08.generics-exercise\\04.genericswapmethodinteger\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CFD08100-DD2D-4C24-BF77-39DF74236DE1}|04.GenericSwapMethodInteger\\04.GenericSwapMethodInteger.csproj|solutionrelative:04.genericswapmethodinteger\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{896DC727-4A74-4A22-B3F8-1BA2D1550A1F}|01.GenericBoxOfString\\01.GenericBoxOfString.csproj|d:\\programsscool\\git hub\\softuni-csharp\\advanced - maj 2024\\08.generics-exercise\\01.genericboxofstring\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{896DC727-4A74-4A22-B3F8-1BA2D1550A1F}|01.GenericBoxOfString\\01.GenericBoxOfString.csproj|solutionrelative:01.genericboxofstring\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{896DC727-4A74-4A22-B3F8-1BA2D1550A1F}|01.GenericBoxOfString\\01.GenericBoxOfString.csproj|d:\\programsscool\\git hub\\softuni-csharp\\advanced - maj 2024\\08.generics-exercise\\01.genericboxofstring\\box.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{896DC727-4A74-4A22-B3F8-1BA2D1550A1F}|01.GenericBoxOfString\\01.GenericBoxOfString.csproj|solutionrelative:01.genericboxofstring\\box.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 17,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\Advanced - Maj 2024\\08.Generics-Exercise\\09.CustomLinkedList\\Program.cs",
+              "RelativeDocumentMoniker": "09.CustomLinkedList\\Program.cs",
+              "ToolTip": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\Advanced - Maj 2024\\08.Generics-Exercise\\09.CustomLinkedList\\Program.cs",
+              "RelativeToolTip": "09.CustomLinkedList\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T17:10:52.714Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Threeuple.cs",
+              "DocumentMoniker": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\Advanced - Maj 2024\\08.Generics-Exercise\\08.Threeuple\\Threeuple.cs",
+              "RelativeDocumentMoniker": "08.Threeuple\\Threeuple.cs",
+              "ToolTip": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\Advanced - Maj 2024\\08.Generics-Exercise\\08.Threeuple\\Threeuple.cs",
+              "RelativeToolTip": "08.Threeuple\\Threeuple.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAA1wAoAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T16:37:15.878Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\Advanced - Maj 2024\\08.Generics-Exercise\\08.Threeuple\\Program.cs",
+              "RelativeDocumentMoniker": "08.Threeuple\\Program.cs",
+              "ToolTip": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\Advanced - Maj 2024\\08.Generics-Exercise\\08.Threeuple\\Program.cs",
+              "RelativeToolTip": "08.Threeuple\\Program.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAA1wBMAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T16:36:47.128Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Tuple.cs",
+              "DocumentMoniker": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\Advanced - Maj 2024\\08.Generics-Exercise\\07.Tuple\\Tuple.cs",
+              "RelativeDocumentMoniker": "07.Tuple\\Tuple.cs",
+              "ToolTip": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\Advanced - Maj 2024\\08.Generics-Exercise\\07.Tuple\\Tuple.cs",
+              "RelativeToolTip": "07.Tuple\\Tuple.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAUAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T15:01:52.035Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\Advanced - Maj 2024\\08.Generics-Exercise\\07.Tuple\\Program.cs",
+              "RelativeDocumentMoniker": "07.Tuple\\Program.cs",
+              "ToolTip": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\Advanced - Maj 2024\\08.Generics-Exercise\\07.Tuple\\Program.cs",
+              "RelativeToolTip": "07.Tuple\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T15:00:52.1Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\Advanced - Maj 2024\\08.Generics-Exercise\\06.GenericCountMethodDouble\\Program.cs",
+              "RelativeDocumentMoniker": "06.GenericCountMethodDouble\\Program.cs",
+              "ToolTip": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\Advanced - Maj 2024\\08.Generics-Exercise\\06.GenericCountMethodDouble\\Program.cs",
+              "RelativeToolTip": "06.GenericCountMethodDouble\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T14:59:22.342Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Box.cs",
+              "DocumentMoniker": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\Advanced - Maj 2024\\08.Generics-Exercise\\05.GenericCountMethodString\\Box.cs",
+              "RelativeDocumentMoniker": "05.GenericCountMethodString\\Box.cs",
+              "ToolTip": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\Advanced - Maj 2024\\08.Generics-Exercise\\05.GenericCountMethodString\\Box.cs",
+              "RelativeToolTip": "05.GenericCountMethodString\\Box.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAowBsAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T14:47:50.414Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\Advanced - Maj 2024\\08.Generics-Exercise\\05.GenericCountMethodString\\Program.cs",
+              "RelativeDocumentMoniker": "05.GenericCountMethodString\\Program.cs",
+              "ToolTip": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\Advanced - Maj 2024\\08.Generics-Exercise\\05.GenericCountMethodString\\Program.cs",
+              "RelativeToolTip": "05.GenericCountMethodString\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T14:47:06.897Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Box.cs",
+              "DocumentMoniker": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\Advanced - Maj 2024\\08.Generics-Exercise\\04.GenericSwapMethodInteger\\Box.cs",
+              "RelativeDocumentMoniker": "04.GenericSwapMethodInteger\\Box.cs",
+              "ToolTip": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\Advanced - Maj 2024\\08.Generics-Exercise\\04.GenericSwapMethodInteger\\Box.cs",
+              "RelativeToolTip": "04.GenericSwapMethodInteger\\Box.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T14:43:44.104Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\Advanced - Maj 2024\\08.Generics-Exercise\\04.GenericSwapMethodInteger\\Program.cs",
+              "RelativeDocumentMoniker": "04.GenericSwapMethodInteger\\Program.cs",
+              "ToolTip": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\Advanced - Maj 2024\\08.Generics-Exercise\\04.GenericSwapMethodInteger\\Program.cs",
+              "RelativeToolTip": "04.GenericSwapMethodInteger\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T14:43:23.396Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Box.cs",
+              "DocumentMoniker": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\Advanced - Maj 2024\\08.Generics-Exercise\\03.GenericSwapMethodString\\Box.cs",
+              "RelativeDocumentMoniker": "03.GenericSwapMethodString\\Box.cs",
+              "ToolTip": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\Advanced - Maj 2024\\08.Generics-Exercise\\03.GenericSwapMethodString\\Box.cs",
+              "RelativeToolTip": "03.GenericSwapMethodString\\Box.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAAABcAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T14:35:05.845Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\Advanced - Maj 2024\\08.Generics-Exercise\\03.GenericSwapMethodString\\Program.cs",
+              "RelativeDocumentMoniker": "03.GenericSwapMethodString\\Program.cs",
+              "ToolTip": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\Advanced - Maj 2024\\08.Generics-Exercise\\03.GenericSwapMethodString\\Program.cs",
+              "RelativeToolTip": "03.GenericSwapMethodString\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T14:34:36.015Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Box.cs",
+              "DocumentMoniker": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\Advanced - Maj 2024\\08.Generics-Exercise\\02.GenericBoxOfInteger\\Box.cs",
+              "RelativeDocumentMoniker": "02.GenericBoxOfInteger\\Box.cs",
+              "ToolTip": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\Advanced - Maj 2024\\08.Generics-Exercise\\02.GenericBoxOfInteger\\Box.cs",
+              "RelativeToolTip": "02.GenericBoxOfInteger\\Box.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T13:14:10.865Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\Advanced - Maj 2024\\08.Generics-Exercise\\02.GenericBoxOfInteger\\Program.cs",
+              "RelativeDocumentMoniker": "02.GenericBoxOfInteger\\Program.cs",
+              "ToolTip": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\Advanced - Maj 2024\\08.Generics-Exercise\\02.GenericBoxOfInteger\\Program.cs",
+              "RelativeToolTip": "02.GenericBoxOfInteger\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T13:13:36.612Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Box.cs",
+              "DocumentMoniker": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\Advanced - Maj 2024\\08.Generics-Exercise\\01.GenericBoxOfString\\Box.cs",
+              "RelativeDocumentMoniker": "01.GenericBoxOfString\\Box.cs",
+              "ToolTip": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\Advanced - Maj 2024\\08.Generics-Exercise\\01.GenericBoxOfString\\Box.cs",
+              "RelativeToolTip": "01.GenericBoxOfString\\Box.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T12:55:50.492Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\Advanced - Maj 2024\\08.Generics-Exercise\\01.GenericBoxOfString\\Program.cs",
+              "RelativeDocumentMoniker": "01.GenericBoxOfString\\Program.cs",
+              "ToolTip": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\Advanced - Maj 2024\\08.Generics-Exercise\\01.GenericBoxOfString\\Program.cs",
+              "RelativeToolTip": "01.GenericBoxOfString\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T06:30:34.645Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

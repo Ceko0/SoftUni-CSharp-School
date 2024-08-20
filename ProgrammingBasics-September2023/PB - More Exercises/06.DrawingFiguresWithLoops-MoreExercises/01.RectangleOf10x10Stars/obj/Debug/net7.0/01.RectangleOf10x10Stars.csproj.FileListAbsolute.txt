@@ -1,0 +1,14 @@
+C:\Users\falen\source\repos\06.DrawingFiguresWithLoops-MoreExercises\01.RectangleOf10x10Stars\bin\Debug\net7.0\01.RectangleOf10x10Stars.exe
+C:\Users\falen\source\repos\06.DrawingFiguresWithLoops-MoreExercises\01.RectangleOf10x10Stars\bin\Debug\net7.0\01.RectangleOf10x10Stars.deps.json
+C:\Users\falen\source\repos\06.DrawingFiguresWithLoops-MoreExercises\01.RectangleOf10x10Stars\bin\Debug\net7.0\01.RectangleOf10x10Stars.runtimeconfig.json
+C:\Users\falen\source\repos\06.DrawingFiguresWithLoops-MoreExercises\01.RectangleOf10x10Stars\bin\Debug\net7.0\01.RectangleOf10x10Stars.dll
+C:\Users\falen\source\repos\06.DrawingFiguresWithLoops-MoreExercises\01.RectangleOf10x10Stars\bin\Debug\net7.0\01.RectangleOf10x10Stars.pdb
+C:\Users\falen\source\repos\06.DrawingFiguresWithLoops-MoreExercises\01.RectangleOf10x10Stars\obj\Debug\net7.0\01.RectangleOf10x10Stars.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\falen\source\repos\06.DrawingFiguresWithLoops-MoreExercises\01.RectangleOf10x10Stars\obj\Debug\net7.0\01.RectangleOf10x10Stars.AssemblyInfoInputs.cache
+C:\Users\falen\source\repos\06.DrawingFiguresWithLoops-MoreExercises\01.RectangleOf10x10Stars\obj\Debug\net7.0\01.RectangleOf10x10Stars.AssemblyInfo.cs
+C:\Users\falen\source\repos\06.DrawingFiguresWithLoops-MoreExercises\01.RectangleOf10x10Stars\obj\Debug\net7.0\01.RectangleOf10x10Stars.csproj.CoreCompileInputs.cache
+C:\Users\falen\source\repos\06.DrawingFiguresWithLoops-MoreExercises\01.RectangleOf10x10Stars\obj\Debug\net7.0\01.RectangleOf10x10Stars.dll
+C:\Users\falen\source\repos\06.DrawingFiguresWithLoops-MoreExercises\01.RectangleOf10x10Stars\obj\Debug\net7.0\refint\01.RectangleOf10x10Stars.dll
+C:\Users\falen\source\repos\06.DrawingFiguresWithLoops-MoreExercises\01.RectangleOf10x10Stars\obj\Debug\net7.0\01.RectangleOf10x10Stars.pdb
+C:\Users\falen\source\repos\06.DrawingFiguresWithLoops-MoreExercises\01.RectangleOf10x10Stars\obj\Debug\net7.0\01.RectangleOf10x10Stars.genruntimeconfig.cache
+C:\Users\falen\source\repos\06.DrawingFiguresWithLoops-MoreExercises\01.RectangleOf10x10Stars\obj\Debug\net7.0\ref\01.RectangleOf10x10Stars.dll

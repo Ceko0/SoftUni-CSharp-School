@@ -1,0 +1,15 @@
+D:\ProgramsScool\Fundamental C# 2024\testingSwitchExpresion\05.Vacation\bin\Debug\net6.0\05.Vacation.exe
+D:\ProgramsScool\Fundamental C# 2024\testingSwitchExpresion\05.Vacation\bin\Debug\net6.0\05.Vacation.deps.json
+D:\ProgramsScool\Fundamental C# 2024\testingSwitchExpresion\05.Vacation\bin\Debug\net6.0\05.Vacation.runtimeconfig.json
+D:\ProgramsScool\Fundamental C# 2024\testingSwitchExpresion\05.Vacation\bin\Debug\net6.0\05.Vacation.dll
+D:\ProgramsScool\Fundamental C# 2024\testingSwitchExpresion\05.Vacation\bin\Debug\net6.0\05.Vacation.pdb
+D:\ProgramsScool\Fundamental C# 2024\testingSwitchExpresion\05.Vacation\obj\Debug\net6.0\05.Vacation.csproj.AssemblyReference.cache
+D:\ProgramsScool\Fundamental C# 2024\testingSwitchExpresion\05.Vacation\obj\Debug\net6.0\05.Vacation.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProgramsScool\Fundamental C# 2024\testingSwitchExpresion\05.Vacation\obj\Debug\net6.0\05.Vacation.AssemblyInfoInputs.cache
+D:\ProgramsScool\Fundamental C# 2024\testingSwitchExpresion\05.Vacation\obj\Debug\net6.0\05.Vacation.AssemblyInfo.cs
+D:\ProgramsScool\Fundamental C# 2024\testingSwitchExpresion\05.Vacation\obj\Debug\net6.0\05.Vacation.csproj.CoreCompileInputs.cache
+D:\ProgramsScool\Fundamental C# 2024\testingSwitchExpresion\05.Vacation\obj\Debug\net6.0\05.Vacation.dll
+D:\ProgramsScool\Fundamental C# 2024\testingSwitchExpresion\05.Vacation\obj\Debug\net6.0\refint\05.Vacation.dll
+D:\ProgramsScool\Fundamental C# 2024\testingSwitchExpresion\05.Vacation\obj\Debug\net6.0\05.Vacation.pdb
+D:\ProgramsScool\Fundamental C# 2024\testingSwitchExpresion\05.Vacation\obj\Debug\net6.0\05.Vacation.genruntimeconfig.cache
+D:\ProgramsScool\Fundamental C# 2024\testingSwitchExpresion\05.Vacation\obj\Debug\net6.0\ref\05.Vacation.dll

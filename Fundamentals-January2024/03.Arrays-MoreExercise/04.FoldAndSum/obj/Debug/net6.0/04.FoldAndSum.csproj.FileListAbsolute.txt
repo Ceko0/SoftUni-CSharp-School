@@ -1,0 +1,15 @@
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\03.Arrays-MoreExercise\04.FoldAndSum\bin\Debug\net6.0\04.FoldAndSum.exe
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\03.Arrays-MoreExercise\04.FoldAndSum\bin\Debug\net6.0\04.FoldAndSum.deps.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\03.Arrays-MoreExercise\04.FoldAndSum\bin\Debug\net6.0\04.FoldAndSum.runtimeconfig.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\03.Arrays-MoreExercise\04.FoldAndSum\bin\Debug\net6.0\04.FoldAndSum.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\03.Arrays-MoreExercise\04.FoldAndSum\bin\Debug\net6.0\04.FoldAndSum.pdb
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\03.Arrays-MoreExercise\04.FoldAndSum\obj\Debug\net6.0\04.FoldAndSum.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\03.Arrays-MoreExercise\04.FoldAndSum\obj\Debug\net6.0\04.FoldAndSum.AssemblyInfoInputs.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\03.Arrays-MoreExercise\04.FoldAndSum\obj\Debug\net6.0\04.FoldAndSum.AssemblyInfo.cs
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\03.Arrays-MoreExercise\04.FoldAndSum\obj\Debug\net6.0\04.FoldAndSum.csproj.CoreCompileInputs.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\03.Arrays-MoreExercise\04.FoldAndSum\obj\Debug\net6.0\04.FoldAndSum.sourcelink.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\03.Arrays-MoreExercise\04.FoldAndSum\obj\Debug\net6.0\04.FoldAndSum.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\03.Arrays-MoreExercise\04.FoldAndSum\obj\Debug\net6.0\refint\04.FoldAndSum.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\03.Arrays-MoreExercise\04.FoldAndSum\obj\Debug\net6.0\04.FoldAndSum.pdb
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\03.Arrays-MoreExercise\04.FoldAndSum\obj\Debug\net6.0\04.FoldAndSum.genruntimeconfig.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\03.Arrays-MoreExercise\04.FoldAndSum\obj\Debug\net6.0\ref\04.FoldAndSum.dll

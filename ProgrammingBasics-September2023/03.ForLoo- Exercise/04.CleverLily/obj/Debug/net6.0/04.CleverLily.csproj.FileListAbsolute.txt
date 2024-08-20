@@ -1,0 +1,15 @@
+D:\ProgramsScool\PB-september.2023\08.ForLoo- Exercise\04.CleverLily\bin\Debug\net6.0\04.CleverLily.exe
+D:\ProgramsScool\PB-september.2023\08.ForLoo- Exercise\04.CleverLily\bin\Debug\net6.0\04.CleverLily.deps.json
+D:\ProgramsScool\PB-september.2023\08.ForLoo- Exercise\04.CleverLily\bin\Debug\net6.0\04.CleverLily.runtimeconfig.json
+D:\ProgramsScool\PB-september.2023\08.ForLoo- Exercise\04.CleverLily\bin\Debug\net6.0\04.CleverLily.dll
+D:\ProgramsScool\PB-september.2023\08.ForLoo- Exercise\04.CleverLily\bin\Debug\net6.0\04.CleverLily.pdb
+D:\ProgramsScool\PB-september.2023\08.ForLoo- Exercise\04.CleverLily\obj\Debug\net6.0\04.CleverLily.csproj.AssemblyReference.cache
+D:\ProgramsScool\PB-september.2023\08.ForLoo- Exercise\04.CleverLily\obj\Debug\net6.0\04.CleverLily.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProgramsScool\PB-september.2023\08.ForLoo- Exercise\04.CleverLily\obj\Debug\net6.0\04.CleverLily.AssemblyInfoInputs.cache
+D:\ProgramsScool\PB-september.2023\08.ForLoo- Exercise\04.CleverLily\obj\Debug\net6.0\04.CleverLily.AssemblyInfo.cs
+D:\ProgramsScool\PB-september.2023\08.ForLoo- Exercise\04.CleverLily\obj\Debug\net6.0\04.CleverLily.csproj.CoreCompileInputs.cache
+D:\ProgramsScool\PB-september.2023\08.ForLoo- Exercise\04.CleverLily\obj\Debug\net6.0\04.CleverLily.dll
+D:\ProgramsScool\PB-september.2023\08.ForLoo- Exercise\04.CleverLily\obj\Debug\net6.0\refint\04.CleverLily.dll
+D:\ProgramsScool\PB-september.2023\08.ForLoo- Exercise\04.CleverLily\obj\Debug\net6.0\04.CleverLily.pdb
+D:\ProgramsScool\PB-september.2023\08.ForLoo- Exercise\04.CleverLily\obj\Debug\net6.0\04.CleverLily.genruntimeconfig.cache
+D:\ProgramsScool\PB-september.2023\08.ForLoo- Exercise\04.CleverLily\obj\Debug\net6.0\ref\04.CleverLily.dll

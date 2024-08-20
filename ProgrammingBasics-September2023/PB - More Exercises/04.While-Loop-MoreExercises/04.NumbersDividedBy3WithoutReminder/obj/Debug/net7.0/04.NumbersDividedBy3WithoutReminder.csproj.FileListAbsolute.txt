@@ -1,0 +1,14 @@
+D:\ProgramsScool\PB-september.2023\PB-MoreExercises\While-Loop-MoreExercises\04.NumbersDividedBy3WithoutReminder\bin\Debug\net7.0\04.NumbersDividedBy3WithoutReminder.exe
+D:\ProgramsScool\PB-september.2023\PB-MoreExercises\While-Loop-MoreExercises\04.NumbersDividedBy3WithoutReminder\bin\Debug\net7.0\04.NumbersDividedBy3WithoutReminder.deps.json
+D:\ProgramsScool\PB-september.2023\PB-MoreExercises\While-Loop-MoreExercises\04.NumbersDividedBy3WithoutReminder\bin\Debug\net7.0\04.NumbersDividedBy3WithoutReminder.runtimeconfig.json
+D:\ProgramsScool\PB-september.2023\PB-MoreExercises\While-Loop-MoreExercises\04.NumbersDividedBy3WithoutReminder\bin\Debug\net7.0\04.NumbersDividedBy3WithoutReminder.dll
+D:\ProgramsScool\PB-september.2023\PB-MoreExercises\While-Loop-MoreExercises\04.NumbersDividedBy3WithoutReminder\bin\Debug\net7.0\04.NumbersDividedBy3WithoutReminder.pdb
+D:\ProgramsScool\PB-september.2023\PB-MoreExercises\While-Loop-MoreExercises\04.NumbersDividedBy3WithoutReminder\obj\Debug\net7.0\04.NumbersDividedBy3WithoutReminder.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProgramsScool\PB-september.2023\PB-MoreExercises\While-Loop-MoreExercises\04.NumbersDividedBy3WithoutReminder\obj\Debug\net7.0\04.NumbersDividedBy3WithoutReminder.AssemblyInfoInputs.cache
+D:\ProgramsScool\PB-september.2023\PB-MoreExercises\While-Loop-MoreExercises\04.NumbersDividedBy3WithoutReminder\obj\Debug\net7.0\04.NumbersDividedBy3WithoutReminder.AssemblyInfo.cs
+D:\ProgramsScool\PB-september.2023\PB-MoreExercises\While-Loop-MoreExercises\04.NumbersDividedBy3WithoutReminder\obj\Debug\net7.0\04.NumbersDividedBy3WithoutReminder.csproj.CoreCompileInputs.cache
+D:\ProgramsScool\PB-september.2023\PB-MoreExercises\While-Loop-MoreExercises\04.NumbersDividedBy3WithoutReminder\obj\Debug\net7.0\04.NumbersDividedBy3WithoutReminder.dll
+D:\ProgramsScool\PB-september.2023\PB-MoreExercises\While-Loop-MoreExercises\04.NumbersDividedBy3WithoutReminder\obj\Debug\net7.0\refint\04.NumbersDividedBy3WithoutReminder.dll
+D:\ProgramsScool\PB-september.2023\PB-MoreExercises\While-Loop-MoreExercises\04.NumbersDividedBy3WithoutReminder\obj\Debug\net7.0\04.NumbersDividedBy3WithoutReminder.pdb
+D:\ProgramsScool\PB-september.2023\PB-MoreExercises\While-Loop-MoreExercises\04.NumbersDividedBy3WithoutReminder\obj\Debug\net7.0\04.NumbersDividedBy3WithoutReminder.genruntimeconfig.cache
+D:\ProgramsScool\PB-september.2023\PB-MoreExercises\While-Loop-MoreExercises\04.NumbersDividedBy3WithoutReminder\obj\Debug\net7.0\ref\04.NumbersDividedBy3WithoutReminder.dll

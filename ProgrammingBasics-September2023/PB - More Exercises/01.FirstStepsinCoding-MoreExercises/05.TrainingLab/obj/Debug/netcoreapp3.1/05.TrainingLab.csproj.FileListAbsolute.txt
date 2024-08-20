@@ -1,0 +1,14 @@
+D:\ProgramsScool\FirstStepsinCoding-MoreExercises\05.TrainingLab\bin\Debug\netcoreapp3.1\05.TrainingLab.exe
+D:\ProgramsScool\FirstStepsinCoding-MoreExercises\05.TrainingLab\bin\Debug\netcoreapp3.1\05.TrainingLab.deps.json
+D:\ProgramsScool\FirstStepsinCoding-MoreExercises\05.TrainingLab\bin\Debug\netcoreapp3.1\05.TrainingLab.runtimeconfig.json
+D:\ProgramsScool\FirstStepsinCoding-MoreExercises\05.TrainingLab\bin\Debug\netcoreapp3.1\05.TrainingLab.runtimeconfig.dev.json
+D:\ProgramsScool\FirstStepsinCoding-MoreExercises\05.TrainingLab\bin\Debug\netcoreapp3.1\05.TrainingLab.dll
+D:\ProgramsScool\FirstStepsinCoding-MoreExercises\05.TrainingLab\bin\Debug\netcoreapp3.1\05.TrainingLab.pdb
+D:\ProgramsScool\FirstStepsinCoding-MoreExercises\05.TrainingLab\obj\Debug\netcoreapp3.1\05.TrainingLab.csproj.AssemblyReference.cache
+D:\ProgramsScool\FirstStepsinCoding-MoreExercises\05.TrainingLab\obj\Debug\netcoreapp3.1\05.TrainingLab.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProgramsScool\FirstStepsinCoding-MoreExercises\05.TrainingLab\obj\Debug\netcoreapp3.1\05.TrainingLab.AssemblyInfoInputs.cache
+D:\ProgramsScool\FirstStepsinCoding-MoreExercises\05.TrainingLab\obj\Debug\netcoreapp3.1\05.TrainingLab.AssemblyInfo.cs
+D:\ProgramsScool\FirstStepsinCoding-MoreExercises\05.TrainingLab\obj\Debug\netcoreapp3.1\05.TrainingLab.csproj.CoreCompileInputs.cache
+D:\ProgramsScool\FirstStepsinCoding-MoreExercises\05.TrainingLab\obj\Debug\netcoreapp3.1\05.TrainingLab.dll
+D:\ProgramsScool\FirstStepsinCoding-MoreExercises\05.TrainingLab\obj\Debug\netcoreapp3.1\05.TrainingLab.pdb
+D:\ProgramsScool\FirstStepsinCoding-MoreExercises\05.TrainingLab\obj\Debug\netcoreapp3.1\05.TrainingLab.genruntimeconfig.cache

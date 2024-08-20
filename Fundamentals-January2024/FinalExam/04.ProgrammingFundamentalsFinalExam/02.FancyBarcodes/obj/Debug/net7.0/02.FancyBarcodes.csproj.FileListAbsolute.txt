@@ -1,0 +1,15 @@
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\FinalExam\04.ProgrammingFundamentalsFinalExam\02.FancyBarcodes\bin\Debug\net7.0\02.FancyBarcodes.exe
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\FinalExam\04.ProgrammingFundamentalsFinalExam\02.FancyBarcodes\bin\Debug\net7.0\02.FancyBarcodes.deps.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\FinalExam\04.ProgrammingFundamentalsFinalExam\02.FancyBarcodes\bin\Debug\net7.0\02.FancyBarcodes.runtimeconfig.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\FinalExam\04.ProgrammingFundamentalsFinalExam\02.FancyBarcodes\bin\Debug\net7.0\02.FancyBarcodes.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\FinalExam\04.ProgrammingFundamentalsFinalExam\02.FancyBarcodes\bin\Debug\net7.0\02.FancyBarcodes.pdb
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\FinalExam\04.ProgrammingFundamentalsFinalExam\02.FancyBarcodes\obj\Debug\net7.0\02.FancyBarcodes.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\FinalExam\04.ProgrammingFundamentalsFinalExam\02.FancyBarcodes\obj\Debug\net7.0\02.FancyBarcodes.AssemblyInfoInputs.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\FinalExam\04.ProgrammingFundamentalsFinalExam\02.FancyBarcodes\obj\Debug\net7.0\02.FancyBarcodes.AssemblyInfo.cs
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\FinalExam\04.ProgrammingFundamentalsFinalExam\02.FancyBarcodes\obj\Debug\net7.0\02.FancyBarcodes.csproj.CoreCompileInputs.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\FinalExam\04.ProgrammingFundamentalsFinalExam\02.FancyBarcodes\obj\Debug\net7.0\02.FancyBarcodes.sourcelink.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\FinalExam\04.ProgrammingFundamentalsFinalExam\02.FancyBarcodes\obj\Debug\net7.0\02.FancyBarcodes.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\FinalExam\04.ProgrammingFundamentalsFinalExam\02.FancyBarcodes\obj\Debug\net7.0\refint\02.FancyBarcodes.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\FinalExam\04.ProgrammingFundamentalsFinalExam\02.FancyBarcodes\obj\Debug\net7.0\02.FancyBarcodes.pdb
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\FinalExam\04.ProgrammingFundamentalsFinalExam\02.FancyBarcodes\obj\Debug\net7.0\02.FancyBarcodes.genruntimeconfig.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\FinalExam\04.ProgrammingFundamentalsFinalExam\02.FancyBarcodes\obj\Debug\net7.0\ref\02.FancyBarcodes.dll

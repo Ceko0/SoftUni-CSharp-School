@@ -1,0 +1,15 @@
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\03.SetsAndDictionariesAdvanced-Exercise\01.UniqueUsernames\bin\Debug\net8.0\01.UniqueUsernames.exe
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\03.SetsAndDictionariesAdvanced-Exercise\01.UniqueUsernames\bin\Debug\net8.0\01.UniqueUsernames.deps.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\03.SetsAndDictionariesAdvanced-Exercise\01.UniqueUsernames\bin\Debug\net8.0\01.UniqueUsernames.runtimeconfig.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\03.SetsAndDictionariesAdvanced-Exercise\01.UniqueUsernames\bin\Debug\net8.0\01.UniqueUsernames.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\03.SetsAndDictionariesAdvanced-Exercise\01.UniqueUsernames\bin\Debug\net8.0\01.UniqueUsernames.pdb
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\03.SetsAndDictionariesAdvanced-Exercise\01.UniqueUsernames\obj\Debug\net8.0\01.UniqueUsernames.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\03.SetsAndDictionariesAdvanced-Exercise\01.UniqueUsernames\obj\Debug\net8.0\01.UniqueUsernames.AssemblyInfoInputs.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\03.SetsAndDictionariesAdvanced-Exercise\01.UniqueUsernames\obj\Debug\net8.0\01.UniqueUsernames.AssemblyInfo.cs
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\03.SetsAndDictionariesAdvanced-Exercise\01.UniqueUsernames\obj\Debug\net8.0\01.UniqueUsernames.csproj.CoreCompileInputs.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\03.SetsAndDictionariesAdvanced-Exercise\01.UniqueUsernames\obj\Debug\net8.0\01.UniqueUsernames.sourcelink.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\03.SetsAndDictionariesAdvanced-Exercise\01.UniqueUsernames\obj\Debug\net8.0\01.UniqueUsernames.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\03.SetsAndDictionariesAdvanced-Exercise\01.UniqueUsernames\obj\Debug\net8.0\refint\01.UniqueUsernames.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\03.SetsAndDictionariesAdvanced-Exercise\01.UniqueUsernames\obj\Debug\net8.0\01.UniqueUsernames.pdb
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\03.SetsAndDictionariesAdvanced-Exercise\01.UniqueUsernames\obj\Debug\net8.0\01.UniqueUsernames.genruntimeconfig.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\03.SetsAndDictionariesAdvanced-Exercise\01.UniqueUsernames\obj\Debug\net8.0\ref\01.UniqueUsernames.dll

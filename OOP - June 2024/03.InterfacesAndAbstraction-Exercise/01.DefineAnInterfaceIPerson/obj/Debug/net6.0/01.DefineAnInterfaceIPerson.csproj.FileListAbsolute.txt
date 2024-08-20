@@ -1,0 +1,5 @@
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\OOP - June 2024\03.InterfacesAndAbstraction-Exercise\01.DefineAnInterfaceIPerson\obj\Debug\net6.0\01.DefineAnInterfaceIPerson.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\OOP - June 2024\03.InterfacesAndAbstraction-Exercise\01.DefineAnInterfaceIPerson\obj\Debug\net6.0\01.DefineAnInterfaceIPerson.AssemblyInfoInputs.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\OOP - June 2024\03.InterfacesAndAbstraction-Exercise\01.DefineAnInterfaceIPerson\obj\Debug\net6.0\01.DefineAnInterfaceIPerson.AssemblyInfo.cs
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\OOP - June 2024\03.InterfacesAndAbstraction-Exercise\01.DefineAnInterfaceIPerson\obj\Debug\net6.0\01.DefineAnInterfaceIPerson.csproj.CoreCompileInputs.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\OOP - June 2024\03.InterfacesAndAbstraction-Exercise\01.DefineAnInterfaceIPerson\obj\Debug\net6.0\01.DefineAnInterfaceIPerson.sourcelink.json

@@ -1,0 +1,15 @@
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\05.FunctionalProgramming-Exercise\08.ListOfPredicates\bin\Debug\net8.0\08.ListOfPredicates.exe
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\05.FunctionalProgramming-Exercise\08.ListOfPredicates\bin\Debug\net8.0\08.ListOfPredicates.deps.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\05.FunctionalProgramming-Exercise\08.ListOfPredicates\bin\Debug\net8.0\08.ListOfPredicates.runtimeconfig.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\05.FunctionalProgramming-Exercise\08.ListOfPredicates\bin\Debug\net8.0\08.ListOfPredicates.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\05.FunctionalProgramming-Exercise\08.ListOfPredicates\bin\Debug\net8.0\08.ListOfPredicates.pdb
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\05.FunctionalProgramming-Exercise\08.ListOfPredicates\obj\Debug\net8.0\08.ListOfPredicates.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\05.FunctionalProgramming-Exercise\08.ListOfPredicates\obj\Debug\net8.0\08.ListOfPredicates.AssemblyInfoInputs.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\05.FunctionalProgramming-Exercise\08.ListOfPredicates\obj\Debug\net8.0\08.ListOfPredicates.AssemblyInfo.cs
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\05.FunctionalProgramming-Exercise\08.ListOfPredicates\obj\Debug\net8.0\08.ListOfPredicates.csproj.CoreCompileInputs.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\05.FunctionalProgramming-Exercise\08.ListOfPredicates\obj\Debug\net8.0\08.ListOfPredicates.sourcelink.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\05.FunctionalProgramming-Exercise\08.ListOfPredicates\obj\Debug\net8.0\08.ListOfPredicates.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\05.FunctionalProgramming-Exercise\08.ListOfPredicates\obj\Debug\net8.0\refint\08.ListOfPredicates.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\05.FunctionalProgramming-Exercise\08.ListOfPredicates\obj\Debug\net8.0\08.ListOfPredicates.pdb
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\05.FunctionalProgramming-Exercise\08.ListOfPredicates\obj\Debug\net8.0\08.ListOfPredicates.genruntimeconfig.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\05.FunctionalProgramming-Exercise\08.ListOfPredicates\obj\Debug\net8.0\ref\08.ListOfPredicates.dll

@@ -1,0 +1,15 @@
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\OOP - June 2024\04.Polymorphism-Exercise\Raiding\bin\Debug\net6.0\Raiding.exe
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\OOP - June 2024\04.Polymorphism-Exercise\Raiding\bin\Debug\net6.0\Raiding.deps.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\OOP - June 2024\04.Polymorphism-Exercise\Raiding\bin\Debug\net6.0\Raiding.runtimeconfig.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\OOP - June 2024\04.Polymorphism-Exercise\Raiding\bin\Debug\net6.0\Raiding.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\OOP - June 2024\04.Polymorphism-Exercise\Raiding\bin\Debug\net6.0\Raiding.pdb
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\OOP - June 2024\04.Polymorphism-Exercise\Raiding\obj\Debug\net6.0\Raiding.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\OOP - June 2024\04.Polymorphism-Exercise\Raiding\obj\Debug\net6.0\Raiding.AssemblyInfoInputs.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\OOP - June 2024\04.Polymorphism-Exercise\Raiding\obj\Debug\net6.0\Raiding.AssemblyInfo.cs
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\OOP - June 2024\04.Polymorphism-Exercise\Raiding\obj\Debug\net6.0\Raiding.csproj.CoreCompileInputs.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\OOP - June 2024\04.Polymorphism-Exercise\Raiding\obj\Debug\net6.0\Raiding.sourcelink.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\OOP - June 2024\04.Polymorphism-Exercise\Raiding\obj\Debug\net6.0\Raiding.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\OOP - June 2024\04.Polymorphism-Exercise\Raiding\obj\Debug\net6.0\refint\Raiding.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\OOP - June 2024\04.Polymorphism-Exercise\Raiding\obj\Debug\net6.0\Raiding.pdb
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\OOP - June 2024\04.Polymorphism-Exercise\Raiding\obj\Debug\net6.0\Raiding.genruntimeconfig.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\OOP - June 2024\04.Polymorphism-Exercise\Raiding\obj\Debug\net6.0\ref\Raiding.dll

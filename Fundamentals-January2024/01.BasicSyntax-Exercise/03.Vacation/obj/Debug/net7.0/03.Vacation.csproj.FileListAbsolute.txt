@@ -1,0 +1,15 @@
+D:\ProgramsScool\Git Hub\SoftUni-school\Fundamentals - January 2024\01.BasicSyntax-Exercise\03.Vacation\bin\Debug\net7.0\03.Vacation.exe
+D:\ProgramsScool\Git Hub\SoftUni-school\Fundamentals - January 2024\01.BasicSyntax-Exercise\03.Vacation\bin\Debug\net7.0\03.Vacation.deps.json
+D:\ProgramsScool\Git Hub\SoftUni-school\Fundamentals - January 2024\01.BasicSyntax-Exercise\03.Vacation\bin\Debug\net7.0\03.Vacation.runtimeconfig.json
+D:\ProgramsScool\Git Hub\SoftUni-school\Fundamentals - January 2024\01.BasicSyntax-Exercise\03.Vacation\bin\Debug\net7.0\03.Vacation.dll
+D:\ProgramsScool\Git Hub\SoftUni-school\Fundamentals - January 2024\01.BasicSyntax-Exercise\03.Vacation\bin\Debug\net7.0\03.Vacation.pdb
+D:\ProgramsScool\Git Hub\SoftUni-school\Fundamentals - January 2024\01.BasicSyntax-Exercise\03.Vacation\obj\Debug\net7.0\03.Vacation.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProgramsScool\Git Hub\SoftUni-school\Fundamentals - January 2024\01.BasicSyntax-Exercise\03.Vacation\obj\Debug\net7.0\03.Vacation.AssemblyInfoInputs.cache
+D:\ProgramsScool\Git Hub\SoftUni-school\Fundamentals - January 2024\01.BasicSyntax-Exercise\03.Vacation\obj\Debug\net7.0\03.Vacation.AssemblyInfo.cs
+D:\ProgramsScool\Git Hub\SoftUni-school\Fundamentals - January 2024\01.BasicSyntax-Exercise\03.Vacation\obj\Debug\net7.0\03.Vacation.csproj.CoreCompileInputs.cache
+D:\ProgramsScool\Git Hub\SoftUni-school\Fundamentals - January 2024\01.BasicSyntax-Exercise\03.Vacation\obj\Debug\net7.0\03.Vacation.sourcelink.json
+D:\ProgramsScool\Git Hub\SoftUni-school\Fundamentals - January 2024\01.BasicSyntax-Exercise\03.Vacation\obj\Debug\net7.0\03.Vacation.dll
+D:\ProgramsScool\Git Hub\SoftUni-school\Fundamentals - January 2024\01.BasicSyntax-Exercise\03.Vacation\obj\Debug\net7.0\refint\03.Vacation.dll
+D:\ProgramsScool\Git Hub\SoftUni-school\Fundamentals - January 2024\01.BasicSyntax-Exercise\03.Vacation\obj\Debug\net7.0\03.Vacation.pdb
+D:\ProgramsScool\Git Hub\SoftUni-school\Fundamentals - January 2024\01.BasicSyntax-Exercise\03.Vacation\obj\Debug\net7.0\03.Vacation.genruntimeconfig.cache
+D:\ProgramsScool\Git Hub\SoftUni-school\Fundamentals - January 2024\01.BasicSyntax-Exercise\03.Vacation\obj\Debug\net7.0\ref\03.Vacation.dll

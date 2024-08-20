@@ -1,0 +1,15 @@
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\04.MethodsExercise\01.SmallestOfThreeNumbers\obj\Debug\net7.0\01.SmallestOfThreeNumbers.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\04.MethodsExercise\01.SmallestOfThreeNumbers\obj\Debug\net7.0\01.SmallestOfThreeNumbers.AssemblyInfoInputs.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\04.MethodsExercise\01.SmallestOfThreeNumbers\obj\Debug\net7.0\01.SmallestOfThreeNumbers.AssemblyInfo.cs
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\04.MethodsExercise\01.SmallestOfThreeNumbers\obj\Debug\net7.0\01.SmallestOfThreeNumbers.csproj.CoreCompileInputs.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\04.MethodsExercise\01.SmallestOfThreeNumbers\obj\Debug\net7.0\01.SmallestOfThreeNumbers.sourcelink.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\04.MethodsExercise\01.SmallestOfThreeNumbers\bin\Debug\net7.0\01.SmallestOfThreeNumbers.exe
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\04.MethodsExercise\01.SmallestOfThreeNumbers\bin\Debug\net7.0\01.SmallestOfThreeNumbers.deps.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\04.MethodsExercise\01.SmallestOfThreeNumbers\bin\Debug\net7.0\01.SmallestOfThreeNumbers.runtimeconfig.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\04.MethodsExercise\01.SmallestOfThreeNumbers\bin\Debug\net7.0\01.SmallestOfThreeNumbers.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\04.MethodsExercise\01.SmallestOfThreeNumbers\bin\Debug\net7.0\01.SmallestOfThreeNumbers.pdb
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\04.MethodsExercise\01.SmallestOfThreeNumbers\obj\Debug\net7.0\01.SmallestOfThreeNumbers.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\04.MethodsExercise\01.SmallestOfThreeNumbers\obj\Debug\net7.0\refint\01.SmallestOfThreeNumbers.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\04.MethodsExercise\01.SmallestOfThreeNumbers\obj\Debug\net7.0\01.SmallestOfThreeNumbers.pdb
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\04.MethodsExercise\01.SmallestOfThreeNumbers\obj\Debug\net7.0\01.SmallestOfThreeNumbers.genruntimeconfig.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\04.MethodsExercise\01.SmallestOfThreeNumbers\obj\Debug\net7.0\ref\01.SmallestOfThreeNumbers.dll

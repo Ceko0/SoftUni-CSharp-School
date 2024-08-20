@@ -1,0 +1,15 @@
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\OOP - June 2024\01.Inheritance-Exercise\Zoo\bin\Debug\net6.0\Zoo.exe
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\OOP - June 2024\01.Inheritance-Exercise\Zoo\bin\Debug\net6.0\Zoo.deps.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\OOP - June 2024\01.Inheritance-Exercise\Zoo\bin\Debug\net6.0\Zoo.runtimeconfig.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\OOP - June 2024\01.Inheritance-Exercise\Zoo\bin\Debug\net6.0\Zoo.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\OOP - June 2024\01.Inheritance-Exercise\Zoo\bin\Debug\net6.0\Zoo.pdb
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\OOP - June 2024\01.Inheritance-Exercise\Zoo\obj\Debug\net6.0\Zoo.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\OOP - June 2024\01.Inheritance-Exercise\Zoo\obj\Debug\net6.0\Zoo.AssemblyInfoInputs.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\OOP - June 2024\01.Inheritance-Exercise\Zoo\obj\Debug\net6.0\Zoo.AssemblyInfo.cs
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\OOP - June 2024\01.Inheritance-Exercise\Zoo\obj\Debug\net6.0\Zoo.csproj.CoreCompileInputs.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\OOP - June 2024\01.Inheritance-Exercise\Zoo\obj\Debug\net6.0\Zoo.sourcelink.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\OOP - June 2024\01.Inheritance-Exercise\Zoo\obj\Debug\net6.0\Zoo.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\OOP - June 2024\01.Inheritance-Exercise\Zoo\obj\Debug\net6.0\refint\Zoo.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\OOP - June 2024\01.Inheritance-Exercise\Zoo\obj\Debug\net6.0\Zoo.pdb
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\OOP - June 2024\01.Inheritance-Exercise\Zoo\obj\Debug\net6.0\Zoo.genruntimeconfig.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\OOP - June 2024\01.Inheritance-Exercise\Zoo\obj\Debug\net6.0\ref\Zoo.dll

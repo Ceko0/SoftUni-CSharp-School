@@ -1,0 +1,15 @@
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\04.MethodsExercise\11.ArrayManipulator\bin\Debug\net7.0\11.ArrayManipulator.exe
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\04.MethodsExercise\11.ArrayManipulator\bin\Debug\net7.0\11.ArrayManipulator.deps.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\04.MethodsExercise\11.ArrayManipulator\bin\Debug\net7.0\11.ArrayManipulator.runtimeconfig.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\04.MethodsExercise\11.ArrayManipulator\bin\Debug\net7.0\11.ArrayManipulator.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\04.MethodsExercise\11.ArrayManipulator\bin\Debug\net7.0\11.ArrayManipulator.pdb
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\04.MethodsExercise\11.ArrayManipulator\obj\Debug\net7.0\11.ArrayManipulator.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\04.MethodsExercise\11.ArrayManipulator\obj\Debug\net7.0\11.ArrayManipulator.AssemblyInfoInputs.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\04.MethodsExercise\11.ArrayManipulator\obj\Debug\net7.0\11.ArrayManipulator.AssemblyInfo.cs
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\04.MethodsExercise\11.ArrayManipulator\obj\Debug\net7.0\11.ArrayManipulator.csproj.CoreCompileInputs.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\04.MethodsExercise\11.ArrayManipulator\obj\Debug\net7.0\11.ArrayManipulator.sourcelink.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\04.MethodsExercise\11.ArrayManipulator\obj\Debug\net7.0\11.ArrayManipulator.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\04.MethodsExercise\11.ArrayManipulator\obj\Debug\net7.0\refint\11.ArrayManipulator.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\04.MethodsExercise\11.ArrayManipulator\obj\Debug\net7.0\11.ArrayManipulator.pdb
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\04.MethodsExercise\11.ArrayManipulator\obj\Debug\net7.0\11.ArrayManipulator.genruntimeconfig.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\04.MethodsExercise\11.ArrayManipulator\obj\Debug\net7.0\ref\11.ArrayManipulator.dll

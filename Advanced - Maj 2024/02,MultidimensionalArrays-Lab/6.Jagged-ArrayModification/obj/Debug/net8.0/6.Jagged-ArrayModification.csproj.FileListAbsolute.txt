@@ -1,0 +1,15 @@
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\02,MultidimensionalArrays-Lab\6.Jagged-ArrayModification\bin\Debug\net8.0\6.Jagged-ArrayModification.exe
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\02,MultidimensionalArrays-Lab\6.Jagged-ArrayModification\bin\Debug\net8.0\6.Jagged-ArrayModification.deps.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\02,MultidimensionalArrays-Lab\6.Jagged-ArrayModification\bin\Debug\net8.0\6.Jagged-ArrayModification.runtimeconfig.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\02,MultidimensionalArrays-Lab\6.Jagged-ArrayModification\bin\Debug\net8.0\6.Jagged-ArrayModification.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\02,MultidimensionalArrays-Lab\6.Jagged-ArrayModification\bin\Debug\net8.0\6.Jagged-ArrayModification.pdb
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\02,MultidimensionalArrays-Lab\6.Jagged-ArrayModification\obj\Debug\net8.0\6.Jagged-ArrayModification.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\02,MultidimensionalArrays-Lab\6.Jagged-ArrayModification\obj\Debug\net8.0\6.Jagged-ArrayModification.AssemblyInfoInputs.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\02,MultidimensionalArrays-Lab\6.Jagged-ArrayModification\obj\Debug\net8.0\6.Jagged-ArrayModification.AssemblyInfo.cs
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\02,MultidimensionalArrays-Lab\6.Jagged-ArrayModification\obj\Debug\net8.0\6.Jagged-ArrayModification.csproj.CoreCompileInputs.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\02,MultidimensionalArrays-Lab\6.Jagged-ArrayModification\obj\Debug\net8.0\6.Jagged-ArrayModification.sourcelink.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\02,MultidimensionalArrays-Lab\6.Jagged-ArrayModification\obj\Debug\net8.0\6.Jagged-ArrayModification.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\02,MultidimensionalArrays-Lab\6.Jagged-ArrayModification\obj\Debug\net8.0\refint\6.Jagged-ArrayModification.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\02,MultidimensionalArrays-Lab\6.Jagged-ArrayModification\obj\Debug\net8.0\6.Jagged-ArrayModification.pdb
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\02,MultidimensionalArrays-Lab\6.Jagged-ArrayModification\obj\Debug\net8.0\6.Jagged-ArrayModification.genruntimeconfig.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\02,MultidimensionalArrays-Lab\6.Jagged-ArrayModification\obj\Debug\net8.0\ref\6.Jagged-ArrayModification.dll

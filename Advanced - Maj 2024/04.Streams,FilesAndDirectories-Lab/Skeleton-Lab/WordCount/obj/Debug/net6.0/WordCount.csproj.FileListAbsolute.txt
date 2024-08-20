@@ -1,0 +1,15 @@
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\04.Streams,FilesAndDirectories-Lab\Skeleton-Lab\WordCount\bin\Debug\net6.0\WordCount.exe
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\04.Streams,FilesAndDirectories-Lab\Skeleton-Lab\WordCount\bin\Debug\net6.0\WordCount.deps.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\04.Streams,FilesAndDirectories-Lab\Skeleton-Lab\WordCount\bin\Debug\net6.0\WordCount.runtimeconfig.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\04.Streams,FilesAndDirectories-Lab\Skeleton-Lab\WordCount\bin\Debug\net6.0\WordCount.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\04.Streams,FilesAndDirectories-Lab\Skeleton-Lab\WordCount\bin\Debug\net6.0\WordCount.pdb
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\04.Streams,FilesAndDirectories-Lab\Skeleton-Lab\WordCount\obj\Debug\net6.0\WordCount.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\04.Streams,FilesAndDirectories-Lab\Skeleton-Lab\WordCount\obj\Debug\net6.0\WordCount.AssemblyInfoInputs.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\04.Streams,FilesAndDirectories-Lab\Skeleton-Lab\WordCount\obj\Debug\net6.0\WordCount.AssemblyInfo.cs
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\04.Streams,FilesAndDirectories-Lab\Skeleton-Lab\WordCount\obj\Debug\net6.0\WordCount.csproj.CoreCompileInputs.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\04.Streams,FilesAndDirectories-Lab\Skeleton-Lab\WordCount\obj\Debug\net6.0\WordCount.sourcelink.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\04.Streams,FilesAndDirectories-Lab\Skeleton-Lab\WordCount\obj\Debug\net6.0\WordCount.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\04.Streams,FilesAndDirectories-Lab\Skeleton-Lab\WordCount\obj\Debug\net6.0\refint\WordCount.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\04.Streams,FilesAndDirectories-Lab\Skeleton-Lab\WordCount\obj\Debug\net6.0\WordCount.pdb
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\04.Streams,FilesAndDirectories-Lab\Skeleton-Lab\WordCount\obj\Debug\net6.0\WordCount.genruntimeconfig.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\04.Streams,FilesAndDirectories-Lab\Skeleton-Lab\WordCount\obj\Debug\net6.0\ref\WordCount.dll

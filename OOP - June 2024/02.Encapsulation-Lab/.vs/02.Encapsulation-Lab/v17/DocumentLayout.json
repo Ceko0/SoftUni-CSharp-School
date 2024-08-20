@@ -1,0 +1,87 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\OOP - June 2024\\02.Encapsulation-Lab\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2A368EEA-5132-44B8-8D42-BCB4165E5CFE}|01.Persons\\01.Persons.csproj|d:\\programsscool\\git hub\\softuni-csharp\\oop - june 2024\\02.encapsulation-lab\\01.persons\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A368EEA-5132-44B8-8D42-BCB4165E5CFE}|01.Persons\\01.Persons.csproj|solutionrelative:01.persons\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A368EEA-5132-44B8-8D42-BCB4165E5CFE}|01.Persons\\01.Persons.csproj|d:\\programsscool\\git hub\\softuni-csharp\\oop - june 2024\\02.encapsulation-lab\\01.persons\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A368EEA-5132-44B8-8D42-BCB4165E5CFE}|01.Persons\\01.Persons.csproj|solutionrelative:01.persons\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A368EEA-5132-44B8-8D42-BCB4165E5CFE}|01.Persons\\01.Persons.csproj|d:\\programsscool\\git hub\\softuni-csharp\\oop - june 2024\\02.encapsulation-lab\\01.persons\\team.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A368EEA-5132-44B8-8D42-BCB4165E5CFE}|01.Persons\\01.Persons.csproj|solutionrelative:01.persons\\team.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Team.cs",
+              "DocumentMoniker": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\OOP - June 2024\\02.Encapsulation-Lab\\01.Persons\\Team.cs",
+              "RelativeDocumentMoniker": "01.Persons\\Team.cs",
+              "ToolTip": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\OOP - June 2024\\02.Encapsulation-Lab\\01.Persons\\Team.cs*",
+              "RelativeToolTip": "01.Persons\\Team.cs*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-30T08:05:56.855Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StartUp.cs",
+              "DocumentMoniker": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\OOP - June 2024\\02.Encapsulation-Lab\\01.Persons\\StartUp.cs",
+              "RelativeDocumentMoniker": "01.Persons\\StartUp.cs",
+              "ToolTip": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\OOP - June 2024\\02.Encapsulation-Lab\\01.Persons\\StartUp.cs",
+              "RelativeToolTip": "01.Persons\\StartUp.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAkwCMAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-30T07:57:41.47Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Person.cs",
+              "DocumentMoniker": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\OOP - June 2024\\02.Encapsulation-Lab\\01.Persons\\Person.cs",
+              "RelativeDocumentMoniker": "01.Persons\\Person.cs",
+              "ToolTip": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\OOP - June 2024\\02.Encapsulation-Lab\\01.Persons\\Person.cs*",
+              "RelativeToolTip": "01.Persons\\Person.cs*",
+              "ViewState": "AQIAAEEAAAAAAAAAAAAIwAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-30T07:51:41.689Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

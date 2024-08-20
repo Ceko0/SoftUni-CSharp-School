@@ -1,0 +1,15 @@
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\01.BasicSyntax-Lab\12.EvenNumber\bin\Debug\net6.0\12.EvenNumber.exe
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\01.BasicSyntax-Lab\12.EvenNumber\bin\Debug\net6.0\12.EvenNumber.deps.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\01.BasicSyntax-Lab\12.EvenNumber\bin\Debug\net6.0\12.EvenNumber.runtimeconfig.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\01.BasicSyntax-Lab\12.EvenNumber\bin\Debug\net6.0\12.EvenNumber.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\01.BasicSyntax-Lab\12.EvenNumber\bin\Debug\net6.0\12.EvenNumber.pdb
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\01.BasicSyntax-Lab\12.EvenNumber\obj\Debug\net6.0\12.EvenNumber.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\01.BasicSyntax-Lab\12.EvenNumber\obj\Debug\net6.0\12.EvenNumber.AssemblyInfoInputs.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\01.BasicSyntax-Lab\12.EvenNumber\obj\Debug\net6.0\12.EvenNumber.AssemblyInfo.cs
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\01.BasicSyntax-Lab\12.EvenNumber\obj\Debug\net6.0\12.EvenNumber.csproj.CoreCompileInputs.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\01.BasicSyntax-Lab\12.EvenNumber\obj\Debug\net6.0\12.EvenNumber.sourcelink.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\01.BasicSyntax-Lab\12.EvenNumber\obj\Debug\net6.0\12.EvenNumber.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\01.BasicSyntax-Lab\12.EvenNumber\obj\Debug\net6.0\refint\12.EvenNumber.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\01.BasicSyntax-Lab\12.EvenNumber\obj\Debug\net6.0\12.EvenNumber.pdb
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\01.BasicSyntax-Lab\12.EvenNumber\obj\Debug\net6.0\12.EvenNumber.genruntimeconfig.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\01.BasicSyntax-Lab\12.EvenNumber\obj\Debug\net6.0\ref\12.EvenNumber.dll

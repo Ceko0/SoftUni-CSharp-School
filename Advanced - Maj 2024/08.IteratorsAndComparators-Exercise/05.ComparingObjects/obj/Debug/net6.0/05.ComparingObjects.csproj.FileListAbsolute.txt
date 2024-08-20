@@ -1,0 +1,15 @@
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\08.IteratorsAndComparators-Exercise\05.ComparingObjects\bin\Debug\net6.0\05.ComparingObjects.exe
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\08.IteratorsAndComparators-Exercise\05.ComparingObjects\bin\Debug\net6.0\05.ComparingObjects.deps.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\08.IteratorsAndComparators-Exercise\05.ComparingObjects\bin\Debug\net6.0\05.ComparingObjects.runtimeconfig.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\08.IteratorsAndComparators-Exercise\05.ComparingObjects\bin\Debug\net6.0\05.ComparingObjects.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\08.IteratorsAndComparators-Exercise\05.ComparingObjects\bin\Debug\net6.0\05.ComparingObjects.pdb
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\08.IteratorsAndComparators-Exercise\05.ComparingObjects\obj\Debug\net6.0\05.ComparingObjects.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\08.IteratorsAndComparators-Exercise\05.ComparingObjects\obj\Debug\net6.0\05.ComparingObjects.AssemblyInfoInputs.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\08.IteratorsAndComparators-Exercise\05.ComparingObjects\obj\Debug\net6.0\05.ComparingObjects.AssemblyInfo.cs
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\08.IteratorsAndComparators-Exercise\05.ComparingObjects\obj\Debug\net6.0\05.ComparingObjects.csproj.CoreCompileInputs.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\08.IteratorsAndComparators-Exercise\05.ComparingObjects\obj\Debug\net6.0\05.ComparingObjects.sourcelink.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\08.IteratorsAndComparators-Exercise\05.ComparingObjects\obj\Debug\net6.0\05.ComparingObjects.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\08.IteratorsAndComparators-Exercise\05.ComparingObjects\obj\Debug\net6.0\refint\05.ComparingObjects.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\08.IteratorsAndComparators-Exercise\05.ComparingObjects\obj\Debug\net6.0\05.ComparingObjects.pdb
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\08.IteratorsAndComparators-Exercise\05.ComparingObjects\obj\Debug\net6.0\05.ComparingObjects.genruntimeconfig.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\08.IteratorsAndComparators-Exercise\05.ComparingObjects\obj\Debug\net6.0\ref\05.ComparingObjects.dll

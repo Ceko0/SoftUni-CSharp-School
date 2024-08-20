@@ -1,0 +1,15 @@
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\06.ObjectsAndClassesExercise\05.TeamworkProjects\bin\Debug\net7.0\05.TeamworkProjects.exe
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\06.ObjectsAndClassesExercise\05.TeamworkProjects\bin\Debug\net7.0\05.TeamworkProjects.deps.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\06.ObjectsAndClassesExercise\05.TeamworkProjects\bin\Debug\net7.0\05.TeamworkProjects.runtimeconfig.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\06.ObjectsAndClassesExercise\05.TeamworkProjects\bin\Debug\net7.0\05.TeamworkProjects.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\06.ObjectsAndClassesExercise\05.TeamworkProjects\bin\Debug\net7.0\05.TeamworkProjects.pdb
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\06.ObjectsAndClassesExercise\05.TeamworkProjects\obj\Debug\net7.0\05.TeamworkProjects.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\06.ObjectsAndClassesExercise\05.TeamworkProjects\obj\Debug\net7.0\05.TeamworkProjects.AssemblyInfoInputs.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\06.ObjectsAndClassesExercise\05.TeamworkProjects\obj\Debug\net7.0\05.TeamworkProjects.AssemblyInfo.cs
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\06.ObjectsAndClassesExercise\05.TeamworkProjects\obj\Debug\net7.0\05.TeamworkProjects.csproj.CoreCompileInputs.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\06.ObjectsAndClassesExercise\05.TeamworkProjects\obj\Debug\net7.0\05.TeamworkProjects.sourcelink.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\06.ObjectsAndClassesExercise\05.TeamworkProjects\obj\Debug\net7.0\05.TeamworkProjects.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\06.ObjectsAndClassesExercise\05.TeamworkProjects\obj\Debug\net7.0\refint\05.TeamworkProjects.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\06.ObjectsAndClassesExercise\05.TeamworkProjects\obj\Debug\net7.0\05.TeamworkProjects.pdb
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\06.ObjectsAndClassesExercise\05.TeamworkProjects\obj\Debug\net7.0\05.TeamworkProjects.genruntimeconfig.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\06.ObjectsAndClassesExercise\05.TeamworkProjects\obj\Debug\net7.0\ref\05.TeamworkProjects.dll

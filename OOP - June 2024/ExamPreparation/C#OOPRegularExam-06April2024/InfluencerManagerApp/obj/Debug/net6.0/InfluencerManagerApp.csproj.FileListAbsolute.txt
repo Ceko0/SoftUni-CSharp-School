@@ -1,0 +1,15 @@
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\OOP - June 2024\ExamPreparation\C#OOPRegularExam-06April2024\InfluencerManagerApp\bin\Debug\net6.0\InfluencerManagerApp.exe
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\OOP - June 2024\ExamPreparation\C#OOPRegularExam-06April2024\InfluencerManagerApp\bin\Debug\net6.0\InfluencerManagerApp.deps.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\OOP - June 2024\ExamPreparation\C#OOPRegularExam-06April2024\InfluencerManagerApp\bin\Debug\net6.0\InfluencerManagerApp.runtimeconfig.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\OOP - June 2024\ExamPreparation\C#OOPRegularExam-06April2024\InfluencerManagerApp\bin\Debug\net6.0\InfluencerManagerApp.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\OOP - June 2024\ExamPreparation\C#OOPRegularExam-06April2024\InfluencerManagerApp\bin\Debug\net6.0\InfluencerManagerApp.pdb
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\OOP - June 2024\ExamPreparation\C#OOPRegularExam-06April2024\InfluencerManagerApp\obj\Debug\net6.0\InfluencerManagerApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\OOP - June 2024\ExamPreparation\C#OOPRegularExam-06April2024\InfluencerManagerApp\obj\Debug\net6.0\InfluencerManagerApp.AssemblyInfoInputs.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\OOP - June 2024\ExamPreparation\C#OOPRegularExam-06April2024\InfluencerManagerApp\obj\Debug\net6.0\InfluencerManagerApp.AssemblyInfo.cs
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\OOP - June 2024\ExamPreparation\C#OOPRegularExam-06April2024\InfluencerManagerApp\obj\Debug\net6.0\InfluencerManagerApp.csproj.CoreCompileInputs.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\OOP - June 2024\ExamPreparation\C#OOPRegularExam-06April2024\InfluencerManagerApp\obj\Debug\net6.0\InfluencerManagerApp.sourcelink.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\OOP - June 2024\ExamPreparation\C#OOPRegularExam-06April2024\InfluencerManagerApp\obj\Debug\net6.0\InfluencerManagerApp.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\OOP - June 2024\ExamPreparation\C#OOPRegularExam-06April2024\InfluencerManagerApp\obj\Debug\net6.0\refint\InfluencerManagerApp.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\OOP - June 2024\ExamPreparation\C#OOPRegularExam-06April2024\InfluencerManagerApp\obj\Debug\net6.0\InfluencerManagerApp.pdb
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\OOP - June 2024\ExamPreparation\C#OOPRegularExam-06April2024\InfluencerManagerApp\obj\Debug\net6.0\InfluencerManagerApp.genruntimeconfig.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\OOP - June 2024\ExamPreparation\C#OOPRegularExam-06April2024\InfluencerManagerApp\obj\Debug\net6.0\ref\InfluencerManagerApp.dll

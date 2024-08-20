@@ -1,0 +1,15 @@
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\04.MethodsMoreExercise\01.DataTypes\bin\Debug\net7.0\01.DataTypes.exe
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\04.MethodsMoreExercise\01.DataTypes\bin\Debug\net7.0\01.DataTypes.deps.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\04.MethodsMoreExercise\01.DataTypes\bin\Debug\net7.0\01.DataTypes.runtimeconfig.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\04.MethodsMoreExercise\01.DataTypes\bin\Debug\net7.0\01.DataTypes.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\04.MethodsMoreExercise\01.DataTypes\bin\Debug\net7.0\01.DataTypes.pdb
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\04.MethodsMoreExercise\01.DataTypes\obj\Debug\net7.0\01.DataTypes.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\04.MethodsMoreExercise\01.DataTypes\obj\Debug\net7.0\01.DataTypes.AssemblyInfoInputs.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\04.MethodsMoreExercise\01.DataTypes\obj\Debug\net7.0\01.DataTypes.AssemblyInfo.cs
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\04.MethodsMoreExercise\01.DataTypes\obj\Debug\net7.0\01.DataTypes.csproj.CoreCompileInputs.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\04.MethodsMoreExercise\01.DataTypes\obj\Debug\net7.0\01.DataTypes.sourcelink.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\04.MethodsMoreExercise\01.DataTypes\obj\Debug\net7.0\01.DataTypes.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\04.MethodsMoreExercise\01.DataTypes\obj\Debug\net7.0\refint\01.DataTypes.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\04.MethodsMoreExercise\01.DataTypes\obj\Debug\net7.0\01.DataTypes.pdb
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\04.MethodsMoreExercise\01.DataTypes\obj\Debug\net7.0\01.DataTypes.genruntimeconfig.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\04.MethodsMoreExercise\01.DataTypes\obj\Debug\net7.0\ref\01.DataTypes.dll

@@ -1,0 +1,240 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\OOP - June 2024\\ExamPreparation\\C#OOPRetakeExam\u201315August2023\\Handball_Skeleton_6.0\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{048C2024-3C69-4C3E-A49E-08177C1E35B7}|Handball\\Handball.csproj|d:\\programsscool\\git hub\\softuni-csharp\\oop - june 2024\\exampreparation\\c#oopretakeexam\u201315august2023\\handball_skeleton_6.0\\handball\\models\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{048C2024-3C69-4C3E-A49E-08177C1E35B7}|Handball\\Handball.csproj|solutionrelative:handball\\models\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{048C2024-3C69-4C3E-A49E-08177C1E35B7}|Handball\\Handball.csproj|d:\\programsscool\\git hub\\softuni-csharp\\oop - june 2024\\exampreparation\\c#oopretakeexam\u201315august2023\\handball_skeleton_6.0\\handball\\core\\controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{048C2024-3C69-4C3E-A49E-08177C1E35B7}|Handball\\Handball.csproj|solutionrelative:handball\\core\\controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{048C2024-3C69-4C3E-A49E-08177C1E35B7}|Handball\\Handball.csproj|d:\\programsscool\\git hub\\softuni-csharp\\oop - june 2024\\exampreparation\\c#oopretakeexam\u201315august2023\\handball_skeleton_6.0\\handball\\repositories\\playerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{048C2024-3C69-4C3E-A49E-08177C1E35B7}|Handball\\Handball.csproj|solutionrelative:handball\\repositories\\playerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{048C2024-3C69-4C3E-A49E-08177C1E35B7}|Handball\\Handball.csproj|d:\\programsscool\\git hub\\softuni-csharp\\oop - june 2024\\exampreparation\\c#oopretakeexam\u201315august2023\\handball_skeleton_6.0\\handball\\models\\team.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{048C2024-3C69-4C3E-A49E-08177C1E35B7}|Handball\\Handball.csproj|solutionrelative:handball\\models\\team.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{048C2024-3C69-4C3E-A49E-08177C1E35B7}|Handball\\Handball.csproj|d:\\programsscool\\git hub\\softuni-csharp\\oop - june 2024\\exampreparation\\c#oopretakeexam\u201315august2023\\handball_skeleton_6.0\\handball\\repositories\\teamrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{048C2024-3C69-4C3E-A49E-08177C1E35B7}|Handball\\Handball.csproj|solutionrelative:handball\\repositories\\teamrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{048C2024-3C69-4C3E-A49E-08177C1E35B7}|Handball\\Handball.csproj|d:\\programsscool\\git hub\\softuni-csharp\\oop - june 2024\\exampreparation\\c#oopretakeexam\u201315august2023\\handball_skeleton_6.0\\handball\\models\\playerchild\\centerback.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{048C2024-3C69-4C3E-A49E-08177C1E35B7}|Handball\\Handball.csproj|solutionrelative:handball\\models\\playerchild\\centerback.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{048C2024-3C69-4C3E-A49E-08177C1E35B7}|Handball\\Handball.csproj|d:\\programsscool\\git hub\\softuni-csharp\\oop - june 2024\\exampreparation\\c#oopretakeexam\u201315august2023\\handball_skeleton_6.0\\handball\\core\\engine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{048C2024-3C69-4C3E-A49E-08177C1E35B7}|Handball\\Handball.csproj|solutionrelative:handball\\core\\engine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{048C2024-3C69-4C3E-A49E-08177C1E35B7}|Handball\\Handball.csproj|d:\\programsscool\\git hub\\softuni-csharp\\oop - june 2024\\exampreparation\\c#oopretakeexam\u201315august2023\\handball_skeleton_6.0\\handball\\models\\playerchild\\forwardwing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{048C2024-3C69-4C3E-A49E-08177C1E35B7}|Handball\\Handball.csproj|solutionrelative:handball\\models\\playerchild\\forwardwing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{048C2024-3C69-4C3E-A49E-08177C1E35B7}|Handball\\Handball.csproj|d:\\programsscool\\git hub\\softuni-csharp\\oop - june 2024\\exampreparation\\c#oopretakeexam\u201315august2023\\handball_skeleton_6.0\\handball\\models\\playerchild\\goalkeeper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{048C2024-3C69-4C3E-A49E-08177C1E35B7}|Handball\\Handball.csproj|solutionrelative:handball\\models\\playerchild\\goalkeeper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{048C2024-3C69-4C3E-A49E-08177C1E35B7}|Handball\\Handball.csproj|d:\\programsscool\\git hub\\softuni-csharp\\oop - june 2024\\exampreparation\\c#oopretakeexam\u201315august2023\\handball_skeleton_6.0\\handball\\repositories\\contracts\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{048C2024-3C69-4C3E-A49E-08177C1E35B7}|Handball\\Handball.csproj|solutionrelative:handball\\repositories\\contracts\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{048C2024-3C69-4C3E-A49E-08177C1E35B7}|Handball\\Handball.csproj|d:\\programsscool\\git hub\\softuni-csharp\\oop - june 2024\\exampreparation\\c#oopretakeexam\u201315august2023\\handball_skeleton_6.0\\handball\\utilities\\messages\\outputmessages.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{048C2024-3C69-4C3E-A49E-08177C1E35B7}|Handball\\Handball.csproj|solutionrelative:handball\\utilities\\messages\\outputmessages.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{048C2024-3C69-4C3E-A49E-08177C1E35B7}|Handball\\Handball.csproj|d:\\programsscool\\git hub\\softuni-csharp\\oop - june 2024\\exampreparation\\c#oopretakeexam\u201315august2023\\handball_skeleton_6.0\\handball\\handball.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{048C2024-3C69-4C3E-A49E-08177C1E35B7}|Handball\\Handball.csproj|solutionrelative:handball\\handball.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 15,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\OOP - June 2024\\ExamPreparation\\C#OOPRetakeExam\u201315August2023\\Handball_Skeleton_6.0\\Handball\\Repositories\\Contracts\\IRepository.cs",
+              "RelativeDocumentMoniker": "Handball\\Repositories\\Contracts\\IRepository.cs",
+              "ToolTip": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\OOP - June 2024\\ExamPreparation\\C#OOPRetakeExam\u201315August2023\\Handball_Skeleton_6.0\\Handball\\Repositories\\Contracts\\IRepository.cs",
+              "RelativeToolTip": "Handball\\Repositories\\Contracts\\IRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T17:56:28.558Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "OutputMessages.cs",
+              "DocumentMoniker": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\OOP - June 2024\\ExamPreparation\\C#OOPRetakeExam\u201315August2023\\Handball_Skeleton_6.0\\Handball\\Utilities\\Messages\\OutputMessages.cs",
+              "RelativeDocumentMoniker": "Handball\\Utilities\\Messages\\OutputMessages.cs",
+              "ToolTip": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\OOP - June 2024\\ExamPreparation\\C#OOPRetakeExam\u201315August2023\\Handball_Skeleton_6.0\\Handball\\Utilities\\Messages\\OutputMessages.cs",
+              "RelativeToolTip": "Handball\\Utilities\\Messages\\OutputMessages.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T16:41:50.332Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Controller.cs",
+              "DocumentMoniker": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\OOP - June 2024\\ExamPreparation\\C#OOPRetakeExam\u201315August2023\\Handball_Skeleton_6.0\\Handball\\Core\\Controller.cs",
+              "RelativeDocumentMoniker": "Handball\\Core\\Controller.cs",
+              "ToolTip": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\OOP - June 2024\\ExamPreparation\\C#OOPRetakeExam\u201315August2023\\Handball_Skeleton_6.0\\Handball\\Core\\Controller.cs",
+              "RelativeToolTip": "Handball\\Core\\Controller.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAFkAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T15:20:42.817Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Engine.cs",
+              "DocumentMoniker": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\OOP - June 2024\\ExamPreparation\\C#OOPRetakeExam\u201315August2023\\Handball_Skeleton_6.0\\Handball\\Core\\Engine.cs",
+              "RelativeDocumentMoniker": "Handball\\Core\\Engine.cs",
+              "ToolTip": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\OOP - June 2024\\ExamPreparation\\C#OOPRetakeExam\u201315August2023\\Handball_Skeleton_6.0\\Handball\\Core\\Engine.cs",
+              "RelativeToolTip": "Handball\\Core\\Engine.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T15:20:28.755Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Handball",
+              "DocumentMoniker": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\OOP - June 2024\\ExamPreparation\\C#OOPRetakeExam\u201315August2023\\Handball_Skeleton_6.0\\Handball\\Handball.csproj",
+              "RelativeDocumentMoniker": "Handball\\Handball.csproj",
+              "ToolTip": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\OOP - June 2024\\ExamPreparation\\C#OOPRetakeExam\u201315August2023\\Handball_Skeleton_6.0\\Handball\\Handball.csproj",
+              "RelativeToolTip": "Handball\\Handball.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-05T15:11:59.698Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TeamRepository.cs",
+              "DocumentMoniker": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\OOP - June 2024\\ExamPreparation\\C#OOPRetakeExam\u201315August2023\\Handball_Skeleton_6.0\\Handball\\Repositories\\TeamRepository.cs",
+              "RelativeDocumentMoniker": "Handball\\Repositories\\TeamRepository.cs",
+              "ToolTip": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\OOP - June 2024\\ExamPreparation\\C#OOPRetakeExam\u201315August2023\\Handball_Skeleton_6.0\\Handball\\Repositories\\TeamRepository.cs",
+              "RelativeToolTip": "Handball\\Repositories\\TeamRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T15:05:33.948Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PlayerRepository.cs",
+              "DocumentMoniker": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\OOP - June 2024\\ExamPreparation\\C#OOPRetakeExam\u201315August2023\\Handball_Skeleton_6.0\\Handball\\Repositories\\PlayerRepository.cs",
+              "RelativeDocumentMoniker": "Handball\\Repositories\\PlayerRepository.cs",
+              "ToolTip": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\OOP - June 2024\\ExamPreparation\\C#OOPRetakeExam\u201315August2023\\Handball_Skeleton_6.0\\Handball\\Repositories\\PlayerRepository.cs",
+              "RelativeToolTip": "Handball\\Repositories\\PlayerRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAABKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T14:52:46.876Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Team.cs",
+              "DocumentMoniker": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\OOP - June 2024\\ExamPreparation\\C#OOPRetakeExam\u201315August2023\\Handball_Skeleton_6.0\\Handball\\Models\\Team.cs",
+              "RelativeDocumentMoniker": "Handball\\Models\\Team.cs",
+              "ToolTip": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\OOP - June 2024\\ExamPreparation\\C#OOPRetakeExam\u201315August2023\\Handball_Skeleton_6.0\\Handball\\Models\\Team.cs",
+              "RelativeToolTip": "Handball\\Models\\Team.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T14:33:02.371Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ForwardWing.cs",
+              "DocumentMoniker": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\OOP - June 2024\\ExamPreparation\\C#OOPRetakeExam\u201315August2023\\Handball_Skeleton_6.0\\Handball\\Models\\PlayerChild\\ForwardWing.cs",
+              "RelativeDocumentMoniker": "Handball\\Models\\PlayerChild\\ForwardWing.cs",
+              "ToolTip": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\OOP - June 2024\\ExamPreparation\\C#OOPRetakeExam\u201315August2023\\Handball_Skeleton_6.0\\Handball\\Models\\PlayerChild\\ForwardWing.cs",
+              "RelativeToolTip": "Handball\\Models\\PlayerChild\\ForwardWing.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T14:32:20.839Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CenterBack.cs",
+              "DocumentMoniker": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\OOP - June 2024\\ExamPreparation\\C#OOPRetakeExam\u201315August2023\\Handball_Skeleton_6.0\\Handball\\Models\\PlayerChild\\CenterBack.cs",
+              "RelativeDocumentMoniker": "Handball\\Models\\PlayerChild\\CenterBack.cs",
+              "ToolTip": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\OOP - June 2024\\ExamPreparation\\C#OOPRetakeExam\u201315August2023\\Handball_Skeleton_6.0\\Handball\\Models\\PlayerChild\\CenterBack.cs",
+              "RelativeToolTip": "Handball\\Models\\PlayerChild\\CenterBack.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T14:31:31.792Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Goalkeeper.cs",
+              "DocumentMoniker": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\OOP - June 2024\\ExamPreparation\\C#OOPRetakeExam\u201315August2023\\Handball_Skeleton_6.0\\Handball\\Models\\PlayerChild\\Goalkeeper.cs",
+              "RelativeDocumentMoniker": "Handball\\Models\\PlayerChild\\Goalkeeper.cs",
+              "ToolTip": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\OOP - June 2024\\ExamPreparation\\C#OOPRetakeExam\u201315August2023\\Handball_Skeleton_6.0\\Handball\\Models\\PlayerChild\\Goalkeeper.cs",
+              "RelativeToolTip": "Handball\\Models\\PlayerChild\\Goalkeeper.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T14:24:43.681Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Player.cs",
+              "DocumentMoniker": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\OOP - June 2024\\ExamPreparation\\C#OOPRetakeExam\u201315August2023\\Handball_Skeleton_6.0\\Handball\\Models\\Player.cs",
+              "RelativeDocumentMoniker": "Handball\\Models\\Player.cs",
+              "ToolTip": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\OOP - June 2024\\ExamPreparation\\C#OOPRetakeExam\u201315August2023\\Handball_Skeleton_6.0\\Handball\\Models\\Player.cs",
+              "RelativeToolTip": "Handball\\Models\\Player.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABcAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T14:17:14.148Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

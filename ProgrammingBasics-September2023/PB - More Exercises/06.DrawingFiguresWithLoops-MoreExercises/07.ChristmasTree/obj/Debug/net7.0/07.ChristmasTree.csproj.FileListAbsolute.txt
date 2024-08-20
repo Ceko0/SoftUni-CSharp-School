@@ -1,0 +1,14 @@
+C:\Users\falen\source\repos\06.DrawingFiguresWithLoops-MoreExercises\07.ChristmasTree\bin\Debug\net7.0\07.ChristmasTree.exe
+C:\Users\falen\source\repos\06.DrawingFiguresWithLoops-MoreExercises\07.ChristmasTree\bin\Debug\net7.0\07.ChristmasTree.deps.json
+C:\Users\falen\source\repos\06.DrawingFiguresWithLoops-MoreExercises\07.ChristmasTree\bin\Debug\net7.0\07.ChristmasTree.runtimeconfig.json
+C:\Users\falen\source\repos\06.DrawingFiguresWithLoops-MoreExercises\07.ChristmasTree\bin\Debug\net7.0\07.ChristmasTree.dll
+C:\Users\falen\source\repos\06.DrawingFiguresWithLoops-MoreExercises\07.ChristmasTree\bin\Debug\net7.0\07.ChristmasTree.pdb
+C:\Users\falen\source\repos\06.DrawingFiguresWithLoops-MoreExercises\07.ChristmasTree\obj\Debug\net7.0\07.ChristmasTree.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\falen\source\repos\06.DrawingFiguresWithLoops-MoreExercises\07.ChristmasTree\obj\Debug\net7.0\07.ChristmasTree.AssemblyInfoInputs.cache
+C:\Users\falen\source\repos\06.DrawingFiguresWithLoops-MoreExercises\07.ChristmasTree\obj\Debug\net7.0\07.ChristmasTree.AssemblyInfo.cs
+C:\Users\falen\source\repos\06.DrawingFiguresWithLoops-MoreExercises\07.ChristmasTree\obj\Debug\net7.0\07.ChristmasTree.csproj.CoreCompileInputs.cache
+C:\Users\falen\source\repos\06.DrawingFiguresWithLoops-MoreExercises\07.ChristmasTree\obj\Debug\net7.0\07.ChristmasTree.dll
+C:\Users\falen\source\repos\06.DrawingFiguresWithLoops-MoreExercises\07.ChristmasTree\obj\Debug\net7.0\refint\07.ChristmasTree.dll
+C:\Users\falen\source\repos\06.DrawingFiguresWithLoops-MoreExercises\07.ChristmasTree\obj\Debug\net7.0\07.ChristmasTree.pdb
+C:\Users\falen\source\repos\06.DrawingFiguresWithLoops-MoreExercises\07.ChristmasTree\obj\Debug\net7.0\07.ChristmasTree.genruntimeconfig.cache
+C:\Users\falen\source\repos\06.DrawingFiguresWithLoops-MoreExercises\07.ChristmasTree\obj\Debug\net7.0\ref\07.ChristmasTree.dll

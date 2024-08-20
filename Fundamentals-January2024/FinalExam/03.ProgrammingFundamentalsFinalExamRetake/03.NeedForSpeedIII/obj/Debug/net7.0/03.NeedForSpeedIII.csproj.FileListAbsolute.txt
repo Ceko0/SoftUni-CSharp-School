@@ -1,0 +1,15 @@
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\FinalExam\03.ProgrammingFundamentalsFinalExamRetake\03.NeedForSpeedIII\bin\Debug\net7.0\03.NeedForSpeedIII.exe
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\FinalExam\03.ProgrammingFundamentalsFinalExamRetake\03.NeedForSpeedIII\bin\Debug\net7.0\03.NeedForSpeedIII.deps.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\FinalExam\03.ProgrammingFundamentalsFinalExamRetake\03.NeedForSpeedIII\bin\Debug\net7.0\03.NeedForSpeedIII.runtimeconfig.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\FinalExam\03.ProgrammingFundamentalsFinalExamRetake\03.NeedForSpeedIII\bin\Debug\net7.0\03.NeedForSpeedIII.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\FinalExam\03.ProgrammingFundamentalsFinalExamRetake\03.NeedForSpeedIII\bin\Debug\net7.0\03.NeedForSpeedIII.pdb
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\FinalExam\03.ProgrammingFundamentalsFinalExamRetake\03.NeedForSpeedIII\obj\Debug\net7.0\03.NeedForSpeedIII.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\FinalExam\03.ProgrammingFundamentalsFinalExamRetake\03.NeedForSpeedIII\obj\Debug\net7.0\03.NeedForSpeedIII.AssemblyInfoInputs.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\FinalExam\03.ProgrammingFundamentalsFinalExamRetake\03.NeedForSpeedIII\obj\Debug\net7.0\03.NeedForSpeedIII.AssemblyInfo.cs
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\FinalExam\03.ProgrammingFundamentalsFinalExamRetake\03.NeedForSpeedIII\obj\Debug\net7.0\03.NeedForSpeedIII.csproj.CoreCompileInputs.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\FinalExam\03.ProgrammingFundamentalsFinalExamRetake\03.NeedForSpeedIII\obj\Debug\net7.0\03.NeedForSpeedIII.sourcelink.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\FinalExam\03.ProgrammingFundamentalsFinalExamRetake\03.NeedForSpeedIII\obj\Debug\net7.0\03.NeedForSpeedIII.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\FinalExam\03.ProgrammingFundamentalsFinalExamRetake\03.NeedForSpeedIII\obj\Debug\net7.0\refint\03.NeedForSpeedIII.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\FinalExam\03.ProgrammingFundamentalsFinalExamRetake\03.NeedForSpeedIII\obj\Debug\net7.0\03.NeedForSpeedIII.pdb
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\FinalExam\03.ProgrammingFundamentalsFinalExamRetake\03.NeedForSpeedIII\obj\Debug\net7.0\03.NeedForSpeedIII.genruntimeconfig.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\FinalExam\03.ProgrammingFundamentalsFinalExamRetake\03.NeedForSpeedIII\obj\Debug\net7.0\ref\03.NeedForSpeedIII.dll

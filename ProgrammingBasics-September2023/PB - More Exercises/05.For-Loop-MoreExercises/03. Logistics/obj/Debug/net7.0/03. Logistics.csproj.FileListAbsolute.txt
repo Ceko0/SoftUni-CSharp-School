@@ -1,0 +1,14 @@
+D:\ProgramsScool\Fundamental C# 2024\05.For-Loop-MoreExercises\03. Logistics\bin\Debug\net7.0\03. Logistics.exe
+D:\ProgramsScool\Fundamental C# 2024\05.For-Loop-MoreExercises\03. Logistics\bin\Debug\net7.0\03. Logistics.deps.json
+D:\ProgramsScool\Fundamental C# 2024\05.For-Loop-MoreExercises\03. Logistics\bin\Debug\net7.0\03. Logistics.runtimeconfig.json
+D:\ProgramsScool\Fundamental C# 2024\05.For-Loop-MoreExercises\03. Logistics\bin\Debug\net7.0\03. Logistics.dll
+D:\ProgramsScool\Fundamental C# 2024\05.For-Loop-MoreExercises\03. Logistics\bin\Debug\net7.0\03. Logistics.pdb
+D:\ProgramsScool\Fundamental C# 2024\05.For-Loop-MoreExercises\03. Logistics\obj\Debug\net7.0\03. Logistics.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProgramsScool\Fundamental C# 2024\05.For-Loop-MoreExercises\03. Logistics\obj\Debug\net7.0\03. Logistics.AssemblyInfoInputs.cache
+D:\ProgramsScool\Fundamental C# 2024\05.For-Loop-MoreExercises\03. Logistics\obj\Debug\net7.0\03. Logistics.AssemblyInfo.cs
+D:\ProgramsScool\Fundamental C# 2024\05.For-Loop-MoreExercises\03. Logistics\obj\Debug\net7.0\03. Logistics.csproj.CoreCompileInputs.cache
+D:\ProgramsScool\Fundamental C# 2024\05.For-Loop-MoreExercises\03. Logistics\obj\Debug\net7.0\03. Logistics.dll
+D:\ProgramsScool\Fundamental C# 2024\05.For-Loop-MoreExercises\03. Logistics\obj\Debug\net7.0\refint\03. Logistics.dll
+D:\ProgramsScool\Fundamental C# 2024\05.For-Loop-MoreExercises\03. Logistics\obj\Debug\net7.0\03. Logistics.pdb
+D:\ProgramsScool\Fundamental C# 2024\05.For-Loop-MoreExercises\03. Logistics\obj\Debug\net7.0\03. Logistics.genruntimeconfig.cache
+D:\ProgramsScool\Fundamental C# 2024\05.For-Loop-MoreExercises\03. Logistics\obj\Debug\net7.0\ref\03. Logistics.dll

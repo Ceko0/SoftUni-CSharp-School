@@ -1,0 +1,15 @@
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\05.FunctionalProgramming-Exercise\02.KnightsOfHonor\bin\Debug\net8.0\02.KnightsOfHonor.exe
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\05.FunctionalProgramming-Exercise\02.KnightsOfHonor\bin\Debug\net8.0\02.KnightsOfHonor.deps.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\05.FunctionalProgramming-Exercise\02.KnightsOfHonor\bin\Debug\net8.0\02.KnightsOfHonor.runtimeconfig.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\05.FunctionalProgramming-Exercise\02.KnightsOfHonor\bin\Debug\net8.0\02.KnightsOfHonor.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\05.FunctionalProgramming-Exercise\02.KnightsOfHonor\bin\Debug\net8.0\02.KnightsOfHonor.pdb
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\05.FunctionalProgramming-Exercise\02.KnightsOfHonor\obj\Debug\net8.0\02.KnightsOfHonor.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\05.FunctionalProgramming-Exercise\02.KnightsOfHonor\obj\Debug\net8.0\02.KnightsOfHonor.AssemblyInfoInputs.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\05.FunctionalProgramming-Exercise\02.KnightsOfHonor\obj\Debug\net8.0\02.KnightsOfHonor.AssemblyInfo.cs
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\05.FunctionalProgramming-Exercise\02.KnightsOfHonor\obj\Debug\net8.0\02.KnightsOfHonor.csproj.CoreCompileInputs.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\05.FunctionalProgramming-Exercise\02.KnightsOfHonor\obj\Debug\net8.0\02.KnightsOfHonor.sourcelink.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\05.FunctionalProgramming-Exercise\02.KnightsOfHonor\obj\Debug\net8.0\02.KnightsOfHonor.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\05.FunctionalProgramming-Exercise\02.KnightsOfHonor\obj\Debug\net8.0\refint\02.KnightsOfHonor.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\05.FunctionalProgramming-Exercise\02.KnightsOfHonor\obj\Debug\net8.0\02.KnightsOfHonor.pdb
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\05.FunctionalProgramming-Exercise\02.KnightsOfHonor\obj\Debug\net8.0\02.KnightsOfHonor.genruntimeconfig.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\05.FunctionalProgramming-Exercise\02.KnightsOfHonor\obj\Debug\net8.0\ref\02.KnightsOfHonor.dll

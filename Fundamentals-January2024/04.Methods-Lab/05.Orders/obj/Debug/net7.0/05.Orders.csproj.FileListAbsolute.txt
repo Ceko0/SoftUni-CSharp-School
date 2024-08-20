@@ -1,0 +1,15 @@
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\04.Methods-Lab\05.Orders\obj\Debug\net7.0\05.Orders.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\04.Methods-Lab\05.Orders\obj\Debug\net7.0\05.Orders.AssemblyInfoInputs.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\04.Methods-Lab\05.Orders\obj\Debug\net7.0\05.Orders.AssemblyInfo.cs
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\04.Methods-Lab\05.Orders\obj\Debug\net7.0\05.Orders.csproj.CoreCompileInputs.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\04.Methods-Lab\05.Orders\obj\Debug\net7.0\05.Orders.sourcelink.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\04.Methods-Lab\05.Orders\bin\Debug\net7.0\05.Orders.exe
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\04.Methods-Lab\05.Orders\bin\Debug\net7.0\05.Orders.deps.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\04.Methods-Lab\05.Orders\bin\Debug\net7.0\05.Orders.runtimeconfig.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\04.Methods-Lab\05.Orders\bin\Debug\net7.0\05.Orders.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\04.Methods-Lab\05.Orders\bin\Debug\net7.0\05.Orders.pdb
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\04.Methods-Lab\05.Orders\obj\Debug\net7.0\05.Orders.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\04.Methods-Lab\05.Orders\obj\Debug\net7.0\refint\05.Orders.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\04.Methods-Lab\05.Orders\obj\Debug\net7.0\05.Orders.pdb
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\04.Methods-Lab\05.Orders\obj\Debug\net7.0\05.Orders.genruntimeconfig.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\04.Methods-Lab\05.Orders\obj\Debug\net7.0\ref\05.Orders.dll

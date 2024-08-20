@@ -1,0 +1,15 @@
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\03.SetsAndDictionariesAdvanced-Lab\01.CountSameValuesInArray\bin\Debug\net8.0\01.CountSameValuesInArray.exe
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\03.SetsAndDictionariesAdvanced-Lab\01.CountSameValuesInArray\bin\Debug\net8.0\01.CountSameValuesInArray.deps.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\03.SetsAndDictionariesAdvanced-Lab\01.CountSameValuesInArray\bin\Debug\net8.0\01.CountSameValuesInArray.runtimeconfig.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\03.SetsAndDictionariesAdvanced-Lab\01.CountSameValuesInArray\bin\Debug\net8.0\01.CountSameValuesInArray.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\03.SetsAndDictionariesAdvanced-Lab\01.CountSameValuesInArray\bin\Debug\net8.0\01.CountSameValuesInArray.pdb
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\03.SetsAndDictionariesAdvanced-Lab\01.CountSameValuesInArray\obj\Debug\net8.0\01.CountSameValuesInArray.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\03.SetsAndDictionariesAdvanced-Lab\01.CountSameValuesInArray\obj\Debug\net8.0\01.CountSameValuesInArray.AssemblyInfoInputs.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\03.SetsAndDictionariesAdvanced-Lab\01.CountSameValuesInArray\obj\Debug\net8.0\01.CountSameValuesInArray.AssemblyInfo.cs
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\03.SetsAndDictionariesAdvanced-Lab\01.CountSameValuesInArray\obj\Debug\net8.0\01.CountSameValuesInArray.csproj.CoreCompileInputs.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\03.SetsAndDictionariesAdvanced-Lab\01.CountSameValuesInArray\obj\Debug\net8.0\01.CountSameValuesInArray.sourcelink.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\03.SetsAndDictionariesAdvanced-Lab\01.CountSameValuesInArray\obj\Debug\net8.0\01.CountSameValuesInArray.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\03.SetsAndDictionariesAdvanced-Lab\01.CountSameValuesInArray\obj\Debug\net8.0\refint\01.CountSameValuesInArray.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\03.SetsAndDictionariesAdvanced-Lab\01.CountSameValuesInArray\obj\Debug\net8.0\01.CountSameValuesInArray.pdb
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\03.SetsAndDictionariesAdvanced-Lab\01.CountSameValuesInArray\obj\Debug\net8.0\01.CountSameValuesInArray.genruntimeconfig.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\03.SetsAndDictionariesAdvanced-Lab\01.CountSameValuesInArray\obj\Debug\net8.0\ref\01.CountSameValuesInArray.dll

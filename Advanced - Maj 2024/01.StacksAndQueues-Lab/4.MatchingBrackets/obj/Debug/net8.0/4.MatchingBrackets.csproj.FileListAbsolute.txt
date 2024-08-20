@@ -1,0 +1,15 @@
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\01.StacksAndQueues-Lab\4.MatchingBrackets\bin\Debug\net8.0\4.MatchingBrackets.exe
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\01.StacksAndQueues-Lab\4.MatchingBrackets\bin\Debug\net8.0\4.MatchingBrackets.deps.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\01.StacksAndQueues-Lab\4.MatchingBrackets\bin\Debug\net8.0\4.MatchingBrackets.runtimeconfig.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\01.StacksAndQueues-Lab\4.MatchingBrackets\bin\Debug\net8.0\4.MatchingBrackets.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\01.StacksAndQueues-Lab\4.MatchingBrackets\bin\Debug\net8.0\4.MatchingBrackets.pdb
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\01.StacksAndQueues-Lab\4.MatchingBrackets\obj\Debug\net8.0\4.MatchingBrackets.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\01.StacksAndQueues-Lab\4.MatchingBrackets\obj\Debug\net8.0\4.MatchingBrackets.AssemblyInfoInputs.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\01.StacksAndQueues-Lab\4.MatchingBrackets\obj\Debug\net8.0\4.MatchingBrackets.AssemblyInfo.cs
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\01.StacksAndQueues-Lab\4.MatchingBrackets\obj\Debug\net8.0\4.MatchingBrackets.csproj.CoreCompileInputs.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\01.StacksAndQueues-Lab\4.MatchingBrackets\obj\Debug\net8.0\4.MatchingBrackets.sourcelink.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\01.StacksAndQueues-Lab\4.MatchingBrackets\obj\Debug\net8.0\4.MatchingBrackets.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\01.StacksAndQueues-Lab\4.MatchingBrackets\obj\Debug\net8.0\refint\4.MatchingBrackets.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\01.StacksAndQueues-Lab\4.MatchingBrackets\obj\Debug\net8.0\4.MatchingBrackets.pdb
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\01.StacksAndQueues-Lab\4.MatchingBrackets\obj\Debug\net8.0\4.MatchingBrackets.genruntimeconfig.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\01.StacksAndQueues-Lab\4.MatchingBrackets\obj\Debug\net8.0\ref\4.MatchingBrackets.dll

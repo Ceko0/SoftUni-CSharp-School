@@ -1,0 +1,15 @@
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\08.Generics-Exercise\04.GenericSwapMethodInteger\obj\Debug\net6.0\04.GenericSwapMethodInteger.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\08.Generics-Exercise\04.GenericSwapMethodInteger\obj\Debug\net6.0\04.GenericSwapMethodInteger.AssemblyInfoInputs.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\08.Generics-Exercise\04.GenericSwapMethodInteger\obj\Debug\net6.0\04.GenericSwapMethodInteger.AssemblyInfo.cs
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\08.Generics-Exercise\04.GenericSwapMethodInteger\obj\Debug\net6.0\04.GenericSwapMethodInteger.csproj.CoreCompileInputs.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\08.Generics-Exercise\04.GenericSwapMethodInteger\obj\Debug\net6.0\04.GenericSwapMethodInteger.sourcelink.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\08.Generics-Exercise\04.GenericSwapMethodInteger\bin\Debug\net6.0\04.GenericSwapMethodInteger.exe
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\08.Generics-Exercise\04.GenericSwapMethodInteger\bin\Debug\net6.0\04.GenericSwapMethodInteger.deps.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\08.Generics-Exercise\04.GenericSwapMethodInteger\bin\Debug\net6.0\04.GenericSwapMethodInteger.runtimeconfig.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\08.Generics-Exercise\04.GenericSwapMethodInteger\bin\Debug\net6.0\04.GenericSwapMethodInteger.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\08.Generics-Exercise\04.GenericSwapMethodInteger\bin\Debug\net6.0\04.GenericSwapMethodInteger.pdb
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\08.Generics-Exercise\04.GenericSwapMethodInteger\obj\Debug\net6.0\04.GenericSwapMethodInteger.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\08.Generics-Exercise\04.GenericSwapMethodInteger\obj\Debug\net6.0\refint\04.GenericSwapMethodInteger.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\08.Generics-Exercise\04.GenericSwapMethodInteger\obj\Debug\net6.0\04.GenericSwapMethodInteger.pdb
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\08.Generics-Exercise\04.GenericSwapMethodInteger\obj\Debug\net6.0\04.GenericSwapMethodInteger.genruntimeconfig.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\08.Generics-Exercise\04.GenericSwapMethodInteger\obj\Debug\net6.0\ref\04.GenericSwapMethodInteger.dll

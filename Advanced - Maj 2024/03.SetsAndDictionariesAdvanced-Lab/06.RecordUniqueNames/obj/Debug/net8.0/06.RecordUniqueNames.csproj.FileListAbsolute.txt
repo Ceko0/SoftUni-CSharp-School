@@ -1,0 +1,15 @@
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\03.SetsAndDictionariesAdvanced-Lab\06.RecordUniqueNames\obj\Debug\net8.0\06.RecordUniqueNames.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\03.SetsAndDictionariesAdvanced-Lab\06.RecordUniqueNames\obj\Debug\net8.0\06.RecordUniqueNames.AssemblyInfoInputs.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\03.SetsAndDictionariesAdvanced-Lab\06.RecordUniqueNames\obj\Debug\net8.0\06.RecordUniqueNames.AssemblyInfo.cs
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\03.SetsAndDictionariesAdvanced-Lab\06.RecordUniqueNames\obj\Debug\net8.0\06.RecordUniqueNames.csproj.CoreCompileInputs.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\03.SetsAndDictionariesAdvanced-Lab\06.RecordUniqueNames\obj\Debug\net8.0\06.RecordUniqueNames.sourcelink.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\03.SetsAndDictionariesAdvanced-Lab\06.RecordUniqueNames\bin\Debug\net8.0\06.RecordUniqueNames.exe
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\03.SetsAndDictionariesAdvanced-Lab\06.RecordUniqueNames\bin\Debug\net8.0\06.RecordUniqueNames.deps.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\03.SetsAndDictionariesAdvanced-Lab\06.RecordUniqueNames\bin\Debug\net8.0\06.RecordUniqueNames.runtimeconfig.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\03.SetsAndDictionariesAdvanced-Lab\06.RecordUniqueNames\bin\Debug\net8.0\06.RecordUniqueNames.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\03.SetsAndDictionariesAdvanced-Lab\06.RecordUniqueNames\bin\Debug\net8.0\06.RecordUniqueNames.pdb
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\03.SetsAndDictionariesAdvanced-Lab\06.RecordUniqueNames\obj\Debug\net8.0\06.RecordUniqueNames.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\03.SetsAndDictionariesAdvanced-Lab\06.RecordUniqueNames\obj\Debug\net8.0\refint\06.RecordUniqueNames.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\03.SetsAndDictionariesAdvanced-Lab\06.RecordUniqueNames\obj\Debug\net8.0\06.RecordUniqueNames.pdb
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\03.SetsAndDictionariesAdvanced-Lab\06.RecordUniqueNames\obj\Debug\net8.0\06.RecordUniqueNames.genruntimeconfig.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\03.SetsAndDictionariesAdvanced-Lab\06.RecordUniqueNames\obj\Debug\net8.0\ref\06.RecordUniqueNames.dll

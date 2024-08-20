@@ -1,0 +1,15 @@
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\08.IteratorsAndComparators-Exercise\01.ListyIterator\bin\Debug\net6.0\01.ListyIterator.exe
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\08.IteratorsAndComparators-Exercise\01.ListyIterator\bin\Debug\net6.0\01.ListyIterator.deps.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\08.IteratorsAndComparators-Exercise\01.ListyIterator\bin\Debug\net6.0\01.ListyIterator.runtimeconfig.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\08.IteratorsAndComparators-Exercise\01.ListyIterator\bin\Debug\net6.0\01.ListyIterator.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\08.IteratorsAndComparators-Exercise\01.ListyIterator\bin\Debug\net6.0\01.ListyIterator.pdb
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\08.IteratorsAndComparators-Exercise\01.ListyIterator\obj\Debug\net6.0\01.ListyIterator.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\08.IteratorsAndComparators-Exercise\01.ListyIterator\obj\Debug\net6.0\01.ListyIterator.AssemblyInfoInputs.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\08.IteratorsAndComparators-Exercise\01.ListyIterator\obj\Debug\net6.0\01.ListyIterator.AssemblyInfo.cs
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\08.IteratorsAndComparators-Exercise\01.ListyIterator\obj\Debug\net6.0\01.ListyIterator.csproj.CoreCompileInputs.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\08.IteratorsAndComparators-Exercise\01.ListyIterator\obj\Debug\net6.0\01.ListyIterator.sourcelink.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\08.IteratorsAndComparators-Exercise\01.ListyIterator\obj\Debug\net6.0\01.ListyIterator.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\08.IteratorsAndComparators-Exercise\01.ListyIterator\obj\Debug\net6.0\refint\01.ListyIterator.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\08.IteratorsAndComparators-Exercise\01.ListyIterator\obj\Debug\net6.0\01.ListyIterator.pdb
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\08.IteratorsAndComparators-Exercise\01.ListyIterator\obj\Debug\net6.0\01.ListyIterator.genruntimeconfig.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\08.IteratorsAndComparators-Exercise\01.ListyIterator\obj\Debug\net6.0\ref\01.ListyIterator.dll

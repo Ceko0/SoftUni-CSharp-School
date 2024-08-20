@@ -1,0 +1,14 @@
+D:\ProgramsScool\ProgrammingBasicsOnlineExam-6and7July2019\01.PoolDay\bin\Debug\netcoreapp3.1\01.PoolDay.exe
+D:\ProgramsScool\ProgrammingBasicsOnlineExam-6and7July2019\01.PoolDay\bin\Debug\netcoreapp3.1\01.PoolDay.deps.json
+D:\ProgramsScool\ProgrammingBasicsOnlineExam-6and7July2019\01.PoolDay\bin\Debug\netcoreapp3.1\01.PoolDay.runtimeconfig.json
+D:\ProgramsScool\ProgrammingBasicsOnlineExam-6and7July2019\01.PoolDay\bin\Debug\netcoreapp3.1\01.PoolDay.runtimeconfig.dev.json
+D:\ProgramsScool\ProgrammingBasicsOnlineExam-6and7July2019\01.PoolDay\bin\Debug\netcoreapp3.1\01.PoolDay.dll
+D:\ProgramsScool\ProgrammingBasicsOnlineExam-6and7July2019\01.PoolDay\bin\Debug\netcoreapp3.1\01.PoolDay.pdb
+D:\ProgramsScool\ProgrammingBasicsOnlineExam-6and7July2019\01.PoolDay\obj\Debug\netcoreapp3.1\01.PoolDay.csproj.AssemblyReference.cache
+D:\ProgramsScool\ProgrammingBasicsOnlineExam-6and7July2019\01.PoolDay\obj\Debug\netcoreapp3.1\01.PoolDay.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProgramsScool\ProgrammingBasicsOnlineExam-6and7July2019\01.PoolDay\obj\Debug\netcoreapp3.1\01.PoolDay.AssemblyInfoInputs.cache
+D:\ProgramsScool\ProgrammingBasicsOnlineExam-6and7July2019\01.PoolDay\obj\Debug\netcoreapp3.1\01.PoolDay.AssemblyInfo.cs
+D:\ProgramsScool\ProgrammingBasicsOnlineExam-6and7July2019\01.PoolDay\obj\Debug\netcoreapp3.1\01.PoolDay.csproj.CoreCompileInputs.cache
+D:\ProgramsScool\ProgrammingBasicsOnlineExam-6and7July2019\01.PoolDay\obj\Debug\netcoreapp3.1\01.PoolDay.dll
+D:\ProgramsScool\ProgrammingBasicsOnlineExam-6and7July2019\01.PoolDay\obj\Debug\netcoreapp3.1\01.PoolDay.pdb
+D:\ProgramsScool\ProgrammingBasicsOnlineExam-6and7July2019\01.PoolDay\obj\Debug\netcoreapp3.1\01.PoolDay.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\03.Arrays-Exercise\07.MaxSequenceОfEqualElements\bin\Debug\net6.0\07.MaxSequenceОfEqualElements.exe
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\03.Arrays-Exercise\07.MaxSequenceОfEqualElements\bin\Debug\net6.0\07.MaxSequenceОfEqualElements.deps.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\03.Arrays-Exercise\07.MaxSequenceОfEqualElements\bin\Debug\net6.0\07.MaxSequenceОfEqualElements.runtimeconfig.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\03.Arrays-Exercise\07.MaxSequenceОfEqualElements\bin\Debug\net6.0\07.MaxSequenceОfEqualElements.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\03.Arrays-Exercise\07.MaxSequenceОfEqualElements\bin\Debug\net6.0\07.MaxSequenceОfEqualElements.pdb
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\03.Arrays-Exercise\07.MaxSequenceОfEqualElements\obj\Debug\net6.0\07.MaxSequenceОfEqualElements.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\03.Arrays-Exercise\07.MaxSequenceОfEqualElements\obj\Debug\net6.0\07.MaxSequenceОfEqualElements.AssemblyInfoInputs.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\03.Arrays-Exercise\07.MaxSequenceОfEqualElements\obj\Debug\net6.0\07.MaxSequenceОfEqualElements.AssemblyInfo.cs
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\03.Arrays-Exercise\07.MaxSequenceОfEqualElements\obj\Debug\net6.0\07.MaxSequenceОfEqualElements.csproj.CoreCompileInputs.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\03.Arrays-Exercise\07.MaxSequenceОfEqualElements\obj\Debug\net6.0\07.MaxSequenceОfEqualElements.sourcelink.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\03.Arrays-Exercise\07.MaxSequenceОfEqualElements\obj\Debug\net6.0\07.MaxSequenceОfEqualElements.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\03.Arrays-Exercise\07.MaxSequenceОfEqualElements\obj\Debug\net6.0\refint\07.MaxSequenceОfEqualElements.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\03.Arrays-Exercise\07.MaxSequenceОfEqualElements\obj\Debug\net6.0\07.MaxSequenceОfEqualElements.pdb
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\03.Arrays-Exercise\07.MaxSequenceОfEqualElements\obj\Debug\net6.0\07.MaxSequenceОfEqualElements.genruntimeconfig.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\03.Arrays-Exercise\07.MaxSequenceОfEqualElements\obj\Debug\net6.0\ref\07.MaxSequenceОfEqualElements.dll

@@ -1,0 +1,15 @@
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\03.SetsAndDictionariesAdvanced-Exercise\02.SetsOfElements\bin\Debug\net8.0\02.SetsOfElements.exe
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\03.SetsAndDictionariesAdvanced-Exercise\02.SetsOfElements\bin\Debug\net8.0\02.SetsOfElements.deps.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\03.SetsAndDictionariesAdvanced-Exercise\02.SetsOfElements\bin\Debug\net8.0\02.SetsOfElements.runtimeconfig.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\03.SetsAndDictionariesAdvanced-Exercise\02.SetsOfElements\bin\Debug\net8.0\02.SetsOfElements.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\03.SetsAndDictionariesAdvanced-Exercise\02.SetsOfElements\bin\Debug\net8.0\02.SetsOfElements.pdb
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\03.SetsAndDictionariesAdvanced-Exercise\02.SetsOfElements\obj\Debug\net8.0\02.SetsOfElements.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\03.SetsAndDictionariesAdvanced-Exercise\02.SetsOfElements\obj\Debug\net8.0\02.SetsOfElements.AssemblyInfoInputs.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\03.SetsAndDictionariesAdvanced-Exercise\02.SetsOfElements\obj\Debug\net8.0\02.SetsOfElements.AssemblyInfo.cs
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\03.SetsAndDictionariesAdvanced-Exercise\02.SetsOfElements\obj\Debug\net8.0\02.SetsOfElements.csproj.CoreCompileInputs.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\03.SetsAndDictionariesAdvanced-Exercise\02.SetsOfElements\obj\Debug\net8.0\02.SetsOfElements.sourcelink.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\03.SetsAndDictionariesAdvanced-Exercise\02.SetsOfElements\obj\Debug\net8.0\02.SetsOfElements.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\03.SetsAndDictionariesAdvanced-Exercise\02.SetsOfElements\obj\Debug\net8.0\refint\02.SetsOfElements.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\03.SetsAndDictionariesAdvanced-Exercise\02.SetsOfElements\obj\Debug\net8.0\02.SetsOfElements.pdb
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\03.SetsAndDictionariesAdvanced-Exercise\02.SetsOfElements\obj\Debug\net8.0\02.SetsOfElements.genruntimeconfig.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\03.SetsAndDictionariesAdvanced-Exercise\02.SetsOfElements\obj\Debug\net8.0\ref\02.SetsOfElements.dll

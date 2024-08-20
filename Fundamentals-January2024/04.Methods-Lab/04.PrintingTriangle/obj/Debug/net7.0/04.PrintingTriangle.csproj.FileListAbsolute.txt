@@ -1,0 +1,15 @@
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\04.Methods-Lab\04.PrintingTriangle\bin\Debug\net7.0\04.PrintingTriangle.exe
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\04.Methods-Lab\04.PrintingTriangle\bin\Debug\net7.0\04.PrintingTriangle.deps.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\04.Methods-Lab\04.PrintingTriangle\bin\Debug\net7.0\04.PrintingTriangle.runtimeconfig.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\04.Methods-Lab\04.PrintingTriangle\bin\Debug\net7.0\04.PrintingTriangle.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\04.Methods-Lab\04.PrintingTriangle\bin\Debug\net7.0\04.PrintingTriangle.pdb
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\04.Methods-Lab\04.PrintingTriangle\obj\Debug\net7.0\04.PrintingTriangle.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\04.Methods-Lab\04.PrintingTriangle\obj\Debug\net7.0\04.PrintingTriangle.AssemblyInfoInputs.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\04.Methods-Lab\04.PrintingTriangle\obj\Debug\net7.0\04.PrintingTriangle.AssemblyInfo.cs
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\04.Methods-Lab\04.PrintingTriangle\obj\Debug\net7.0\04.PrintingTriangle.csproj.CoreCompileInputs.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\04.Methods-Lab\04.PrintingTriangle\obj\Debug\net7.0\04.PrintingTriangle.sourcelink.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\04.Methods-Lab\04.PrintingTriangle\obj\Debug\net7.0\04.PrintingTriangle.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\04.Methods-Lab\04.PrintingTriangle\obj\Debug\net7.0\refint\04.PrintingTriangle.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\04.Methods-Lab\04.PrintingTriangle\obj\Debug\net7.0\04.PrintingTriangle.pdb
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\04.Methods-Lab\04.PrintingTriangle\obj\Debug\net7.0\04.PrintingTriangle.genruntimeconfig.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\04.Methods-Lab\04.PrintingTriangle\obj\Debug\net7.0\ref\04.PrintingTriangle.dll

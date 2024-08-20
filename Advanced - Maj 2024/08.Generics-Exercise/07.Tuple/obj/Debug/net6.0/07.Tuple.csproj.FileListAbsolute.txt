@@ -1,0 +1,15 @@
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\08.Generics-Exercise\07.Tuple\bin\Debug\net6.0\07.Tuple.exe
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\08.Generics-Exercise\07.Tuple\bin\Debug\net6.0\07.Tuple.deps.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\08.Generics-Exercise\07.Tuple\bin\Debug\net6.0\07.Tuple.runtimeconfig.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\08.Generics-Exercise\07.Tuple\bin\Debug\net6.0\07.Tuple.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\08.Generics-Exercise\07.Tuple\bin\Debug\net6.0\07.Tuple.pdb
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\08.Generics-Exercise\07.Tuple\obj\Debug\net6.0\07.Tuple.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\08.Generics-Exercise\07.Tuple\obj\Debug\net6.0\07.Tuple.AssemblyInfoInputs.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\08.Generics-Exercise\07.Tuple\obj\Debug\net6.0\07.Tuple.AssemblyInfo.cs
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\08.Generics-Exercise\07.Tuple\obj\Debug\net6.0\07.Tuple.csproj.CoreCompileInputs.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\08.Generics-Exercise\07.Tuple\obj\Debug\net6.0\07.Tuple.sourcelink.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\08.Generics-Exercise\07.Tuple\obj\Debug\net6.0\07.Tuple.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\08.Generics-Exercise\07.Tuple\obj\Debug\net6.0\refint\07.Tuple.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\08.Generics-Exercise\07.Tuple\obj\Debug\net6.0\07.Tuple.pdb
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\08.Generics-Exercise\07.Tuple\obj\Debug\net6.0\07.Tuple.genruntimeconfig.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\08.Generics-Exercise\07.Tuple\obj\Debug\net6.0\ref\07.Tuple.dll

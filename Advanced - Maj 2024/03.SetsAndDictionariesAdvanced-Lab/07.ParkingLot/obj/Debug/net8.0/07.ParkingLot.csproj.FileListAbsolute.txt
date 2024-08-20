@@ -1,0 +1,15 @@
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\03.SetsAndDictionariesAdvanced-Lab\07.ParkingLot\bin\Debug\net8.0\07.ParkingLot.exe
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\03.SetsAndDictionariesAdvanced-Lab\07.ParkingLot\bin\Debug\net8.0\07.ParkingLot.deps.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\03.SetsAndDictionariesAdvanced-Lab\07.ParkingLot\bin\Debug\net8.0\07.ParkingLot.runtimeconfig.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\03.SetsAndDictionariesAdvanced-Lab\07.ParkingLot\bin\Debug\net8.0\07.ParkingLot.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\03.SetsAndDictionariesAdvanced-Lab\07.ParkingLot\bin\Debug\net8.0\07.ParkingLot.pdb
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\03.SetsAndDictionariesAdvanced-Lab\07.ParkingLot\obj\Debug\net8.0\07.ParkingLot.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\03.SetsAndDictionariesAdvanced-Lab\07.ParkingLot\obj\Debug\net8.0\07.ParkingLot.AssemblyInfoInputs.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\03.SetsAndDictionariesAdvanced-Lab\07.ParkingLot\obj\Debug\net8.0\07.ParkingLot.AssemblyInfo.cs
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\03.SetsAndDictionariesAdvanced-Lab\07.ParkingLot\obj\Debug\net8.0\07.ParkingLot.csproj.CoreCompileInputs.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\03.SetsAndDictionariesAdvanced-Lab\07.ParkingLot\obj\Debug\net8.0\07.ParkingLot.sourcelink.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\03.SetsAndDictionariesAdvanced-Lab\07.ParkingLot\obj\Debug\net8.0\07.ParkingLot.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\03.SetsAndDictionariesAdvanced-Lab\07.ParkingLot\obj\Debug\net8.0\refint\07.ParkingLot.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\03.SetsAndDictionariesAdvanced-Lab\07.ParkingLot\obj\Debug\net8.0\07.ParkingLot.pdb
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\03.SetsAndDictionariesAdvanced-Lab\07.ParkingLot\obj\Debug\net8.0\07.ParkingLot.genruntimeconfig.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\03.SetsAndDictionariesAdvanced-Lab\07.ParkingLot\obj\Debug\net8.0\ref\07.ParkingLot.dll

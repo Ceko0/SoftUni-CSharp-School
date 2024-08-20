@@ -1,0 +1,15 @@
+D:\ProgramsScool\PB-september.2023\04.ConditionalStatements-Exercise\05.GodzillaVs.Kong\bin\Debug\net6.0\05.GodzillaVs.Kong.exe
+D:\ProgramsScool\PB-september.2023\04.ConditionalStatements-Exercise\05.GodzillaVs.Kong\bin\Debug\net6.0\05.GodzillaVs.Kong.deps.json
+D:\ProgramsScool\PB-september.2023\04.ConditionalStatements-Exercise\05.GodzillaVs.Kong\bin\Debug\net6.0\05.GodzillaVs.Kong.runtimeconfig.json
+D:\ProgramsScool\PB-september.2023\04.ConditionalStatements-Exercise\05.GodzillaVs.Kong\bin\Debug\net6.0\05.GodzillaVs.Kong.dll
+D:\ProgramsScool\PB-september.2023\04.ConditionalStatements-Exercise\05.GodzillaVs.Kong\bin\Debug\net6.0\05.GodzillaVs.Kong.pdb
+D:\ProgramsScool\PB-september.2023\04.ConditionalStatements-Exercise\05.GodzillaVs.Kong\obj\Debug\net6.0\05.GodzillaVs.Kong.csproj.AssemblyReference.cache
+D:\ProgramsScool\PB-september.2023\04.ConditionalStatements-Exercise\05.GodzillaVs.Kong\obj\Debug\net6.0\05.GodzillaVs.Kong.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProgramsScool\PB-september.2023\04.ConditionalStatements-Exercise\05.GodzillaVs.Kong\obj\Debug\net6.0\05.GodzillaVs.Kong.AssemblyInfoInputs.cache
+D:\ProgramsScool\PB-september.2023\04.ConditionalStatements-Exercise\05.GodzillaVs.Kong\obj\Debug\net6.0\05.GodzillaVs.Kong.AssemblyInfo.cs
+D:\ProgramsScool\PB-september.2023\04.ConditionalStatements-Exercise\05.GodzillaVs.Kong\obj\Debug\net6.0\05.GodzillaVs.Kong.csproj.CoreCompileInputs.cache
+D:\ProgramsScool\PB-september.2023\04.ConditionalStatements-Exercise\05.GodzillaVs.Kong\obj\Debug\net6.0\05.GodzillaVs.Kong.dll
+D:\ProgramsScool\PB-september.2023\04.ConditionalStatements-Exercise\05.GodzillaVs.Kong\obj\Debug\net6.0\refint\05.GodzillaVs.Kong.dll
+D:\ProgramsScool\PB-september.2023\04.ConditionalStatements-Exercise\05.GodzillaVs.Kong\obj\Debug\net6.0\05.GodzillaVs.Kong.pdb
+D:\ProgramsScool\PB-september.2023\04.ConditionalStatements-Exercise\05.GodzillaVs.Kong\obj\Debug\net6.0\05.GodzillaVs.Kong.genruntimeconfig.cache
+D:\ProgramsScool\PB-september.2023\04.ConditionalStatements-Exercise\05.GodzillaVs.Kong\obj\Debug\net6.0\ref\05.GodzillaVs.Kong.dll

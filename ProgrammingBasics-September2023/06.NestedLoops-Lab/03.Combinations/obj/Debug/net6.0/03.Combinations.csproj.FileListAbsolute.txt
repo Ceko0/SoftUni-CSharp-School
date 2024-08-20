@@ -1,0 +1,15 @@
+D:\ProgramsScool\PB-september.2023\11.NestedLoops-Lab\03.Combinations\bin\Debug\net6.0\03.Combinations.exe
+D:\ProgramsScool\PB-september.2023\11.NestedLoops-Lab\03.Combinations\bin\Debug\net6.0\03.Combinations.deps.json
+D:\ProgramsScool\PB-september.2023\11.NestedLoops-Lab\03.Combinations\bin\Debug\net6.0\03.Combinations.runtimeconfig.json
+D:\ProgramsScool\PB-september.2023\11.NestedLoops-Lab\03.Combinations\bin\Debug\net6.0\03.Combinations.dll
+D:\ProgramsScool\PB-september.2023\11.NestedLoops-Lab\03.Combinations\bin\Debug\net6.0\03.Combinations.pdb
+D:\ProgramsScool\PB-september.2023\11.NestedLoops-Lab\03.Combinations\obj\Debug\net6.0\03.Combinations.csproj.AssemblyReference.cache
+D:\ProgramsScool\PB-september.2023\11.NestedLoops-Lab\03.Combinations\obj\Debug\net6.0\03.Combinations.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProgramsScool\PB-september.2023\11.NestedLoops-Lab\03.Combinations\obj\Debug\net6.0\03.Combinations.AssemblyInfoInputs.cache
+D:\ProgramsScool\PB-september.2023\11.NestedLoops-Lab\03.Combinations\obj\Debug\net6.0\03.Combinations.AssemblyInfo.cs
+D:\ProgramsScool\PB-september.2023\11.NestedLoops-Lab\03.Combinations\obj\Debug\net6.0\03.Combinations.csproj.CoreCompileInputs.cache
+D:\ProgramsScool\PB-september.2023\11.NestedLoops-Lab\03.Combinations\obj\Debug\net6.0\03.Combinations.dll
+D:\ProgramsScool\PB-september.2023\11.NestedLoops-Lab\03.Combinations\obj\Debug\net6.0\refint\03.Combinations.dll
+D:\ProgramsScool\PB-september.2023\11.NestedLoops-Lab\03.Combinations\obj\Debug\net6.0\03.Combinations.pdb
+D:\ProgramsScool\PB-september.2023\11.NestedLoops-Lab\03.Combinations\obj\Debug\net6.0\03.Combinations.genruntimeconfig.cache
+D:\ProgramsScool\PB-september.2023\11.NestedLoops-Lab\03.Combinations\obj\Debug\net6.0\ref\03.Combinations.dll

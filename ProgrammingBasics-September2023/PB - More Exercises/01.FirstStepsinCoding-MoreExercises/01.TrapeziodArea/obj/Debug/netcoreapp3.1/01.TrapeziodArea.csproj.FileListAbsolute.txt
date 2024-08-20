@@ -1,0 +1,14 @@
+D:\ProgramsScool\FirstStepsinCoding-MoreExercises\01.TrapeziodArea\bin\Debug\netcoreapp3.1\01.TrapeziodArea.exe
+D:\ProgramsScool\FirstStepsinCoding-MoreExercises\01.TrapeziodArea\bin\Debug\netcoreapp3.1\01.TrapeziodArea.deps.json
+D:\ProgramsScool\FirstStepsinCoding-MoreExercises\01.TrapeziodArea\bin\Debug\netcoreapp3.1\01.TrapeziodArea.runtimeconfig.json
+D:\ProgramsScool\FirstStepsinCoding-MoreExercises\01.TrapeziodArea\bin\Debug\netcoreapp3.1\01.TrapeziodArea.runtimeconfig.dev.json
+D:\ProgramsScool\FirstStepsinCoding-MoreExercises\01.TrapeziodArea\bin\Debug\netcoreapp3.1\01.TrapeziodArea.dll
+D:\ProgramsScool\FirstStepsinCoding-MoreExercises\01.TrapeziodArea\bin\Debug\netcoreapp3.1\01.TrapeziodArea.pdb
+D:\ProgramsScool\FirstStepsinCoding-MoreExercises\01.TrapeziodArea\obj\Debug\netcoreapp3.1\01.TrapeziodArea.csproj.AssemblyReference.cache
+D:\ProgramsScool\FirstStepsinCoding-MoreExercises\01.TrapeziodArea\obj\Debug\netcoreapp3.1\01.TrapeziodArea.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProgramsScool\FirstStepsinCoding-MoreExercises\01.TrapeziodArea\obj\Debug\netcoreapp3.1\01.TrapeziodArea.AssemblyInfoInputs.cache
+D:\ProgramsScool\FirstStepsinCoding-MoreExercises\01.TrapeziodArea\obj\Debug\netcoreapp3.1\01.TrapeziodArea.AssemblyInfo.cs
+D:\ProgramsScool\FirstStepsinCoding-MoreExercises\01.TrapeziodArea\obj\Debug\netcoreapp3.1\01.TrapeziodArea.csproj.CoreCompileInputs.cache
+D:\ProgramsScool\FirstStepsinCoding-MoreExercises\01.TrapeziodArea\obj\Debug\netcoreapp3.1\01.TrapeziodArea.dll
+D:\ProgramsScool\FirstStepsinCoding-MoreExercises\01.TrapeziodArea\obj\Debug\netcoreapp3.1\01.TrapeziodArea.pdb
+D:\ProgramsScool\FirstStepsinCoding-MoreExercises\01.TrapeziodArea\obj\Debug\netcoreapp3.1\01.TrapeziodArea.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\08.TextProcessing-MoreExercise\02.AsciiSumator\obj\Debug\net7.0\02.AsciiSumator.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\08.TextProcessing-MoreExercise\02.AsciiSumator\obj\Debug\net7.0\02.AsciiSumator.AssemblyInfoInputs.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\08.TextProcessing-MoreExercise\02.AsciiSumator\obj\Debug\net7.0\02.AsciiSumator.AssemblyInfo.cs
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\08.TextProcessing-MoreExercise\02.AsciiSumator\obj\Debug\net7.0\02.AsciiSumator.csproj.CoreCompileInputs.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\08.TextProcessing-MoreExercise\02.AsciiSumator\obj\Debug\net7.0\02.AsciiSumator.sourcelink.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\08.TextProcessing-MoreExercise\02.AsciiSumator\bin\Debug\net7.0\02.AsciiSumator.exe
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\08.TextProcessing-MoreExercise\02.AsciiSumator\bin\Debug\net7.0\02.AsciiSumator.deps.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\08.TextProcessing-MoreExercise\02.AsciiSumator\bin\Debug\net7.0\02.AsciiSumator.runtimeconfig.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\08.TextProcessing-MoreExercise\02.AsciiSumator\bin\Debug\net7.0\02.AsciiSumator.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\08.TextProcessing-MoreExercise\02.AsciiSumator\bin\Debug\net7.0\02.AsciiSumator.pdb
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\08.TextProcessing-MoreExercise\02.AsciiSumator\obj\Debug\net7.0\02.AsciiSumator.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\08.TextProcessing-MoreExercise\02.AsciiSumator\obj\Debug\net7.0\refint\02.AsciiSumator.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\08.TextProcessing-MoreExercise\02.AsciiSumator\obj\Debug\net7.0\02.AsciiSumator.pdb
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\08.TextProcessing-MoreExercise\02.AsciiSumator\obj\Debug\net7.0\02.AsciiSumator.genruntimeconfig.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\08.TextProcessing-MoreExercise\02.AsciiSumator\obj\Debug\net7.0\ref\02.AsciiSumator.dll

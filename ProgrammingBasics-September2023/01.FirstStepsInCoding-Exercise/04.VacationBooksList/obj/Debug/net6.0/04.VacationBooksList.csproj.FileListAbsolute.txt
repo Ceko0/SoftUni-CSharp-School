@@ -1,0 +1,15 @@
+D:\ProgramsScool\PB-september.2023\01.FirstStepsInCoding-Exercise\04.VacationBooksList\bin\Debug\net6.0\04.VacationBooksList.exe
+D:\ProgramsScool\PB-september.2023\01.FirstStepsInCoding-Exercise\04.VacationBooksList\bin\Debug\net6.0\04.VacationBooksList.deps.json
+D:\ProgramsScool\PB-september.2023\01.FirstStepsInCoding-Exercise\04.VacationBooksList\bin\Debug\net6.0\04.VacationBooksList.runtimeconfig.json
+D:\ProgramsScool\PB-september.2023\01.FirstStepsInCoding-Exercise\04.VacationBooksList\bin\Debug\net6.0\04.VacationBooksList.dll
+D:\ProgramsScool\PB-september.2023\01.FirstStepsInCoding-Exercise\04.VacationBooksList\bin\Debug\net6.0\04.VacationBooksList.pdb
+D:\ProgramsScool\PB-september.2023\01.FirstStepsInCoding-Exercise\04.VacationBooksList\obj\Debug\net6.0\04.VacationBooksList.csproj.AssemblyReference.cache
+D:\ProgramsScool\PB-september.2023\01.FirstStepsInCoding-Exercise\04.VacationBooksList\obj\Debug\net6.0\04.VacationBooksList.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProgramsScool\PB-september.2023\01.FirstStepsInCoding-Exercise\04.VacationBooksList\obj\Debug\net6.0\04.VacationBooksList.AssemblyInfoInputs.cache
+D:\ProgramsScool\PB-september.2023\01.FirstStepsInCoding-Exercise\04.VacationBooksList\obj\Debug\net6.0\04.VacationBooksList.AssemblyInfo.cs
+D:\ProgramsScool\PB-september.2023\01.FirstStepsInCoding-Exercise\04.VacationBooksList\obj\Debug\net6.0\04.VacationBooksList.csproj.CoreCompileInputs.cache
+D:\ProgramsScool\PB-september.2023\01.FirstStepsInCoding-Exercise\04.VacationBooksList\obj\Debug\net6.0\04.VacationBooksList.dll
+D:\ProgramsScool\PB-september.2023\01.FirstStepsInCoding-Exercise\04.VacationBooksList\obj\Debug\net6.0\refint\04.VacationBooksList.dll
+D:\ProgramsScool\PB-september.2023\01.FirstStepsInCoding-Exercise\04.VacationBooksList\obj\Debug\net6.0\04.VacationBooksList.pdb
+D:\ProgramsScool\PB-september.2023\01.FirstStepsInCoding-Exercise\04.VacationBooksList\obj\Debug\net6.0\04.VacationBooksList.genruntimeconfig.cache
+D:\ProgramsScool\PB-september.2023\01.FirstStepsInCoding-Exercise\04.VacationBooksList\obj\Debug\net6.0\ref\04.VacationBooksList.dll

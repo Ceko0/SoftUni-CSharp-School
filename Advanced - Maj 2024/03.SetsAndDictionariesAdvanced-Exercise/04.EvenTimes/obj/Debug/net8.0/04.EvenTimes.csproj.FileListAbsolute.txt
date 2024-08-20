@@ -1,0 +1,15 @@
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\03.SetsAndDictionariesAdvanced-Exercise\04.EvenTimes\bin\Debug\net8.0\04.EvenTimes.exe
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\03.SetsAndDictionariesAdvanced-Exercise\04.EvenTimes\bin\Debug\net8.0\04.EvenTimes.deps.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\03.SetsAndDictionariesAdvanced-Exercise\04.EvenTimes\bin\Debug\net8.0\04.EvenTimes.runtimeconfig.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\03.SetsAndDictionariesAdvanced-Exercise\04.EvenTimes\bin\Debug\net8.0\04.EvenTimes.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\03.SetsAndDictionariesAdvanced-Exercise\04.EvenTimes\bin\Debug\net8.0\04.EvenTimes.pdb
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\03.SetsAndDictionariesAdvanced-Exercise\04.EvenTimes\obj\Debug\net8.0\04.EvenTimes.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\03.SetsAndDictionariesAdvanced-Exercise\04.EvenTimes\obj\Debug\net8.0\04.EvenTimes.AssemblyInfoInputs.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\03.SetsAndDictionariesAdvanced-Exercise\04.EvenTimes\obj\Debug\net8.0\04.EvenTimes.AssemblyInfo.cs
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\03.SetsAndDictionariesAdvanced-Exercise\04.EvenTimes\obj\Debug\net8.0\04.EvenTimes.csproj.CoreCompileInputs.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\03.SetsAndDictionariesAdvanced-Exercise\04.EvenTimes\obj\Debug\net8.0\04.EvenTimes.sourcelink.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\03.SetsAndDictionariesAdvanced-Exercise\04.EvenTimes\obj\Debug\net8.0\04.EvenTimes.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\03.SetsAndDictionariesAdvanced-Exercise\04.EvenTimes\obj\Debug\net8.0\refint\04.EvenTimes.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\03.SetsAndDictionariesAdvanced-Exercise\04.EvenTimes\obj\Debug\net8.0\04.EvenTimes.pdb
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\03.SetsAndDictionariesAdvanced-Exercise\04.EvenTimes\obj\Debug\net8.0\04.EvenTimes.genruntimeconfig.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\03.SetsAndDictionariesAdvanced-Exercise\04.EvenTimes\obj\Debug\net8.0\ref\04.EvenTimes.dll

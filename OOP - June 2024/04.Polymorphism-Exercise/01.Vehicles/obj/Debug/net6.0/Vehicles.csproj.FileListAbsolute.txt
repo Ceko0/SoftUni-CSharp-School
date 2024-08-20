@@ -1,0 +1,15 @@
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\OOP - June 2024\04.Polymorphism-Exercise\01.Vehicles\bin\Debug\net6.0\Vehicles.exe
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\OOP - June 2024\04.Polymorphism-Exercise\01.Vehicles\bin\Debug\net6.0\Vehicles.deps.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\OOP - June 2024\04.Polymorphism-Exercise\01.Vehicles\bin\Debug\net6.0\Vehicles.runtimeconfig.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\OOP - June 2024\04.Polymorphism-Exercise\01.Vehicles\bin\Debug\net6.0\Vehicles.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\OOP - June 2024\04.Polymorphism-Exercise\01.Vehicles\bin\Debug\net6.0\Vehicles.pdb
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\OOP - June 2024\04.Polymorphism-Exercise\01.Vehicles\obj\Debug\net6.0\Vehicles.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\OOP - June 2024\04.Polymorphism-Exercise\01.Vehicles\obj\Debug\net6.0\Vehicles.AssemblyInfoInputs.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\OOP - June 2024\04.Polymorphism-Exercise\01.Vehicles\obj\Debug\net6.0\Vehicles.AssemblyInfo.cs
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\OOP - June 2024\04.Polymorphism-Exercise\01.Vehicles\obj\Debug\net6.0\Vehicles.csproj.CoreCompileInputs.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\OOP - June 2024\04.Polymorphism-Exercise\01.Vehicles\obj\Debug\net6.0\Vehicles.sourcelink.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\OOP - June 2024\04.Polymorphism-Exercise\01.Vehicles\obj\Debug\net6.0\Vehicles.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\OOP - June 2024\04.Polymorphism-Exercise\01.Vehicles\obj\Debug\net6.0\refint\Vehicles.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\OOP - June 2024\04.Polymorphism-Exercise\01.Vehicles\obj\Debug\net6.0\Vehicles.pdb
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\OOP - June 2024\04.Polymorphism-Exercise\01.Vehicles\obj\Debug\net6.0\Vehicles.genruntimeconfig.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\OOP - June 2024\04.Polymorphism-Exercise\01.Vehicles\obj\Debug\net6.0\ref\Vehicles.dll

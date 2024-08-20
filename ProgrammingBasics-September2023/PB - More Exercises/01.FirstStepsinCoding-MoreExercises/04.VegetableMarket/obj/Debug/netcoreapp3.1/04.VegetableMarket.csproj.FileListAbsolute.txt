@@ -1,0 +1,14 @@
+D:\ProgramsScool\FirstStepsinCoding-MoreExercises\04.VegetableMarket\bin\Debug\netcoreapp3.1\04.VegetableMarket.exe
+D:\ProgramsScool\FirstStepsinCoding-MoreExercises\04.VegetableMarket\bin\Debug\netcoreapp3.1\04.VegetableMarket.deps.json
+D:\ProgramsScool\FirstStepsinCoding-MoreExercises\04.VegetableMarket\bin\Debug\netcoreapp3.1\04.VegetableMarket.runtimeconfig.json
+D:\ProgramsScool\FirstStepsinCoding-MoreExercises\04.VegetableMarket\bin\Debug\netcoreapp3.1\04.VegetableMarket.runtimeconfig.dev.json
+D:\ProgramsScool\FirstStepsinCoding-MoreExercises\04.VegetableMarket\bin\Debug\netcoreapp3.1\04.VegetableMarket.dll
+D:\ProgramsScool\FirstStepsinCoding-MoreExercises\04.VegetableMarket\bin\Debug\netcoreapp3.1\04.VegetableMarket.pdb
+D:\ProgramsScool\FirstStepsinCoding-MoreExercises\04.VegetableMarket\obj\Debug\netcoreapp3.1\04.VegetableMarket.csproj.AssemblyReference.cache
+D:\ProgramsScool\FirstStepsinCoding-MoreExercises\04.VegetableMarket\obj\Debug\netcoreapp3.1\04.VegetableMarket.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProgramsScool\FirstStepsinCoding-MoreExercises\04.VegetableMarket\obj\Debug\netcoreapp3.1\04.VegetableMarket.AssemblyInfoInputs.cache
+D:\ProgramsScool\FirstStepsinCoding-MoreExercises\04.VegetableMarket\obj\Debug\netcoreapp3.1\04.VegetableMarket.AssemblyInfo.cs
+D:\ProgramsScool\FirstStepsinCoding-MoreExercises\04.VegetableMarket\obj\Debug\netcoreapp3.1\04.VegetableMarket.csproj.CoreCompileInputs.cache
+D:\ProgramsScool\FirstStepsinCoding-MoreExercises\04.VegetableMarket\obj\Debug\netcoreapp3.1\04.VegetableMarket.dll
+D:\ProgramsScool\FirstStepsinCoding-MoreExercises\04.VegetableMarket\obj\Debug\netcoreapp3.1\04.VegetableMarket.pdb
+D:\ProgramsScool\FirstStepsinCoding-MoreExercises\04.VegetableMarket\obj\Debug\netcoreapp3.1\04.VegetableMarket.genruntimeconfig.cache

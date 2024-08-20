@@ -1,0 +1,15 @@
+D:\ProgramsScool\PB-september.2023\07,ForLoop-Lab\10.OddEvenSum\bin\Debug\net6.0\10.OddEvenSum.exe
+D:\ProgramsScool\PB-september.2023\07,ForLoop-Lab\10.OddEvenSum\bin\Debug\net6.0\10.OddEvenSum.deps.json
+D:\ProgramsScool\PB-september.2023\07,ForLoop-Lab\10.OddEvenSum\bin\Debug\net6.0\10.OddEvenSum.runtimeconfig.json
+D:\ProgramsScool\PB-september.2023\07,ForLoop-Lab\10.OddEvenSum\bin\Debug\net6.0\10.OddEvenSum.dll
+D:\ProgramsScool\PB-september.2023\07,ForLoop-Lab\10.OddEvenSum\bin\Debug\net6.0\10.OddEvenSum.pdb
+D:\ProgramsScool\PB-september.2023\07,ForLoop-Lab\10.OddEvenSum\obj\Debug\net6.0\10.OddEvenSum.csproj.AssemblyReference.cache
+D:\ProgramsScool\PB-september.2023\07,ForLoop-Lab\10.OddEvenSum\obj\Debug\net6.0\10.OddEvenSum.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProgramsScool\PB-september.2023\07,ForLoop-Lab\10.OddEvenSum\obj\Debug\net6.0\10.OddEvenSum.AssemblyInfoInputs.cache
+D:\ProgramsScool\PB-september.2023\07,ForLoop-Lab\10.OddEvenSum\obj\Debug\net6.0\10.OddEvenSum.AssemblyInfo.cs
+D:\ProgramsScool\PB-september.2023\07,ForLoop-Lab\10.OddEvenSum\obj\Debug\net6.0\10.OddEvenSum.csproj.CoreCompileInputs.cache
+D:\ProgramsScool\PB-september.2023\07,ForLoop-Lab\10.OddEvenSum\obj\Debug\net6.0\10.OddEvenSum.dll
+D:\ProgramsScool\PB-september.2023\07,ForLoop-Lab\10.OddEvenSum\obj\Debug\net6.0\refint\10.OddEvenSum.dll
+D:\ProgramsScool\PB-september.2023\07,ForLoop-Lab\10.OddEvenSum\obj\Debug\net6.0\10.OddEvenSum.pdb
+D:\ProgramsScool\PB-september.2023\07,ForLoop-Lab\10.OddEvenSum\obj\Debug\net6.0\10.OddEvenSum.genruntimeconfig.cache
+D:\ProgramsScool\PB-september.2023\07,ForLoop-Lab\10.OddEvenSum\obj\Debug\net6.0\ref\10.OddEvenSum.dll

@@ -1,0 +1,15 @@
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\05.ListsLab\02.GaussTrick\bin\Debug\net7.0\02.GaussTrick.exe
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\05.ListsLab\02.GaussTrick\bin\Debug\net7.0\02.GaussTrick.deps.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\05.ListsLab\02.GaussTrick\bin\Debug\net7.0\02.GaussTrick.runtimeconfig.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\05.ListsLab\02.GaussTrick\bin\Debug\net7.0\02.GaussTrick.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\05.ListsLab\02.GaussTrick\bin\Debug\net7.0\02.GaussTrick.pdb
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\05.ListsLab\02.GaussTrick\obj\Debug\net7.0\02.GaussTrick.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\05.ListsLab\02.GaussTrick\obj\Debug\net7.0\02.GaussTrick.AssemblyInfoInputs.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\05.ListsLab\02.GaussTrick\obj\Debug\net7.0\02.GaussTrick.AssemblyInfo.cs
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\05.ListsLab\02.GaussTrick\obj\Debug\net7.0\02.GaussTrick.csproj.CoreCompileInputs.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\05.ListsLab\02.GaussTrick\obj\Debug\net7.0\02.GaussTrick.sourcelink.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\05.ListsLab\02.GaussTrick\obj\Debug\net7.0\02.GaussTrick.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\05.ListsLab\02.GaussTrick\obj\Debug\net7.0\refint\02.GaussTrick.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\05.ListsLab\02.GaussTrick\obj\Debug\net7.0\02.GaussTrick.pdb
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\05.ListsLab\02.GaussTrick\obj\Debug\net7.0\02.GaussTrick.genruntimeconfig.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\05.ListsLab\02.GaussTrick\obj\Debug\net7.0\ref\02.GaussTrick.dll

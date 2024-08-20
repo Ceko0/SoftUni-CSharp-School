@@ -1,0 +1,15 @@
+D:\ProgramsScool\PB-september.2023\04.ConditionalStatements-Exercise\01.SumSeconds\bin\Debug\net6.0\01.SumSeconds.exe
+D:\ProgramsScool\PB-september.2023\04.ConditionalStatements-Exercise\01.SumSeconds\bin\Debug\net6.0\01.SumSeconds.deps.json
+D:\ProgramsScool\PB-september.2023\04.ConditionalStatements-Exercise\01.SumSeconds\bin\Debug\net6.0\01.SumSeconds.runtimeconfig.json
+D:\ProgramsScool\PB-september.2023\04.ConditionalStatements-Exercise\01.SumSeconds\bin\Debug\net6.0\01.SumSeconds.dll
+D:\ProgramsScool\PB-september.2023\04.ConditionalStatements-Exercise\01.SumSeconds\bin\Debug\net6.0\01.SumSeconds.pdb
+D:\ProgramsScool\PB-september.2023\04.ConditionalStatements-Exercise\01.SumSeconds\obj\Debug\net6.0\01.SumSeconds.csproj.AssemblyReference.cache
+D:\ProgramsScool\PB-september.2023\04.ConditionalStatements-Exercise\01.SumSeconds\obj\Debug\net6.0\01.SumSeconds.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProgramsScool\PB-september.2023\04.ConditionalStatements-Exercise\01.SumSeconds\obj\Debug\net6.0\01.SumSeconds.AssemblyInfoInputs.cache
+D:\ProgramsScool\PB-september.2023\04.ConditionalStatements-Exercise\01.SumSeconds\obj\Debug\net6.0\01.SumSeconds.AssemblyInfo.cs
+D:\ProgramsScool\PB-september.2023\04.ConditionalStatements-Exercise\01.SumSeconds\obj\Debug\net6.0\01.SumSeconds.csproj.CoreCompileInputs.cache
+D:\ProgramsScool\PB-september.2023\04.ConditionalStatements-Exercise\01.SumSeconds\obj\Debug\net6.0\01.SumSeconds.dll
+D:\ProgramsScool\PB-september.2023\04.ConditionalStatements-Exercise\01.SumSeconds\obj\Debug\net6.0\refint\01.SumSeconds.dll
+D:\ProgramsScool\PB-september.2023\04.ConditionalStatements-Exercise\01.SumSeconds\obj\Debug\net6.0\01.SumSeconds.pdb
+D:\ProgramsScool\PB-september.2023\04.ConditionalStatements-Exercise\01.SumSeconds\obj\Debug\net6.0\01.SumSeconds.genruntimeconfig.cache
+D:\ProgramsScool\PB-september.2023\04.ConditionalStatements-Exercise\01.SumSeconds\obj\Debug\net6.0\ref\01.SumSeconds.dll

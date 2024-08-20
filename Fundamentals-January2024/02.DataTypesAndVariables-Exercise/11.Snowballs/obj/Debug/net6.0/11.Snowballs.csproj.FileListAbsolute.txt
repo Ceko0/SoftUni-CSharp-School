@@ -1,0 +1,15 @@
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\02.DataTypesAndVariables-Exercise\11.Snowballs\bin\Debug\net6.0\11.Snowballs.exe
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\02.DataTypesAndVariables-Exercise\11.Snowballs\bin\Debug\net6.0\11.Snowballs.deps.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\02.DataTypesAndVariables-Exercise\11.Snowballs\bin\Debug\net6.0\11.Snowballs.runtimeconfig.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\02.DataTypesAndVariables-Exercise\11.Snowballs\bin\Debug\net6.0\11.Snowballs.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\02.DataTypesAndVariables-Exercise\11.Snowballs\bin\Debug\net6.0\11.Snowballs.pdb
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\02.DataTypesAndVariables-Exercise\11.Snowballs\obj\Debug\net6.0\11.Snowballs.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\02.DataTypesAndVariables-Exercise\11.Snowballs\obj\Debug\net6.0\11.Snowballs.AssemblyInfoInputs.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\02.DataTypesAndVariables-Exercise\11.Snowballs\obj\Debug\net6.0\11.Snowballs.AssemblyInfo.cs
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\02.DataTypesAndVariables-Exercise\11.Snowballs\obj\Debug\net6.0\11.Snowballs.csproj.CoreCompileInputs.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\02.DataTypesAndVariables-Exercise\11.Snowballs\obj\Debug\net6.0\11.Snowballs.sourcelink.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\02.DataTypesAndVariables-Exercise\11.Snowballs\obj\Debug\net6.0\11.Snowballs.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\02.DataTypesAndVariables-Exercise\11.Snowballs\obj\Debug\net6.0\refint\11.Snowballs.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\02.DataTypesAndVariables-Exercise\11.Snowballs\obj\Debug\net6.0\11.Snowballs.pdb
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\02.DataTypesAndVariables-Exercise\11.Snowballs\obj\Debug\net6.0\11.Snowballs.genruntimeconfig.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\02.DataTypesAndVariables-Exercise\11.Snowballs\obj\Debug\net6.0\ref\11.Snowballs.dll

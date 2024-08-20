@@ -1,0 +1,15 @@
+D:\ProgramsScool\Git Hub\SoftUni-school\Fundamentals - January 2024\01.BasicSyntax-Exercise\09.PadawanEquipment\bin\Debug\net7.0\09.PadawanEquipment.exe
+D:\ProgramsScool\Git Hub\SoftUni-school\Fundamentals - January 2024\01.BasicSyntax-Exercise\09.PadawanEquipment\bin\Debug\net7.0\09.PadawanEquipment.deps.json
+D:\ProgramsScool\Git Hub\SoftUni-school\Fundamentals - January 2024\01.BasicSyntax-Exercise\09.PadawanEquipment\bin\Debug\net7.0\09.PadawanEquipment.runtimeconfig.json
+D:\ProgramsScool\Git Hub\SoftUni-school\Fundamentals - January 2024\01.BasicSyntax-Exercise\09.PadawanEquipment\bin\Debug\net7.0\09.PadawanEquipment.dll
+D:\ProgramsScool\Git Hub\SoftUni-school\Fundamentals - January 2024\01.BasicSyntax-Exercise\09.PadawanEquipment\bin\Debug\net7.0\09.PadawanEquipment.pdb
+D:\ProgramsScool\Git Hub\SoftUni-school\Fundamentals - January 2024\01.BasicSyntax-Exercise\09.PadawanEquipment\obj\Debug\net7.0\09.PadawanEquipment.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProgramsScool\Git Hub\SoftUni-school\Fundamentals - January 2024\01.BasicSyntax-Exercise\09.PadawanEquipment\obj\Debug\net7.0\09.PadawanEquipment.AssemblyInfoInputs.cache
+D:\ProgramsScool\Git Hub\SoftUni-school\Fundamentals - January 2024\01.BasicSyntax-Exercise\09.PadawanEquipment\obj\Debug\net7.0\09.PadawanEquipment.AssemblyInfo.cs
+D:\ProgramsScool\Git Hub\SoftUni-school\Fundamentals - January 2024\01.BasicSyntax-Exercise\09.PadawanEquipment\obj\Debug\net7.0\09.PadawanEquipment.csproj.CoreCompileInputs.cache
+D:\ProgramsScool\Git Hub\SoftUni-school\Fundamentals - January 2024\01.BasicSyntax-Exercise\09.PadawanEquipment\obj\Debug\net7.0\09.PadawanEquipment.sourcelink.json
+D:\ProgramsScool\Git Hub\SoftUni-school\Fundamentals - January 2024\01.BasicSyntax-Exercise\09.PadawanEquipment\obj\Debug\net7.0\09.PadawanEquipment.dll
+D:\ProgramsScool\Git Hub\SoftUni-school\Fundamentals - January 2024\01.BasicSyntax-Exercise\09.PadawanEquipment\obj\Debug\net7.0\refint\09.PadawanEquipment.dll
+D:\ProgramsScool\Git Hub\SoftUni-school\Fundamentals - January 2024\01.BasicSyntax-Exercise\09.PadawanEquipment\obj\Debug\net7.0\09.PadawanEquipment.pdb
+D:\ProgramsScool\Git Hub\SoftUni-school\Fundamentals - January 2024\01.BasicSyntax-Exercise\09.PadawanEquipment\obj\Debug\net7.0\09.PadawanEquipment.genruntimeconfig.cache
+D:\ProgramsScool\Git Hub\SoftUni-school\Fundamentals - January 2024\01.BasicSyntax-Exercise\09.PadawanEquipment\obj\Debug\net7.0\ref\09.PadawanEquipment.dll

@@ -1,0 +1,15 @@
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\OOP - June 2024\05.ExceptionsAndErrorHandling-Lab\01.SquareRoot\bin\Debug\net6.0\01.SquareRoot.exe
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\OOP - June 2024\05.ExceptionsAndErrorHandling-Lab\01.SquareRoot\bin\Debug\net6.0\01.SquareRoot.deps.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\OOP - June 2024\05.ExceptionsAndErrorHandling-Lab\01.SquareRoot\bin\Debug\net6.0\01.SquareRoot.runtimeconfig.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\OOP - June 2024\05.ExceptionsAndErrorHandling-Lab\01.SquareRoot\bin\Debug\net6.0\01.SquareRoot.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\OOP - June 2024\05.ExceptionsAndErrorHandling-Lab\01.SquareRoot\bin\Debug\net6.0\01.SquareRoot.pdb
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\OOP - June 2024\05.ExceptionsAndErrorHandling-Lab\01.SquareRoot\obj\Debug\net6.0\01.SquareRoot.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\OOP - June 2024\05.ExceptionsAndErrorHandling-Lab\01.SquareRoot\obj\Debug\net6.0\01.SquareRoot.AssemblyInfoInputs.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\OOP - June 2024\05.ExceptionsAndErrorHandling-Lab\01.SquareRoot\obj\Debug\net6.0\01.SquareRoot.AssemblyInfo.cs
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\OOP - June 2024\05.ExceptionsAndErrorHandling-Lab\01.SquareRoot\obj\Debug\net6.0\01.SquareRoot.csproj.CoreCompileInputs.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\OOP - June 2024\05.ExceptionsAndErrorHandling-Lab\01.SquareRoot\obj\Debug\net6.0\01.SquareRoot.sourcelink.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\OOP - June 2024\05.ExceptionsAndErrorHandling-Lab\01.SquareRoot\obj\Debug\net6.0\01.SquareRoot.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\OOP - June 2024\05.ExceptionsAndErrorHandling-Lab\01.SquareRoot\obj\Debug\net6.0\refint\01.SquareRoot.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\OOP - June 2024\05.ExceptionsAndErrorHandling-Lab\01.SquareRoot\obj\Debug\net6.0\01.SquareRoot.pdb
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\OOP - June 2024\05.ExceptionsAndErrorHandling-Lab\01.SquareRoot\obj\Debug\net6.0\01.SquareRoot.genruntimeconfig.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\OOP - June 2024\05.ExceptionsAndErrorHandling-Lab\01.SquareRoot\obj\Debug\net6.0\ref\01.SquareRoot.dll

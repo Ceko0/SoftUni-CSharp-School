@@ -1,0 +1,15 @@
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\MyRegulaExam\AdvancedRegularExam-22June2024\01.RapidCourier\obj\Debug\net6.0\01.RapidCourier.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\MyRegulaExam\AdvancedRegularExam-22June2024\01.RapidCourier\obj\Debug\net6.0\01.RapidCourier.AssemblyInfoInputs.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\MyRegulaExam\AdvancedRegularExam-22June2024\01.RapidCourier\obj\Debug\net6.0\01.RapidCourier.AssemblyInfo.cs
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\MyRegulaExam\AdvancedRegularExam-22June2024\01.RapidCourier\obj\Debug\net6.0\01.RapidCourier.csproj.CoreCompileInputs.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\MyRegulaExam\AdvancedRegularExam-22June2024\01.RapidCourier\obj\Debug\net6.0\01.RapidCourier.sourcelink.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\MyRegulaExam\AdvancedRegularExam-22June2024\01.RapidCourier\bin\Debug\net6.0\01.RapidCourier.exe
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\MyRegulaExam\AdvancedRegularExam-22June2024\01.RapidCourier\bin\Debug\net6.0\01.RapidCourier.deps.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\MyRegulaExam\AdvancedRegularExam-22June2024\01.RapidCourier\bin\Debug\net6.0\01.RapidCourier.runtimeconfig.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\MyRegulaExam\AdvancedRegularExam-22June2024\01.RapidCourier\bin\Debug\net6.0\01.RapidCourier.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\MyRegulaExam\AdvancedRegularExam-22June2024\01.RapidCourier\bin\Debug\net6.0\01.RapidCourier.pdb
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\MyRegulaExam\AdvancedRegularExam-22June2024\01.RapidCourier\obj\Debug\net6.0\01.RapidCourier.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\MyRegulaExam\AdvancedRegularExam-22June2024\01.RapidCourier\obj\Debug\net6.0\refint\01.RapidCourier.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\MyRegulaExam\AdvancedRegularExam-22June2024\01.RapidCourier\obj\Debug\net6.0\01.RapidCourier.pdb
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\MyRegulaExam\AdvancedRegularExam-22June2024\01.RapidCourier\obj\Debug\net6.0\01.RapidCourier.genruntimeconfig.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\MyRegulaExam\AdvancedRegularExam-22June2024\01.RapidCourier\obj\Debug\net6.0\ref\01.RapidCourier.dll

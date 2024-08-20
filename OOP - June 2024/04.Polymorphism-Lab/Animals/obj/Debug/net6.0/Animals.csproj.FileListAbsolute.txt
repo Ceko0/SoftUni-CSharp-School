@@ -1,0 +1,15 @@
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\OOP - June 2024\04.Polymorphism-Lab\Animals\bin\Debug\net6.0\Animals.exe
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\OOP - June 2024\04.Polymorphism-Lab\Animals\bin\Debug\net6.0\Animals.deps.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\OOP - June 2024\04.Polymorphism-Lab\Animals\bin\Debug\net6.0\Animals.runtimeconfig.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\OOP - June 2024\04.Polymorphism-Lab\Animals\bin\Debug\net6.0\Animals.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\OOP - June 2024\04.Polymorphism-Lab\Animals\bin\Debug\net6.0\Animals.pdb
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\OOP - June 2024\04.Polymorphism-Lab\Animals\obj\Debug\net6.0\Animals.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\OOP - June 2024\04.Polymorphism-Lab\Animals\obj\Debug\net6.0\Animals.AssemblyInfoInputs.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\OOP - June 2024\04.Polymorphism-Lab\Animals\obj\Debug\net6.0\Animals.AssemblyInfo.cs
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\OOP - June 2024\04.Polymorphism-Lab\Animals\obj\Debug\net6.0\Animals.csproj.CoreCompileInputs.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\OOP - June 2024\04.Polymorphism-Lab\Animals\obj\Debug\net6.0\Animals.sourcelink.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\OOP - June 2024\04.Polymorphism-Lab\Animals\obj\Debug\net6.0\Animals.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\OOP - June 2024\04.Polymorphism-Lab\Animals\obj\Debug\net6.0\refint\Animals.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\OOP - June 2024\04.Polymorphism-Lab\Animals\obj\Debug\net6.0\Animals.pdb
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\OOP - June 2024\04.Polymorphism-Lab\Animals\obj\Debug\net6.0\Animals.genruntimeconfig.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\OOP - June 2024\04.Polymorphism-Lab\Animals\obj\Debug\net6.0\ref\Animals.dll

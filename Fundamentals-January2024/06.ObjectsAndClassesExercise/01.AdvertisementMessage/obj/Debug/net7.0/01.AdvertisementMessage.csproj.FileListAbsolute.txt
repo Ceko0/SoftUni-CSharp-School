@@ -1,0 +1,15 @@
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\06.ObjectsAndClassesExercise\01.AdvertisementMessage\bin\Debug\net7.0\01.AdvertisementMessage.exe
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\06.ObjectsAndClassesExercise\01.AdvertisementMessage\bin\Debug\net7.0\01.AdvertisementMessage.deps.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\06.ObjectsAndClassesExercise\01.AdvertisementMessage\bin\Debug\net7.0\01.AdvertisementMessage.runtimeconfig.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\06.ObjectsAndClassesExercise\01.AdvertisementMessage\bin\Debug\net7.0\01.AdvertisementMessage.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\06.ObjectsAndClassesExercise\01.AdvertisementMessage\bin\Debug\net7.0\01.AdvertisementMessage.pdb
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\06.ObjectsAndClassesExercise\01.AdvertisementMessage\obj\Debug\net7.0\01.AdvertisementMessage.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\06.ObjectsAndClassesExercise\01.AdvertisementMessage\obj\Debug\net7.0\01.AdvertisementMessage.AssemblyInfoInputs.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\06.ObjectsAndClassesExercise\01.AdvertisementMessage\obj\Debug\net7.0\01.AdvertisementMessage.AssemblyInfo.cs
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\06.ObjectsAndClassesExercise\01.AdvertisementMessage\obj\Debug\net7.0\01.AdvertisementMessage.csproj.CoreCompileInputs.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\06.ObjectsAndClassesExercise\01.AdvertisementMessage\obj\Debug\net7.0\01.AdvertisementMessage.sourcelink.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\06.ObjectsAndClassesExercise\01.AdvertisementMessage\obj\Debug\net7.0\01.AdvertisementMessage.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\06.ObjectsAndClassesExercise\01.AdvertisementMessage\obj\Debug\net7.0\refint\01.AdvertisementMessage.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\06.ObjectsAndClassesExercise\01.AdvertisementMessage\obj\Debug\net7.0\01.AdvertisementMessage.pdb
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\06.ObjectsAndClassesExercise\01.AdvertisementMessage\obj\Debug\net7.0\01.AdvertisementMessage.genruntimeconfig.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\06.ObjectsAndClassesExercise\01.AdvertisementMessage\obj\Debug\net7.0\ref\01.AdvertisementMessage.dll

@@ -1,0 +1,15 @@
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\06.ObjectsAndClasses-MoreExercise\03.SpeedRacing\obj\Debug\net7.0\03.SpeedRacing.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\06.ObjectsAndClasses-MoreExercise\03.SpeedRacing\obj\Debug\net7.0\03.SpeedRacing.AssemblyInfoInputs.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\06.ObjectsAndClasses-MoreExercise\03.SpeedRacing\obj\Debug\net7.0\03.SpeedRacing.AssemblyInfo.cs
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\06.ObjectsAndClasses-MoreExercise\03.SpeedRacing\obj\Debug\net7.0\03.SpeedRacing.csproj.CoreCompileInputs.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\06.ObjectsAndClasses-MoreExercise\03.SpeedRacing\obj\Debug\net7.0\03.SpeedRacing.sourcelink.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\06.ObjectsAndClasses-MoreExercise\03.SpeedRacing\bin\Debug\net7.0\03.SpeedRacing.exe
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\06.ObjectsAndClasses-MoreExercise\03.SpeedRacing\bin\Debug\net7.0\03.SpeedRacing.deps.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\06.ObjectsAndClasses-MoreExercise\03.SpeedRacing\bin\Debug\net7.0\03.SpeedRacing.runtimeconfig.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\06.ObjectsAndClasses-MoreExercise\03.SpeedRacing\bin\Debug\net7.0\03.SpeedRacing.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\06.ObjectsAndClasses-MoreExercise\03.SpeedRacing\bin\Debug\net7.0\03.SpeedRacing.pdb
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\06.ObjectsAndClasses-MoreExercise\03.SpeedRacing\obj\Debug\net7.0\03.SpeedRacing.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\06.ObjectsAndClasses-MoreExercise\03.SpeedRacing\obj\Debug\net7.0\refint\03.SpeedRacing.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\06.ObjectsAndClasses-MoreExercise\03.SpeedRacing\obj\Debug\net7.0\03.SpeedRacing.pdb
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\06.ObjectsAndClasses-MoreExercise\03.SpeedRacing\obj\Debug\net7.0\03.SpeedRacing.genruntimeconfig.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\06.ObjectsAndClasses-MoreExercise\03.SpeedRacing\obj\Debug\net7.0\ref\03.SpeedRacing.dll

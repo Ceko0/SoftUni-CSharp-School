@@ -1,0 +1,15 @@
+D:\ProgramsScool\Fundamental C# 2024\testingSwitchExpresion\02.BikeRace\bin\Debug\net6.0\02.BikeRace.exe
+D:\ProgramsScool\Fundamental C# 2024\testingSwitchExpresion\02.BikeRace\bin\Debug\net6.0\02.BikeRace.deps.json
+D:\ProgramsScool\Fundamental C# 2024\testingSwitchExpresion\02.BikeRace\bin\Debug\net6.0\02.BikeRace.runtimeconfig.json
+D:\ProgramsScool\Fundamental C# 2024\testingSwitchExpresion\02.BikeRace\bin\Debug\net6.0\02.BikeRace.dll
+D:\ProgramsScool\Fundamental C# 2024\testingSwitchExpresion\02.BikeRace\bin\Debug\net6.0\02.BikeRace.pdb
+D:\ProgramsScool\Fundamental C# 2024\testingSwitchExpresion\02.BikeRace\obj\Debug\net6.0\02.BikeRace.csproj.AssemblyReference.cache
+D:\ProgramsScool\Fundamental C# 2024\testingSwitchExpresion\02.BikeRace\obj\Debug\net6.0\02.BikeRace.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProgramsScool\Fundamental C# 2024\testingSwitchExpresion\02.BikeRace\obj\Debug\net6.0\02.BikeRace.AssemblyInfoInputs.cache
+D:\ProgramsScool\Fundamental C# 2024\testingSwitchExpresion\02.BikeRace\obj\Debug\net6.0\02.BikeRace.AssemblyInfo.cs
+D:\ProgramsScool\Fundamental C# 2024\testingSwitchExpresion\02.BikeRace\obj\Debug\net6.0\02.BikeRace.csproj.CoreCompileInputs.cache
+D:\ProgramsScool\Fundamental C# 2024\testingSwitchExpresion\02.BikeRace\obj\Debug\net6.0\02.BikeRace.dll
+D:\ProgramsScool\Fundamental C# 2024\testingSwitchExpresion\02.BikeRace\obj\Debug\net6.0\refint\02.BikeRace.dll
+D:\ProgramsScool\Fundamental C# 2024\testingSwitchExpresion\02.BikeRace\obj\Debug\net6.0\02.BikeRace.pdb
+D:\ProgramsScool\Fundamental C# 2024\testingSwitchExpresion\02.BikeRace\obj\Debug\net6.0\02.BikeRace.genruntimeconfig.cache
+D:\ProgramsScool\Fundamental C# 2024\testingSwitchExpresion\02.BikeRace\obj\Debug\net6.0\ref\02.BikeRace.dll

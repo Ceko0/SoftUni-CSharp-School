@@ -1,0 +1,104 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\Advanced - Maj 2024\\06.DefiningClasses-Lab\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8EBF80DC-85D3-4111-92E8-60F265B2AC44}|CarManufacturer\\CarManufacturer.csproj|d:\\programsscool\\git hub\\softuni-csharp\\advanced - maj 2024\\06.definingclasses-lab\\carmanufacturer\\engine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8EBF80DC-85D3-4111-92E8-60F265B2AC44}|CarManufacturer\\CarManufacturer.csproj|solutionrelative:carmanufacturer\\engine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EBF80DC-85D3-4111-92E8-60F265B2AC44}|CarManufacturer\\CarManufacturer.csproj|d:\\programsscool\\git hub\\softuni-csharp\\advanced - maj 2024\\06.definingclasses-lab\\carmanufacturer\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8EBF80DC-85D3-4111-92E8-60F265B2AC44}|CarManufacturer\\CarManufacturer.csproj|solutionrelative:carmanufacturer\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EBF80DC-85D3-4111-92E8-60F265B2AC44}|CarManufacturer\\CarManufacturer.csproj|d:\\programsscool\\git hub\\softuni-csharp\\advanced - maj 2024\\06.definingclasses-lab\\carmanufacturer\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8EBF80DC-85D3-4111-92E8-60F265B2AC44}|CarManufacturer\\CarManufacturer.csproj|solutionrelative:carmanufacturer\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EBF80DC-85D3-4111-92E8-60F265B2AC44}|CarManufacturer\\CarManufacturer.csproj|d:\\programsscool\\git hub\\softuni-csharp\\advanced - maj 2024\\06.definingclasses-lab\\carmanufacturer\\tire.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8EBF80DC-85D3-4111-92E8-60F265B2AC44}|CarManufacturer\\CarManufacturer.csproj|solutionrelative:carmanufacturer\\tire.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Tire.cs",
+              "DocumentMoniker": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\Advanced - Maj 2024\\06.DefiningClasses-Lab\\CarManufacturer\\Tire.cs",
+              "RelativeDocumentMoniker": "CarManufacturer\\Tire.cs",
+              "ToolTip": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\Advanced - Maj 2024\\06.DefiningClasses-Lab\\CarManufacturer\\Tire.cs",
+              "RelativeToolTip": "CarManufacturer\\Tire.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T13:59:50.478Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Engine.cs",
+              "DocumentMoniker": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\Advanced - Maj 2024\\06.DefiningClasses-Lab\\CarManufacturer\\Engine.cs",
+              "RelativeDocumentMoniker": "CarManufacturer\\Engine.cs",
+              "ToolTip": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\Advanced - Maj 2024\\06.DefiningClasses-Lab\\CarManufacturer\\Engine.cs",
+              "RelativeToolTip": "CarManufacturer\\Engine.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T13:56:39.678Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Car.cs",
+              "DocumentMoniker": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\Advanced - Maj 2024\\06.DefiningClasses-Lab\\CarManufacturer\\Car.cs",
+              "RelativeDocumentMoniker": "CarManufacturer\\Car.cs",
+              "ToolTip": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\Advanced - Maj 2024\\06.DefiningClasses-Lab\\CarManufacturer\\Car.cs",
+              "RelativeToolTip": "CarManufacturer\\Car.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADsAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T15:58:56.578Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StartUp.cs",
+              "DocumentMoniker": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\Advanced - Maj 2024\\06.DefiningClasses-Lab\\CarManufacturer\\StartUp.cs",
+              "RelativeDocumentMoniker": "CarManufacturer\\StartUp.cs",
+              "ToolTip": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\Advanced - Maj 2024\\06.DefiningClasses-Lab\\CarManufacturer\\StartUp.cs",
+              "RelativeToolTip": "CarManufacturer\\StartUp.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAkwC0AAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T15:58:11.165Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

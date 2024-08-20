@@ -1,0 +1,15 @@
+D:\ProgramsScool\Fundamental C# 2024\01.BasicSyntax,ConditionalStatementsAndLoops-Lab\13.HolidaysBetweenTwoDates\bin\Debug\net6.0\13.HolidaysBetweenTwoDates.exe
+D:\ProgramsScool\Fundamental C# 2024\01.BasicSyntax,ConditionalStatementsAndLoops-Lab\13.HolidaysBetweenTwoDates\bin\Debug\net6.0\13.HolidaysBetweenTwoDates.deps.json
+D:\ProgramsScool\Fundamental C# 2024\01.BasicSyntax,ConditionalStatementsAndLoops-Lab\13.HolidaysBetweenTwoDates\bin\Debug\net6.0\13.HolidaysBetweenTwoDates.runtimeconfig.json
+D:\ProgramsScool\Fundamental C# 2024\01.BasicSyntax,ConditionalStatementsAndLoops-Lab\13.HolidaysBetweenTwoDates\bin\Debug\net6.0\13.HolidaysBetweenTwoDates.dll
+D:\ProgramsScool\Fundamental C# 2024\01.BasicSyntax,ConditionalStatementsAndLoops-Lab\13.HolidaysBetweenTwoDates\bin\Debug\net6.0\13.HolidaysBetweenTwoDates.pdb
+D:\ProgramsScool\Fundamental C# 2024\01.BasicSyntax,ConditionalStatementsAndLoops-Lab\13.HolidaysBetweenTwoDates\obj\Debug\net6.0\13.HolidaysBetweenTwoDates.csproj.AssemblyReference.cache
+D:\ProgramsScool\Fundamental C# 2024\01.BasicSyntax,ConditionalStatementsAndLoops-Lab\13.HolidaysBetweenTwoDates\obj\Debug\net6.0\13.HolidaysBetweenTwoDates.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProgramsScool\Fundamental C# 2024\01.BasicSyntax,ConditionalStatementsAndLoops-Lab\13.HolidaysBetweenTwoDates\obj\Debug\net6.0\13.HolidaysBetweenTwoDates.AssemblyInfoInputs.cache
+D:\ProgramsScool\Fundamental C# 2024\01.BasicSyntax,ConditionalStatementsAndLoops-Lab\13.HolidaysBetweenTwoDates\obj\Debug\net6.0\13.HolidaysBetweenTwoDates.AssemblyInfo.cs
+D:\ProgramsScool\Fundamental C# 2024\01.BasicSyntax,ConditionalStatementsAndLoops-Lab\13.HolidaysBetweenTwoDates\obj\Debug\net6.0\13.HolidaysBetweenTwoDates.csproj.CoreCompileInputs.cache
+D:\ProgramsScool\Fundamental C# 2024\01.BasicSyntax,ConditionalStatementsAndLoops-Lab\13.HolidaysBetweenTwoDates\obj\Debug\net6.0\13.HolidaysBetweenTwoDates.dll
+D:\ProgramsScool\Fundamental C# 2024\01.BasicSyntax,ConditionalStatementsAndLoops-Lab\13.HolidaysBetweenTwoDates\obj\Debug\net6.0\refint\13.HolidaysBetweenTwoDates.dll
+D:\ProgramsScool\Fundamental C# 2024\01.BasicSyntax,ConditionalStatementsAndLoops-Lab\13.HolidaysBetweenTwoDates\obj\Debug\net6.0\13.HolidaysBetweenTwoDates.pdb
+D:\ProgramsScool\Fundamental C# 2024\01.BasicSyntax,ConditionalStatementsAndLoops-Lab\13.HolidaysBetweenTwoDates\obj\Debug\net6.0\13.HolidaysBetweenTwoDates.genruntimeconfig.cache
+D:\ProgramsScool\Fundamental C# 2024\01.BasicSyntax,ConditionalStatementsAndLoops-Lab\13.HolidaysBetweenTwoDates\obj\Debug\net6.0\ref\13.HolidaysBetweenTwoDates.dll

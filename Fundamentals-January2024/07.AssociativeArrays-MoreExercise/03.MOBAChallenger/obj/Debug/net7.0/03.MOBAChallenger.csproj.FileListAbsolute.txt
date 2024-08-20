@@ -1,0 +1,15 @@
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\07.AssociativeArrays-MoreExercise\03.MOBAChallenger\bin\Debug\net7.0\03.MOBAChallenger.exe
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\07.AssociativeArrays-MoreExercise\03.MOBAChallenger\bin\Debug\net7.0\03.MOBAChallenger.deps.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\07.AssociativeArrays-MoreExercise\03.MOBAChallenger\bin\Debug\net7.0\03.MOBAChallenger.runtimeconfig.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\07.AssociativeArrays-MoreExercise\03.MOBAChallenger\bin\Debug\net7.0\03.MOBAChallenger.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\07.AssociativeArrays-MoreExercise\03.MOBAChallenger\bin\Debug\net7.0\03.MOBAChallenger.pdb
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\07.AssociativeArrays-MoreExercise\03.MOBAChallenger\obj\Debug\net7.0\03.MOBAChallenger.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\07.AssociativeArrays-MoreExercise\03.MOBAChallenger\obj\Debug\net7.0\03.MOBAChallenger.AssemblyInfoInputs.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\07.AssociativeArrays-MoreExercise\03.MOBAChallenger\obj\Debug\net7.0\03.MOBAChallenger.AssemblyInfo.cs
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\07.AssociativeArrays-MoreExercise\03.MOBAChallenger\obj\Debug\net7.0\03.MOBAChallenger.csproj.CoreCompileInputs.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\07.AssociativeArrays-MoreExercise\03.MOBAChallenger\obj\Debug\net7.0\03.MOBAChallenger.sourcelink.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\07.AssociativeArrays-MoreExercise\03.MOBAChallenger\obj\Debug\net7.0\03.MOBAChallenger.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\07.AssociativeArrays-MoreExercise\03.MOBAChallenger\obj\Debug\net7.0\refint\03.MOBAChallenger.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\07.AssociativeArrays-MoreExercise\03.MOBAChallenger\obj\Debug\net7.0\03.MOBAChallenger.pdb
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\07.AssociativeArrays-MoreExercise\03.MOBAChallenger\obj\Debug\net7.0\03.MOBAChallenger.genruntimeconfig.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\07.AssociativeArrays-MoreExercise\03.MOBAChallenger\obj\Debug\net7.0\ref\03.MOBAChallenger.dll

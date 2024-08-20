@@ -1,0 +1,15 @@
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\02.MultidimensionalArrays-Exercise\7.KnightGame\bin\Debug\net8.0\7.KnightGame.exe
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\02.MultidimensionalArrays-Exercise\7.KnightGame\bin\Debug\net8.0\7.KnightGame.deps.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\02.MultidimensionalArrays-Exercise\7.KnightGame\bin\Debug\net8.0\7.KnightGame.runtimeconfig.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\02.MultidimensionalArrays-Exercise\7.KnightGame\bin\Debug\net8.0\7.KnightGame.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\02.MultidimensionalArrays-Exercise\7.KnightGame\bin\Debug\net8.0\7.KnightGame.pdb
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\02.MultidimensionalArrays-Exercise\7.KnightGame\obj\Debug\net8.0\7.KnightGame.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\02.MultidimensionalArrays-Exercise\7.KnightGame\obj\Debug\net8.0\7.KnightGame.AssemblyInfoInputs.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\02.MultidimensionalArrays-Exercise\7.KnightGame\obj\Debug\net8.0\7.KnightGame.AssemblyInfo.cs
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\02.MultidimensionalArrays-Exercise\7.KnightGame\obj\Debug\net8.0\7.KnightGame.csproj.CoreCompileInputs.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\02.MultidimensionalArrays-Exercise\7.KnightGame\obj\Debug\net8.0\7.KnightGame.sourcelink.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\02.MultidimensionalArrays-Exercise\7.KnightGame\obj\Debug\net8.0\7.KnightGame.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\02.MultidimensionalArrays-Exercise\7.KnightGame\obj\Debug\net8.0\refint\7.KnightGame.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\02.MultidimensionalArrays-Exercise\7.KnightGame\obj\Debug\net8.0\7.KnightGame.pdb
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\02.MultidimensionalArrays-Exercise\7.KnightGame\obj\Debug\net8.0\7.KnightGame.genruntimeconfig.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\02.MultidimensionalArrays-Exercise\7.KnightGame\obj\Debug\net8.0\ref\7.KnightGame.dll

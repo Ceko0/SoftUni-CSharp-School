@@ -1,0 +1,15 @@
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\08.Generics-Lab\01.Box\bin\Debug\net6.0\BoxOfT.exe
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\08.Generics-Lab\01.Box\bin\Debug\net6.0\BoxOfT.deps.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\08.Generics-Lab\01.Box\bin\Debug\net6.0\BoxOfT.runtimeconfig.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\08.Generics-Lab\01.Box\bin\Debug\net6.0\BoxOfT.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\08.Generics-Lab\01.Box\bin\Debug\net6.0\BoxOfT.pdb
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\08.Generics-Lab\01.Box\obj\Debug\net6.0\BoxOfT.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\08.Generics-Lab\01.Box\obj\Debug\net6.0\BoxOfT.AssemblyInfoInputs.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\08.Generics-Lab\01.Box\obj\Debug\net6.0\BoxOfT.AssemblyInfo.cs
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\08.Generics-Lab\01.Box\obj\Debug\net6.0\BoxOfT.csproj.CoreCompileInputs.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\08.Generics-Lab\01.Box\obj\Debug\net6.0\BoxOfT.sourcelink.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\08.Generics-Lab\01.Box\obj\Debug\net6.0\BoxOfT.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\08.Generics-Lab\01.Box\obj\Debug\net6.0\refint\BoxOfT.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\08.Generics-Lab\01.Box\obj\Debug\net6.0\BoxOfT.pdb
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\08.Generics-Lab\01.Box\obj\Debug\net6.0\BoxOfT.genruntimeconfig.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\08.Generics-Lab\01.Box\obj\Debug\net6.0\ref\BoxOfT.dll

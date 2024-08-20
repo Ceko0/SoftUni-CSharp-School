@@ -1,0 +1,15 @@
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\05.FunctionalProgramming-Lab\01.SortEvenNumbers\bin\Debug\net8.0\01.SortEvenNumbers.exe
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\05.FunctionalProgramming-Lab\01.SortEvenNumbers\bin\Debug\net8.0\01.SortEvenNumbers.deps.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\05.FunctionalProgramming-Lab\01.SortEvenNumbers\bin\Debug\net8.0\01.SortEvenNumbers.runtimeconfig.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\05.FunctionalProgramming-Lab\01.SortEvenNumbers\bin\Debug\net8.0\01.SortEvenNumbers.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\05.FunctionalProgramming-Lab\01.SortEvenNumbers\bin\Debug\net8.0\01.SortEvenNumbers.pdb
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\05.FunctionalProgramming-Lab\01.SortEvenNumbers\obj\Debug\net8.0\01.SortEvenNumbers.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\05.FunctionalProgramming-Lab\01.SortEvenNumbers\obj\Debug\net8.0\01.SortEvenNumbers.AssemblyInfoInputs.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\05.FunctionalProgramming-Lab\01.SortEvenNumbers\obj\Debug\net8.0\01.SortEvenNumbers.AssemblyInfo.cs
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\05.FunctionalProgramming-Lab\01.SortEvenNumbers\obj\Debug\net8.0\01.SortEvenNumbers.csproj.CoreCompileInputs.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\05.FunctionalProgramming-Lab\01.SortEvenNumbers\obj\Debug\net8.0\01.SortEvenNumbers.sourcelink.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\05.FunctionalProgramming-Lab\01.SortEvenNumbers\obj\Debug\net8.0\01.SortEvenNumbers.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\05.FunctionalProgramming-Lab\01.SortEvenNumbers\obj\Debug\net8.0\refint\01.SortEvenNumbers.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\05.FunctionalProgramming-Lab\01.SortEvenNumbers\obj\Debug\net8.0\01.SortEvenNumbers.pdb
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\05.FunctionalProgramming-Lab\01.SortEvenNumbers\obj\Debug\net8.0\01.SortEvenNumbers.genruntimeconfig.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\05.FunctionalProgramming-Lab\01.SortEvenNumbers\obj\Debug\net8.0\ref\01.SortEvenNumbers.dll

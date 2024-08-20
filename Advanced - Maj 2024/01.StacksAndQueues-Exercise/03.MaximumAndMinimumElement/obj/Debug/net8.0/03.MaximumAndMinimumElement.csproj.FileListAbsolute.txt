@@ -1,0 +1,15 @@
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\01.StacksAndQueues-Exercise\03.MaximumAndMinimumElement\bin\Debug\net8.0\03.MaximumAndMinimumElement.exe
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\01.StacksAndQueues-Exercise\03.MaximumAndMinimumElement\bin\Debug\net8.0\03.MaximumAndMinimumElement.deps.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\01.StacksAndQueues-Exercise\03.MaximumAndMinimumElement\bin\Debug\net8.0\03.MaximumAndMinimumElement.runtimeconfig.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\01.StacksAndQueues-Exercise\03.MaximumAndMinimumElement\bin\Debug\net8.0\03.MaximumAndMinimumElement.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\01.StacksAndQueues-Exercise\03.MaximumAndMinimumElement\bin\Debug\net8.0\03.MaximumAndMinimumElement.pdb
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\01.StacksAndQueues-Exercise\03.MaximumAndMinimumElement\obj\Debug\net8.0\03.MaximumAndMinimumElement.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\01.StacksAndQueues-Exercise\03.MaximumAndMinimumElement\obj\Debug\net8.0\03.MaximumAndMinimumElement.AssemblyInfoInputs.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\01.StacksAndQueues-Exercise\03.MaximumAndMinimumElement\obj\Debug\net8.0\03.MaximumAndMinimumElement.AssemblyInfo.cs
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\01.StacksAndQueues-Exercise\03.MaximumAndMinimumElement\obj\Debug\net8.0\03.MaximumAndMinimumElement.csproj.CoreCompileInputs.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\01.StacksAndQueues-Exercise\03.MaximumAndMinimumElement\obj\Debug\net8.0\03.MaximumAndMinimumElement.sourcelink.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\01.StacksAndQueues-Exercise\03.MaximumAndMinimumElement\obj\Debug\net8.0\03.MaximumAndMinimumElement.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\01.StacksAndQueues-Exercise\03.MaximumAndMinimumElement\obj\Debug\net8.0\refint\03.MaximumAndMinimumElement.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\01.StacksAndQueues-Exercise\03.MaximumAndMinimumElement\obj\Debug\net8.0\03.MaximumAndMinimumElement.pdb
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\01.StacksAndQueues-Exercise\03.MaximumAndMinimumElement\obj\Debug\net8.0\03.MaximumAndMinimumElement.genruntimeconfig.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\01.StacksAndQueues-Exercise\03.MaximumAndMinimumElement\obj\Debug\net8.0\ref\03.MaximumAndMinimumElement.dll

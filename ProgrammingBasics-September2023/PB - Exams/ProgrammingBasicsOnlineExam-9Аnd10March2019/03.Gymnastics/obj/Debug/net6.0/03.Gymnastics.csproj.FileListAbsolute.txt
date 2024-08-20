@@ -1,0 +1,15 @@
+D:\ProgramsScool\PB-september.2023\ProgrammingBasicsOnlineExam-9Аnd10March2019\03.Gymnastics\bin\Debug\net6.0\03.Gymnastics.exe
+D:\ProgramsScool\PB-september.2023\ProgrammingBasicsOnlineExam-9Аnd10March2019\03.Gymnastics\bin\Debug\net6.0\03.Gymnastics.deps.json
+D:\ProgramsScool\PB-september.2023\ProgrammingBasicsOnlineExam-9Аnd10March2019\03.Gymnastics\bin\Debug\net6.0\03.Gymnastics.runtimeconfig.json
+D:\ProgramsScool\PB-september.2023\ProgrammingBasicsOnlineExam-9Аnd10March2019\03.Gymnastics\bin\Debug\net6.0\03.Gymnastics.dll
+D:\ProgramsScool\PB-september.2023\ProgrammingBasicsOnlineExam-9Аnd10March2019\03.Gymnastics\bin\Debug\net6.0\03.Gymnastics.pdb
+D:\ProgramsScool\PB-september.2023\ProgrammingBasicsOnlineExam-9Аnd10March2019\03.Gymnastics\obj\Debug\net6.0\03.Gymnastics.csproj.AssemblyReference.cache
+D:\ProgramsScool\PB-september.2023\ProgrammingBasicsOnlineExam-9Аnd10March2019\03.Gymnastics\obj\Debug\net6.0\03.Gymnastics.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProgramsScool\PB-september.2023\ProgrammingBasicsOnlineExam-9Аnd10March2019\03.Gymnastics\obj\Debug\net6.0\03.Gymnastics.AssemblyInfoInputs.cache
+D:\ProgramsScool\PB-september.2023\ProgrammingBasicsOnlineExam-9Аnd10March2019\03.Gymnastics\obj\Debug\net6.0\03.Gymnastics.AssemblyInfo.cs
+D:\ProgramsScool\PB-september.2023\ProgrammingBasicsOnlineExam-9Аnd10March2019\03.Gymnastics\obj\Debug\net6.0\03.Gymnastics.csproj.CoreCompileInputs.cache
+D:\ProgramsScool\PB-september.2023\ProgrammingBasicsOnlineExam-9Аnd10March2019\03.Gymnastics\obj\Debug\net6.0\03.Gymnastics.dll
+D:\ProgramsScool\PB-september.2023\ProgrammingBasicsOnlineExam-9Аnd10March2019\03.Gymnastics\obj\Debug\net6.0\refint\03.Gymnastics.dll
+D:\ProgramsScool\PB-september.2023\ProgrammingBasicsOnlineExam-9Аnd10March2019\03.Gymnastics\obj\Debug\net6.0\03.Gymnastics.pdb
+D:\ProgramsScool\PB-september.2023\ProgrammingBasicsOnlineExam-9Аnd10March2019\03.Gymnastics\obj\Debug\net6.0\03.Gymnastics.genruntimeconfig.cache
+D:\ProgramsScool\PB-september.2023\ProgrammingBasicsOnlineExam-9Аnd10March2019\03.Gymnastics\obj\Debug\net6.0\ref\03.Gymnastics.dll

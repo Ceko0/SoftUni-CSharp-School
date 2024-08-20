@@ -1,0 +1,15 @@
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\06.DefiningClasses-Exercise\DateModifier\bin\Debug\net6.0\DateModifier.exe
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\06.DefiningClasses-Exercise\DateModifier\bin\Debug\net6.0\DateModifier.deps.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\06.DefiningClasses-Exercise\DateModifier\bin\Debug\net6.0\DateModifier.runtimeconfig.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\06.DefiningClasses-Exercise\DateModifier\bin\Debug\net6.0\DateModifier.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\06.DefiningClasses-Exercise\DateModifier\bin\Debug\net6.0\DateModifier.pdb
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\06.DefiningClasses-Exercise\DateModifier\obj\Debug\net6.0\DateModifier.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\06.DefiningClasses-Exercise\DateModifier\obj\Debug\net6.0\DateModifier.AssemblyInfoInputs.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\06.DefiningClasses-Exercise\DateModifier\obj\Debug\net6.0\DateModifier.AssemblyInfo.cs
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\06.DefiningClasses-Exercise\DateModifier\obj\Debug\net6.0\DateModifier.csproj.CoreCompileInputs.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\06.DefiningClasses-Exercise\DateModifier\obj\Debug\net6.0\DateModifier.sourcelink.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\06.DefiningClasses-Exercise\DateModifier\obj\Debug\net6.0\DateModifier.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\06.DefiningClasses-Exercise\DateModifier\obj\Debug\net6.0\refint\DateModifier.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\06.DefiningClasses-Exercise\DateModifier\obj\Debug\net6.0\DateModifier.pdb
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\06.DefiningClasses-Exercise\DateModifier\obj\Debug\net6.0\DateModifier.genruntimeconfig.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\06.DefiningClasses-Exercise\DateModifier\obj\Debug\net6.0\ref\DateModifier.dll

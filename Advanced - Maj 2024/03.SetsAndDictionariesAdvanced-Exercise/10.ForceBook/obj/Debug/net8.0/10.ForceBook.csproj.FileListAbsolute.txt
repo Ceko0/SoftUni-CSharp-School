@@ -1,0 +1,15 @@
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\03.SetsAndDictionariesAdvanced-Exercise\10.ForceBook\bin\Debug\net8.0\10.ForceBook.exe
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\03.SetsAndDictionariesAdvanced-Exercise\10.ForceBook\bin\Debug\net8.0\10.ForceBook.deps.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\03.SetsAndDictionariesAdvanced-Exercise\10.ForceBook\bin\Debug\net8.0\10.ForceBook.runtimeconfig.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\03.SetsAndDictionariesAdvanced-Exercise\10.ForceBook\bin\Debug\net8.0\10.ForceBook.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\03.SetsAndDictionariesAdvanced-Exercise\10.ForceBook\bin\Debug\net8.0\10.ForceBook.pdb
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\03.SetsAndDictionariesAdvanced-Exercise\10.ForceBook\obj\Debug\net8.0\10.ForceBook.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\03.SetsAndDictionariesAdvanced-Exercise\10.ForceBook\obj\Debug\net8.0\10.ForceBook.AssemblyInfoInputs.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\03.SetsAndDictionariesAdvanced-Exercise\10.ForceBook\obj\Debug\net8.0\10.ForceBook.AssemblyInfo.cs
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\03.SetsAndDictionariesAdvanced-Exercise\10.ForceBook\obj\Debug\net8.0\10.ForceBook.csproj.CoreCompileInputs.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\03.SetsAndDictionariesAdvanced-Exercise\10.ForceBook\obj\Debug\net8.0\10.ForceBook.sourcelink.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\03.SetsAndDictionariesAdvanced-Exercise\10.ForceBook\obj\Debug\net8.0\10.ForceBook.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\03.SetsAndDictionariesAdvanced-Exercise\10.ForceBook\obj\Debug\net8.0\refint\10.ForceBook.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\03.SetsAndDictionariesAdvanced-Exercise\10.ForceBook\obj\Debug\net8.0\10.ForceBook.pdb
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\03.SetsAndDictionariesAdvanced-Exercise\10.ForceBook\obj\Debug\net8.0\10.ForceBook.genruntimeconfig.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\03.SetsAndDictionariesAdvanced-Exercise\10.ForceBook\obj\Debug\net8.0\ref\10.ForceBook.dll

@@ -1,0 +1,15 @@
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\06.ObjectsAndClassesExercise\06.VehicleCatalogue\bin\Debug\net7.0\06.VehicleCatalogue.exe
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\06.ObjectsAndClassesExercise\06.VehicleCatalogue\bin\Debug\net7.0\06.VehicleCatalogue.deps.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\06.ObjectsAndClassesExercise\06.VehicleCatalogue\bin\Debug\net7.0\06.VehicleCatalogue.runtimeconfig.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\06.ObjectsAndClassesExercise\06.VehicleCatalogue\bin\Debug\net7.0\06.VehicleCatalogue.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\06.ObjectsAndClassesExercise\06.VehicleCatalogue\bin\Debug\net7.0\06.VehicleCatalogue.pdb
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\06.ObjectsAndClassesExercise\06.VehicleCatalogue\obj\Debug\net7.0\06.VehicleCatalogue.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\06.ObjectsAndClassesExercise\06.VehicleCatalogue\obj\Debug\net7.0\06.VehicleCatalogue.AssemblyInfoInputs.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\06.ObjectsAndClassesExercise\06.VehicleCatalogue\obj\Debug\net7.0\06.VehicleCatalogue.AssemblyInfo.cs
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\06.ObjectsAndClassesExercise\06.VehicleCatalogue\obj\Debug\net7.0\06.VehicleCatalogue.csproj.CoreCompileInputs.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\06.ObjectsAndClassesExercise\06.VehicleCatalogue\obj\Debug\net7.0\06.VehicleCatalogue.sourcelink.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\06.ObjectsAndClassesExercise\06.VehicleCatalogue\obj\Debug\net7.0\06.VehicleCatalogue.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\06.ObjectsAndClassesExercise\06.VehicleCatalogue\obj\Debug\net7.0\refint\06.VehicleCatalogue.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\06.ObjectsAndClassesExercise\06.VehicleCatalogue\obj\Debug\net7.0\06.VehicleCatalogue.pdb
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\06.ObjectsAndClassesExercise\06.VehicleCatalogue\obj\Debug\net7.0\06.VehicleCatalogue.genruntimeconfig.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\06.ObjectsAndClassesExercise\06.VehicleCatalogue\obj\Debug\net7.0\ref\06.VehicleCatalogue.dll

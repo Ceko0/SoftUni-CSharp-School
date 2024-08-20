@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\OOP - June 2024\\06.ReflectionAndAttributes-Lab\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8535874E-E107-46F0-A9BC-1D04B630DC4D}|AuthorProblem\\AuthorProblem.csproj|d:\\programsscool\\git hub\\softuni-csharp\\oop - june 2024\\06.reflectionandattributes-lab\\authorproblem\\tracker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8535874E-E107-46F0-A9BC-1D04B630DC4D}|AuthorProblem\\AuthorProblem.csproj|solutionrelative:authorproblem\\tracker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8535874E-E107-46F0-A9BC-1D04B630DC4D}|AuthorProblem\\AuthorProblem.csproj|d:\\programsscool\\git hub\\softuni-csharp\\oop - june 2024\\06.reflectionandattributes-lab\\authorproblem\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8535874E-E107-46F0-A9BC-1D04B630DC4D}|AuthorProblem\\AuthorProblem.csproj|solutionrelative:authorproblem\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8535874E-E107-46F0-A9BC-1D04B630DC4D}|AuthorProblem\\AuthorProblem.csproj|d:\\programsscool\\git hub\\softuni-csharp\\oop - june 2024\\06.reflectionandattributes-lab\\authorproblem\\author.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8535874E-E107-46F0-A9BC-1D04B630DC4D}|AuthorProblem\\AuthorProblem.csproj|solutionrelative:authorproblem\\author.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4055C57-C9D2-4F5E-88DF-CB0CB6362AED}|01.Stealer\\Stealer.csproj|d:\\programsscool\\git hub\\softuni-csharp\\oop - june 2024\\06.reflectionandattributes-lab\\01.stealer\\stealer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{F4055C57-C9D2-4F5E-88DF-CB0CB6362AED}|01.Stealer\\Stealer.csproj|solutionrelative:01.stealer\\stealer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4055C57-C9D2-4F5E-88DF-CB0CB6362AED}|01.Stealer\\Stealer.csproj|d:\\programsscool\\git hub\\softuni-csharp\\oop - june 2024\\06.reflectionandattributes-lab\\01.stealer\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4055C57-C9D2-4F5E-88DF-CB0CB6362AED}|01.Stealer\\Stealer.csproj|solutionrelative:01.stealer\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4055C57-C9D2-4F5E-88DF-CB0CB6362AED}|01.Stealer\\Stealer.csproj|d:\\programsscool\\git hub\\softuni-csharp\\oop - june 2024\\06.reflectionandattributes-lab\\01.stealer\\spy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4055C57-C9D2-4F5E-88DF-CB0CB6362AED}|01.Stealer\\Stealer.csproj|solutionrelative:01.stealer\\spy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4055C57-C9D2-4F5E-88DF-CB0CB6362AED}|01.Stealer\\Stealer.csproj|d:\\programsscool\\git hub\\softuni-csharp\\oop - june 2024\\06.reflectionandattributes-lab\\01.stealer\\hacker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4055C57-C9D2-4F5E-88DF-CB0CB6362AED}|01.Stealer\\Stealer.csproj|solutionrelative:01.stealer\\hacker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Tracker.cs",
+              "DocumentMoniker": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\OOP - June 2024\\06.ReflectionAndAttributes-Lab\\AuthorProblem\\Tracker.cs",
+              "RelativeDocumentMoniker": "AuthorProblem\\Tracker.cs",
+              "ToolTip": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\OOP - June 2024\\06.ReflectionAndAttributes-Lab\\AuthorProblem\\Tracker.cs",
+              "RelativeToolTip": "AuthorProblem\\Tracker.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T10:21:16.302Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Author.cs",
+              "DocumentMoniker": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\OOP - June 2024\\06.ReflectionAndAttributes-Lab\\AuthorProblem\\Author.cs",
+              "RelativeDocumentMoniker": "AuthorProblem\\Author.cs",
+              "ToolTip": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\OOP - June 2024\\06.ReflectionAndAttributes-Lab\\AuthorProblem\\Author.cs",
+              "RelativeToolTip": "AuthorProblem\\Author.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T10:06:02.851Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StartUp.cs",
+              "DocumentMoniker": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\OOP - June 2024\\06.ReflectionAndAttributes-Lab\\AuthorProblem\\StartUp.cs",
+              "RelativeDocumentMoniker": "AuthorProblem\\StartUp.cs",
+              "ToolTip": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\OOP - June 2024\\06.ReflectionAndAttributes-Lab\\AuthorProblem\\StartUp.cs",
+              "RelativeToolTip": "AuthorProblem\\StartUp.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T10:05:21.13Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Spy.cs",
+              "DocumentMoniker": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\OOP - June 2024\\06.ReflectionAndAttributes-Lab\\01.Stealer\\Spy.cs",
+              "RelativeDocumentMoniker": "01.Stealer\\Spy.cs",
+              "ToolTip": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\OOP - June 2024\\06.ReflectionAndAttributes-Lab\\01.Stealer\\Spy.cs",
+              "RelativeToolTip": "01.Stealer\\Spy.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAIwD4AAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T06:06:30.944Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Hacker.cs",
+              "DocumentMoniker": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\OOP - June 2024\\06.ReflectionAndAttributes-Lab\\01.Stealer\\Hacker.cs",
+              "RelativeDocumentMoniker": "01.Stealer\\Hacker.cs",
+              "ToolTip": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\OOP - June 2024\\06.ReflectionAndAttributes-Lab\\01.Stealer\\Hacker.cs",
+              "RelativeToolTip": "01.Stealer\\Hacker.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAwwBoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T06:03:07.235Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Stealer.csproj",
+              "DocumentMoniker": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\OOP - June 2024\\06.ReflectionAndAttributes-Lab\\01.Stealer\\Stealer.csproj",
+              "RelativeDocumentMoniker": "01.Stealer\\Stealer.csproj",
+              "ToolTip": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\OOP - June 2024\\06.ReflectionAndAttributes-Lab\\01.Stealer\\Stealer.csproj",
+              "RelativeToolTip": "01.Stealer\\Stealer.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-20T06:01:28.925Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "StartUp.cs",
+              "DocumentMoniker": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\OOP - June 2024\\06.ReflectionAndAttributes-Lab\\01.Stealer\\StartUp.cs",
+              "RelativeDocumentMoniker": "01.Stealer\\StartUp.cs",
+              "ToolTip": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\OOP - June 2024\\06.ReflectionAndAttributes-Lab\\01.Stealer\\StartUp.cs",
+              "RelativeToolTip": "01.Stealer\\StartUp.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAxwAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T06:00:58.575Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

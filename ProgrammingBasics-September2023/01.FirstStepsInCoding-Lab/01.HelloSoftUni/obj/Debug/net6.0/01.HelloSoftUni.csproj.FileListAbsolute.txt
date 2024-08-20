@@ -1,0 +1,15 @@
+D:\ProgramsScool\PB-september.2023\01.FirstStepsInCoding-Lab\01.HelloSoftUni\bin\Debug\net6.0\01.HelloSoftUni.exe
+D:\ProgramsScool\PB-september.2023\01.FirstStepsInCoding-Lab\01.HelloSoftUni\bin\Debug\net6.0\01.HelloSoftUni.deps.json
+D:\ProgramsScool\PB-september.2023\01.FirstStepsInCoding-Lab\01.HelloSoftUni\bin\Debug\net6.0\01.HelloSoftUni.runtimeconfig.json
+D:\ProgramsScool\PB-september.2023\01.FirstStepsInCoding-Lab\01.HelloSoftUni\bin\Debug\net6.0\01.HelloSoftUni.dll
+D:\ProgramsScool\PB-september.2023\01.FirstStepsInCoding-Lab\01.HelloSoftUni\bin\Debug\net6.0\01.HelloSoftUni.pdb
+D:\ProgramsScool\PB-september.2023\01.FirstStepsInCoding-Lab\01.HelloSoftUni\obj\Debug\net6.0\01.HelloSoftUni.csproj.AssemblyReference.cache
+D:\ProgramsScool\PB-september.2023\01.FirstStepsInCoding-Lab\01.HelloSoftUni\obj\Debug\net6.0\01.HelloSoftUni.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProgramsScool\PB-september.2023\01.FirstStepsInCoding-Lab\01.HelloSoftUni\obj\Debug\net6.0\01.HelloSoftUni.AssemblyInfoInputs.cache
+D:\ProgramsScool\PB-september.2023\01.FirstStepsInCoding-Lab\01.HelloSoftUni\obj\Debug\net6.0\01.HelloSoftUni.AssemblyInfo.cs
+D:\ProgramsScool\PB-september.2023\01.FirstStepsInCoding-Lab\01.HelloSoftUni\obj\Debug\net6.0\01.HelloSoftUni.csproj.CoreCompileInputs.cache
+D:\ProgramsScool\PB-september.2023\01.FirstStepsInCoding-Lab\01.HelloSoftUni\obj\Debug\net6.0\01.HelloSoftUni.dll
+D:\ProgramsScool\PB-september.2023\01.FirstStepsInCoding-Lab\01.HelloSoftUni\obj\Debug\net6.0\refint\01.HelloSoftUni.dll
+D:\ProgramsScool\PB-september.2023\01.FirstStepsInCoding-Lab\01.HelloSoftUni\obj\Debug\net6.0\01.HelloSoftUni.pdb
+D:\ProgramsScool\PB-september.2023\01.FirstStepsInCoding-Lab\01.HelloSoftUni\obj\Debug\net6.0\01.HelloSoftUni.genruntimeconfig.cache
+D:\ProgramsScool\PB-september.2023\01.FirstStepsInCoding-Lab\01.HelloSoftUni\obj\Debug\net6.0\ref\01.HelloSoftUni.dll

@@ -1,0 +1,15 @@
+D:\ProgramsScool\PB-september.2023\11.NestedLoops-Lab\05.Travelling\bin\Debug\net6.0\05.Travelling.exe
+D:\ProgramsScool\PB-september.2023\11.NestedLoops-Lab\05.Travelling\bin\Debug\net6.0\05.Travelling.deps.json
+D:\ProgramsScool\PB-september.2023\11.NestedLoops-Lab\05.Travelling\bin\Debug\net6.0\05.Travelling.runtimeconfig.json
+D:\ProgramsScool\PB-september.2023\11.NestedLoops-Lab\05.Travelling\bin\Debug\net6.0\05.Travelling.dll
+D:\ProgramsScool\PB-september.2023\11.NestedLoops-Lab\05.Travelling\bin\Debug\net6.0\05.Travelling.pdb
+D:\ProgramsScool\PB-september.2023\11.NestedLoops-Lab\05.Travelling\obj\Debug\net6.0\05.Travelling.csproj.AssemblyReference.cache
+D:\ProgramsScool\PB-september.2023\11.NestedLoops-Lab\05.Travelling\obj\Debug\net6.0\05.Travelling.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProgramsScool\PB-september.2023\11.NestedLoops-Lab\05.Travelling\obj\Debug\net6.0\05.Travelling.AssemblyInfoInputs.cache
+D:\ProgramsScool\PB-september.2023\11.NestedLoops-Lab\05.Travelling\obj\Debug\net6.0\05.Travelling.AssemblyInfo.cs
+D:\ProgramsScool\PB-september.2023\11.NestedLoops-Lab\05.Travelling\obj\Debug\net6.0\05.Travelling.csproj.CoreCompileInputs.cache
+D:\ProgramsScool\PB-september.2023\11.NestedLoops-Lab\05.Travelling\obj\Debug\net6.0\05.Travelling.dll
+D:\ProgramsScool\PB-september.2023\11.NestedLoops-Lab\05.Travelling\obj\Debug\net6.0\refint\05.Travelling.dll
+D:\ProgramsScool\PB-september.2023\11.NestedLoops-Lab\05.Travelling\obj\Debug\net6.0\05.Travelling.pdb
+D:\ProgramsScool\PB-september.2023\11.NestedLoops-Lab\05.Travelling\obj\Debug\net6.0\05.Travelling.genruntimeconfig.cache
+D:\ProgramsScool\PB-september.2023\11.NestedLoops-Lab\05.Travelling\obj\Debug\net6.0\ref\05.Travelling.dll

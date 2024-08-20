@@ -1,0 +1,15 @@
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\01.StacksAndQueues-Exercise\11.KeyRevolver\bin\Debug\net8.0\11.KeyRevolver.exe
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\01.StacksAndQueues-Exercise\11.KeyRevolver\bin\Debug\net8.0\11.KeyRevolver.deps.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\01.StacksAndQueues-Exercise\11.KeyRevolver\bin\Debug\net8.0\11.KeyRevolver.runtimeconfig.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\01.StacksAndQueues-Exercise\11.KeyRevolver\bin\Debug\net8.0\11.KeyRevolver.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\01.StacksAndQueues-Exercise\11.KeyRevolver\bin\Debug\net8.0\11.KeyRevolver.pdb
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\01.StacksAndQueues-Exercise\11.KeyRevolver\obj\Debug\net8.0\11.KeyRevolver.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\01.StacksAndQueues-Exercise\11.KeyRevolver\obj\Debug\net8.0\11.KeyRevolver.AssemblyInfoInputs.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\01.StacksAndQueues-Exercise\11.KeyRevolver\obj\Debug\net8.0\11.KeyRevolver.AssemblyInfo.cs
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\01.StacksAndQueues-Exercise\11.KeyRevolver\obj\Debug\net8.0\11.KeyRevolver.csproj.CoreCompileInputs.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\01.StacksAndQueues-Exercise\11.KeyRevolver\obj\Debug\net8.0\11.KeyRevolver.sourcelink.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\01.StacksAndQueues-Exercise\11.KeyRevolver\obj\Debug\net8.0\11.KeyRevolver.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\01.StacksAndQueues-Exercise\11.KeyRevolver\obj\Debug\net8.0\refint\11.KeyRevolver.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\01.StacksAndQueues-Exercise\11.KeyRevolver\obj\Debug\net8.0\11.KeyRevolver.pdb
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\01.StacksAndQueues-Exercise\11.KeyRevolver\obj\Debug\net8.0\11.KeyRevolver.genruntimeconfig.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\01.StacksAndQueues-Exercise\11.KeyRevolver\obj\Debug\net8.0\ref\11.KeyRevolver.dll

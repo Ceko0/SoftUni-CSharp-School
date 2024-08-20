@@ -1,0 +1,15 @@
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\04.Methods-Lab\09.GreaterOfTwoValues\bin\Debug\net7.0\09.GreaterOfTwoValues.exe
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\04.Methods-Lab\09.GreaterOfTwoValues\bin\Debug\net7.0\09.GreaterOfTwoValues.deps.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\04.Methods-Lab\09.GreaterOfTwoValues\bin\Debug\net7.0\09.GreaterOfTwoValues.runtimeconfig.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\04.Methods-Lab\09.GreaterOfTwoValues\bin\Debug\net7.0\09.GreaterOfTwoValues.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\04.Methods-Lab\09.GreaterOfTwoValues\bin\Debug\net7.0\09.GreaterOfTwoValues.pdb
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\04.Methods-Lab\09.GreaterOfTwoValues\obj\Debug\net7.0\09.GreaterOfTwoValues.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\04.Methods-Lab\09.GreaterOfTwoValues\obj\Debug\net7.0\09.GreaterOfTwoValues.AssemblyInfoInputs.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\04.Methods-Lab\09.GreaterOfTwoValues\obj\Debug\net7.0\09.GreaterOfTwoValues.AssemblyInfo.cs
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\04.Methods-Lab\09.GreaterOfTwoValues\obj\Debug\net7.0\09.GreaterOfTwoValues.csproj.CoreCompileInputs.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\04.Methods-Lab\09.GreaterOfTwoValues\obj\Debug\net7.0\09.GreaterOfTwoValues.sourcelink.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\04.Methods-Lab\09.GreaterOfTwoValues\obj\Debug\net7.0\09.GreaterOfTwoValues.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\04.Methods-Lab\09.GreaterOfTwoValues\obj\Debug\net7.0\refint\09.GreaterOfTwoValues.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\04.Methods-Lab\09.GreaterOfTwoValues\obj\Debug\net7.0\09.GreaterOfTwoValues.pdb
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\04.Methods-Lab\09.GreaterOfTwoValues\obj\Debug\net7.0\09.GreaterOfTwoValues.genruntimeconfig.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\04.Methods-Lab\09.GreaterOfTwoValues\obj\Debug\net7.0\ref\09.GreaterOfTwoValues.dll

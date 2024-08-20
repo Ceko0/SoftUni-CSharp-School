@@ -1,0 +1,14 @@
+D:\ProgramsScool\FirstStepsinCoding-MoreExercises\08.CircleAreaAndPerimeter\bin\Debug\netcoreapp3.1\08.CircleAreaAndPerimeter.exe
+D:\ProgramsScool\FirstStepsinCoding-MoreExercises\08.CircleAreaAndPerimeter\bin\Debug\netcoreapp3.1\08.CircleAreaAndPerimeter.deps.json
+D:\ProgramsScool\FirstStepsinCoding-MoreExercises\08.CircleAreaAndPerimeter\bin\Debug\netcoreapp3.1\08.CircleAreaAndPerimeter.runtimeconfig.json
+D:\ProgramsScool\FirstStepsinCoding-MoreExercises\08.CircleAreaAndPerimeter\bin\Debug\netcoreapp3.1\08.CircleAreaAndPerimeter.runtimeconfig.dev.json
+D:\ProgramsScool\FirstStepsinCoding-MoreExercises\08.CircleAreaAndPerimeter\bin\Debug\netcoreapp3.1\08.CircleAreaAndPerimeter.dll
+D:\ProgramsScool\FirstStepsinCoding-MoreExercises\08.CircleAreaAndPerimeter\bin\Debug\netcoreapp3.1\08.CircleAreaAndPerimeter.pdb
+D:\ProgramsScool\FirstStepsinCoding-MoreExercises\08.CircleAreaAndPerimeter\obj\Debug\netcoreapp3.1\08.CircleAreaAndPerimeter.csproj.AssemblyReference.cache
+D:\ProgramsScool\FirstStepsinCoding-MoreExercises\08.CircleAreaAndPerimeter\obj\Debug\netcoreapp3.1\08.CircleAreaAndPerimeter.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProgramsScool\FirstStepsinCoding-MoreExercises\08.CircleAreaAndPerimeter\obj\Debug\netcoreapp3.1\08.CircleAreaAndPerimeter.AssemblyInfoInputs.cache
+D:\ProgramsScool\FirstStepsinCoding-MoreExercises\08.CircleAreaAndPerimeter\obj\Debug\netcoreapp3.1\08.CircleAreaAndPerimeter.AssemblyInfo.cs
+D:\ProgramsScool\FirstStepsinCoding-MoreExercises\08.CircleAreaAndPerimeter\obj\Debug\netcoreapp3.1\08.CircleAreaAndPerimeter.csproj.CoreCompileInputs.cache
+D:\ProgramsScool\FirstStepsinCoding-MoreExercises\08.CircleAreaAndPerimeter\obj\Debug\netcoreapp3.1\08.CircleAreaAndPerimeter.dll
+D:\ProgramsScool\FirstStepsinCoding-MoreExercises\08.CircleAreaAndPerimeter\obj\Debug\netcoreapp3.1\08.CircleAreaAndPerimeter.pdb
+D:\ProgramsScool\FirstStepsinCoding-MoreExercises\08.CircleAreaAndPerimeter\obj\Debug\netcoreapp3.1\08.CircleAreaAndPerimeter.genruntimeconfig.cache

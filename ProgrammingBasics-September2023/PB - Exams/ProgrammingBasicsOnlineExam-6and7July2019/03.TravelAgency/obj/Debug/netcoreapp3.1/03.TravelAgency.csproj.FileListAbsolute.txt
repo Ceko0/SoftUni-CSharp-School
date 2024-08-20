@@ -1,0 +1,14 @@
+D:\ProgramsScool\ProgrammingBasicsOnlineExam-6and7July2019\03.TravelAgency\bin\Debug\netcoreapp3.1\03.TravelAgency.exe
+D:\ProgramsScool\ProgrammingBasicsOnlineExam-6and7July2019\03.TravelAgency\bin\Debug\netcoreapp3.1\03.TravelAgency.deps.json
+D:\ProgramsScool\ProgrammingBasicsOnlineExam-6and7July2019\03.TravelAgency\bin\Debug\netcoreapp3.1\03.TravelAgency.runtimeconfig.json
+D:\ProgramsScool\ProgrammingBasicsOnlineExam-6and7July2019\03.TravelAgency\bin\Debug\netcoreapp3.1\03.TravelAgency.runtimeconfig.dev.json
+D:\ProgramsScool\ProgrammingBasicsOnlineExam-6and7July2019\03.TravelAgency\bin\Debug\netcoreapp3.1\03.TravelAgency.dll
+D:\ProgramsScool\ProgrammingBasicsOnlineExam-6and7July2019\03.TravelAgency\bin\Debug\netcoreapp3.1\03.TravelAgency.pdb
+D:\ProgramsScool\ProgrammingBasicsOnlineExam-6and7July2019\03.TravelAgency\obj\Debug\netcoreapp3.1\03.TravelAgency.csproj.AssemblyReference.cache
+D:\ProgramsScool\ProgrammingBasicsOnlineExam-6and7July2019\03.TravelAgency\obj\Debug\netcoreapp3.1\03.TravelAgency.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProgramsScool\ProgrammingBasicsOnlineExam-6and7July2019\03.TravelAgency\obj\Debug\netcoreapp3.1\03.TravelAgency.AssemblyInfoInputs.cache
+D:\ProgramsScool\ProgrammingBasicsOnlineExam-6and7July2019\03.TravelAgency\obj\Debug\netcoreapp3.1\03.TravelAgency.AssemblyInfo.cs
+D:\ProgramsScool\ProgrammingBasicsOnlineExam-6and7July2019\03.TravelAgency\obj\Debug\netcoreapp3.1\03.TravelAgency.csproj.CoreCompileInputs.cache
+D:\ProgramsScool\ProgrammingBasicsOnlineExam-6and7July2019\03.TravelAgency\obj\Debug\netcoreapp3.1\03.TravelAgency.dll
+D:\ProgramsScool\ProgrammingBasicsOnlineExam-6and7July2019\03.TravelAgency\obj\Debug\netcoreapp3.1\03.TravelAgency.pdb
+D:\ProgramsScool\ProgrammingBasicsOnlineExam-6and7July2019\03.TravelAgency\obj\Debug\netcoreapp3.1\03.TravelAgency.genruntimeconfig.cache

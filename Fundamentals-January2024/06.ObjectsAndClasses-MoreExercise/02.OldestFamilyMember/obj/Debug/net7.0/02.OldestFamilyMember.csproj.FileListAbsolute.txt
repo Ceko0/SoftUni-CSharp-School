@@ -1,0 +1,15 @@
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\06.ObjectsAndClasses-MoreExercise\02.OldestFamilyMember\bin\Debug\net7.0\02.OldestFamilyMember.exe
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\06.ObjectsAndClasses-MoreExercise\02.OldestFamilyMember\bin\Debug\net7.0\02.OldestFamilyMember.deps.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\06.ObjectsAndClasses-MoreExercise\02.OldestFamilyMember\bin\Debug\net7.0\02.OldestFamilyMember.runtimeconfig.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\06.ObjectsAndClasses-MoreExercise\02.OldestFamilyMember\bin\Debug\net7.0\02.OldestFamilyMember.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\06.ObjectsAndClasses-MoreExercise\02.OldestFamilyMember\bin\Debug\net7.0\02.OldestFamilyMember.pdb
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\06.ObjectsAndClasses-MoreExercise\02.OldestFamilyMember\obj\Debug\net7.0\02.OldestFamilyMember.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\06.ObjectsAndClasses-MoreExercise\02.OldestFamilyMember\obj\Debug\net7.0\02.OldestFamilyMember.AssemblyInfoInputs.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\06.ObjectsAndClasses-MoreExercise\02.OldestFamilyMember\obj\Debug\net7.0\02.OldestFamilyMember.AssemblyInfo.cs
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\06.ObjectsAndClasses-MoreExercise\02.OldestFamilyMember\obj\Debug\net7.0\02.OldestFamilyMember.csproj.CoreCompileInputs.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\06.ObjectsAndClasses-MoreExercise\02.OldestFamilyMember\obj\Debug\net7.0\02.OldestFamilyMember.sourcelink.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\06.ObjectsAndClasses-MoreExercise\02.OldestFamilyMember\obj\Debug\net7.0\02.OldestFamilyMember.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\06.ObjectsAndClasses-MoreExercise\02.OldestFamilyMember\obj\Debug\net7.0\refint\02.OldestFamilyMember.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\06.ObjectsAndClasses-MoreExercise\02.OldestFamilyMember\obj\Debug\net7.0\02.OldestFamilyMember.pdb
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\06.ObjectsAndClasses-MoreExercise\02.OldestFamilyMember\obj\Debug\net7.0\02.OldestFamilyMember.genruntimeconfig.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\06.ObjectsAndClasses-MoreExercise\02.OldestFamilyMember\obj\Debug\net7.0\ref\02.OldestFamilyMember.dll

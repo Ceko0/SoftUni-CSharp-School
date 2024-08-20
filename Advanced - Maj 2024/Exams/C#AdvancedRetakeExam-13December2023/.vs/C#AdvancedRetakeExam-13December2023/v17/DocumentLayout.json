@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\Advanced - Maj 2024\\Exams\\C#AdvancedRetakeExam-13December2023\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CFCA40B8-F48B-40AB-9578-7E38462E1A73}|02.TheGambler\\02.TheGambler.csproj|d:\\programsscool\\git hub\\softuni-csharp\\advanced - maj 2024\\exams\\c#advancedretakeexam-13december2023\\02.thegambler\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CFCA40B8-F48B-40AB-9578-7E38462E1A73}|02.TheGambler\\02.TheGambler.csproj|solutionrelative:02.thegambler\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAB204AF-6D47-4566-82FB-0CB9492A8ECC}|01.WormsAndHoles\\01.WormsAndHoles.csproj|d:\\programsscool\\git hub\\softuni-csharp\\advanced - maj 2024\\exams\\c#advancedretakeexam-13december2023\\01.wormsandholes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CAB204AF-6D47-4566-82FB-0CB9492A8ECC}|01.WormsAndHoles\\01.WormsAndHoles.csproj|solutionrelative:01.wormsandholes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\Advanced - Maj 2024\\Exams\\C#AdvancedRetakeExam-13December2023\\02.TheGambler\\Program.cs",
+              "RelativeDocumentMoniker": "02.TheGambler\\Program.cs",
+              "ToolTip": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\Advanced - Maj 2024\\Exams\\C#AdvancedRetakeExam-13December2023\\02.TheGambler\\Program.cs",
+              "RelativeToolTip": "02.TheGambler\\Program.cs",
+              "ViewState": "AQIAAEcAAAAAAAAAAAAAwGAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T17:02:43.713Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\Advanced - Maj 2024\\Exams\\C#AdvancedRetakeExam-13December2023\\01.WormsAndHoles\\Program.cs",
+              "RelativeDocumentMoniker": "01.WormsAndHoles\\Program.cs",
+              "ToolTip": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\Advanced - Maj 2024\\Exams\\C#AdvancedRetakeExam-13December2023\\01.WormsAndHoles\\Program.cs",
+              "RelativeToolTip": "01.WormsAndHoles\\Program.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAUwA0AAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T15:43:08.473Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

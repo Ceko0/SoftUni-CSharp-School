@@ -1,0 +1,15 @@
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\OOP - June 2024\ExamPreparation\C#OOPRetakeExam–15August2023\Handball_Skeleton_6.0\Handball\bin\Debug\net6.0\Handball.exe
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\OOP - June 2024\ExamPreparation\C#OOPRetakeExam–15August2023\Handball_Skeleton_6.0\Handball\bin\Debug\net6.0\Handball.deps.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\OOP - June 2024\ExamPreparation\C#OOPRetakeExam–15August2023\Handball_Skeleton_6.0\Handball\bin\Debug\net6.0\Handball.runtimeconfig.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\OOP - June 2024\ExamPreparation\C#OOPRetakeExam–15August2023\Handball_Skeleton_6.0\Handball\bin\Debug\net6.0\Handball.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\OOP - June 2024\ExamPreparation\C#OOPRetakeExam–15August2023\Handball_Skeleton_6.0\Handball\bin\Debug\net6.0\Handball.pdb
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\OOP - June 2024\ExamPreparation\C#OOPRetakeExam–15August2023\Handball_Skeleton_6.0\Handball\obj\Debug\net6.0\Handball.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\OOP - June 2024\ExamPreparation\C#OOPRetakeExam–15August2023\Handball_Skeleton_6.0\Handball\obj\Debug\net6.0\Handball.AssemblyInfoInputs.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\OOP - June 2024\ExamPreparation\C#OOPRetakeExam–15August2023\Handball_Skeleton_6.0\Handball\obj\Debug\net6.0\Handball.AssemblyInfo.cs
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\OOP - June 2024\ExamPreparation\C#OOPRetakeExam–15August2023\Handball_Skeleton_6.0\Handball\obj\Debug\net6.0\Handball.csproj.CoreCompileInputs.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\OOP - June 2024\ExamPreparation\C#OOPRetakeExam–15August2023\Handball_Skeleton_6.0\Handball\obj\Debug\net6.0\Handball.sourcelink.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\OOP - June 2024\ExamPreparation\C#OOPRetakeExam–15August2023\Handball_Skeleton_6.0\Handball\obj\Debug\net6.0\Handball.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\OOP - June 2024\ExamPreparation\C#OOPRetakeExam–15August2023\Handball_Skeleton_6.0\Handball\obj\Debug\net6.0\refint\Handball.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\OOP - June 2024\ExamPreparation\C#OOPRetakeExam–15August2023\Handball_Skeleton_6.0\Handball\obj\Debug\net6.0\Handball.pdb
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\OOP - June 2024\ExamPreparation\C#OOPRetakeExam–15August2023\Handball_Skeleton_6.0\Handball\obj\Debug\net6.0\Handball.genruntimeconfig.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\OOP - June 2024\ExamPreparation\C#OOPRetakeExam–15August2023\Handball_Skeleton_6.0\Handball\obj\Debug\net6.0\ref\Handball.dll

@@ -1,0 +1,15 @@
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\02.ProgrammingFundamentalsFinalExam\03.PlantDiscovery\bin\Debug\net7.0\03.PlantDiscovery.exe
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\02.ProgrammingFundamentalsFinalExam\03.PlantDiscovery\bin\Debug\net7.0\03.PlantDiscovery.deps.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\02.ProgrammingFundamentalsFinalExam\03.PlantDiscovery\bin\Debug\net7.0\03.PlantDiscovery.runtimeconfig.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\02.ProgrammingFundamentalsFinalExam\03.PlantDiscovery\bin\Debug\net7.0\03.PlantDiscovery.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\02.ProgrammingFundamentalsFinalExam\03.PlantDiscovery\bin\Debug\net7.0\03.PlantDiscovery.pdb
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\02.ProgrammingFundamentalsFinalExam\03.PlantDiscovery\obj\Debug\net7.0\03.PlantDiscovery.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\02.ProgrammingFundamentalsFinalExam\03.PlantDiscovery\obj\Debug\net7.0\03.PlantDiscovery.AssemblyInfoInputs.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\02.ProgrammingFundamentalsFinalExam\03.PlantDiscovery\obj\Debug\net7.0\03.PlantDiscovery.AssemblyInfo.cs
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\02.ProgrammingFundamentalsFinalExam\03.PlantDiscovery\obj\Debug\net7.0\03.PlantDiscovery.csproj.CoreCompileInputs.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\02.ProgrammingFundamentalsFinalExam\03.PlantDiscovery\obj\Debug\net7.0\03.PlantDiscovery.sourcelink.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\02.ProgrammingFundamentalsFinalExam\03.PlantDiscovery\obj\Debug\net7.0\03.PlantDiscovery.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\02.ProgrammingFundamentalsFinalExam\03.PlantDiscovery\obj\Debug\net7.0\refint\03.PlantDiscovery.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\02.ProgrammingFundamentalsFinalExam\03.PlantDiscovery\obj\Debug\net7.0\03.PlantDiscovery.pdb
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\02.ProgrammingFundamentalsFinalExam\03.PlantDiscovery\obj\Debug\net7.0\03.PlantDiscovery.genruntimeconfig.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\02.ProgrammingFundamentalsFinalExam\03.PlantDiscovery\obj\Debug\net7.0\ref\03.PlantDiscovery.dll

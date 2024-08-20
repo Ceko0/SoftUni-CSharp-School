@@ -1,0 +1,15 @@
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\02,MultidimensionalArrays-Lab\1.SumMatrixElements\bin\Debug\net8.0\1.SumMatrixElements.exe
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\02,MultidimensionalArrays-Lab\1.SumMatrixElements\bin\Debug\net8.0\1.SumMatrixElements.deps.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\02,MultidimensionalArrays-Lab\1.SumMatrixElements\bin\Debug\net8.0\1.SumMatrixElements.runtimeconfig.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\02,MultidimensionalArrays-Lab\1.SumMatrixElements\bin\Debug\net8.0\1.SumMatrixElements.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\02,MultidimensionalArrays-Lab\1.SumMatrixElements\bin\Debug\net8.0\1.SumMatrixElements.pdb
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\02,MultidimensionalArrays-Lab\1.SumMatrixElements\obj\Debug\net8.0\1.SumMatrixElements.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\02,MultidimensionalArrays-Lab\1.SumMatrixElements\obj\Debug\net8.0\1.SumMatrixElements.AssemblyInfoInputs.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\02,MultidimensionalArrays-Lab\1.SumMatrixElements\obj\Debug\net8.0\1.SumMatrixElements.AssemblyInfo.cs
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\02,MultidimensionalArrays-Lab\1.SumMatrixElements\obj\Debug\net8.0\1.SumMatrixElements.csproj.CoreCompileInputs.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\02,MultidimensionalArrays-Lab\1.SumMatrixElements\obj\Debug\net8.0\1.SumMatrixElements.sourcelink.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\02,MultidimensionalArrays-Lab\1.SumMatrixElements\obj\Debug\net8.0\1.SumMatrixElements.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\02,MultidimensionalArrays-Lab\1.SumMatrixElements\obj\Debug\net8.0\refint\1.SumMatrixElements.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\02,MultidimensionalArrays-Lab\1.SumMatrixElements\obj\Debug\net8.0\1.SumMatrixElements.pdb
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\02,MultidimensionalArrays-Lab\1.SumMatrixElements\obj\Debug\net8.0\1.SumMatrixElements.genruntimeconfig.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\02,MultidimensionalArrays-Lab\1.SumMatrixElements\obj\Debug\net8.0\ref\1.SumMatrixElements.dll

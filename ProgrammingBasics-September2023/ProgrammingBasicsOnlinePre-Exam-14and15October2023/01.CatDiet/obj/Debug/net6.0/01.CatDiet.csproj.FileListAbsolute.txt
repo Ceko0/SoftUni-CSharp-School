@@ -1,0 +1,15 @@
+D:\ProgramsScool\PB-september.2023\ProgrammingBasicsOnlinePre-Exam-14and15October2023\01.CatDiet\obj\Debug\net6.0\01.CatDiet.csproj.AssemblyReference.cache
+D:\ProgramsScool\PB-september.2023\ProgrammingBasicsOnlinePre-Exam-14and15October2023\01.CatDiet\obj\Debug\net6.0\01.CatDiet.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProgramsScool\PB-september.2023\ProgrammingBasicsOnlinePre-Exam-14and15October2023\01.CatDiet\obj\Debug\net6.0\01.CatDiet.AssemblyInfoInputs.cache
+D:\ProgramsScool\PB-september.2023\ProgrammingBasicsOnlinePre-Exam-14and15October2023\01.CatDiet\obj\Debug\net6.0\01.CatDiet.AssemblyInfo.cs
+D:\ProgramsScool\PB-september.2023\ProgrammingBasicsOnlinePre-Exam-14and15October2023\01.CatDiet\obj\Debug\net6.0\01.CatDiet.csproj.CoreCompileInputs.cache
+D:\ProgramsScool\PB-september.2023\ProgrammingBasicsOnlinePre-Exam-14and15October2023\01.CatDiet\bin\Debug\net6.0\01.CatDiet.exe
+D:\ProgramsScool\PB-september.2023\ProgrammingBasicsOnlinePre-Exam-14and15October2023\01.CatDiet\bin\Debug\net6.0\01.CatDiet.deps.json
+D:\ProgramsScool\PB-september.2023\ProgrammingBasicsOnlinePre-Exam-14and15October2023\01.CatDiet\bin\Debug\net6.0\01.CatDiet.runtimeconfig.json
+D:\ProgramsScool\PB-september.2023\ProgrammingBasicsOnlinePre-Exam-14and15October2023\01.CatDiet\bin\Debug\net6.0\01.CatDiet.dll
+D:\ProgramsScool\PB-september.2023\ProgrammingBasicsOnlinePre-Exam-14and15October2023\01.CatDiet\bin\Debug\net6.0\01.CatDiet.pdb
+D:\ProgramsScool\PB-september.2023\ProgrammingBasicsOnlinePre-Exam-14and15October2023\01.CatDiet\obj\Debug\net6.0\01.CatDiet.dll
+D:\ProgramsScool\PB-september.2023\ProgrammingBasicsOnlinePre-Exam-14and15October2023\01.CatDiet\obj\Debug\net6.0\refint\01.CatDiet.dll
+D:\ProgramsScool\PB-september.2023\ProgrammingBasicsOnlinePre-Exam-14and15October2023\01.CatDiet\obj\Debug\net6.0\01.CatDiet.pdb
+D:\ProgramsScool\PB-september.2023\ProgrammingBasicsOnlinePre-Exam-14and15October2023\01.CatDiet\obj\Debug\net6.0\01.CatDiet.genruntimeconfig.cache
+D:\ProgramsScool\PB-september.2023\ProgrammingBasicsOnlinePre-Exam-14and15October2023\01.CatDiet\obj\Debug\net6.0\ref\01.CatDiet.dll

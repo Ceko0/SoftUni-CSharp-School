@@ -1,0 +1,15 @@
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\Exam\01.ProgrammingFundamentalsMidExamRetake\03.MemoryGame\bin\Debug\net6.0\03.MemoryGame.exe
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\Exam\01.ProgrammingFundamentalsMidExamRetake\03.MemoryGame\bin\Debug\net6.0\03.MemoryGame.deps.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\Exam\01.ProgrammingFundamentalsMidExamRetake\03.MemoryGame\bin\Debug\net6.0\03.MemoryGame.runtimeconfig.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\Exam\01.ProgrammingFundamentalsMidExamRetake\03.MemoryGame\bin\Debug\net6.0\03.MemoryGame.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\Exam\01.ProgrammingFundamentalsMidExamRetake\03.MemoryGame\bin\Debug\net6.0\03.MemoryGame.pdb
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\Exam\01.ProgrammingFundamentalsMidExamRetake\03.MemoryGame\obj\Debug\net6.0\03.MemoryGame.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\Exam\01.ProgrammingFundamentalsMidExamRetake\03.MemoryGame\obj\Debug\net6.0\03.MemoryGame.AssemblyInfoInputs.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\Exam\01.ProgrammingFundamentalsMidExamRetake\03.MemoryGame\obj\Debug\net6.0\03.MemoryGame.AssemblyInfo.cs
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\Exam\01.ProgrammingFundamentalsMidExamRetake\03.MemoryGame\obj\Debug\net6.0\03.MemoryGame.csproj.CoreCompileInputs.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\Exam\01.ProgrammingFundamentalsMidExamRetake\03.MemoryGame\obj\Debug\net6.0\03.MemoryGame.sourcelink.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\Exam\01.ProgrammingFundamentalsMidExamRetake\03.MemoryGame\obj\Debug\net6.0\03.MemoryGame.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\Exam\01.ProgrammingFundamentalsMidExamRetake\03.MemoryGame\obj\Debug\net6.0\refint\03.MemoryGame.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\Exam\01.ProgrammingFundamentalsMidExamRetake\03.MemoryGame\obj\Debug\net6.0\03.MemoryGame.pdb
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\Exam\01.ProgrammingFundamentalsMidExamRetake\03.MemoryGame\obj\Debug\net6.0\03.MemoryGame.genruntimeconfig.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\Exam\01.ProgrammingFundamentalsMidExamRetake\03.MemoryGame\obj\Debug\net6.0\ref\03.MemoryGame.dll

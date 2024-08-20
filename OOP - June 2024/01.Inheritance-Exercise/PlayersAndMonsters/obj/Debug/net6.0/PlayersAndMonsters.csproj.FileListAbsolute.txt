@@ -1,0 +1,15 @@
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\OOP - June 2024\01.Inheritance-Exercise\PlayersAndMonsters\bin\Debug\net6.0\PlayersAndMonsters.exe
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\OOP - June 2024\01.Inheritance-Exercise\PlayersAndMonsters\bin\Debug\net6.0\PlayersAndMonsters.deps.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\OOP - June 2024\01.Inheritance-Exercise\PlayersAndMonsters\bin\Debug\net6.0\PlayersAndMonsters.runtimeconfig.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\OOP - June 2024\01.Inheritance-Exercise\PlayersAndMonsters\bin\Debug\net6.0\PlayersAndMonsters.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\OOP - June 2024\01.Inheritance-Exercise\PlayersAndMonsters\bin\Debug\net6.0\PlayersAndMonsters.pdb
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\OOP - June 2024\01.Inheritance-Exercise\PlayersAndMonsters\obj\Debug\net6.0\PlayersAndMonsters.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\OOP - June 2024\01.Inheritance-Exercise\PlayersAndMonsters\obj\Debug\net6.0\PlayersAndMonsters.AssemblyInfoInputs.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\OOP - June 2024\01.Inheritance-Exercise\PlayersAndMonsters\obj\Debug\net6.0\PlayersAndMonsters.AssemblyInfo.cs
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\OOP - June 2024\01.Inheritance-Exercise\PlayersAndMonsters\obj\Debug\net6.0\PlayersAndMonsters.csproj.CoreCompileInputs.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\OOP - June 2024\01.Inheritance-Exercise\PlayersAndMonsters\obj\Debug\net6.0\PlayersAndMonsters.sourcelink.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\OOP - June 2024\01.Inheritance-Exercise\PlayersAndMonsters\obj\Debug\net6.0\PlayersAndMonsters.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\OOP - June 2024\01.Inheritance-Exercise\PlayersAndMonsters\obj\Debug\net6.0\refint\PlayersAndMonsters.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\OOP - June 2024\01.Inheritance-Exercise\PlayersAndMonsters\obj\Debug\net6.0\PlayersAndMonsters.pdb
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\OOP - June 2024\01.Inheritance-Exercise\PlayersAndMonsters\obj\Debug\net6.0\PlayersAndMonsters.genruntimeconfig.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\OOP - June 2024\01.Inheritance-Exercise\PlayersAndMonsters\obj\Debug\net6.0\ref\PlayersAndMonsters.dll

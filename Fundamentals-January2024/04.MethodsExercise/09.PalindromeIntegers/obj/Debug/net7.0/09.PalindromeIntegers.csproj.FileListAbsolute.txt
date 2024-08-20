@@ -1,0 +1,15 @@
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\04.MethodsExercise\09.PalindromeIntegers\obj\Debug\net7.0\09.PalindromeIntegers.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\04.MethodsExercise\09.PalindromeIntegers\obj\Debug\net7.0\09.PalindromeIntegers.AssemblyInfoInputs.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\04.MethodsExercise\09.PalindromeIntegers\obj\Debug\net7.0\09.PalindromeIntegers.AssemblyInfo.cs
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\04.MethodsExercise\09.PalindromeIntegers\obj\Debug\net7.0\09.PalindromeIntegers.csproj.CoreCompileInputs.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\04.MethodsExercise\09.PalindromeIntegers\obj\Debug\net7.0\09.PalindromeIntegers.sourcelink.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\04.MethodsExercise\09.PalindromeIntegers\bin\Debug\net7.0\09.PalindromeIntegers.exe
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\04.MethodsExercise\09.PalindromeIntegers\bin\Debug\net7.0\09.PalindromeIntegers.deps.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\04.MethodsExercise\09.PalindromeIntegers\bin\Debug\net7.0\09.PalindromeIntegers.runtimeconfig.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\04.MethodsExercise\09.PalindromeIntegers\bin\Debug\net7.0\09.PalindromeIntegers.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\04.MethodsExercise\09.PalindromeIntegers\bin\Debug\net7.0\09.PalindromeIntegers.pdb
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\04.MethodsExercise\09.PalindromeIntegers\obj\Debug\net7.0\09.PalindromeIntegers.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\04.MethodsExercise\09.PalindromeIntegers\obj\Debug\net7.0\refint\09.PalindromeIntegers.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\04.MethodsExercise\09.PalindromeIntegers\obj\Debug\net7.0\09.PalindromeIntegers.pdb
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\04.MethodsExercise\09.PalindromeIntegers\obj\Debug\net7.0\09.PalindromeIntegers.genruntimeconfig.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\04.MethodsExercise\09.PalindromeIntegers\obj\Debug\net7.0\ref\09.PalindromeIntegers.dll

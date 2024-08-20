@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\OOP - June 2024\\04.Polymorphism-Lab\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A0B6A715-F52A-42E6-AA08-8D4C5285301A}|Shapes\\Shapes.csproj|d:\\programsscool\\git hub\\softuni-csharp\\oop - june 2024\\04.polymorphism-lab\\shapes\\circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0B6A715-F52A-42E6-AA08-8D4C5285301A}|Shapes\\Shapes.csproj|solutionrelative:shapes\\circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Circle.cs",
+              "DocumentMoniker": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\OOP - June 2024\\04.Polymorphism-Lab\\Shapes\\Circle.cs",
+              "RelativeDocumentMoniker": "Shapes\\Circle.cs",
+              "ToolTip": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\OOP - June 2024\\04.Polymorphism-Lab\\Shapes\\Circle.cs",
+              "RelativeToolTip": "Shapes\\Circle.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAUwAQAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T17:52:21.729Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

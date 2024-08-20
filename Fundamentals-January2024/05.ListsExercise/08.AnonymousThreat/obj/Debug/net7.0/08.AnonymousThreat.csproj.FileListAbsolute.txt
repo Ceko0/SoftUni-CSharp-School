@@ -1,0 +1,15 @@
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\05.ListsExercise\08.AnonymousThreat\bin\Debug\net7.0\08.AnonymousThreat.exe
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\05.ListsExercise\08.AnonymousThreat\bin\Debug\net7.0\08.AnonymousThreat.deps.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\05.ListsExercise\08.AnonymousThreat\bin\Debug\net7.0\08.AnonymousThreat.runtimeconfig.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\05.ListsExercise\08.AnonymousThreat\bin\Debug\net7.0\08.AnonymousThreat.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\05.ListsExercise\08.AnonymousThreat\bin\Debug\net7.0\08.AnonymousThreat.pdb
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\05.ListsExercise\08.AnonymousThreat\obj\Debug\net7.0\08.AnonymousThreat.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\05.ListsExercise\08.AnonymousThreat\obj\Debug\net7.0\08.AnonymousThreat.AssemblyInfoInputs.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\05.ListsExercise\08.AnonymousThreat\obj\Debug\net7.0\08.AnonymousThreat.AssemblyInfo.cs
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\05.ListsExercise\08.AnonymousThreat\obj\Debug\net7.0\08.AnonymousThreat.csproj.CoreCompileInputs.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\05.ListsExercise\08.AnonymousThreat\obj\Debug\net7.0\08.AnonymousThreat.sourcelink.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\05.ListsExercise\08.AnonymousThreat\obj\Debug\net7.0\08.AnonymousThreat.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\05.ListsExercise\08.AnonymousThreat\obj\Debug\net7.0\refint\08.AnonymousThreat.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\05.ListsExercise\08.AnonymousThreat\obj\Debug\net7.0\08.AnonymousThreat.pdb
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\05.ListsExercise\08.AnonymousThreat\obj\Debug\net7.0\08.AnonymousThreat.genruntimeconfig.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\05.ListsExercise\08.AnonymousThreat\obj\Debug\net7.0\ref\08.AnonymousThreat.dll

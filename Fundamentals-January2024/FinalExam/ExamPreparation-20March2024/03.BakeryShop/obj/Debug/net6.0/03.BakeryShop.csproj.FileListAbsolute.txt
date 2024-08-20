@@ -1,0 +1,15 @@
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\FinalExam\ExamPreparation-20March2024\03.BakeryShop\bin\Debug\net6.0\03.BakeryShop.exe
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\FinalExam\ExamPreparation-20March2024\03.BakeryShop\bin\Debug\net6.0\03.BakeryShop.deps.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\FinalExam\ExamPreparation-20March2024\03.BakeryShop\bin\Debug\net6.0\03.BakeryShop.runtimeconfig.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\FinalExam\ExamPreparation-20March2024\03.BakeryShop\bin\Debug\net6.0\03.BakeryShop.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\FinalExam\ExamPreparation-20March2024\03.BakeryShop\bin\Debug\net6.0\03.BakeryShop.pdb
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\FinalExam\ExamPreparation-20March2024\03.BakeryShop\obj\Debug\net6.0\03.BakeryShop.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\FinalExam\ExamPreparation-20March2024\03.BakeryShop\obj\Debug\net6.0\03.BakeryShop.AssemblyInfoInputs.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\FinalExam\ExamPreparation-20March2024\03.BakeryShop\obj\Debug\net6.0\03.BakeryShop.AssemblyInfo.cs
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\FinalExam\ExamPreparation-20March2024\03.BakeryShop\obj\Debug\net6.0\03.BakeryShop.csproj.CoreCompileInputs.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\FinalExam\ExamPreparation-20March2024\03.BakeryShop\obj\Debug\net6.0\03.BakeryShop.sourcelink.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\FinalExam\ExamPreparation-20March2024\03.BakeryShop\obj\Debug\net6.0\03.BakeryShop.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\FinalExam\ExamPreparation-20March2024\03.BakeryShop\obj\Debug\net6.0\refint\03.BakeryShop.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\FinalExam\ExamPreparation-20March2024\03.BakeryShop\obj\Debug\net6.0\03.BakeryShop.pdb
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\FinalExam\ExamPreparation-20March2024\03.BakeryShop\obj\Debug\net6.0\03.BakeryShop.genruntimeconfig.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\FinalExam\ExamPreparation-20March2024\03.BakeryShop\obj\Debug\net6.0\ref\03.BakeryShop.dll

@@ -1,0 +1,15 @@
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\04.Methods-Lab\08.MathPower\bin\Debug\net7.0\08.MathPower.exe
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\04.Methods-Lab\08.MathPower\bin\Debug\net7.0\08.MathPower.deps.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\04.Methods-Lab\08.MathPower\bin\Debug\net7.0\08.MathPower.runtimeconfig.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\04.Methods-Lab\08.MathPower\bin\Debug\net7.0\08.MathPower.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\04.Methods-Lab\08.MathPower\bin\Debug\net7.0\08.MathPower.pdb
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\04.Methods-Lab\08.MathPower\obj\Debug\net7.0\08.MathPower.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\04.Methods-Lab\08.MathPower\obj\Debug\net7.0\08.MathPower.AssemblyInfoInputs.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\04.Methods-Lab\08.MathPower\obj\Debug\net7.0\08.MathPower.AssemblyInfo.cs
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\04.Methods-Lab\08.MathPower\obj\Debug\net7.0\08.MathPower.csproj.CoreCompileInputs.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\04.Methods-Lab\08.MathPower\obj\Debug\net7.0\08.MathPower.sourcelink.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\04.Methods-Lab\08.MathPower\obj\Debug\net7.0\08.MathPower.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\04.Methods-Lab\08.MathPower\obj\Debug\net7.0\refint\08.MathPower.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\04.Methods-Lab\08.MathPower\obj\Debug\net7.0\08.MathPower.pdb
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\04.Methods-Lab\08.MathPower\obj\Debug\net7.0\08.MathPower.genruntimeconfig.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\04.Methods-Lab\08.MathPower\obj\Debug\net7.0\ref\08.MathPower.dll

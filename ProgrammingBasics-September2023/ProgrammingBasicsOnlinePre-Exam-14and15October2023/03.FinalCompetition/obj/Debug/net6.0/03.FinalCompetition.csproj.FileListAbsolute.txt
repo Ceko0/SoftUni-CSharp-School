@@ -1,0 +1,15 @@
+D:\ProgramsScool\PB-september.2023\ProgrammingBasicsOnlinePre-Exam-14and15October2023\03.FinalCompetition\bin\Debug\net6.0\03.FinalCompetition.exe
+D:\ProgramsScool\PB-september.2023\ProgrammingBasicsOnlinePre-Exam-14and15October2023\03.FinalCompetition\bin\Debug\net6.0\03.FinalCompetition.deps.json
+D:\ProgramsScool\PB-september.2023\ProgrammingBasicsOnlinePre-Exam-14and15October2023\03.FinalCompetition\bin\Debug\net6.0\03.FinalCompetition.runtimeconfig.json
+D:\ProgramsScool\PB-september.2023\ProgrammingBasicsOnlinePre-Exam-14and15October2023\03.FinalCompetition\bin\Debug\net6.0\03.FinalCompetition.dll
+D:\ProgramsScool\PB-september.2023\ProgrammingBasicsOnlinePre-Exam-14and15October2023\03.FinalCompetition\bin\Debug\net6.0\03.FinalCompetition.pdb
+D:\ProgramsScool\PB-september.2023\ProgrammingBasicsOnlinePre-Exam-14and15October2023\03.FinalCompetition\obj\Debug\net6.0\03.FinalCompetition.csproj.AssemblyReference.cache
+D:\ProgramsScool\PB-september.2023\ProgrammingBasicsOnlinePre-Exam-14and15October2023\03.FinalCompetition\obj\Debug\net6.0\03.FinalCompetition.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProgramsScool\PB-september.2023\ProgrammingBasicsOnlinePre-Exam-14and15October2023\03.FinalCompetition\obj\Debug\net6.0\03.FinalCompetition.AssemblyInfoInputs.cache
+D:\ProgramsScool\PB-september.2023\ProgrammingBasicsOnlinePre-Exam-14and15October2023\03.FinalCompetition\obj\Debug\net6.0\03.FinalCompetition.AssemblyInfo.cs
+D:\ProgramsScool\PB-september.2023\ProgrammingBasicsOnlinePre-Exam-14and15October2023\03.FinalCompetition\obj\Debug\net6.0\03.FinalCompetition.csproj.CoreCompileInputs.cache
+D:\ProgramsScool\PB-september.2023\ProgrammingBasicsOnlinePre-Exam-14and15October2023\03.FinalCompetition\obj\Debug\net6.0\03.FinalCompetition.dll
+D:\ProgramsScool\PB-september.2023\ProgrammingBasicsOnlinePre-Exam-14and15October2023\03.FinalCompetition\obj\Debug\net6.0\refint\03.FinalCompetition.dll
+D:\ProgramsScool\PB-september.2023\ProgrammingBasicsOnlinePre-Exam-14and15October2023\03.FinalCompetition\obj\Debug\net6.0\03.FinalCompetition.pdb
+D:\ProgramsScool\PB-september.2023\ProgrammingBasicsOnlinePre-Exam-14and15October2023\03.FinalCompetition\obj\Debug\net6.0\03.FinalCompetition.genruntimeconfig.cache
+D:\ProgramsScool\PB-september.2023\ProgrammingBasicsOnlinePre-Exam-14and15October2023\03.FinalCompetition\obj\Debug\net6.0\ref\03.FinalCompetition.dll

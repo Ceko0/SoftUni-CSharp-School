@@ -1,0 +1,15 @@
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\OOP - June 2024\03.InterfacesАndAbstraction-Lab\01.Shapes\bin\Debug\net6.0\Shapes.exe
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\OOP - June 2024\03.InterfacesАndAbstraction-Lab\01.Shapes\bin\Debug\net6.0\Shapes.deps.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\OOP - June 2024\03.InterfacesАndAbstraction-Lab\01.Shapes\bin\Debug\net6.0\Shapes.runtimeconfig.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\OOP - June 2024\03.InterfacesАndAbstraction-Lab\01.Shapes\bin\Debug\net6.0\Shapes.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\OOP - June 2024\03.InterfacesАndAbstraction-Lab\01.Shapes\bin\Debug\net6.0\Shapes.pdb
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\OOP - June 2024\03.InterfacesАndAbstraction-Lab\01.Shapes\obj\Debug\net6.0\Shapes.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\OOP - June 2024\03.InterfacesАndAbstraction-Lab\01.Shapes\obj\Debug\net6.0\Shapes.AssemblyInfoInputs.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\OOP - June 2024\03.InterfacesАndAbstraction-Lab\01.Shapes\obj\Debug\net6.0\Shapes.AssemblyInfo.cs
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\OOP - June 2024\03.InterfacesАndAbstraction-Lab\01.Shapes\obj\Debug\net6.0\Shapes.csproj.CoreCompileInputs.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\OOP - June 2024\03.InterfacesАndAbstraction-Lab\01.Shapes\obj\Debug\net6.0\Shapes.sourcelink.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\OOP - June 2024\03.InterfacesАndAbstraction-Lab\01.Shapes\obj\Debug\net6.0\Shapes.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\OOP - June 2024\03.InterfacesАndAbstraction-Lab\01.Shapes\obj\Debug\net6.0\refint\Shapes.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\OOP - June 2024\03.InterfacesАndAbstraction-Lab\01.Shapes\obj\Debug\net6.0\Shapes.pdb
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\OOP - June 2024\03.InterfacesАndAbstraction-Lab\01.Shapes\obj\Debug\net6.0\Shapes.genruntimeconfig.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\OOP - June 2024\03.InterfacesАndAbstraction-Lab\01.Shapes\obj\Debug\net6.0\ref\Shapes.dll

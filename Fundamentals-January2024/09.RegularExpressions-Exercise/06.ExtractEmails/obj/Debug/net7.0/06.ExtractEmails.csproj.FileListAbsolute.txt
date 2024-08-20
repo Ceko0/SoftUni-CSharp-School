@@ -1,0 +1,15 @@
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\09.RegularExpressions-Exercise\06.ExtractEmails\bin\Debug\net7.0\06.ExtractEmails.exe
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\09.RegularExpressions-Exercise\06.ExtractEmails\bin\Debug\net7.0\06.ExtractEmails.deps.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\09.RegularExpressions-Exercise\06.ExtractEmails\bin\Debug\net7.0\06.ExtractEmails.runtimeconfig.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\09.RegularExpressions-Exercise\06.ExtractEmails\bin\Debug\net7.0\06.ExtractEmails.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\09.RegularExpressions-Exercise\06.ExtractEmails\bin\Debug\net7.0\06.ExtractEmails.pdb
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\09.RegularExpressions-Exercise\06.ExtractEmails\obj\Debug\net7.0\06.ExtractEmails.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\09.RegularExpressions-Exercise\06.ExtractEmails\obj\Debug\net7.0\06.ExtractEmails.AssemblyInfoInputs.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\09.RegularExpressions-Exercise\06.ExtractEmails\obj\Debug\net7.0\06.ExtractEmails.AssemblyInfo.cs
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\09.RegularExpressions-Exercise\06.ExtractEmails\obj\Debug\net7.0\06.ExtractEmails.csproj.CoreCompileInputs.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\09.RegularExpressions-Exercise\06.ExtractEmails\obj\Debug\net7.0\06.ExtractEmails.sourcelink.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\09.RegularExpressions-Exercise\06.ExtractEmails\obj\Debug\net7.0\06.ExtractEmails.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\09.RegularExpressions-Exercise\06.ExtractEmails\obj\Debug\net7.0\refint\06.ExtractEmails.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\09.RegularExpressions-Exercise\06.ExtractEmails\obj\Debug\net7.0\06.ExtractEmails.pdb
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\09.RegularExpressions-Exercise\06.ExtractEmails\obj\Debug\net7.0\06.ExtractEmails.genruntimeconfig.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\09.RegularExpressions-Exercise\06.ExtractEmails\obj\Debug\net7.0\ref\06.ExtractEmails.dll

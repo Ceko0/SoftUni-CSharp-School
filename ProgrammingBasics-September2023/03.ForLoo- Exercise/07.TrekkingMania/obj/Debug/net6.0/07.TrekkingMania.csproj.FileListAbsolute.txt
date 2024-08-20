@@ -1,0 +1,15 @@
+D:\ProgramsScool\PB-september.2023\08.ForLoo- Exercise\07.TrekkingMania\bin\Debug\net6.0\07.TrekkingMania.exe
+D:\ProgramsScool\PB-september.2023\08.ForLoo- Exercise\07.TrekkingMania\bin\Debug\net6.0\07.TrekkingMania.deps.json
+D:\ProgramsScool\PB-september.2023\08.ForLoo- Exercise\07.TrekkingMania\bin\Debug\net6.0\07.TrekkingMania.runtimeconfig.json
+D:\ProgramsScool\PB-september.2023\08.ForLoo- Exercise\07.TrekkingMania\bin\Debug\net6.0\07.TrekkingMania.dll
+D:\ProgramsScool\PB-september.2023\08.ForLoo- Exercise\07.TrekkingMania\bin\Debug\net6.0\07.TrekkingMania.pdb
+D:\ProgramsScool\PB-september.2023\08.ForLoo- Exercise\07.TrekkingMania\obj\Debug\net6.0\07.TrekkingMania.csproj.AssemblyReference.cache
+D:\ProgramsScool\PB-september.2023\08.ForLoo- Exercise\07.TrekkingMania\obj\Debug\net6.0\07.TrekkingMania.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProgramsScool\PB-september.2023\08.ForLoo- Exercise\07.TrekkingMania\obj\Debug\net6.0\07.TrekkingMania.AssemblyInfoInputs.cache
+D:\ProgramsScool\PB-september.2023\08.ForLoo- Exercise\07.TrekkingMania\obj\Debug\net6.0\07.TrekkingMania.AssemblyInfo.cs
+D:\ProgramsScool\PB-september.2023\08.ForLoo- Exercise\07.TrekkingMania\obj\Debug\net6.0\07.TrekkingMania.csproj.CoreCompileInputs.cache
+D:\ProgramsScool\PB-september.2023\08.ForLoo- Exercise\07.TrekkingMania\obj\Debug\net6.0\07.TrekkingMania.dll
+D:\ProgramsScool\PB-september.2023\08.ForLoo- Exercise\07.TrekkingMania\obj\Debug\net6.0\refint\07.TrekkingMania.dll
+D:\ProgramsScool\PB-september.2023\08.ForLoo- Exercise\07.TrekkingMania\obj\Debug\net6.0\07.TrekkingMania.pdb
+D:\ProgramsScool\PB-september.2023\08.ForLoo- Exercise\07.TrekkingMania\obj\Debug\net6.0\07.TrekkingMania.genruntimeconfig.cache
+D:\ProgramsScool\PB-september.2023\08.ForLoo- Exercise\07.TrekkingMania\obj\Debug\net6.0\ref\07.TrekkingMania.dll

@@ -1,0 +1,14 @@
+D:\ProgramsScool\Fundamental C# 2024\05.For-Loop-MoreExercises\02. Hospital\bin\Debug\net7.0\02. Hospital.exe
+D:\ProgramsScool\Fundamental C# 2024\05.For-Loop-MoreExercises\02. Hospital\bin\Debug\net7.0\02. Hospital.deps.json
+D:\ProgramsScool\Fundamental C# 2024\05.For-Loop-MoreExercises\02. Hospital\bin\Debug\net7.0\02. Hospital.runtimeconfig.json
+D:\ProgramsScool\Fundamental C# 2024\05.For-Loop-MoreExercises\02. Hospital\bin\Debug\net7.0\02. Hospital.dll
+D:\ProgramsScool\Fundamental C# 2024\05.For-Loop-MoreExercises\02. Hospital\bin\Debug\net7.0\02. Hospital.pdb
+D:\ProgramsScool\Fundamental C# 2024\05.For-Loop-MoreExercises\02. Hospital\obj\Debug\net7.0\02. Hospital.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProgramsScool\Fundamental C# 2024\05.For-Loop-MoreExercises\02. Hospital\obj\Debug\net7.0\02. Hospital.AssemblyInfoInputs.cache
+D:\ProgramsScool\Fundamental C# 2024\05.For-Loop-MoreExercises\02. Hospital\obj\Debug\net7.0\02. Hospital.AssemblyInfo.cs
+D:\ProgramsScool\Fundamental C# 2024\05.For-Loop-MoreExercises\02. Hospital\obj\Debug\net7.0\02. Hospital.csproj.CoreCompileInputs.cache
+D:\ProgramsScool\Fundamental C# 2024\05.For-Loop-MoreExercises\02. Hospital\obj\Debug\net7.0\02. Hospital.dll
+D:\ProgramsScool\Fundamental C# 2024\05.For-Loop-MoreExercises\02. Hospital\obj\Debug\net7.0\refint\02. Hospital.dll
+D:\ProgramsScool\Fundamental C# 2024\05.For-Loop-MoreExercises\02. Hospital\obj\Debug\net7.0\02. Hospital.pdb
+D:\ProgramsScool\Fundamental C# 2024\05.For-Loop-MoreExercises\02. Hospital\obj\Debug\net7.0\02. Hospital.genruntimeconfig.cache
+D:\ProgramsScool\Fundamental C# 2024\05.For-Loop-MoreExercises\02. Hospital\obj\Debug\net7.0\ref\02. Hospital.dll

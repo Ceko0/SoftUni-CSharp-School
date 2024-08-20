@@ -1,0 +1,14 @@
+D:\ProgramsScool\ProgrammingBasicsOnlineExam-6and7July2019\03.CoffeeMachine\bin\Debug\netcoreapp3.1\03.CoffeeMachine.exe
+D:\ProgramsScool\ProgrammingBasicsOnlineExam-6and7July2019\03.CoffeeMachine\bin\Debug\netcoreapp3.1\03.CoffeeMachine.deps.json
+D:\ProgramsScool\ProgrammingBasicsOnlineExam-6and7July2019\03.CoffeeMachine\bin\Debug\netcoreapp3.1\03.CoffeeMachine.runtimeconfig.json
+D:\ProgramsScool\ProgrammingBasicsOnlineExam-6and7July2019\03.CoffeeMachine\bin\Debug\netcoreapp3.1\03.CoffeeMachine.runtimeconfig.dev.json
+D:\ProgramsScool\ProgrammingBasicsOnlineExam-6and7July2019\03.CoffeeMachine\bin\Debug\netcoreapp3.1\03.CoffeeMachine.dll
+D:\ProgramsScool\ProgrammingBasicsOnlineExam-6and7July2019\03.CoffeeMachine\bin\Debug\netcoreapp3.1\03.CoffeeMachine.pdb
+D:\ProgramsScool\ProgrammingBasicsOnlineExam-6and7July2019\03.CoffeeMachine\obj\Debug\netcoreapp3.1\03.CoffeeMachine.csproj.AssemblyReference.cache
+D:\ProgramsScool\ProgrammingBasicsOnlineExam-6and7July2019\03.CoffeeMachine\obj\Debug\netcoreapp3.1\03.CoffeeMachine.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProgramsScool\ProgrammingBasicsOnlineExam-6and7July2019\03.CoffeeMachine\obj\Debug\netcoreapp3.1\03.CoffeeMachine.AssemblyInfoInputs.cache
+D:\ProgramsScool\ProgrammingBasicsOnlineExam-6and7July2019\03.CoffeeMachine\obj\Debug\netcoreapp3.1\03.CoffeeMachine.AssemblyInfo.cs
+D:\ProgramsScool\ProgrammingBasicsOnlineExam-6and7July2019\03.CoffeeMachine\obj\Debug\netcoreapp3.1\03.CoffeeMachine.csproj.CoreCompileInputs.cache
+D:\ProgramsScool\ProgrammingBasicsOnlineExam-6and7July2019\03.CoffeeMachine\obj\Debug\netcoreapp3.1\03.CoffeeMachine.dll
+D:\ProgramsScool\ProgrammingBasicsOnlineExam-6and7July2019\03.CoffeeMachine\obj\Debug\netcoreapp3.1\03.CoffeeMachine.pdb
+D:\ProgramsScool\ProgrammingBasicsOnlineExam-6and7July2019\03.CoffeeMachine\obj\Debug\netcoreapp3.1\03.CoffeeMachine.genruntimeconfig.cache

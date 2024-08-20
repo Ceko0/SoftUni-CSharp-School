@@ -1,0 +1,14 @@
+C:\Users\falen\source\repos\06.DrawingFiguresWithLoops-MoreExercises\08.Sunglasses\bin\Debug\net7.0\08.Sunglasses.exe
+C:\Users\falen\source\repos\06.DrawingFiguresWithLoops-MoreExercises\08.Sunglasses\bin\Debug\net7.0\08.Sunglasses.deps.json
+C:\Users\falen\source\repos\06.DrawingFiguresWithLoops-MoreExercises\08.Sunglasses\bin\Debug\net7.0\08.Sunglasses.runtimeconfig.json
+C:\Users\falen\source\repos\06.DrawingFiguresWithLoops-MoreExercises\08.Sunglasses\bin\Debug\net7.0\08.Sunglasses.dll
+C:\Users\falen\source\repos\06.DrawingFiguresWithLoops-MoreExercises\08.Sunglasses\bin\Debug\net7.0\08.Sunglasses.pdb
+C:\Users\falen\source\repos\06.DrawingFiguresWithLoops-MoreExercises\08.Sunglasses\obj\Debug\net7.0\08.Sunglasses.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\falen\source\repos\06.DrawingFiguresWithLoops-MoreExercises\08.Sunglasses\obj\Debug\net7.0\08.Sunglasses.AssemblyInfoInputs.cache
+C:\Users\falen\source\repos\06.DrawingFiguresWithLoops-MoreExercises\08.Sunglasses\obj\Debug\net7.0\08.Sunglasses.AssemblyInfo.cs
+C:\Users\falen\source\repos\06.DrawingFiguresWithLoops-MoreExercises\08.Sunglasses\obj\Debug\net7.0\08.Sunglasses.csproj.CoreCompileInputs.cache
+C:\Users\falen\source\repos\06.DrawingFiguresWithLoops-MoreExercises\08.Sunglasses\obj\Debug\net7.0\08.Sunglasses.dll
+C:\Users\falen\source\repos\06.DrawingFiguresWithLoops-MoreExercises\08.Sunglasses\obj\Debug\net7.0\refint\08.Sunglasses.dll
+C:\Users\falen\source\repos\06.DrawingFiguresWithLoops-MoreExercises\08.Sunglasses\obj\Debug\net7.0\08.Sunglasses.pdb
+C:\Users\falen\source\repos\06.DrawingFiguresWithLoops-MoreExercises\08.Sunglasses\obj\Debug\net7.0\08.Sunglasses.genruntimeconfig.cache
+C:\Users\falen\source\repos\06.DrawingFiguresWithLoops-MoreExercises\08.Sunglasses\obj\Debug\net7.0\ref\08.Sunglasses.dll

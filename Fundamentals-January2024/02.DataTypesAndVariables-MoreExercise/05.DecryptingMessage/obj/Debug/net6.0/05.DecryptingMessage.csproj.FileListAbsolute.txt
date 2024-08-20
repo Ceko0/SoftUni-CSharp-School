@@ -1,0 +1,15 @@
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\02.DataTypesAndVariables-MoreExercise\05.DecryptingMessage\bin\Debug\net6.0\05.DecryptingMessage.exe
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\02.DataTypesAndVariables-MoreExercise\05.DecryptingMessage\bin\Debug\net6.0\05.DecryptingMessage.deps.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\02.DataTypesAndVariables-MoreExercise\05.DecryptingMessage\bin\Debug\net6.0\05.DecryptingMessage.runtimeconfig.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\02.DataTypesAndVariables-MoreExercise\05.DecryptingMessage\bin\Debug\net6.0\05.DecryptingMessage.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\02.DataTypesAndVariables-MoreExercise\05.DecryptingMessage\bin\Debug\net6.0\05.DecryptingMessage.pdb
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\02.DataTypesAndVariables-MoreExercise\05.DecryptingMessage\obj\Debug\net6.0\05.DecryptingMessage.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\02.DataTypesAndVariables-MoreExercise\05.DecryptingMessage\obj\Debug\net6.0\05.DecryptingMessage.AssemblyInfoInputs.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\02.DataTypesAndVariables-MoreExercise\05.DecryptingMessage\obj\Debug\net6.0\05.DecryptingMessage.AssemblyInfo.cs
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\02.DataTypesAndVariables-MoreExercise\05.DecryptingMessage\obj\Debug\net6.0\05.DecryptingMessage.csproj.CoreCompileInputs.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\02.DataTypesAndVariables-MoreExercise\05.DecryptingMessage\obj\Debug\net6.0\05.DecryptingMessage.sourcelink.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\02.DataTypesAndVariables-MoreExercise\05.DecryptingMessage\obj\Debug\net6.0\05.DecryptingMessage.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\02.DataTypesAndVariables-MoreExercise\05.DecryptingMessage\obj\Debug\net6.0\refint\05.DecryptingMessage.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\02.DataTypesAndVariables-MoreExercise\05.DecryptingMessage\obj\Debug\net6.0\05.DecryptingMessage.pdb
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\02.DataTypesAndVariables-MoreExercise\05.DecryptingMessage\obj\Debug\net6.0\05.DecryptingMessage.genruntimeconfig.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\02.DataTypesAndVariables-MoreExercise\05.DecryptingMessage\obj\Debug\net6.0\ref\05.DecryptingMessage.dll

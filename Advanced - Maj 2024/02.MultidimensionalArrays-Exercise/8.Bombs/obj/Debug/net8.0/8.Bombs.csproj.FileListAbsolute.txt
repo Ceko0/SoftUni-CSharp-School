@@ -1,0 +1,15 @@
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\02.MultidimensionalArrays-Exercise\8.Bombs\bin\Debug\net8.0\8.Bombs.exe
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\02.MultidimensionalArrays-Exercise\8.Bombs\bin\Debug\net8.0\8.Bombs.deps.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\02.MultidimensionalArrays-Exercise\8.Bombs\bin\Debug\net8.0\8.Bombs.runtimeconfig.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\02.MultidimensionalArrays-Exercise\8.Bombs\bin\Debug\net8.0\8.Bombs.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\02.MultidimensionalArrays-Exercise\8.Bombs\bin\Debug\net8.0\8.Bombs.pdb
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\02.MultidimensionalArrays-Exercise\8.Bombs\obj\Debug\net8.0\8.Bombs.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\02.MultidimensionalArrays-Exercise\8.Bombs\obj\Debug\net8.0\8.Bombs.AssemblyInfoInputs.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\02.MultidimensionalArrays-Exercise\8.Bombs\obj\Debug\net8.0\8.Bombs.AssemblyInfo.cs
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\02.MultidimensionalArrays-Exercise\8.Bombs\obj\Debug\net8.0\8.Bombs.csproj.CoreCompileInputs.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\02.MultidimensionalArrays-Exercise\8.Bombs\obj\Debug\net8.0\8.Bombs.sourcelink.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\02.MultidimensionalArrays-Exercise\8.Bombs\obj\Debug\net8.0\8.Bombs.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\02.MultidimensionalArrays-Exercise\8.Bombs\obj\Debug\net8.0\refint\8.Bombs.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\02.MultidimensionalArrays-Exercise\8.Bombs\obj\Debug\net8.0\8.Bombs.pdb
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\02.MultidimensionalArrays-Exercise\8.Bombs\obj\Debug\net8.0\8.Bombs.genruntimeconfig.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\02.MultidimensionalArrays-Exercise\8.Bombs\obj\Debug\net8.0\ref\8.Bombs.dll

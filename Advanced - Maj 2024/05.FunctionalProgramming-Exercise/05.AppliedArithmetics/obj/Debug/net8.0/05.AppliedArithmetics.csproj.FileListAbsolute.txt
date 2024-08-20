@@ -1,0 +1,15 @@
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\05.FunctionalProgramming-Exercise\05.AppliedArithmetics\bin\Debug\net8.0\05.AppliedArithmetics.exe
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\05.FunctionalProgramming-Exercise\05.AppliedArithmetics\bin\Debug\net8.0\05.AppliedArithmetics.deps.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\05.FunctionalProgramming-Exercise\05.AppliedArithmetics\bin\Debug\net8.0\05.AppliedArithmetics.runtimeconfig.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\05.FunctionalProgramming-Exercise\05.AppliedArithmetics\bin\Debug\net8.0\05.AppliedArithmetics.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\05.FunctionalProgramming-Exercise\05.AppliedArithmetics\bin\Debug\net8.0\05.AppliedArithmetics.pdb
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\05.FunctionalProgramming-Exercise\05.AppliedArithmetics\obj\Debug\net8.0\05.AppliedArithmetics.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\05.FunctionalProgramming-Exercise\05.AppliedArithmetics\obj\Debug\net8.0\05.AppliedArithmetics.AssemblyInfoInputs.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\05.FunctionalProgramming-Exercise\05.AppliedArithmetics\obj\Debug\net8.0\05.AppliedArithmetics.AssemblyInfo.cs
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\05.FunctionalProgramming-Exercise\05.AppliedArithmetics\obj\Debug\net8.0\05.AppliedArithmetics.csproj.CoreCompileInputs.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\05.FunctionalProgramming-Exercise\05.AppliedArithmetics\obj\Debug\net8.0\05.AppliedArithmetics.sourcelink.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\05.FunctionalProgramming-Exercise\05.AppliedArithmetics\obj\Debug\net8.0\05.AppliedArithmetics.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\05.FunctionalProgramming-Exercise\05.AppliedArithmetics\obj\Debug\net8.0\refint\05.AppliedArithmetics.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\05.FunctionalProgramming-Exercise\05.AppliedArithmetics\obj\Debug\net8.0\05.AppliedArithmetics.pdb
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\05.FunctionalProgramming-Exercise\05.AppliedArithmetics\obj\Debug\net8.0\05.AppliedArithmetics.genruntimeconfig.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\05.FunctionalProgramming-Exercise\05.AppliedArithmetics\obj\Debug\net8.0\ref\05.AppliedArithmetics.dll

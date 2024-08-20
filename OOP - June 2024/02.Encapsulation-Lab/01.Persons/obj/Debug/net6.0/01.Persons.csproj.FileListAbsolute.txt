@@ -1,0 +1,15 @@
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\OOP - June 2024\02.Encapsulation-Lab\01.Persons\bin\Debug\net6.0\01.Persons.exe
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\OOP - June 2024\02.Encapsulation-Lab\01.Persons\bin\Debug\net6.0\01.Persons.deps.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\OOP - June 2024\02.Encapsulation-Lab\01.Persons\bin\Debug\net6.0\01.Persons.runtimeconfig.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\OOP - June 2024\02.Encapsulation-Lab\01.Persons\bin\Debug\net6.0\01.Persons.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\OOP - June 2024\02.Encapsulation-Lab\01.Persons\bin\Debug\net6.0\01.Persons.pdb
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\OOP - June 2024\02.Encapsulation-Lab\01.Persons\obj\Debug\net6.0\01.Persons.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\OOP - June 2024\02.Encapsulation-Lab\01.Persons\obj\Debug\net6.0\01.Persons.AssemblyInfoInputs.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\OOP - June 2024\02.Encapsulation-Lab\01.Persons\obj\Debug\net6.0\01.Persons.AssemblyInfo.cs
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\OOP - June 2024\02.Encapsulation-Lab\01.Persons\obj\Debug\net6.0\01.Persons.csproj.CoreCompileInputs.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\OOP - June 2024\02.Encapsulation-Lab\01.Persons\obj\Debug\net6.0\01.Persons.sourcelink.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\OOP - June 2024\02.Encapsulation-Lab\01.Persons\obj\Debug\net6.0\01.Persons.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\OOP - June 2024\02.Encapsulation-Lab\01.Persons\obj\Debug\net6.0\refint\01.Persons.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\OOP - June 2024\02.Encapsulation-Lab\01.Persons\obj\Debug\net6.0\01.Persons.pdb
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\OOP - June 2024\02.Encapsulation-Lab\01.Persons\obj\Debug\net6.0\01.Persons.genruntimeconfig.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\OOP - June 2024\02.Encapsulation-Lab\01.Persons\obj\Debug\net6.0\ref\01.Persons.dll

@@ -1,0 +1,15 @@
+D:\ProgramsScool\Git Hub\SoftUni-school\Programming Basics - September 2023\PB - More Exercises\07.NestedLoops-MoreExercises\01.UniquePINCodes\bin\Debug\net7.0\01.UniquePINCodes.exe
+D:\ProgramsScool\Git Hub\SoftUni-school\Programming Basics - September 2023\PB - More Exercises\07.NestedLoops-MoreExercises\01.UniquePINCodes\bin\Debug\net7.0\01.UniquePINCodes.deps.json
+D:\ProgramsScool\Git Hub\SoftUni-school\Programming Basics - September 2023\PB - More Exercises\07.NestedLoops-MoreExercises\01.UniquePINCodes\bin\Debug\net7.0\01.UniquePINCodes.runtimeconfig.json
+D:\ProgramsScool\Git Hub\SoftUni-school\Programming Basics - September 2023\PB - More Exercises\07.NestedLoops-MoreExercises\01.UniquePINCodes\bin\Debug\net7.0\01.UniquePINCodes.dll
+D:\ProgramsScool\Git Hub\SoftUni-school\Programming Basics - September 2023\PB - More Exercises\07.NestedLoops-MoreExercises\01.UniquePINCodes\bin\Debug\net7.0\01.UniquePINCodes.pdb
+D:\ProgramsScool\Git Hub\SoftUni-school\Programming Basics - September 2023\PB - More Exercises\07.NestedLoops-MoreExercises\01.UniquePINCodes\obj\Debug\net7.0\01.UniquePINCodes.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProgramsScool\Git Hub\SoftUni-school\Programming Basics - September 2023\PB - More Exercises\07.NestedLoops-MoreExercises\01.UniquePINCodes\obj\Debug\net7.0\01.UniquePINCodes.AssemblyInfoInputs.cache
+D:\ProgramsScool\Git Hub\SoftUni-school\Programming Basics - September 2023\PB - More Exercises\07.NestedLoops-MoreExercises\01.UniquePINCodes\obj\Debug\net7.0\01.UniquePINCodes.AssemblyInfo.cs
+D:\ProgramsScool\Git Hub\SoftUni-school\Programming Basics - September 2023\PB - More Exercises\07.NestedLoops-MoreExercises\01.UniquePINCodes\obj\Debug\net7.0\01.UniquePINCodes.csproj.CoreCompileInputs.cache
+D:\ProgramsScool\Git Hub\SoftUni-school\Programming Basics - September 2023\PB - More Exercises\07.NestedLoops-MoreExercises\01.UniquePINCodes\obj\Debug\net7.0\01.UniquePINCodes.sourcelink.json
+D:\ProgramsScool\Git Hub\SoftUni-school\Programming Basics - September 2023\PB - More Exercises\07.NestedLoops-MoreExercises\01.UniquePINCodes\obj\Debug\net7.0\01.UniquePINCodes.dll
+D:\ProgramsScool\Git Hub\SoftUni-school\Programming Basics - September 2023\PB - More Exercises\07.NestedLoops-MoreExercises\01.UniquePINCodes\obj\Debug\net7.0\refint\01.UniquePINCodes.dll
+D:\ProgramsScool\Git Hub\SoftUni-school\Programming Basics - September 2023\PB - More Exercises\07.NestedLoops-MoreExercises\01.UniquePINCodes\obj\Debug\net7.0\01.UniquePINCodes.pdb
+D:\ProgramsScool\Git Hub\SoftUni-school\Programming Basics - September 2023\PB - More Exercises\07.NestedLoops-MoreExercises\01.UniquePINCodes\obj\Debug\net7.0\01.UniquePINCodes.genruntimeconfig.cache
+D:\ProgramsScool\Git Hub\SoftUni-school\Programming Basics - September 2023\PB - More Exercises\07.NestedLoops-MoreExercises\01.UniquePINCodes\obj\Debug\net7.0\ref\01.UniquePINCodes.dll

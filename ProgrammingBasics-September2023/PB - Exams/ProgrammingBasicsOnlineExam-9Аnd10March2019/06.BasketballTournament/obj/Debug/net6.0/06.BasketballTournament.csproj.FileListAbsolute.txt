@@ -1,0 +1,15 @@
+D:\ProgramsScool\PB-september.2023\ProgrammingBasicsOnlineExam-9Аnd10March2019\06.BasketballTournament\bin\Debug\net6.0\06.BasketballTournament.exe
+D:\ProgramsScool\PB-september.2023\ProgrammingBasicsOnlineExam-9Аnd10March2019\06.BasketballTournament\bin\Debug\net6.0\06.BasketballTournament.deps.json
+D:\ProgramsScool\PB-september.2023\ProgrammingBasicsOnlineExam-9Аnd10March2019\06.BasketballTournament\bin\Debug\net6.0\06.BasketballTournament.runtimeconfig.json
+D:\ProgramsScool\PB-september.2023\ProgrammingBasicsOnlineExam-9Аnd10March2019\06.BasketballTournament\bin\Debug\net6.0\06.BasketballTournament.dll
+D:\ProgramsScool\PB-september.2023\ProgrammingBasicsOnlineExam-9Аnd10March2019\06.BasketballTournament\bin\Debug\net6.0\06.BasketballTournament.pdb
+D:\ProgramsScool\PB-september.2023\ProgrammingBasicsOnlineExam-9Аnd10March2019\06.BasketballTournament\obj\Debug\net6.0\06.BasketballTournament.csproj.AssemblyReference.cache
+D:\ProgramsScool\PB-september.2023\ProgrammingBasicsOnlineExam-9Аnd10March2019\06.BasketballTournament\obj\Debug\net6.0\06.BasketballTournament.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProgramsScool\PB-september.2023\ProgrammingBasicsOnlineExam-9Аnd10March2019\06.BasketballTournament\obj\Debug\net6.0\06.BasketballTournament.AssemblyInfoInputs.cache
+D:\ProgramsScool\PB-september.2023\ProgrammingBasicsOnlineExam-9Аnd10March2019\06.BasketballTournament\obj\Debug\net6.0\06.BasketballTournament.AssemblyInfo.cs
+D:\ProgramsScool\PB-september.2023\ProgrammingBasicsOnlineExam-9Аnd10March2019\06.BasketballTournament\obj\Debug\net6.0\06.BasketballTournament.csproj.CoreCompileInputs.cache
+D:\ProgramsScool\PB-september.2023\ProgrammingBasicsOnlineExam-9Аnd10March2019\06.BasketballTournament\obj\Debug\net6.0\06.BasketballTournament.dll
+D:\ProgramsScool\PB-september.2023\ProgrammingBasicsOnlineExam-9Аnd10March2019\06.BasketballTournament\obj\Debug\net6.0\refint\06.BasketballTournament.dll
+D:\ProgramsScool\PB-september.2023\ProgrammingBasicsOnlineExam-9Аnd10March2019\06.BasketballTournament\obj\Debug\net6.0\06.BasketballTournament.pdb
+D:\ProgramsScool\PB-september.2023\ProgrammingBasicsOnlineExam-9Аnd10March2019\06.BasketballTournament\obj\Debug\net6.0\06.BasketballTournament.genruntimeconfig.cache
+D:\ProgramsScool\PB-september.2023\ProgrammingBasicsOnlineExam-9Аnd10March2019\06.BasketballTournament\obj\Debug\net6.0\ref\06.BasketballTournament.dll

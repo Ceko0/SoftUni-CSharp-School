@@ -1,0 +1,15 @@
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\OOP - June 2024\MyExam\FootballManager\FootballManager\bin\Debug\net6.0\FootballManager.exe
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\OOP - June 2024\MyExam\FootballManager\FootballManager\bin\Debug\net6.0\FootballManager.deps.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\OOP - June 2024\MyExam\FootballManager\FootballManager\bin\Debug\net6.0\FootballManager.runtimeconfig.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\OOP - June 2024\MyExam\FootballManager\FootballManager\bin\Debug\net6.0\FootballManager.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\OOP - June 2024\MyExam\FootballManager\FootballManager\bin\Debug\net6.0\FootballManager.pdb
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\OOP - June 2024\MyExam\FootballManager\FootballManager\obj\Debug\net6.0\FootballManager.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\OOP - June 2024\MyExam\FootballManager\FootballManager\obj\Debug\net6.0\FootballManager.AssemblyInfoInputs.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\OOP - June 2024\MyExam\FootballManager\FootballManager\obj\Debug\net6.0\FootballManager.AssemblyInfo.cs
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\OOP - June 2024\MyExam\FootballManager\FootballManager\obj\Debug\net6.0\FootballManager.csproj.CoreCompileInputs.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\OOP - June 2024\MyExam\FootballManager\FootballManager\obj\Debug\net6.0\FootballManager.sourcelink.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\OOP - June 2024\MyExam\FootballManager\FootballManager\obj\Debug\net6.0\FootballManager.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\OOP - June 2024\MyExam\FootballManager\FootballManager\obj\Debug\net6.0\refint\FootballManager.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\OOP - June 2024\MyExam\FootballManager\FootballManager\obj\Debug\net6.0\FootballManager.pdb
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\OOP - June 2024\MyExam\FootballManager\FootballManager\obj\Debug\net6.0\FootballManager.genruntimeconfig.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\OOP - June 2024\MyExam\FootballManager\FootballManager\obj\Debug\net6.0\ref\FootballManager.dll

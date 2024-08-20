@@ -1,0 +1,15 @@
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\05.ProgrammingFundamentalsMidExam\01.BonusScoringSystem\bin\Debug\net7.0\01.BonusScoringSystem.exe
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\05.ProgrammingFundamentalsMidExam\01.BonusScoringSystem\bin\Debug\net7.0\01.BonusScoringSystem.deps.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\05.ProgrammingFundamentalsMidExam\01.BonusScoringSystem\bin\Debug\net7.0\01.BonusScoringSystem.runtimeconfig.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\05.ProgrammingFundamentalsMidExam\01.BonusScoringSystem\bin\Debug\net7.0\01.BonusScoringSystem.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\05.ProgrammingFundamentalsMidExam\01.BonusScoringSystem\bin\Debug\net7.0\01.BonusScoringSystem.pdb
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\05.ProgrammingFundamentalsMidExam\01.BonusScoringSystem\obj\Debug\net7.0\01.BonusScoringSystem.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\05.ProgrammingFundamentalsMidExam\01.BonusScoringSystem\obj\Debug\net7.0\01.BonusScoringSystem.AssemblyInfoInputs.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\05.ProgrammingFundamentalsMidExam\01.BonusScoringSystem\obj\Debug\net7.0\01.BonusScoringSystem.AssemblyInfo.cs
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\05.ProgrammingFundamentalsMidExam\01.BonusScoringSystem\obj\Debug\net7.0\01.BonusScoringSystem.csproj.CoreCompileInputs.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\05.ProgrammingFundamentalsMidExam\01.BonusScoringSystem\obj\Debug\net7.0\01.BonusScoringSystem.sourcelink.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\05.ProgrammingFundamentalsMidExam\01.BonusScoringSystem\obj\Debug\net7.0\01.BonusScoringSystem.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\05.ProgrammingFundamentalsMidExam\01.BonusScoringSystem\obj\Debug\net7.0\refint\01.BonusScoringSystem.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\05.ProgrammingFundamentalsMidExam\01.BonusScoringSystem\obj\Debug\net7.0\01.BonusScoringSystem.pdb
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\05.ProgrammingFundamentalsMidExam\01.BonusScoringSystem\obj\Debug\net7.0\01.BonusScoringSystem.genruntimeconfig.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\05.ProgrammingFundamentalsMidExam\01.BonusScoringSystem\obj\Debug\net7.0\ref\01.BonusScoringSystem.dll

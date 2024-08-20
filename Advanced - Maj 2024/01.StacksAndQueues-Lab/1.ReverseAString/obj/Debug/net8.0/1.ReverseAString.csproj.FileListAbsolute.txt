@@ -1,0 +1,15 @@
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\01.StacksAndQueues-Lab\1.ReverseAString\bin\Debug\net8.0\1.ReverseAString.exe
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\01.StacksAndQueues-Lab\1.ReverseAString\bin\Debug\net8.0\1.ReverseAString.deps.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\01.StacksAndQueues-Lab\1.ReverseAString\bin\Debug\net8.0\1.ReverseAString.runtimeconfig.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\01.StacksAndQueues-Lab\1.ReverseAString\bin\Debug\net8.0\1.ReverseAString.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\01.StacksAndQueues-Lab\1.ReverseAString\bin\Debug\net8.0\1.ReverseAString.pdb
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\01.StacksAndQueues-Lab\1.ReverseAString\obj\Debug\net8.0\1.ReverseAString.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\01.StacksAndQueues-Lab\1.ReverseAString\obj\Debug\net8.0\1.ReverseAString.AssemblyInfoInputs.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\01.StacksAndQueues-Lab\1.ReverseAString\obj\Debug\net8.0\1.ReverseAString.AssemblyInfo.cs
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\01.StacksAndQueues-Lab\1.ReverseAString\obj\Debug\net8.0\1.ReverseAString.csproj.CoreCompileInputs.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\01.StacksAndQueues-Lab\1.ReverseAString\obj\Debug\net8.0\1.ReverseAString.sourcelink.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\01.StacksAndQueues-Lab\1.ReverseAString\obj\Debug\net8.0\1.ReverseAString.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\01.StacksAndQueues-Lab\1.ReverseAString\obj\Debug\net8.0\refint\1.ReverseAString.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\01.StacksAndQueues-Lab\1.ReverseAString\obj\Debug\net8.0\1.ReverseAString.pdb
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\01.StacksAndQueues-Lab\1.ReverseAString\obj\Debug\net8.0\1.ReverseAString.genruntimeconfig.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\01.StacksAndQueues-Lab\1.ReverseAString\obj\Debug\net8.0\ref\1.ReverseAString.dll

@@ -1,0 +1,15 @@
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\05.FunctionalProgramming-Lab\02.SumNumbers\bin\Debug\net8.0\02.SumNumbers.exe
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\05.FunctionalProgramming-Lab\02.SumNumbers\bin\Debug\net8.0\02.SumNumbers.deps.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\05.FunctionalProgramming-Lab\02.SumNumbers\bin\Debug\net8.0\02.SumNumbers.runtimeconfig.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\05.FunctionalProgramming-Lab\02.SumNumbers\bin\Debug\net8.0\02.SumNumbers.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\05.FunctionalProgramming-Lab\02.SumNumbers\bin\Debug\net8.0\02.SumNumbers.pdb
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\05.FunctionalProgramming-Lab\02.SumNumbers\obj\Debug\net8.0\02.SumNumbers.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\05.FunctionalProgramming-Lab\02.SumNumbers\obj\Debug\net8.0\02.SumNumbers.AssemblyInfoInputs.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\05.FunctionalProgramming-Lab\02.SumNumbers\obj\Debug\net8.0\02.SumNumbers.AssemblyInfo.cs
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\05.FunctionalProgramming-Lab\02.SumNumbers\obj\Debug\net8.0\02.SumNumbers.csproj.CoreCompileInputs.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\05.FunctionalProgramming-Lab\02.SumNumbers\obj\Debug\net8.0\02.SumNumbers.sourcelink.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\05.FunctionalProgramming-Lab\02.SumNumbers\obj\Debug\net8.0\02.SumNumbers.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\05.FunctionalProgramming-Lab\02.SumNumbers\obj\Debug\net8.0\refint\02.SumNumbers.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\05.FunctionalProgramming-Lab\02.SumNumbers\obj\Debug\net8.0\02.SumNumbers.pdb
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\05.FunctionalProgramming-Lab\02.SumNumbers\obj\Debug\net8.0\02.SumNumbers.genruntimeconfig.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\05.FunctionalProgramming-Lab\02.SumNumbers\obj\Debug\net8.0\ref\02.SumNumbers.dll

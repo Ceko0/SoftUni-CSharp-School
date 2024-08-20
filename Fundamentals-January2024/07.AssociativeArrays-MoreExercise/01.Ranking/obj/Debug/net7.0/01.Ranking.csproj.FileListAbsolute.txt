@@ -1,0 +1,15 @@
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\07.AssociativeArrays-MoreExercise\01.Ranking\bin\Debug\net7.0\01.Ranking.exe
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\07.AssociativeArrays-MoreExercise\01.Ranking\bin\Debug\net7.0\01.Ranking.deps.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\07.AssociativeArrays-MoreExercise\01.Ranking\bin\Debug\net7.0\01.Ranking.runtimeconfig.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\07.AssociativeArrays-MoreExercise\01.Ranking\bin\Debug\net7.0\01.Ranking.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\07.AssociativeArrays-MoreExercise\01.Ranking\bin\Debug\net7.0\01.Ranking.pdb
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\07.AssociativeArrays-MoreExercise\01.Ranking\obj\Debug\net7.0\01.Ranking.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\07.AssociativeArrays-MoreExercise\01.Ranking\obj\Debug\net7.0\01.Ranking.AssemblyInfoInputs.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\07.AssociativeArrays-MoreExercise\01.Ranking\obj\Debug\net7.0\01.Ranking.AssemblyInfo.cs
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\07.AssociativeArrays-MoreExercise\01.Ranking\obj\Debug\net7.0\01.Ranking.csproj.CoreCompileInputs.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\07.AssociativeArrays-MoreExercise\01.Ranking\obj\Debug\net7.0\01.Ranking.sourcelink.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\07.AssociativeArrays-MoreExercise\01.Ranking\obj\Debug\net7.0\01.Ranking.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\07.AssociativeArrays-MoreExercise\01.Ranking\obj\Debug\net7.0\refint\01.Ranking.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\07.AssociativeArrays-MoreExercise\01.Ranking\obj\Debug\net7.0\01.Ranking.pdb
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\07.AssociativeArrays-MoreExercise\01.Ranking\obj\Debug\net7.0\01.Ranking.genruntimeconfig.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\07.AssociativeArrays-MoreExercise\01.Ranking\obj\Debug\net7.0\ref\01.Ranking.dll

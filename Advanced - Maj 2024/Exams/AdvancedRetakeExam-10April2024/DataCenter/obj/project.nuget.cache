@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "vT8z6xI1uhjqXWbJr+fZnOedn8ZpMDw3nm1iurqBjymeVf+ipEyML6/n1nXjsTfKTXjkdrY7gTCxTdvaPjy2Og==",
+  "success": true,
+  "projectFilePath": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\Advanced - Maj 2024\\Exams\\AdvancedRetakeExam-10April2024\\DataCenter\\DataCenter.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\falen\\.nuget\\packages\\xunit.assert\\2.8.1\\xunit.assert.2.8.1.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,15 @@
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\08.TextProcessing-Lab\01.ReverseStrings\bin\Debug\net7.0\01.ReverseStrings.exe
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\08.TextProcessing-Lab\01.ReverseStrings\bin\Debug\net7.0\01.ReverseStrings.deps.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\08.TextProcessing-Lab\01.ReverseStrings\bin\Debug\net7.0\01.ReverseStrings.runtimeconfig.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\08.TextProcessing-Lab\01.ReverseStrings\bin\Debug\net7.0\01.ReverseStrings.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\08.TextProcessing-Lab\01.ReverseStrings\bin\Debug\net7.0\01.ReverseStrings.pdb
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\08.TextProcessing-Lab\01.ReverseStrings\obj\Debug\net7.0\01.ReverseStrings.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\08.TextProcessing-Lab\01.ReverseStrings\obj\Debug\net7.0\01.ReverseStrings.AssemblyInfoInputs.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\08.TextProcessing-Lab\01.ReverseStrings\obj\Debug\net7.0\01.ReverseStrings.AssemblyInfo.cs
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\08.TextProcessing-Lab\01.ReverseStrings\obj\Debug\net7.0\01.ReverseStrings.csproj.CoreCompileInputs.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\08.TextProcessing-Lab\01.ReverseStrings\obj\Debug\net7.0\01.ReverseStrings.sourcelink.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\08.TextProcessing-Lab\01.ReverseStrings\obj\Debug\net7.0\01.ReverseStrings.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\08.TextProcessing-Lab\01.ReverseStrings\obj\Debug\net7.0\refint\01.ReverseStrings.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\08.TextProcessing-Lab\01.ReverseStrings\obj\Debug\net7.0\01.ReverseStrings.pdb
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\08.TextProcessing-Lab\01.ReverseStrings\obj\Debug\net7.0\01.ReverseStrings.genruntimeconfig.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\08.TextProcessing-Lab\01.ReverseStrings\obj\Debug\net7.0\ref\01.ReverseStrings.dll

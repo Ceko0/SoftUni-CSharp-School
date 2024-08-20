@@ -1,0 +1,15 @@
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\OOP - June 2024\02.Encapsulation-Exercise\AnimalFarm\bin\Debug\net6.0\AnimalFarm.exe
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\OOP - June 2024\02.Encapsulation-Exercise\AnimalFarm\bin\Debug\net6.0\AnimalFarm.deps.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\OOP - June 2024\02.Encapsulation-Exercise\AnimalFarm\bin\Debug\net6.0\AnimalFarm.runtimeconfig.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\OOP - June 2024\02.Encapsulation-Exercise\AnimalFarm\bin\Debug\net6.0\AnimalFarm.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\OOP - June 2024\02.Encapsulation-Exercise\AnimalFarm\bin\Debug\net6.0\AnimalFarm.pdb
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\OOP - June 2024\02.Encapsulation-Exercise\AnimalFarm\obj\Debug\net6.0\AnimalFarm.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\OOP - June 2024\02.Encapsulation-Exercise\AnimalFarm\obj\Debug\net6.0\AnimalFarm.AssemblyInfoInputs.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\OOP - June 2024\02.Encapsulation-Exercise\AnimalFarm\obj\Debug\net6.0\AnimalFarm.AssemblyInfo.cs
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\OOP - June 2024\02.Encapsulation-Exercise\AnimalFarm\obj\Debug\net6.0\AnimalFarm.csproj.CoreCompileInputs.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\OOP - June 2024\02.Encapsulation-Exercise\AnimalFarm\obj\Debug\net6.0\AnimalFarm.sourcelink.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\OOP - June 2024\02.Encapsulation-Exercise\AnimalFarm\obj\Debug\net6.0\AnimalFarm.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\OOP - June 2024\02.Encapsulation-Exercise\AnimalFarm\obj\Debug\net6.0\refint\AnimalFarm.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\OOP - June 2024\02.Encapsulation-Exercise\AnimalFarm\obj\Debug\net6.0\AnimalFarm.pdb
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\OOP - June 2024\02.Encapsulation-Exercise\AnimalFarm\obj\Debug\net6.0\AnimalFarm.genruntimeconfig.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\OOP - June 2024\02.Encapsulation-Exercise\AnimalFarm\obj\Debug\net6.0\ref\AnimalFarm.dll

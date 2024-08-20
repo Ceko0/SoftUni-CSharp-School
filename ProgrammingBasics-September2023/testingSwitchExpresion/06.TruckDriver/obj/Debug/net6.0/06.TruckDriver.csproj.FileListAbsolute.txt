@@ -1,0 +1,15 @@
+D:\ProgramsScool\Fundamental C# 2024\testingSwitchExpresion\06.TruckDriver\bin\Debug\net6.0\06.TruckDriver.exe
+D:\ProgramsScool\Fundamental C# 2024\testingSwitchExpresion\06.TruckDriver\bin\Debug\net6.0\06.TruckDriver.deps.json
+D:\ProgramsScool\Fundamental C# 2024\testingSwitchExpresion\06.TruckDriver\bin\Debug\net6.0\06.TruckDriver.runtimeconfig.json
+D:\ProgramsScool\Fundamental C# 2024\testingSwitchExpresion\06.TruckDriver\bin\Debug\net6.0\06.TruckDriver.dll
+D:\ProgramsScool\Fundamental C# 2024\testingSwitchExpresion\06.TruckDriver\bin\Debug\net6.0\06.TruckDriver.pdb
+D:\ProgramsScool\Fundamental C# 2024\testingSwitchExpresion\06.TruckDriver\obj\Debug\net6.0\06.TruckDriver.csproj.AssemblyReference.cache
+D:\ProgramsScool\Fundamental C# 2024\testingSwitchExpresion\06.TruckDriver\obj\Debug\net6.0\06.TruckDriver.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProgramsScool\Fundamental C# 2024\testingSwitchExpresion\06.TruckDriver\obj\Debug\net6.0\06.TruckDriver.AssemblyInfoInputs.cache
+D:\ProgramsScool\Fundamental C# 2024\testingSwitchExpresion\06.TruckDriver\obj\Debug\net6.0\06.TruckDriver.AssemblyInfo.cs
+D:\ProgramsScool\Fundamental C# 2024\testingSwitchExpresion\06.TruckDriver\obj\Debug\net6.0\06.TruckDriver.csproj.CoreCompileInputs.cache
+D:\ProgramsScool\Fundamental C# 2024\testingSwitchExpresion\06.TruckDriver\obj\Debug\net6.0\06.TruckDriver.dll
+D:\ProgramsScool\Fundamental C# 2024\testingSwitchExpresion\06.TruckDriver\obj\Debug\net6.0\refint\06.TruckDriver.dll
+D:\ProgramsScool\Fundamental C# 2024\testingSwitchExpresion\06.TruckDriver\obj\Debug\net6.0\06.TruckDriver.pdb
+D:\ProgramsScool\Fundamental C# 2024\testingSwitchExpresion\06.TruckDriver\obj\Debug\net6.0\06.TruckDriver.genruntimeconfig.cache
+D:\ProgramsScool\Fundamental C# 2024\testingSwitchExpresion\06.TruckDriver\obj\Debug\net6.0\ref\06.TruckDriver.dll

@@ -1,0 +1,15 @@
+D:\ProgramsScool\PB-september.2023\While-Loop-MoreExercises\02.ReportSystem\bin\Debug\net6.0\02.ReportSystem.exe
+D:\ProgramsScool\PB-september.2023\While-Loop-MoreExercises\02.ReportSystem\bin\Debug\net6.0\02.ReportSystem.deps.json
+D:\ProgramsScool\PB-september.2023\While-Loop-MoreExercises\02.ReportSystem\bin\Debug\net6.0\02.ReportSystem.runtimeconfig.json
+D:\ProgramsScool\PB-september.2023\While-Loop-MoreExercises\02.ReportSystem\bin\Debug\net6.0\02.ReportSystem.dll
+D:\ProgramsScool\PB-september.2023\While-Loop-MoreExercises\02.ReportSystem\bin\Debug\net6.0\02.ReportSystem.pdb
+D:\ProgramsScool\PB-september.2023\While-Loop-MoreExercises\02.ReportSystem\obj\Debug\net6.0\02.ReportSystem.csproj.AssemblyReference.cache
+D:\ProgramsScool\PB-september.2023\While-Loop-MoreExercises\02.ReportSystem\obj\Debug\net6.0\02.ReportSystem.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProgramsScool\PB-september.2023\While-Loop-MoreExercises\02.ReportSystem\obj\Debug\net6.0\02.ReportSystem.AssemblyInfoInputs.cache
+D:\ProgramsScool\PB-september.2023\While-Loop-MoreExercises\02.ReportSystem\obj\Debug\net6.0\02.ReportSystem.AssemblyInfo.cs
+D:\ProgramsScool\PB-september.2023\While-Loop-MoreExercises\02.ReportSystem\obj\Debug\net6.0\02.ReportSystem.csproj.CoreCompileInputs.cache
+D:\ProgramsScool\PB-september.2023\While-Loop-MoreExercises\02.ReportSystem\obj\Debug\net6.0\02.ReportSystem.dll
+D:\ProgramsScool\PB-september.2023\While-Loop-MoreExercises\02.ReportSystem\obj\Debug\net6.0\refint\02.ReportSystem.dll
+D:\ProgramsScool\PB-september.2023\While-Loop-MoreExercises\02.ReportSystem\obj\Debug\net6.0\02.ReportSystem.pdb
+D:\ProgramsScool\PB-september.2023\While-Loop-MoreExercises\02.ReportSystem\obj\Debug\net6.0\02.ReportSystem.genruntimeconfig.cache
+D:\ProgramsScool\PB-september.2023\While-Loop-MoreExercises\02.ReportSystem\obj\Debug\net6.0\ref\02.ReportSystem.dll

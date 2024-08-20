@@ -1,0 +1,223 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\Advanced - Maj 2024\\05.FunctionalProgramming-Exercise\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{65E5E783-9746-4D56-8B2B-0EF7952B2A10}|11.TriFunction\\11.TriFunction.csproj|d:\\programsscool\\git hub\\softuni-csharp\\advanced - maj 2024\\05.functionalprogramming-exercise\\11.trifunction\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65E5E783-9746-4D56-8B2B-0EF7952B2A10}|11.TriFunction\\11.TriFunction.csproj|solutionrelative:11.trifunction\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FB7F841-6065-47B2-89E9-73D56C13FA59}|10.ThePartyReservationFilterModule\\10.ThePartyReservationFilterModule.csproj|d:\\programsscool\\git hub\\softuni-csharp\\advanced - maj 2024\\05.functionalprogramming-exercise\\10.thepartyreservationfiltermodule\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FB7F841-6065-47B2-89E9-73D56C13FA59}|10.ThePartyReservationFilterModule\\10.ThePartyReservationFilterModule.csproj|solutionrelative:10.thepartyreservationfiltermodule\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{896FEE3D-821D-4340-BB1F-F59A11D98EF8}|09.PredicateParty!\\09.PredicateParty!.csproj|d:\\programsscool\\git hub\\softuni-csharp\\advanced - maj 2024\\05.functionalprogramming-exercise\\09.predicateparty!\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{896FEE3D-821D-4340-BB1F-F59A11D98EF8}|09.PredicateParty!\\09.PredicateParty!.csproj|solutionrelative:09.predicateparty!\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA407565-FBB7-4261-86EC-A05473D6DBBE}|08.ListOfPredicates\\08.ListOfPredicates.csproj|d:\\programsscool\\git hub\\softuni-csharp\\advanced - maj 2024\\05.functionalprogramming-exercise\\08.listofpredicates\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA407565-FBB7-4261-86EC-A05473D6DBBE}|08.ListOfPredicates\\08.ListOfPredicates.csproj|solutionrelative:08.listofpredicates\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42C5D95C-312F-458F-9F4F-A3866414E89E}|07.PredicateForNames\\07.PredicateForNames.csproj|d:\\programsscool\\git hub\\softuni-csharp\\advanced - maj 2024\\05.functionalprogramming-exercise\\07.predicatefornames\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42C5D95C-312F-458F-9F4F-A3866414E89E}|07.PredicateForNames\\07.PredicateForNames.csproj|solutionrelative:07.predicatefornames\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6F9E8D7-8879-4CF7-834E-194A2836B485}|06.ReverseAndExclude\\06.ReverseAndExclude.csproj|d:\\programsscool\\git hub\\softuni-csharp\\advanced - maj 2024\\05.functionalprogramming-exercise\\06.reverseandexclude\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6F9E8D7-8879-4CF7-834E-194A2836B485}|06.ReverseAndExclude\\06.ReverseAndExclude.csproj|solutionrelative:06.reverseandexclude\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{052EA8B6-5BA2-496B-845D-90DA835E01DB}|05.AppliedArithmetics\\05.AppliedArithmetics.csproj|d:\\programsscool\\git hub\\softuni-csharp\\advanced - maj 2024\\05.functionalprogramming-exercise\\05.appliedarithmetics\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{052EA8B6-5BA2-496B-845D-90DA835E01DB}|05.AppliedArithmetics\\05.AppliedArithmetics.csproj|solutionrelative:05.appliedarithmetics\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC405FA5-6BB3-4123-A383-6ACCD653CB92}|04.FindEvensOrOdds\\04.FindEvensOrOdds.csproj|d:\\programsscool\\git hub\\softuni-csharp\\advanced - maj 2024\\05.functionalprogramming-exercise\\04.findevensorodds\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC405FA5-6BB3-4123-A383-6ACCD653CB92}|04.FindEvensOrOdds\\04.FindEvensOrOdds.csproj|solutionrelative:04.findevensorodds\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B57CD62-E1F3-46A2-B10A-833F9200CCAF}|03.CustomMinFunction\\03.CustomMinFunction.csproj|d:\\programsscool\\git hub\\softuni-csharp\\advanced - maj 2024\\05.functionalprogramming-exercise\\03.customminfunction\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B57CD62-E1F3-46A2-B10A-833F9200CCAF}|03.CustomMinFunction\\03.CustomMinFunction.csproj|solutionrelative:03.customminfunction\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13D8786D-DDA6-4699-8DBC-742FB1E331B8}|02.KnightsOfHonor\\02.KnightsOfHonor.csproj|d:\\programsscool\\git hub\\softuni-csharp\\advanced - maj 2024\\05.functionalprogramming-exercise\\02.knightsofhonor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13D8786D-DDA6-4699-8DBC-742FB1E331B8}|02.KnightsOfHonor\\02.KnightsOfHonor.csproj|solutionrelative:02.knightsofhonor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E45781A1-12C3-44E7-82A7-B71052175623}|01.ActionPrint\\01.ActionPrint.csproj|d:\\programsscool\\git hub\\softuni-csharp\\advanced - maj 2024\\05.functionalprogramming-exercise\\01.actionprint\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E45781A1-12C3-44E7-82A7-B71052175623}|01.ActionPrint\\01.ActionPrint.csproj|solutionrelative:01.actionprint\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\Advanced - Maj 2024\\05.FunctionalProgramming-Exercise\\11.TriFunction\\Program.cs",
+              "RelativeDocumentMoniker": "11.TriFunction\\Program.cs",
+              "ToolTip": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\Advanced - Maj 2024\\05.FunctionalProgramming-Exercise\\11.TriFunction\\Program.cs",
+              "RelativeToolTip": "11.TriFunction\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T15:13:17.49Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\Advanced - Maj 2024\\05.FunctionalProgramming-Exercise\\10.ThePartyReservationFilterModule\\Program.cs",
+              "RelativeDocumentMoniker": "10.ThePartyReservationFilterModule\\Program.cs",
+              "ToolTip": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\Advanced - Maj 2024\\05.FunctionalProgramming-Exercise\\10.ThePartyReservationFilterModule\\Program.cs",
+              "RelativeToolTip": "10.ThePartyReservationFilterModule\\Program.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAkwDkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T13:51:20.576Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\Advanced - Maj 2024\\05.FunctionalProgramming-Exercise\\09.PredicateParty!\\Program.cs",
+              "RelativeDocumentMoniker": "09.PredicateParty!\\Program.cs",
+              "ToolTip": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\Advanced - Maj 2024\\05.FunctionalProgramming-Exercise\\09.PredicateParty!\\Program.cs",
+              "RelativeToolTip": "09.PredicateParty!\\Program.cs",
+              "ViewState": "AQIAACYAAAAAAAAAAAAAADcAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T05:40:55.408Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\Advanced - Maj 2024\\05.FunctionalProgramming-Exercise\\08.ListOfPredicates\\Program.cs",
+              "RelativeDocumentMoniker": "08.ListOfPredicates\\Program.cs",
+              "ToolTip": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\Advanced - Maj 2024\\05.FunctionalProgramming-Exercise\\08.ListOfPredicates\\Program.cs",
+              "RelativeToolTip": "08.ListOfPredicates\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T05:29:26.773Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\Advanced - Maj 2024\\05.FunctionalProgramming-Exercise\\07.PredicateForNames\\Program.cs",
+              "RelativeDocumentMoniker": "07.PredicateForNames\\Program.cs",
+              "ToolTip": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\Advanced - Maj 2024\\05.FunctionalProgramming-Exercise\\07.PredicateForNames\\Program.cs",
+              "RelativeToolTip": "07.PredicateForNames\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T05:19:31.344Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\Advanced - Maj 2024\\05.FunctionalProgramming-Exercise\\06.ReverseAndExclude\\Program.cs",
+              "RelativeDocumentMoniker": "06.ReverseAndExclude\\Program.cs",
+              "ToolTip": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\Advanced - Maj 2024\\05.FunctionalProgramming-Exercise\\06.ReverseAndExclude\\Program.cs",
+              "RelativeToolTip": "06.ReverseAndExclude\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T05:01:30.6Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\Advanced - Maj 2024\\05.FunctionalProgramming-Exercise\\05.AppliedArithmetics\\Program.cs",
+              "RelativeDocumentMoniker": "05.AppliedArithmetics\\Program.cs",
+              "ToolTip": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\Advanced - Maj 2024\\05.FunctionalProgramming-Exercise\\05.AppliedArithmetics\\Program.cs",
+              "RelativeToolTip": "05.AppliedArithmetics\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T05:35:23.681Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\Advanced - Maj 2024\\05.FunctionalProgramming-Exercise\\04.FindEvensOrOdds\\Program.cs",
+              "RelativeDocumentMoniker": "04.FindEvensOrOdds\\Program.cs",
+              "ToolTip": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\Advanced - Maj 2024\\05.FunctionalProgramming-Exercise\\04.FindEvensOrOdds\\Program.cs",
+              "RelativeToolTip": "04.FindEvensOrOdds\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T04:42:37.653Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\Advanced - Maj 2024\\05.FunctionalProgramming-Exercise\\03.CustomMinFunction\\Program.cs",
+              "RelativeDocumentMoniker": "03.CustomMinFunction\\Program.cs",
+              "ToolTip": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\Advanced - Maj 2024\\05.FunctionalProgramming-Exercise\\03.CustomMinFunction\\Program.cs",
+              "RelativeToolTip": "03.CustomMinFunction\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T04:36:24.594Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\Advanced - Maj 2024\\05.FunctionalProgramming-Exercise\\02.KnightsOfHonor\\Program.cs",
+              "RelativeDocumentMoniker": "02.KnightsOfHonor\\Program.cs",
+              "ToolTip": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\Advanced - Maj 2024\\05.FunctionalProgramming-Exercise\\02.KnightsOfHonor\\Program.cs",
+              "RelativeToolTip": "02.KnightsOfHonor\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T04:28:55.399Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\Advanced - Maj 2024\\05.FunctionalProgramming-Exercise\\01.ActionPrint\\Program.cs",
+              "RelativeDocumentMoniker": "01.ActionPrint\\Program.cs",
+              "ToolTip": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\Advanced - Maj 2024\\05.FunctionalProgramming-Exercise\\01.ActionPrint\\Program.cs",
+              "RelativeToolTip": "01.ActionPrint\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T04:20:55.706Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

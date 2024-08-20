@@ -1,0 +1,15 @@
+D:\ProgramsScool\PB-september.2023\ProgrammingBasicsOnlineExam-9Аnd10March2019\03.WorldSnookerChampionship\bin\Debug\net6.0\03.WorldSnookerChampionship.exe
+D:\ProgramsScool\PB-september.2023\ProgrammingBasicsOnlineExam-9Аnd10March2019\03.WorldSnookerChampionship\bin\Debug\net6.0\03.WorldSnookerChampionship.deps.json
+D:\ProgramsScool\PB-september.2023\ProgrammingBasicsOnlineExam-9Аnd10March2019\03.WorldSnookerChampionship\bin\Debug\net6.0\03.WorldSnookerChampionship.runtimeconfig.json
+D:\ProgramsScool\PB-september.2023\ProgrammingBasicsOnlineExam-9Аnd10March2019\03.WorldSnookerChampionship\bin\Debug\net6.0\03.WorldSnookerChampionship.dll
+D:\ProgramsScool\PB-september.2023\ProgrammingBasicsOnlineExam-9Аnd10March2019\03.WorldSnookerChampionship\bin\Debug\net6.0\03.WorldSnookerChampionship.pdb
+D:\ProgramsScool\PB-september.2023\ProgrammingBasicsOnlineExam-9Аnd10March2019\03.WorldSnookerChampionship\obj\Debug\net6.0\03.WorldSnookerChampionship.csproj.AssemblyReference.cache
+D:\ProgramsScool\PB-september.2023\ProgrammingBasicsOnlineExam-9Аnd10March2019\03.WorldSnookerChampionship\obj\Debug\net6.0\03.WorldSnookerChampionship.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProgramsScool\PB-september.2023\ProgrammingBasicsOnlineExam-9Аnd10March2019\03.WorldSnookerChampionship\obj\Debug\net6.0\03.WorldSnookerChampionship.AssemblyInfoInputs.cache
+D:\ProgramsScool\PB-september.2023\ProgrammingBasicsOnlineExam-9Аnd10March2019\03.WorldSnookerChampionship\obj\Debug\net6.0\03.WorldSnookerChampionship.AssemblyInfo.cs
+D:\ProgramsScool\PB-september.2023\ProgrammingBasicsOnlineExam-9Аnd10March2019\03.WorldSnookerChampionship\obj\Debug\net6.0\03.WorldSnookerChampionship.csproj.CoreCompileInputs.cache
+D:\ProgramsScool\PB-september.2023\ProgrammingBasicsOnlineExam-9Аnd10March2019\03.WorldSnookerChampionship\obj\Debug\net6.0\03.WorldSnookerChampionship.dll
+D:\ProgramsScool\PB-september.2023\ProgrammingBasicsOnlineExam-9Аnd10March2019\03.WorldSnookerChampionship\obj\Debug\net6.0\refint\03.WorldSnookerChampionship.dll
+D:\ProgramsScool\PB-september.2023\ProgrammingBasicsOnlineExam-9Аnd10March2019\03.WorldSnookerChampionship\obj\Debug\net6.0\03.WorldSnookerChampionship.pdb
+D:\ProgramsScool\PB-september.2023\ProgrammingBasicsOnlineExam-9Аnd10March2019\03.WorldSnookerChampionship\obj\Debug\net6.0\03.WorldSnookerChampionship.genruntimeconfig.cache
+D:\ProgramsScool\PB-september.2023\ProgrammingBasicsOnlineExam-9Аnd10March2019\03.WorldSnookerChampionship\obj\Debug\net6.0\ref\03.WorldSnookerChampionship.dll

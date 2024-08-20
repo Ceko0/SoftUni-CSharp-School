@@ -1,0 +1,15 @@
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\06.DefiningClasses-Lab\CarManufacturer\bin\Debug\net6.0\CarManufacturer.exe
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\06.DefiningClasses-Lab\CarManufacturer\bin\Debug\net6.0\CarManufacturer.deps.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\06.DefiningClasses-Lab\CarManufacturer\bin\Debug\net6.0\CarManufacturer.runtimeconfig.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\06.DefiningClasses-Lab\CarManufacturer\bin\Debug\net6.0\CarManufacturer.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\06.DefiningClasses-Lab\CarManufacturer\bin\Debug\net6.0\CarManufacturer.pdb
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\06.DefiningClasses-Lab\CarManufacturer\obj\Debug\net6.0\CarManufacturer.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\06.DefiningClasses-Lab\CarManufacturer\obj\Debug\net6.0\CarManufacturer.AssemblyInfoInputs.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\06.DefiningClasses-Lab\CarManufacturer\obj\Debug\net6.0\CarManufacturer.AssemblyInfo.cs
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\06.DefiningClasses-Lab\CarManufacturer\obj\Debug\net6.0\CarManufacturer.csproj.CoreCompileInputs.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\06.DefiningClasses-Lab\CarManufacturer\obj\Debug\net6.0\CarManufacturer.sourcelink.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\06.DefiningClasses-Lab\CarManufacturer\obj\Debug\net6.0\CarManufacturer.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\06.DefiningClasses-Lab\CarManufacturer\obj\Debug\net6.0\refint\CarManufacturer.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\06.DefiningClasses-Lab\CarManufacturer\obj\Debug\net6.0\CarManufacturer.pdb
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\06.DefiningClasses-Lab\CarManufacturer\obj\Debug\net6.0\CarManufacturer.genruntimeconfig.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\06.DefiningClasses-Lab\CarManufacturer\obj\Debug\net6.0\ref\CarManufacturer.dll

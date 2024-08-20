@@ -1,0 +1,15 @@
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\OOP - June 2024\04.Polymorphism-Lab\Operations\bin\Debug\net6.0\Operations.exe
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\OOP - June 2024\04.Polymorphism-Lab\Operations\bin\Debug\net6.0\Operations.deps.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\OOP - June 2024\04.Polymorphism-Lab\Operations\bin\Debug\net6.0\Operations.runtimeconfig.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\OOP - June 2024\04.Polymorphism-Lab\Operations\bin\Debug\net6.0\Operations.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\OOP - June 2024\04.Polymorphism-Lab\Operations\bin\Debug\net6.0\Operations.pdb
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\OOP - June 2024\04.Polymorphism-Lab\Operations\obj\Debug\net6.0\Operations.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\OOP - June 2024\04.Polymorphism-Lab\Operations\obj\Debug\net6.0\Operations.AssemblyInfoInputs.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\OOP - June 2024\04.Polymorphism-Lab\Operations\obj\Debug\net6.0\Operations.AssemblyInfo.cs
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\OOP - June 2024\04.Polymorphism-Lab\Operations\obj\Debug\net6.0\Operations.csproj.CoreCompileInputs.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\OOP - June 2024\04.Polymorphism-Lab\Operations\obj\Debug\net6.0\Operations.sourcelink.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\OOP - June 2024\04.Polymorphism-Lab\Operations\obj\Debug\net6.0\Operations.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\OOP - June 2024\04.Polymorphism-Lab\Operations\obj\Debug\net6.0\refint\Operations.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\OOP - June 2024\04.Polymorphism-Lab\Operations\obj\Debug\net6.0\Operations.pdb
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\OOP - June 2024\04.Polymorphism-Lab\Operations\obj\Debug\net6.0\Operations.genruntimeconfig.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\OOP - June 2024\04.Polymorphism-Lab\Operations\obj\Debug\net6.0\ref\Operations.dll

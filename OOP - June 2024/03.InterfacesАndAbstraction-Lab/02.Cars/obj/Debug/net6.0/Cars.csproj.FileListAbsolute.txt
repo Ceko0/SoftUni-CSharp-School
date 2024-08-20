@@ -1,0 +1,15 @@
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\OOP - June 2024\03.InterfacesАndAbstraction-Lab\02.Cars\bin\Debug\net6.0\Cars.exe
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\OOP - June 2024\03.InterfacesАndAbstraction-Lab\02.Cars\bin\Debug\net6.0\Cars.deps.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\OOP - June 2024\03.InterfacesАndAbstraction-Lab\02.Cars\bin\Debug\net6.0\Cars.runtimeconfig.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\OOP - June 2024\03.InterfacesАndAbstraction-Lab\02.Cars\bin\Debug\net6.0\Cars.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\OOP - June 2024\03.InterfacesАndAbstraction-Lab\02.Cars\bin\Debug\net6.0\Cars.pdb
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\OOP - June 2024\03.InterfacesАndAbstraction-Lab\02.Cars\obj\Debug\net6.0\Cars.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\OOP - June 2024\03.InterfacesАndAbstraction-Lab\02.Cars\obj\Debug\net6.0\Cars.AssemblyInfoInputs.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\OOP - June 2024\03.InterfacesАndAbstraction-Lab\02.Cars\obj\Debug\net6.0\Cars.AssemblyInfo.cs
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\OOP - June 2024\03.InterfacesАndAbstraction-Lab\02.Cars\obj\Debug\net6.0\Cars.csproj.CoreCompileInputs.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\OOP - June 2024\03.InterfacesАndAbstraction-Lab\02.Cars\obj\Debug\net6.0\Cars.sourcelink.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\OOP - June 2024\03.InterfacesАndAbstraction-Lab\02.Cars\obj\Debug\net6.0\Cars.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\OOP - June 2024\03.InterfacesАndAbstraction-Lab\02.Cars\obj\Debug\net6.0\refint\Cars.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\OOP - June 2024\03.InterfacesАndAbstraction-Lab\02.Cars\obj\Debug\net6.0\Cars.pdb
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\OOP - June 2024\03.InterfacesАndAbstraction-Lab\02.Cars\obj\Debug\net6.0\Cars.genruntimeconfig.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\OOP - June 2024\03.InterfacesАndAbstraction-Lab\02.Cars\obj\Debug\net6.0\ref\Cars.dll

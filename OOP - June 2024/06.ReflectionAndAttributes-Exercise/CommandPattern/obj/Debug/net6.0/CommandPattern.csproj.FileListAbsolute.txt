@@ -1,0 +1,15 @@
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\OOP - June 2024\06.ReflectionAndAttributes-Exercise\CommandPattern\bin\Debug\net6.0\CommandPattern.exe
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\OOP - June 2024\06.ReflectionAndAttributes-Exercise\CommandPattern\bin\Debug\net6.0\CommandPattern.deps.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\OOP - June 2024\06.ReflectionAndAttributes-Exercise\CommandPattern\bin\Debug\net6.0\CommandPattern.runtimeconfig.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\OOP - June 2024\06.ReflectionAndAttributes-Exercise\CommandPattern\bin\Debug\net6.0\CommandPattern.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\OOP - June 2024\06.ReflectionAndAttributes-Exercise\CommandPattern\bin\Debug\net6.0\CommandPattern.pdb
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\OOP - June 2024\06.ReflectionAndAttributes-Exercise\CommandPattern\obj\Debug\net6.0\CommandPattern.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\OOP - June 2024\06.ReflectionAndAttributes-Exercise\CommandPattern\obj\Debug\net6.0\CommandPattern.AssemblyInfoInputs.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\OOP - June 2024\06.ReflectionAndAttributes-Exercise\CommandPattern\obj\Debug\net6.0\CommandPattern.AssemblyInfo.cs
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\OOP - June 2024\06.ReflectionAndAttributes-Exercise\CommandPattern\obj\Debug\net6.0\CommandPattern.csproj.CoreCompileInputs.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\OOP - June 2024\06.ReflectionAndAttributes-Exercise\CommandPattern\obj\Debug\net6.0\CommandPattern.sourcelink.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\OOP - June 2024\06.ReflectionAndAttributes-Exercise\CommandPattern\obj\Debug\net6.0\CommandPattern.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\OOP - June 2024\06.ReflectionAndAttributes-Exercise\CommandPattern\obj\Debug\net6.0\refint\CommandPattern.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\OOP - June 2024\06.ReflectionAndAttributes-Exercise\CommandPattern\obj\Debug\net6.0\CommandPattern.pdb
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\OOP - June 2024\06.ReflectionAndAttributes-Exercise\CommandPattern\obj\Debug\net6.0\CommandPattern.genruntimeconfig.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\OOP - June 2024\06.ReflectionAndAttributes-Exercise\CommandPattern\obj\Debug\net6.0\ref\CommandPattern.dll

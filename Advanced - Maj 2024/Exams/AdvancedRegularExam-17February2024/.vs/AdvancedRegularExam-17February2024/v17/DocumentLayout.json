@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\Advanced - Maj 2024\\Exams\\AdvancedRegularExam-17February2024\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{10D1DB20-BAAE-4126-A8D4-E52BA0F71097}|02.ClearSkies\\02.ClearSkies.csproj|d:\\programsscool\\git hub\\softuni-csharp\\advanced - maj 2024\\exams\\advancedregularexam-17february2024\\02.clearskies\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10D1DB20-BAAE-4126-A8D4-E52BA0F71097}|02.ClearSkies\\02.ClearSkies.csproj|solutionrelative:02.clearskies\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DBA99BC-FAA6-429D-84DD-2DC747459C60}|01.ChickenSnack\\01.ChickenSnack.csproj|d:\\programsscool\\git hub\\softuni-csharp\\advanced - maj 2024\\exams\\advancedregularexam-17february2024\\01.chickensnack\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DBA99BC-FAA6-429D-84DD-2DC747459C60}|01.ChickenSnack\\01.ChickenSnack.csproj|solutionrelative:01.chickensnack\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\Advanced - Maj 2024\\Exams\\AdvancedRegularExam-17February2024\\02.ClearSkies\\Program.cs",
+              "RelativeDocumentMoniker": "02.ClearSkies\\Program.cs",
+              "ToolTip": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\Advanced - Maj 2024\\Exams\\AdvancedRegularExam-17February2024\\02.ClearSkies\\Program.cs",
+              "RelativeToolTip": "02.ClearSkies\\Program.cs",
+              "ViewState": "AQIAAEMAAAAAAAAAAAAAwFwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T17:08:48.113Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\Advanced - Maj 2024\\Exams\\AdvancedRegularExam-17February2024\\01.ChickenSnack\\Program.cs",
+              "RelativeDocumentMoniker": "01.ChickenSnack\\Program.cs",
+              "ToolTip": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\Advanced - Maj 2024\\Exams\\AdvancedRegularExam-17February2024\\01.ChickenSnack\\Program.cs",
+              "RelativeToolTip": "01.ChickenSnack\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T15:55:11.47Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

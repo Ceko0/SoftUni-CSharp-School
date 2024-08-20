@@ -1,0 +1,15 @@
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\05.FunctionalProgramming-Lab\03.CountUppercaseWords\bin\Debug\net8.0\03.CountUppercaseWords.exe
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\05.FunctionalProgramming-Lab\03.CountUppercaseWords\bin\Debug\net8.0\03.CountUppercaseWords.deps.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\05.FunctionalProgramming-Lab\03.CountUppercaseWords\bin\Debug\net8.0\03.CountUppercaseWords.runtimeconfig.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\05.FunctionalProgramming-Lab\03.CountUppercaseWords\bin\Debug\net8.0\03.CountUppercaseWords.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\05.FunctionalProgramming-Lab\03.CountUppercaseWords\bin\Debug\net8.0\03.CountUppercaseWords.pdb
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\05.FunctionalProgramming-Lab\03.CountUppercaseWords\obj\Debug\net8.0\03.CountUppercaseWords.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\05.FunctionalProgramming-Lab\03.CountUppercaseWords\obj\Debug\net8.0\03.CountUppercaseWords.AssemblyInfoInputs.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\05.FunctionalProgramming-Lab\03.CountUppercaseWords\obj\Debug\net8.0\03.CountUppercaseWords.AssemblyInfo.cs
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\05.FunctionalProgramming-Lab\03.CountUppercaseWords\obj\Debug\net8.0\03.CountUppercaseWords.csproj.CoreCompileInputs.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\05.FunctionalProgramming-Lab\03.CountUppercaseWords\obj\Debug\net8.0\03.CountUppercaseWords.sourcelink.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\05.FunctionalProgramming-Lab\03.CountUppercaseWords\obj\Debug\net8.0\03.CountUppercaseWords.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\05.FunctionalProgramming-Lab\03.CountUppercaseWords\obj\Debug\net8.0\refint\03.CountUppercaseWords.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\05.FunctionalProgramming-Lab\03.CountUppercaseWords\obj\Debug\net8.0\03.CountUppercaseWords.pdb
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\05.FunctionalProgramming-Lab\03.CountUppercaseWords\obj\Debug\net8.0\03.CountUppercaseWords.genruntimeconfig.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\05.FunctionalProgramming-Lab\03.CountUppercaseWords\obj\Debug\net8.0\ref\03.CountUppercaseWords.dll

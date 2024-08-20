@@ -1,0 +1,15 @@
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\OOP - June 2024\01.Inheritance-Lab\01.SingleInheritance\obj\Debug\net6.0\01.SingleInheritance.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\OOP - June 2024\01.Inheritance-Lab\01.SingleInheritance\obj\Debug\net6.0\01.SingleInheritance.AssemblyInfoInputs.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\OOP - June 2024\01.Inheritance-Lab\01.SingleInheritance\obj\Debug\net6.0\01.SingleInheritance.AssemblyInfo.cs
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\OOP - June 2024\01.Inheritance-Lab\01.SingleInheritance\obj\Debug\net6.0\01.SingleInheritance.csproj.CoreCompileInputs.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\OOP - June 2024\01.Inheritance-Lab\01.SingleInheritance\obj\Debug\net6.0\01.SingleInheritance.sourcelink.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\OOP - June 2024\01.Inheritance-Lab\01.SingleInheritance\bin\Debug\net6.0\01.SingleInheritance.exe
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\OOP - June 2024\01.Inheritance-Lab\01.SingleInheritance\bin\Debug\net6.0\01.SingleInheritance.deps.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\OOP - June 2024\01.Inheritance-Lab\01.SingleInheritance\bin\Debug\net6.0\01.SingleInheritance.runtimeconfig.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\OOP - June 2024\01.Inheritance-Lab\01.SingleInheritance\bin\Debug\net6.0\01.SingleInheritance.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\OOP - June 2024\01.Inheritance-Lab\01.SingleInheritance\bin\Debug\net6.0\01.SingleInheritance.pdb
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\OOP - June 2024\01.Inheritance-Lab\01.SingleInheritance\obj\Debug\net6.0\01.SingleInheritance.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\OOP - June 2024\01.Inheritance-Lab\01.SingleInheritance\obj\Debug\net6.0\refint\01.SingleInheritance.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\OOP - June 2024\01.Inheritance-Lab\01.SingleInheritance\obj\Debug\net6.0\01.SingleInheritance.pdb
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\OOP - June 2024\01.Inheritance-Lab\01.SingleInheritance\obj\Debug\net6.0\01.SingleInheritance.genruntimeconfig.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\OOP - June 2024\01.Inheritance-Lab\01.SingleInheritance\obj\Debug\net6.0\ref\01.SingleInheritance.dll

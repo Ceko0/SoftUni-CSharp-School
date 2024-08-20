@@ -1,0 +1,15 @@
+D:\ProgramsScool\Git Hub\SoftUni-school\Fundamentals - January 2024\01.BasicSyntax-Exercise\06.StrongNumber\bin\Debug\net7.0\06.StrongNumber.exe
+D:\ProgramsScool\Git Hub\SoftUni-school\Fundamentals - January 2024\01.BasicSyntax-Exercise\06.StrongNumber\bin\Debug\net7.0\06.StrongNumber.deps.json
+D:\ProgramsScool\Git Hub\SoftUni-school\Fundamentals - January 2024\01.BasicSyntax-Exercise\06.StrongNumber\bin\Debug\net7.0\06.StrongNumber.runtimeconfig.json
+D:\ProgramsScool\Git Hub\SoftUni-school\Fundamentals - January 2024\01.BasicSyntax-Exercise\06.StrongNumber\bin\Debug\net7.0\06.StrongNumber.dll
+D:\ProgramsScool\Git Hub\SoftUni-school\Fundamentals - January 2024\01.BasicSyntax-Exercise\06.StrongNumber\bin\Debug\net7.0\06.StrongNumber.pdb
+D:\ProgramsScool\Git Hub\SoftUni-school\Fundamentals - January 2024\01.BasicSyntax-Exercise\06.StrongNumber\obj\Debug\net7.0\06.StrongNumber.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProgramsScool\Git Hub\SoftUni-school\Fundamentals - January 2024\01.BasicSyntax-Exercise\06.StrongNumber\obj\Debug\net7.0\06.StrongNumber.AssemblyInfoInputs.cache
+D:\ProgramsScool\Git Hub\SoftUni-school\Fundamentals - January 2024\01.BasicSyntax-Exercise\06.StrongNumber\obj\Debug\net7.0\06.StrongNumber.AssemblyInfo.cs
+D:\ProgramsScool\Git Hub\SoftUni-school\Fundamentals - January 2024\01.BasicSyntax-Exercise\06.StrongNumber\obj\Debug\net7.0\06.StrongNumber.csproj.CoreCompileInputs.cache
+D:\ProgramsScool\Git Hub\SoftUni-school\Fundamentals - January 2024\01.BasicSyntax-Exercise\06.StrongNumber\obj\Debug\net7.0\06.StrongNumber.sourcelink.json
+D:\ProgramsScool\Git Hub\SoftUni-school\Fundamentals - January 2024\01.BasicSyntax-Exercise\06.StrongNumber\obj\Debug\net7.0\06.StrongNumber.dll
+D:\ProgramsScool\Git Hub\SoftUni-school\Fundamentals - January 2024\01.BasicSyntax-Exercise\06.StrongNumber\obj\Debug\net7.0\refint\06.StrongNumber.dll
+D:\ProgramsScool\Git Hub\SoftUni-school\Fundamentals - January 2024\01.BasicSyntax-Exercise\06.StrongNumber\obj\Debug\net7.0\06.StrongNumber.pdb
+D:\ProgramsScool\Git Hub\SoftUni-school\Fundamentals - January 2024\01.BasicSyntax-Exercise\06.StrongNumber\obj\Debug\net7.0\06.StrongNumber.genruntimeconfig.cache
+D:\ProgramsScool\Git Hub\SoftUni-school\Fundamentals - January 2024\01.BasicSyntax-Exercise\06.StrongNumber\obj\Debug\net7.0\ref\06.StrongNumber.dll

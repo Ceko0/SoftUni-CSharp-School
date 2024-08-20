@@ -1,0 +1,15 @@
+D:\ProgramsScool\PB-september.2023\11.NestedLoops-Lab\02.MultiplicationTable\bin\Debug\net6.0\02.MultiplicationTable.exe
+D:\ProgramsScool\PB-september.2023\11.NestedLoops-Lab\02.MultiplicationTable\bin\Debug\net6.0\02.MultiplicationTable.deps.json
+D:\ProgramsScool\PB-september.2023\11.NestedLoops-Lab\02.MultiplicationTable\bin\Debug\net6.0\02.MultiplicationTable.runtimeconfig.json
+D:\ProgramsScool\PB-september.2023\11.NestedLoops-Lab\02.MultiplicationTable\bin\Debug\net6.0\02.MultiplicationTable.dll
+D:\ProgramsScool\PB-september.2023\11.NestedLoops-Lab\02.MultiplicationTable\bin\Debug\net6.0\02.MultiplicationTable.pdb
+D:\ProgramsScool\PB-september.2023\11.NestedLoops-Lab\02.MultiplicationTable\obj\Debug\net6.0\02.MultiplicationTable.csproj.AssemblyReference.cache
+D:\ProgramsScool\PB-september.2023\11.NestedLoops-Lab\02.MultiplicationTable\obj\Debug\net6.0\02.MultiplicationTable.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProgramsScool\PB-september.2023\11.NestedLoops-Lab\02.MultiplicationTable\obj\Debug\net6.0\02.MultiplicationTable.AssemblyInfoInputs.cache
+D:\ProgramsScool\PB-september.2023\11.NestedLoops-Lab\02.MultiplicationTable\obj\Debug\net6.0\02.MultiplicationTable.AssemblyInfo.cs
+D:\ProgramsScool\PB-september.2023\11.NestedLoops-Lab\02.MultiplicationTable\obj\Debug\net6.0\02.MultiplicationTable.csproj.CoreCompileInputs.cache
+D:\ProgramsScool\PB-september.2023\11.NestedLoops-Lab\02.MultiplicationTable\obj\Debug\net6.0\02.MultiplicationTable.dll
+D:\ProgramsScool\PB-september.2023\11.NestedLoops-Lab\02.MultiplicationTable\obj\Debug\net6.0\refint\02.MultiplicationTable.dll
+D:\ProgramsScool\PB-september.2023\11.NestedLoops-Lab\02.MultiplicationTable\obj\Debug\net6.0\02.MultiplicationTable.pdb
+D:\ProgramsScool\PB-september.2023\11.NestedLoops-Lab\02.MultiplicationTable\obj\Debug\net6.0\02.MultiplicationTable.genruntimeconfig.cache
+D:\ProgramsScool\PB-september.2023\11.NestedLoops-Lab\02.MultiplicationTable\obj\Debug\net6.0\ref\02.MultiplicationTable.dll

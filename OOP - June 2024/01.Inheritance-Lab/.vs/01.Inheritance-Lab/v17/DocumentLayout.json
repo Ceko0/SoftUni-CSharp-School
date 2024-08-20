@@ -1,0 +1,240 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\OOP - June 2024\\01.Inheritance-Lab\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{095D29AE-28D0-4521-B5C0-3A4539AD1C4C}|03.CustomStack\\CustomStack.csproj|d:\\programsscool\\git hub\\softuni-csharp\\oop - june 2024\\01.inheritance-lab\\03.customstack\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{095D29AE-28D0-4521-B5C0-3A4539AD1C4C}|03.CustomStack\\CustomStack.csproj|solutionrelative:03.customstack\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{095D29AE-28D0-4521-B5C0-3A4539AD1C4C}|03.CustomStack\\CustomStack.csproj|d:\\programsscool\\git hub\\softuni-csharp\\oop - june 2024\\01.inheritance-lab\\03.customstack\\stackofstrings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{095D29AE-28D0-4521-B5C0-3A4539AD1C4C}|03.CustomStack\\CustomStack.csproj|solutionrelative:03.customstack\\stackofstrings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{095D29AE-28D0-4521-B5C0-3A4539AD1C4C}|03.CustomStack\\CustomStack.csproj|d:\\programsscool\\git hub\\softuni-csharp\\oop - june 2024\\01.inheritance-lab\\03.customstack\\customstack.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{095D29AE-28D0-4521-B5C0-3A4539AD1C4C}|03.CustomStack\\CustomStack.csproj|solutionrelative:03.customstack\\customstack.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6026E19F-1E5B-49C0-8A56-CB700A98B9BE}|02.CustomRandomList\\CustomRandomList.csproj|d:\\programsscool\\git hub\\softuni-csharp\\oop - june 2024\\01.inheritance-lab\\02.customrandomlist\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6026E19F-1E5B-49C0-8A56-CB700A98B9BE}|02.CustomRandomList\\CustomRandomList.csproj|solutionrelative:02.customrandomlist\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6026E19F-1E5B-49C0-8A56-CB700A98B9BE}|02.CustomRandomList\\CustomRandomList.csproj|d:\\programsscool\\git hub\\softuni-csharp\\oop - june 2024\\01.inheritance-lab\\02.customrandomlist\\randomlist .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6026E19F-1E5B-49C0-8A56-CB700A98B9BE}|02.CustomRandomList\\CustomRandomList.csproj|solutionrelative:02.customrandomlist\\randomlist .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6026E19F-1E5B-49C0-8A56-CB700A98B9BE}|02.CustomRandomList\\CustomRandomList.csproj|d:\\programsscool\\git hub\\softuni-csharp\\oop - june 2024\\01.inheritance-lab\\02.customrandomlist\\customrandomlist.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{6026E19F-1E5B-49C0-8A56-CB700A98B9BE}|02.CustomRandomList\\CustomRandomList.csproj|solutionrelative:02.customrandomlist\\customrandomlist.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CD82C70-17CB-40CE-9656-D13126F6763A}|01.SingleInheritance\\01.SingleInheritance.csproj|d:\\programsscool\\git hub\\softuni-csharp\\oop - june 2024\\01.inheritance-lab\\01.singleinheritance\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CD82C70-17CB-40CE-9656-D13126F6763A}|01.SingleInheritance\\01.SingleInheritance.csproj|solutionrelative:01.singleinheritance\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CD82C70-17CB-40CE-9656-D13126F6763A}|01.SingleInheritance\\01.SingleInheritance.csproj|d:\\programsscool\\git hub\\softuni-csharp\\oop - june 2024\\01.inheritance-lab\\01.singleinheritance\\cat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CD82C70-17CB-40CE-9656-D13126F6763A}|01.SingleInheritance\\01.SingleInheritance.csproj|solutionrelative:01.singleinheritance\\cat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CD82C70-17CB-40CE-9656-D13126F6763A}|01.SingleInheritance\\01.SingleInheritance.csproj|d:\\programsscool\\git hub\\softuni-csharp\\oop - june 2024\\01.inheritance-lab\\01.singleinheritance\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CD82C70-17CB-40CE-9656-D13126F6763A}|01.SingleInheritance\\01.SingleInheritance.csproj|solutionrelative:01.singleinheritance\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CD82C70-17CB-40CE-9656-D13126F6763A}|01.SingleInheritance\\01.SingleInheritance.csproj|d:\\programsscool\\git hub\\softuni-csharp\\oop - june 2024\\01.inheritance-lab\\01.singleinheritance\\dog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CD82C70-17CB-40CE-9656-D13126F6763A}|01.SingleInheritance\\01.SingleInheritance.csproj|solutionrelative:01.singleinheritance\\dog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CD82C70-17CB-40CE-9656-D13126F6763A}|01.SingleInheritance\\01.SingleInheritance.csproj|d:\\programsscool\\git hub\\softuni-csharp\\oop - june 2024\\01.inheritance-lab\\01.singleinheritance\\puppy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CD82C70-17CB-40CE-9656-D13126F6763A}|01.SingleInheritance\\01.SingleInheritance.csproj|solutionrelative:01.singleinheritance\\puppy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CD82C70-17CB-40CE-9656-D13126F6763A}|01.SingleInheritance\\01.SingleInheritance.csproj|d:\\programsscool\\git hub\\softuni-csharp\\oop - june 2024\\01.inheritance-lab\\01.singleinheritance\\01.singleinheritance.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{4CD82C70-17CB-40CE-9656-D13126F6763A}|01.SingleInheritance\\01.SingleInheritance.csproj|solutionrelative:01.singleinheritance\\01.singleinheritance.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StackOfStrings.cs",
+              "DocumentMoniker": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\OOP - June 2024\\01.Inheritance-Lab\\03.CustomStack\\StackOfStrings.cs",
+              "RelativeDocumentMoniker": "03.CustomStack\\StackOfStrings.cs",
+              "ToolTip": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\OOP - June 2024\\01.Inheritance-Lab\\03.CustomStack\\StackOfStrings.cs",
+              "RelativeToolTip": "03.CustomStack\\StackOfStrings.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAA5wAsAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-29T09:25:49.806Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CustomStack",
+              "DocumentMoniker": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\OOP - June 2024\\01.Inheritance-Lab\\03.CustomStack\\CustomStack.csproj",
+              "RelativeDocumentMoniker": "03.CustomStack\\CustomStack.csproj",
+              "ToolTip": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\OOP - June 2024\\01.Inheritance-Lab\\03.CustomStack\\CustomStack.csproj",
+              "RelativeToolTip": "03.CustomStack\\CustomStack.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-29T09:24:36.672Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StartUp.cs",
+              "DocumentMoniker": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\OOP - June 2024\\01.Inheritance-Lab\\03.CustomStack\\StartUp.cs",
+              "RelativeDocumentMoniker": "03.CustomStack\\StartUp.cs",
+              "ToolTip": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\OOP - June 2024\\01.Inheritance-Lab\\03.CustomStack\\StartUp.cs",
+              "RelativeToolTip": "03.CustomStack\\StartUp.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-29T09:24:29.083Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RandomList .cs",
+              "DocumentMoniker": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\OOP - June 2024\\01.Inheritance-Lab\\02.CustomRandomList\\RandomList .cs",
+              "RelativeDocumentMoniker": "02.CustomRandomList\\RandomList .cs",
+              "ToolTip": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\OOP - June 2024\\01.Inheritance-Lab\\02.CustomRandomList\\RandomList .cs",
+              "RelativeToolTip": "02.CustomRandomList\\RandomList .cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-29T09:21:35.168Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CustomRandomList",
+              "DocumentMoniker": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\OOP - June 2024\\01.Inheritance-Lab\\02.CustomRandomList\\CustomRandomList.csproj",
+              "RelativeDocumentMoniker": "02.CustomRandomList\\CustomRandomList.csproj",
+              "ToolTip": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\OOP - June 2024\\01.Inheritance-Lab\\02.CustomRandomList\\CustomRandomList.csproj",
+              "RelativeToolTip": "02.CustomRandomList\\CustomRandomList.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-29T09:20:50.013Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "StartUp.cs",
+              "DocumentMoniker": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\OOP - June 2024\\01.Inheritance-Lab\\02.CustomRandomList\\StartUp.cs",
+              "RelativeDocumentMoniker": "02.CustomRandomList\\StartUp.cs",
+              "ToolTip": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\OOP - June 2024\\01.Inheritance-Lab\\02.CustomRandomList\\StartUp.cs",
+              "RelativeToolTip": "02.CustomRandomList\\StartUp.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-29T09:20:41.37Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Cat.cs",
+              "DocumentMoniker": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\OOP - June 2024\\01.Inheritance-Lab\\01.SingleInheritance\\Cat.cs",
+              "RelativeDocumentMoniker": "01.SingleInheritance\\Cat.cs",
+              "ToolTip": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\OOP - June 2024\\01.Inheritance-Lab\\01.SingleInheritance\\Cat.cs",
+              "RelativeToolTip": "01.SingleInheritance\\Cat.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-29T08:41:33.259Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Puppy.cs",
+              "DocumentMoniker": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\OOP - June 2024\\01.Inheritance-Lab\\01.SingleInheritance\\Puppy.cs",
+              "RelativeDocumentMoniker": "01.SingleInheritance\\Puppy.cs",
+              "ToolTip": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\OOP - June 2024\\01.Inheritance-Lab\\01.SingleInheritance\\Puppy.cs",
+              "RelativeToolTip": "01.SingleInheritance\\Puppy.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-29T08:38:50.751Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Dog.cs",
+              "DocumentMoniker": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\OOP - June 2024\\01.Inheritance-Lab\\01.SingleInheritance\\Dog.cs",
+              "RelativeDocumentMoniker": "01.SingleInheritance\\Dog.cs",
+              "ToolTip": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\OOP - June 2024\\01.Inheritance-Lab\\01.SingleInheritance\\Dog.cs",
+              "RelativeToolTip": "01.SingleInheritance\\Dog.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-29T08:29:31.328Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Animal.cs",
+              "DocumentMoniker": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\OOP - June 2024\\01.Inheritance-Lab\\01.SingleInheritance\\Animal.cs",
+              "RelativeDocumentMoniker": "01.SingleInheritance\\Animal.cs",
+              "ToolTip": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\OOP - June 2024\\01.Inheritance-Lab\\01.SingleInheritance\\Animal.cs",
+              "RelativeToolTip": "01.SingleInheritance\\Animal.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-29T08:29:08.561Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "01.SingleInheritance",
+              "DocumentMoniker": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\OOP - June 2024\\01.Inheritance-Lab\\01.SingleInheritance\\01.SingleInheritance.csproj",
+              "RelativeDocumentMoniker": "01.SingleInheritance\\01.SingleInheritance.csproj",
+              "ToolTip": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\OOP - June 2024\\01.Inheritance-Lab\\01.SingleInheritance\\01.SingleInheritance.csproj",
+              "RelativeToolTip": "01.SingleInheritance\\01.SingleInheritance.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-29T08:28:13.312Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "StartUp.cs",
+              "DocumentMoniker": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\OOP - June 2024\\01.Inheritance-Lab\\01.SingleInheritance\\StartUp.cs",
+              "RelativeDocumentMoniker": "01.SingleInheritance\\StartUp.cs",
+              "ToolTip": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\OOP - June 2024\\01.Inheritance-Lab\\01.SingleInheritance\\StartUp.cs",
+              "RelativeToolTip": "01.SingleInheritance\\StartUp.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-29T08:27:42.193Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

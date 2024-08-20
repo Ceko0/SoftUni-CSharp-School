@@ -1,0 +1,15 @@
+D:\ProgramsScool\PB-september.2023\PB-MoreExercises\05.ConditionalStatementsAdvanced-Lab\11.FruitShop\bin\Debug\net6.0\11.FruitShop.exe
+D:\ProgramsScool\PB-september.2023\PB-MoreExercises\05.ConditionalStatementsAdvanced-Lab\11.FruitShop\bin\Debug\net6.0\11.FruitShop.deps.json
+D:\ProgramsScool\PB-september.2023\PB-MoreExercises\05.ConditionalStatementsAdvanced-Lab\11.FruitShop\bin\Debug\net6.0\11.FruitShop.runtimeconfig.json
+D:\ProgramsScool\PB-september.2023\PB-MoreExercises\05.ConditionalStatementsAdvanced-Lab\11.FruitShop\bin\Debug\net6.0\11.FruitShop.dll
+D:\ProgramsScool\PB-september.2023\PB-MoreExercises\05.ConditionalStatementsAdvanced-Lab\11.FruitShop\bin\Debug\net6.0\11.FruitShop.pdb
+D:\ProgramsScool\PB-september.2023\PB-MoreExercises\05.ConditionalStatementsAdvanced-Lab\11.FruitShop\obj\Debug\net6.0\11.FruitShop.csproj.AssemblyReference.cache
+D:\ProgramsScool\PB-september.2023\PB-MoreExercises\05.ConditionalStatementsAdvanced-Lab\11.FruitShop\obj\Debug\net6.0\11.FruitShop.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProgramsScool\PB-september.2023\PB-MoreExercises\05.ConditionalStatementsAdvanced-Lab\11.FruitShop\obj\Debug\net6.0\11.FruitShop.AssemblyInfoInputs.cache
+D:\ProgramsScool\PB-september.2023\PB-MoreExercises\05.ConditionalStatementsAdvanced-Lab\11.FruitShop\obj\Debug\net6.0\11.FruitShop.AssemblyInfo.cs
+D:\ProgramsScool\PB-september.2023\PB-MoreExercises\05.ConditionalStatementsAdvanced-Lab\11.FruitShop\obj\Debug\net6.0\11.FruitShop.csproj.CoreCompileInputs.cache
+D:\ProgramsScool\PB-september.2023\PB-MoreExercises\05.ConditionalStatementsAdvanced-Lab\11.FruitShop\obj\Debug\net6.0\11.FruitShop.dll
+D:\ProgramsScool\PB-september.2023\PB-MoreExercises\05.ConditionalStatementsAdvanced-Lab\11.FruitShop\obj\Debug\net6.0\refint\11.FruitShop.dll
+D:\ProgramsScool\PB-september.2023\PB-MoreExercises\05.ConditionalStatementsAdvanced-Lab\11.FruitShop\obj\Debug\net6.0\11.FruitShop.pdb
+D:\ProgramsScool\PB-september.2023\PB-MoreExercises\05.ConditionalStatementsAdvanced-Lab\11.FruitShop\obj\Debug\net6.0\11.FruitShop.genruntimeconfig.cache
+D:\ProgramsScool\PB-september.2023\PB-MoreExercises\05.ConditionalStatementsAdvanced-Lab\11.FruitShop\obj\Debug\net6.0\ref\11.FruitShop.dll

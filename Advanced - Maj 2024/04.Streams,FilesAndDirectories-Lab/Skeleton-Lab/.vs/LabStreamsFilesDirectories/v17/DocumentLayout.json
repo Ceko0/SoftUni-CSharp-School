@@ -1,0 +1,488 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\Advanced - Maj 2024\\04.Streams,FilesAndDirectories-Lab\\Skeleton-Lab\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{78CDCAE0-ADD2-487E-98D6-ED4A938F961F}|FolderSize\\FolderSize.csproj|d:\\programsscool\\git hub\\softuni-csharp\\advanced - maj 2024\\04.streams,filesanddirectories-lab\\skeleton-lab\\foldersize\\files\\output.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{78CDCAE0-ADD2-487E-98D6-ED4A938F961F}|FolderSize\\FolderSize.csproj|solutionrelative:foldersize\\files\\output.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78CDCAE0-ADD2-487E-98D6-ED4A938F961F}|FolderSize\\FolderSize.csproj|d:\\programsscool\\git hub\\softuni-csharp\\advanced - maj 2024\\04.streams,filesanddirectories-lab\\skeleton-lab\\foldersize\\foldersize.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78CDCAE0-ADD2-487E-98D6-ED4A938F961F}|FolderSize\\FolderSize.csproj|solutionrelative:foldersize\\foldersize.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{519061BD-4626-4435-BC4D-591E946D20CE}|SplitMergeBinaryFile\\SplitMergeBinaryFile.csproj|d:\\programsscool\\git hub\\softuni-csharp\\advanced - maj 2024\\04.streams,filesanddirectories-lab\\skeleton-lab\\splitmergebinaryfile\\splitmergebinaryfile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{519061BD-4626-4435-BC4D-591E946D20CE}|SplitMergeBinaryFile\\SplitMergeBinaryFile.csproj|solutionrelative:splitmergebinaryfile\\splitmergebinaryfile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{519061BD-4626-4435-BC4D-591E946D20CE}|SplitMergeBinaryFile\\SplitMergeBinaryFile.csproj|d:\\programsscool\\git hub\\softuni-csharp\\advanced - maj 2024\\04.streams,filesanddirectories-lab\\skeleton-lab\\splitmergebinaryfile\\splitmergebinaryfile.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{519061BD-4626-4435-BC4D-591E946D20CE}|SplitMergeBinaryFile\\SplitMergeBinaryFile.csproj|solutionrelative:splitmergebinaryfile\\splitmergebinaryfile.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BBB51A9-D42C-4229-B6A8-5737D0FC230F}|ExtractSpecialBytes\\ExtractSpecialBytes.csproj|d:\\programsscool\\git hub\\softuni-csharp\\advanced - maj 2024\\04.streams,filesanddirectories-lab\\skeleton-lab\\extractspecialbytes\\extractspecialbytes.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{1BBB51A9-D42C-4229-B6A8-5737D0FC230F}|ExtractSpecialBytes\\ExtractSpecialBytes.csproj|solutionrelative:extractspecialbytes\\extractspecialbytes.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BBB51A9-D42C-4229-B6A8-5737D0FC230F}|ExtractSpecialBytes\\ExtractSpecialBytes.csproj|d:\\programsscool\\git hub\\softuni-csharp\\advanced - maj 2024\\04.streams,filesanddirectories-lab\\skeleton-lab\\extractspecialbytes\\extractspecialbytes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BBB51A9-D42C-4229-B6A8-5737D0FC230F}|ExtractSpecialBytes\\ExtractSpecialBytes.csproj|solutionrelative:extractspecialbytes\\extractspecialbytes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{727FBA8B-CA5F-417B-89AF-51607823D4CF}|MergeFiles\\MergeFiles.csproj|d:\\programsscool\\git hub\\softuni-csharp\\advanced - maj 2024\\04.streams,filesanddirectories-lab\\skeleton-lab\\mergefiles\\mergefiles.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{727FBA8B-CA5F-417B-89AF-51607823D4CF}|MergeFiles\\MergeFiles.csproj|solutionrelative:mergefiles\\mergefiles.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{727FBA8B-CA5F-417B-89AF-51607823D4CF}|MergeFiles\\MergeFiles.csproj|d:\\programsscool\\git hub\\softuni-csharp\\advanced - maj 2024\\04.streams,filesanddirectories-lab\\skeleton-lab\\mergefiles\\mergefiles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{727FBA8B-CA5F-417B-89AF-51607823D4CF}|MergeFiles\\MergeFiles.csproj|solutionrelative:mergefiles\\mergefiles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{727FBA8B-CA5F-417B-89AF-51607823D4CF}|MergeFiles\\MergeFiles.csproj|d:\\programsscool\\git hub\\softuni-csharp\\advanced - maj 2024\\04.streams,filesanddirectories-lab\\skeleton-lab\\mergefiles\\files\\output.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{727FBA8B-CA5F-417B-89AF-51607823D4CF}|MergeFiles\\MergeFiles.csproj|solutionrelative:mergefiles\\files\\output.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FC6BE6C-C6DD-4ECF-836A-5FE88F55F978}|WordCount\\WordCount.csproj|d:\\programsscool\\git hub\\softuni-csharp\\advanced - maj 2024\\04.streams,filesanddirectories-lab\\skeleton-lab\\wordcount\\wordcount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FC6BE6C-C6DD-4ECF-836A-5FE88F55F978}|WordCount\\WordCount.csproj|solutionrelative:wordcount\\wordcount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FC6BE6C-C6DD-4ECF-836A-5FE88F55F978}|WordCount\\WordCount.csproj|d:\\programsscool\\git hub\\softuni-csharp\\advanced - maj 2024\\04.streams,filesanddirectories-lab\\skeleton-lab\\wordcount\\wordcount.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{4FC6BE6C-C6DD-4ECF-836A-5FE88F55F978}|WordCount\\WordCount.csproj|solutionrelative:wordcount\\wordcount.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FC6BE6C-C6DD-4ECF-836A-5FE88F55F978}|WordCount\\WordCount.csproj|d:\\programsscool\\git hub\\softuni-csharp\\advanced - maj 2024\\04.streams,filesanddirectories-lab\\skeleton-lab\\wordcount\\files\\output.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{4FC6BE6C-C6DD-4ECF-836A-5FE88F55F978}|WordCount\\WordCount.csproj|solutionrelative:wordcount\\files\\output.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FC6BE6C-C6DD-4ECF-836A-5FE88F55F978}|WordCount\\WordCount.csproj|d:\\programsscool\\git hub\\softuni-csharp\\advanced - maj 2024\\04.streams,filesanddirectories-lab\\skeleton-lab\\wordcount\\files\\text.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{4FC6BE6C-C6DD-4ECF-836A-5FE88F55F978}|WordCount\\WordCount.csproj|solutionrelative:wordcount\\files\\text.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEEBDCA6-7709-46A4-A04B-5D641AC54D40}|OddLines\\OddLines.csproj|d:\\programsscool\\git hub\\softuni-csharp\\advanced - maj 2024\\04.streams,filesanddirectories-lab\\skeleton-lab\\oddlines\\oddlines.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEEBDCA6-7709-46A4-A04B-5D641AC54D40}|OddLines\\OddLines.csproj|solutionrelative:oddlines\\oddlines.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEEBDCA6-7709-46A4-A04B-5D641AC54D40}|OddLines\\OddLines.csproj|d:\\programsscool\\git hub\\softuni-csharp\\advanced - maj 2024\\04.streams,filesanddirectories-lab\\skeleton-lab\\oddlines\\oddlines.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{BEEBDCA6-7709-46A4-A04B-5D641AC54D40}|OddLines\\OddLines.csproj|solutionrelative:oddlines\\oddlines.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D33201D4-2748-411C-BE7F-E81F5230FA07}|LineNumbers\\LineNumbers.csproj|d:\\programsscool\\git hub\\softuni-csharp\\advanced - maj 2024\\04.streams,filesanddirectories-lab\\skeleton-lab\\linenumbers\\files\\output.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{D33201D4-2748-411C-BE7F-E81F5230FA07}|LineNumbers\\LineNumbers.csproj|solutionrelative:linenumbers\\files\\output.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D33201D4-2748-411C-BE7F-E81F5230FA07}|LineNumbers\\LineNumbers.csproj|d:\\programsscool\\git hub\\softuni-csharp\\advanced - maj 2024\\04.streams,filesanddirectories-lab\\skeleton-lab\\linenumbers\\linenumbers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D33201D4-2748-411C-BE7F-E81F5230FA07}|LineNumbers\\LineNumbers.csproj|solutionrelative:linenumbers\\linenumbers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEEBDCA6-7709-46A4-A04B-5D641AC54D40}|OddLines\\OddLines.csproj|d:\\programsscool\\git hub\\softuni-csharp\\advanced - maj 2024\\04.streams,filesanddirectories-lab\\skeleton-lab\\oddlines\\files\\output.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{BEEBDCA6-7709-46A4-A04B-5D641AC54D40}|OddLines\\OddLines.csproj|solutionrelative:oddlines\\files\\output.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D33201D4-2748-411C-BE7F-E81F5230FA07}|LineNumbers\\LineNumbers.csproj|d:\\programsscool\\git hub\\softuni-csharp\\advanced - maj 2024\\04.streams,filesanddirectories-lab\\skeleton-lab\\linenumbers\\linenumbers.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{D33201D4-2748-411C-BE7F-E81F5230FA07}|LineNumbers\\LineNumbers.csproj|solutionrelative:linenumbers\\linenumbers.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78CDCAE0-ADD2-487E-98D6-ED4A938F961F}|FolderSize\\FolderSize.csproj|d:\\programsscool\\git hub\\softuni-csharp\\advanced - maj 2024\\04.streams,filesanddirectories-lab\\skeleton-lab\\foldersize\\foldersize.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{78CDCAE0-ADD2-487E-98D6-ED4A938F961F}|FolderSize\\FolderSize.csproj|solutionrelative:foldersize\\foldersize.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{519061BD-4626-4435-BC4D-591E946D20CE}|SplitMergeBinaryFile\\SplitMergeBinaryFile.csproj|d:\\programsscool\\git hub\\softuni-csharp\\advanced - maj 2024\\04.streams,filesanddirectories-lab\\skeleton-lab\\splitmergebinaryfile\\splitmergebinaryfile.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}",
+      "RelativeMoniker": "D:0:0:{519061BD-4626-4435-BC4D-591E946D20CE}|SplitMergeBinaryFile\\SplitMergeBinaryFile.csproj|solutionrelative:splitmergebinaryfile\\splitmergebinaryfile.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEEBDCA6-7709-46A4-A04B-5D641AC54D40}|OddLines\\OddLines.csproj|d:\\programsscool\\git hub\\softuni-csharp\\advanced - maj 2024\\04.streams,filesanddirectories-lab\\skeleton-lab\\oddlines\\oddlines.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}",
+      "RelativeMoniker": "D:0:0:{BEEBDCA6-7709-46A4-A04B-5D641AC54D40}|OddLines\\OddLines.csproj|solutionrelative:oddlines\\oddlines.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{727FBA8B-CA5F-417B-89AF-51607823D4CF}|MergeFiles\\MergeFiles.csproj|d:\\programsscool\\git hub\\softuni-csharp\\advanced - maj 2024\\04.streams,filesanddirectories-lab\\skeleton-lab\\mergefiles\\mergefiles.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}",
+      "RelativeMoniker": "D:0:0:{727FBA8B-CA5F-417B-89AF-51607823D4CF}|MergeFiles\\MergeFiles.csproj|solutionrelative:mergefiles\\mergefiles.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D33201D4-2748-411C-BE7F-E81F5230FA07}|LineNumbers\\LineNumbers.csproj|d:\\programsscool\\git hub\\softuni-csharp\\advanced - maj 2024\\04.streams,filesanddirectories-lab\\skeleton-lab\\linenumbers\\linenumbers.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}",
+      "RelativeMoniker": "D:0:0:{D33201D4-2748-411C-BE7F-E81F5230FA07}|LineNumbers\\LineNumbers.csproj|solutionrelative:linenumbers\\linenumbers.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}"
+    },
+    {
+      "AbsoluteMoniker": "D:1:0:{1BBB51A9-D42C-4229-B6A8-5737D0FC230F}|ExtractSpecialBytes\\ExtractSpecialBytes.csproj|d:\\programsscool\\git hub\\softuni-csharp\\advanced - maj 2024\\04.streams,filesanddirectories-lab\\skeleton-lab\\extractspecialbytes\\extractspecialbytes.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}",
+      "RelativeMoniker": "D:1:0:{1BBB51A9-D42C-4229-B6A8-5737D0FC230F}|ExtractSpecialBytes\\ExtractSpecialBytes.csproj|solutionrelative:extractspecialbytes\\extractspecialbytes.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FC6BE6C-C6DD-4ECF-836A-5FE88F55F978}|WordCount\\WordCount.csproj|d:\\programsscool\\git hub\\softuni-csharp\\advanced - maj 2024\\04.streams,filesanddirectories-lab\\skeleton-lab\\wordcount\\wordcount.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}",
+      "RelativeMoniker": "D:0:0:{4FC6BE6C-C6DD-4ECF-836A-5FE88F55F978}|WordCount\\WordCount.csproj|solutionrelative:wordcount\\wordcount.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78CDCAE0-ADD2-487E-98D6-ED4A938F961F}|FolderSize\\FolderSize.csproj|d:\\programsscool\\git hub\\softuni-csharp\\advanced - maj 2024\\04.streams,filesanddirectories-lab\\skeleton-lab\\foldersize\\foldersize.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}",
+      "RelativeMoniker": "D:0:0:{78CDCAE0-ADD2-487E-98D6-ED4A938F961F}|FolderSize\\FolderSize.csproj|solutionrelative:foldersize\\foldersize.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}"
+    },
+    {
+      "AbsoluteMoniker": "D:2:0:{1BBB51A9-D42C-4229-B6A8-5737D0FC230F}|ExtractSpecialBytes\\ExtractSpecialBytes.csproj|d:\\programsscool\\git hub\\softuni-csharp\\advanced - maj 2024\\04.streams,filesanddirectories-lab\\skeleton-lab\\extractspecialbytes\\extractspecialbytes.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}",
+      "RelativeMoniker": "D:2:0:{1BBB51A9-D42C-4229-B6A8-5737D0FC230F}|ExtractSpecialBytes\\ExtractSpecialBytes.csproj|solutionrelative:extractspecialbytes\\extractspecialbytes.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "output.txt",
+              "DocumentMoniker": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\Advanced - Maj 2024\\04.Streams,FilesAndDirectories-Lab\\Skeleton-Lab\\FolderSize\\Files\\output.txt",
+              "RelativeDocumentMoniker": "FolderSize\\Files\\output.txt",
+              "ToolTip": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\Advanced - Maj 2024\\04.Streams,FilesAndDirectories-Lab\\Skeleton-Lab\\FolderSize\\Files\\output.txt",
+              "RelativeToolTip": "FolderSize\\Files\\output.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-05-25T21:37:41.995Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FolderSize.cs",
+              "DocumentMoniker": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\Advanced - Maj 2024\\04.Streams,FilesAndDirectories-Lab\\Skeleton-Lab\\FolderSize\\FolderSize.cs",
+              "RelativeDocumentMoniker": "FolderSize\\FolderSize.cs",
+              "ToolTip": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\Advanced - Maj 2024\\04.Streams,FilesAndDirectories-Lab\\Skeleton-Lab\\FolderSize\\FolderSize.cs",
+              "RelativeToolTip": "FolderSize\\FolderSize.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T21:36:57.835Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SplitMergeBinaryFile.cs",
+              "DocumentMoniker": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\Advanced - Maj 2024\\04.Streams,FilesAndDirectories-Lab\\Skeleton-Lab\\SplitMergeBinaryFile\\SplitMergeBinaryFile.cs",
+              "RelativeDocumentMoniker": "SplitMergeBinaryFile\\SplitMergeBinaryFile.cs",
+              "ToolTip": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\Advanced - Maj 2024\\04.Streams,FilesAndDirectories-Lab\\Skeleton-Lab\\SplitMergeBinaryFile\\SplitMergeBinaryFile.cs",
+              "RelativeToolTip": "SplitMergeBinaryFile\\SplitMergeBinaryFile.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAgwCYAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T21:32:30.265Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ExtractSpecialBytes.cs",
+              "DocumentMoniker": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\Advanced - Maj 2024\\04.Streams,FilesAndDirectories-Lab\\Skeleton-Lab\\ExtractSpecialBytes\\ExtractSpecialBytes.cs",
+              "RelativeDocumentMoniker": "ExtractSpecialBytes\\ExtractSpecialBytes.cs",
+              "ToolTip": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\Advanced - Maj 2024\\04.Streams,FilesAndDirectories-Lab\\Skeleton-Lab\\ExtractSpecialBytes\\ExtractSpecialBytes.cs",
+              "RelativeToolTip": "ExtractSpecialBytes\\ExtractSpecialBytes.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAAABwAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T21:00:25.816Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "output.txt",
+              "DocumentMoniker": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\Advanced - Maj 2024\\04.Streams,FilesAndDirectories-Lab\\Skeleton-Lab\\MergeFiles\\Files\\output.txt",
+              "RelativeDocumentMoniker": "MergeFiles\\Files\\output.txt",
+              "ToolTip": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\Advanced - Maj 2024\\04.Streams,FilesAndDirectories-Lab\\Skeleton-Lab\\MergeFiles\\Files\\output.txt",
+              "RelativeToolTip": "MergeFiles\\Files\\output.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-05-25T20:57:39.299Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MergeFiles.cs",
+              "DocumentMoniker": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\Advanced - Maj 2024\\04.Streams,FilesAndDirectories-Lab\\Skeleton-Lab\\MergeFiles\\MergeFiles.cs",
+              "RelativeDocumentMoniker": "MergeFiles\\MergeFiles.cs",
+              "ToolTip": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\Advanced - Maj 2024\\04.Streams,FilesAndDirectories-Lab\\Skeleton-Lab\\MergeFiles\\MergeFiles.cs",
+              "RelativeToolTip": "MergeFiles\\MergeFiles.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAxwB0AAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T20:46:23.882Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "output.txt",
+              "DocumentMoniker": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\Advanced - Maj 2024\\04.Streams,FilesAndDirectories-Lab\\Skeleton-Lab\\WordCount\\Files\\output.txt",
+              "RelativeDocumentMoniker": "WordCount\\Files\\output.txt",
+              "ToolTip": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\Advanced - Maj 2024\\04.Streams,FilesAndDirectories-Lab\\Skeleton-Lab\\WordCount\\Files\\output.txt",
+              "RelativeToolTip": "WordCount\\Files\\output.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-05-25T20:44:47.1Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "text.txt",
+              "DocumentMoniker": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\Advanced - Maj 2024\\04.Streams,FilesAndDirectories-Lab\\Skeleton-Lab\\WordCount\\Files\\text.txt",
+              "RelativeDocumentMoniker": "WordCount\\Files\\text.txt",
+              "ToolTip": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\Advanced - Maj 2024\\04.Streams,FilesAndDirectories-Lab\\Skeleton-Lab\\WordCount\\Files\\text.txt",
+              "RelativeToolTip": "WordCount\\Files\\text.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-05-25T20:29:51.557Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "WordCount.cs",
+              "DocumentMoniker": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\Advanced - Maj 2024\\04.Streams,FilesAndDirectories-Lab\\Skeleton-Lab\\WordCount\\WordCount.cs",
+              "RelativeDocumentMoniker": "WordCount\\WordCount.cs",
+              "ToolTip": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\Advanced - Maj 2024\\04.Streams,FilesAndDirectories-Lab\\Skeleton-Lab\\WordCount\\WordCount.cs",
+              "RelativeToolTip": "WordCount\\WordCount.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAgwCkAAABsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T20:18:58.208Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "output.txt",
+              "DocumentMoniker": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\Advanced - Maj 2024\\04.Streams,FilesAndDirectories-Lab\\Skeleton-Lab\\LineNumbers\\Files\\output.txt",
+              "RelativeDocumentMoniker": "LineNumbers\\Files\\output.txt",
+              "ToolTip": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\Advanced - Maj 2024\\04.Streams,FilesAndDirectories-Lab\\Skeleton-Lab\\LineNumbers\\Files\\output.txt",
+              "RelativeToolTip": "LineNumbers\\Files\\output.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-05-25T20:16:37.542Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "LineNumbers.cs",
+              "DocumentMoniker": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\Advanced - Maj 2024\\04.Streams,FilesAndDirectories-Lab\\Skeleton-Lab\\LineNumbers\\LineNumbers.cs",
+              "RelativeDocumentMoniker": "LineNumbers\\LineNumbers.cs",
+              "ToolTip": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\Advanced - Maj 2024\\04.Streams,FilesAndDirectories-Lab\\Skeleton-Lab\\LineNumbers\\LineNumbers.cs",
+              "RelativeToolTip": "LineNumbers\\LineNumbers.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T20:13:27.778Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "output.txt",
+              "DocumentMoniker": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\Advanced - Maj 2024\\04.Streams,FilesAndDirectories-Lab\\Skeleton-Lab\\OddLines\\Files\\output.txt",
+              "RelativeDocumentMoniker": "OddLines\\Files\\output.txt",
+              "ToolTip": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\Advanced - Maj 2024\\04.Streams,FilesAndDirectories-Lab\\Skeleton-Lab\\OddLines\\Files\\output.txt",
+              "RelativeToolTip": "OddLines\\Files\\output.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-05-25T20:12:40.319Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "OddLines.cs",
+              "DocumentMoniker": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\Advanced - Maj 2024\\04.Streams,FilesAndDirectories-Lab\\Skeleton-Lab\\OddLines\\OddLines.cs",
+              "RelativeDocumentMoniker": "OddLines\\OddLines.cs",
+              "ToolTip": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\Advanced - Maj 2024\\04.Streams,FilesAndDirectories-Lab\\Skeleton-Lab\\OddLines\\OddLines.cs",
+              "RelativeToolTip": "OddLines\\OddLines.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAADwvxsAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T10:15:19.223Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "LineNumbers.csproj",
+              "DocumentMoniker": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\Advanced - Maj 2024\\04.Streams,FilesAndDirectories-Lab\\Skeleton-Lab\\LineNumbers\\LineNumbers.csproj",
+              "RelativeDocumentMoniker": "LineNumbers\\LineNumbers.csproj",
+              "ToolTip": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\Advanced - Maj 2024\\04.Streams,FilesAndDirectories-Lab\\Skeleton-Lab\\LineNumbers\\LineNumbers.csproj",
+              "RelativeToolTip": "LineNumbers\\LineNumbers.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-25T10:15:10.721Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MergeFiles.csproj",
+              "DocumentMoniker": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\Advanced - Maj 2024\\04.Streams,FilesAndDirectories-Lab\\Skeleton-Lab\\MergeFiles\\MergeFiles.csproj",
+              "RelativeDocumentMoniker": "MergeFiles\\MergeFiles.csproj",
+              "ToolTip": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\Advanced - Maj 2024\\04.Streams,FilesAndDirectories-Lab\\Skeleton-Lab\\MergeFiles\\MergeFiles.csproj",
+              "RelativeToolTip": "MergeFiles\\MergeFiles.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-25T10:15:10.783Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "OddLines.csproj",
+              "DocumentMoniker": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\Advanced - Maj 2024\\04.Streams,FilesAndDirectories-Lab\\Skeleton-Lab\\OddLines\\OddLines.csproj",
+              "RelativeDocumentMoniker": "OddLines\\OddLines.csproj",
+              "ToolTip": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\Advanced - Maj 2024\\04.Streams,FilesAndDirectories-Lab\\Skeleton-Lab\\OddLines\\OddLines.csproj",
+              "RelativeToolTip": "OddLines\\OddLines.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-25T10:15:10.799Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SplitMergeBinaryFile.csproj",
+              "DocumentMoniker": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\Advanced - Maj 2024\\04.Streams,FilesAndDirectories-Lab\\Skeleton-Lab\\SplitMergeBinaryFile\\SplitMergeBinaryFile.csproj",
+              "RelativeDocumentMoniker": "SplitMergeBinaryFile\\SplitMergeBinaryFile.csproj",
+              "ToolTip": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\Advanced - Maj 2024\\04.Streams,FilesAndDirectories-Lab\\Skeleton-Lab\\SplitMergeBinaryFile\\SplitMergeBinaryFile.csproj",
+              "RelativeToolTip": "SplitMergeBinaryFile\\SplitMergeBinaryFile.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-25T10:15:10.799Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "WordCount.csproj",
+              "DocumentMoniker": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\Advanced - Maj 2024\\04.Streams,FilesAndDirectories-Lab\\Skeleton-Lab\\WordCount\\WordCount.csproj",
+              "RelativeDocumentMoniker": "WordCount\\WordCount.csproj",
+              "ToolTip": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\Advanced - Maj 2024\\04.Streams,FilesAndDirectories-Lab\\Skeleton-Lab\\WordCount\\WordCount.csproj",
+              "RelativeToolTip": "WordCount\\WordCount.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-25T10:15:10.799Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "FolderSize.csproj",
+              "DocumentMoniker": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\Advanced - Maj 2024\\04.Streams,FilesAndDirectories-Lab\\Skeleton-Lab\\FolderSize\\FolderSize.csproj",
+              "RelativeDocumentMoniker": "FolderSize\\FolderSize.csproj",
+              "ToolTip": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\Advanced - Maj 2024\\04.Streams,FilesAndDirectories-Lab\\Skeleton-Lab\\FolderSize\\FolderSize.csproj",
+              "RelativeToolTip": "FolderSize\\FolderSize.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-25T10:15:10.799Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "ExtractSpecialBytes",
+              "DocumentMoniker": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\Advanced - Maj 2024\\04.Streams,FilesAndDirectories-Lab\\Skeleton-Lab\\ExtractSpecialBytes\\ExtractSpecialBytes.csproj",
+              "RelativeDocumentMoniker": "ExtractSpecialBytes\\ExtractSpecialBytes.csproj",
+              "ToolTip": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\Advanced - Maj 2024\\04.Streams,FilesAndDirectories-Lab\\Skeleton-Lab\\ExtractSpecialBytes\\ExtractSpecialBytes.csproj",
+              "RelativeToolTip": "ExtractSpecialBytes\\ExtractSpecialBytes.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-25T10:15:10.815Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ExtractSpecialBytes.csproj",
+              "DocumentMoniker": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\Advanced - Maj 2024\\04.Streams,FilesAndDirectories-Lab\\Skeleton-Lab\\ExtractSpecialBytes\\ExtractSpecialBytes.csproj",
+              "RelativeDocumentMoniker": "ExtractSpecialBytes\\ExtractSpecialBytes.csproj",
+              "ToolTip": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\Advanced - Maj 2024\\04.Streams,FilesAndDirectories-Lab\\Skeleton-Lab\\ExtractSpecialBytes\\ExtractSpecialBytes.csproj",
+              "RelativeToolTip": "ExtractSpecialBytes\\ExtractSpecialBytes.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-25T10:15:10.815Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "WordCount",
+              "DocumentMoniker": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\Advanced - Maj 2024\\04.Streams,FilesAndDirectories-Lab\\Skeleton-Lab\\WordCount\\WordCount.csproj",
+              "RelativeDocumentMoniker": "WordCount\\WordCount.csproj",
+              "ToolTip": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\Advanced - Maj 2024\\04.Streams,FilesAndDirectories-Lab\\Skeleton-Lab\\WordCount\\WordCount.csproj",
+              "RelativeToolTip": "WordCount\\WordCount.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-25T10:15:10.815Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "SplitMergeBinaryFile",
+              "DocumentMoniker": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\Advanced - Maj 2024\\04.Streams,FilesAndDirectories-Lab\\Skeleton-Lab\\SplitMergeBinaryFile\\SplitMergeBinaryFile.csproj",
+              "RelativeDocumentMoniker": "SplitMergeBinaryFile\\SplitMergeBinaryFile.csproj",
+              "ToolTip": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\Advanced - Maj 2024\\04.Streams,FilesAndDirectories-Lab\\Skeleton-Lab\\SplitMergeBinaryFile\\SplitMergeBinaryFile.csproj",
+              "RelativeToolTip": "SplitMergeBinaryFile\\SplitMergeBinaryFile.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-25T10:15:10.815Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "OddLines",
+              "DocumentMoniker": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\Advanced - Maj 2024\\04.Streams,FilesAndDirectories-Lab\\Skeleton-Lab\\OddLines\\OddLines.csproj",
+              "RelativeDocumentMoniker": "OddLines\\OddLines.csproj",
+              "ToolTip": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\Advanced - Maj 2024\\04.Streams,FilesAndDirectories-Lab\\Skeleton-Lab\\OddLines\\OddLines.csproj",
+              "RelativeToolTip": "OddLines\\OddLines.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-25T10:15:10.815Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "MergeFiles",
+              "DocumentMoniker": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\Advanced - Maj 2024\\04.Streams,FilesAndDirectories-Lab\\Skeleton-Lab\\MergeFiles\\MergeFiles.csproj",
+              "RelativeDocumentMoniker": "MergeFiles\\MergeFiles.csproj",
+              "ToolTip": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\Advanced - Maj 2024\\04.Streams,FilesAndDirectories-Lab\\Skeleton-Lab\\MergeFiles\\MergeFiles.csproj",
+              "RelativeToolTip": "MergeFiles\\MergeFiles.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-25T10:15:10.815Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "LineNumbers",
+              "DocumentMoniker": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\Advanced - Maj 2024\\04.Streams,FilesAndDirectories-Lab\\Skeleton-Lab\\LineNumbers\\LineNumbers.csproj",
+              "RelativeDocumentMoniker": "LineNumbers\\LineNumbers.csproj",
+              "ToolTip": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\Advanced - Maj 2024\\04.Streams,FilesAndDirectories-Lab\\Skeleton-Lab\\LineNumbers\\LineNumbers.csproj",
+              "RelativeToolTip": "LineNumbers\\LineNumbers.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-25T10:15:10.83Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "FolderSize",
+              "DocumentMoniker": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\Advanced - Maj 2024\\04.Streams,FilesAndDirectories-Lab\\Skeleton-Lab\\FolderSize\\FolderSize.csproj",
+              "RelativeDocumentMoniker": "FolderSize\\FolderSize.csproj",
+              "ToolTip": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\Advanced - Maj 2024\\04.Streams,FilesAndDirectories-Lab\\Skeleton-Lab\\FolderSize\\FolderSize.csproj",
+              "RelativeToolTip": "FolderSize\\FolderSize.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-25T10:15:10.83Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "ExtractSpecialBytes",
+              "DocumentMoniker": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\Advanced - Maj 2024\\04.Streams,FilesAndDirectories-Lab\\Skeleton-Lab\\ExtractSpecialBytes\\ExtractSpecialBytes.csproj",
+              "RelativeDocumentMoniker": "ExtractSpecialBytes\\ExtractSpecialBytes.csproj",
+              "ToolTip": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\Advanced - Maj 2024\\04.Streams,FilesAndDirectories-Lab\\Skeleton-Lab\\ExtractSpecialBytes\\ExtractSpecialBytes.csproj",
+              "RelativeToolTip": "ExtractSpecialBytes\\ExtractSpecialBytes.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-25T10:15:10.83Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+D:\ProgramsScool\Fundamental C# 2024\01.BasicSyntax,ConditionalStatementsAndLoops-Lab\10.MultiplicationTable\bin\Debug\net6.0\10.MultiplicationTable.exe
+D:\ProgramsScool\Fundamental C# 2024\01.BasicSyntax,ConditionalStatementsAndLoops-Lab\10.MultiplicationTable\bin\Debug\net6.0\10.MultiplicationTable.deps.json
+D:\ProgramsScool\Fundamental C# 2024\01.BasicSyntax,ConditionalStatementsAndLoops-Lab\10.MultiplicationTable\bin\Debug\net6.0\10.MultiplicationTable.runtimeconfig.json
+D:\ProgramsScool\Fundamental C# 2024\01.BasicSyntax,ConditionalStatementsAndLoops-Lab\10.MultiplicationTable\bin\Debug\net6.0\10.MultiplicationTable.dll
+D:\ProgramsScool\Fundamental C# 2024\01.BasicSyntax,ConditionalStatementsAndLoops-Lab\10.MultiplicationTable\bin\Debug\net6.0\10.MultiplicationTable.pdb
+D:\ProgramsScool\Fundamental C# 2024\01.BasicSyntax,ConditionalStatementsAndLoops-Lab\10.MultiplicationTable\obj\Debug\net6.0\10.MultiplicationTable.csproj.AssemblyReference.cache
+D:\ProgramsScool\Fundamental C# 2024\01.BasicSyntax,ConditionalStatementsAndLoops-Lab\10.MultiplicationTable\obj\Debug\net6.0\10.MultiplicationTable.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProgramsScool\Fundamental C# 2024\01.BasicSyntax,ConditionalStatementsAndLoops-Lab\10.MultiplicationTable\obj\Debug\net6.0\10.MultiplicationTable.AssemblyInfoInputs.cache
+D:\ProgramsScool\Fundamental C# 2024\01.BasicSyntax,ConditionalStatementsAndLoops-Lab\10.MultiplicationTable\obj\Debug\net6.0\10.MultiplicationTable.AssemblyInfo.cs
+D:\ProgramsScool\Fundamental C# 2024\01.BasicSyntax,ConditionalStatementsAndLoops-Lab\10.MultiplicationTable\obj\Debug\net6.0\10.MultiplicationTable.csproj.CoreCompileInputs.cache
+D:\ProgramsScool\Fundamental C# 2024\01.BasicSyntax,ConditionalStatementsAndLoops-Lab\10.MultiplicationTable\obj\Debug\net6.0\10.MultiplicationTable.dll
+D:\ProgramsScool\Fundamental C# 2024\01.BasicSyntax,ConditionalStatementsAndLoops-Lab\10.MultiplicationTable\obj\Debug\net6.0\refint\10.MultiplicationTable.dll
+D:\ProgramsScool\Fundamental C# 2024\01.BasicSyntax,ConditionalStatementsAndLoops-Lab\10.MultiplicationTable\obj\Debug\net6.0\10.MultiplicationTable.pdb
+D:\ProgramsScool\Fundamental C# 2024\01.BasicSyntax,ConditionalStatementsAndLoops-Lab\10.MultiplicationTable\obj\Debug\net6.0\10.MultiplicationTable.genruntimeconfig.cache
+D:\ProgramsScool\Fundamental C# 2024\01.BasicSyntax,ConditionalStatementsAndLoops-Lab\10.MultiplicationTable\obj\Debug\net6.0\ref\10.MultiplicationTable.dll

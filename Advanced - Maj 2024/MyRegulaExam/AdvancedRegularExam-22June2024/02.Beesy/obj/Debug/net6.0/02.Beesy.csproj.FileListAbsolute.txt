@@ -1,0 +1,15 @@
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\MyRegulaExam\AdvancedRegularExam-22June2024\02.Beesy\bin\Debug\net6.0\02.Beesy.exe
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\MyRegulaExam\AdvancedRegularExam-22June2024\02.Beesy\bin\Debug\net6.0\02.Beesy.deps.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\MyRegulaExam\AdvancedRegularExam-22June2024\02.Beesy\bin\Debug\net6.0\02.Beesy.runtimeconfig.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\MyRegulaExam\AdvancedRegularExam-22June2024\02.Beesy\bin\Debug\net6.0\02.Beesy.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\MyRegulaExam\AdvancedRegularExam-22June2024\02.Beesy\bin\Debug\net6.0\02.Beesy.pdb
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\MyRegulaExam\AdvancedRegularExam-22June2024\02.Beesy\obj\Debug\net6.0\02.Beesy.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\MyRegulaExam\AdvancedRegularExam-22June2024\02.Beesy\obj\Debug\net6.0\02.Beesy.AssemblyInfoInputs.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\MyRegulaExam\AdvancedRegularExam-22June2024\02.Beesy\obj\Debug\net6.0\02.Beesy.AssemblyInfo.cs
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\MyRegulaExam\AdvancedRegularExam-22June2024\02.Beesy\obj\Debug\net6.0\02.Beesy.csproj.CoreCompileInputs.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\MyRegulaExam\AdvancedRegularExam-22June2024\02.Beesy\obj\Debug\net6.0\02.Beesy.sourcelink.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\MyRegulaExam\AdvancedRegularExam-22June2024\02.Beesy\obj\Debug\net6.0\02.Beesy.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\MyRegulaExam\AdvancedRegularExam-22June2024\02.Beesy\obj\Debug\net6.0\refint\02.Beesy.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\MyRegulaExam\AdvancedRegularExam-22June2024\02.Beesy\obj\Debug\net6.0\02.Beesy.pdb
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\MyRegulaExam\AdvancedRegularExam-22June2024\02.Beesy\obj\Debug\net6.0\02.Beesy.genruntimeconfig.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\MyRegulaExam\AdvancedRegularExam-22June2024\02.Beesy\obj\Debug\net6.0\ref\02.Beesy.dll

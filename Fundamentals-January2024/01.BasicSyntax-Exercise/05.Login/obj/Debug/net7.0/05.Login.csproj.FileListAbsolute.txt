@@ -1,0 +1,15 @@
+D:\ProgramsScool\Git Hub\SoftUni-school\Fundamentals - January 2024\01.BasicSyntax-Exercise\05.Login\bin\Debug\net7.0\05.Login.exe
+D:\ProgramsScool\Git Hub\SoftUni-school\Fundamentals - January 2024\01.BasicSyntax-Exercise\05.Login\bin\Debug\net7.0\05.Login.deps.json
+D:\ProgramsScool\Git Hub\SoftUni-school\Fundamentals - January 2024\01.BasicSyntax-Exercise\05.Login\bin\Debug\net7.0\05.Login.runtimeconfig.json
+D:\ProgramsScool\Git Hub\SoftUni-school\Fundamentals - January 2024\01.BasicSyntax-Exercise\05.Login\bin\Debug\net7.0\05.Login.dll
+D:\ProgramsScool\Git Hub\SoftUni-school\Fundamentals - January 2024\01.BasicSyntax-Exercise\05.Login\bin\Debug\net7.0\05.Login.pdb
+D:\ProgramsScool\Git Hub\SoftUni-school\Fundamentals - January 2024\01.BasicSyntax-Exercise\05.Login\obj\Debug\net7.0\05.Login.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProgramsScool\Git Hub\SoftUni-school\Fundamentals - January 2024\01.BasicSyntax-Exercise\05.Login\obj\Debug\net7.0\05.Login.AssemblyInfoInputs.cache
+D:\ProgramsScool\Git Hub\SoftUni-school\Fundamentals - January 2024\01.BasicSyntax-Exercise\05.Login\obj\Debug\net7.0\05.Login.AssemblyInfo.cs
+D:\ProgramsScool\Git Hub\SoftUni-school\Fundamentals - January 2024\01.BasicSyntax-Exercise\05.Login\obj\Debug\net7.0\05.Login.csproj.CoreCompileInputs.cache
+D:\ProgramsScool\Git Hub\SoftUni-school\Fundamentals - January 2024\01.BasicSyntax-Exercise\05.Login\obj\Debug\net7.0\05.Login.sourcelink.json
+D:\ProgramsScool\Git Hub\SoftUni-school\Fundamentals - January 2024\01.BasicSyntax-Exercise\05.Login\obj\Debug\net7.0\05.Login.dll
+D:\ProgramsScool\Git Hub\SoftUni-school\Fundamentals - January 2024\01.BasicSyntax-Exercise\05.Login\obj\Debug\net7.0\refint\05.Login.dll
+D:\ProgramsScool\Git Hub\SoftUni-school\Fundamentals - January 2024\01.BasicSyntax-Exercise\05.Login\obj\Debug\net7.0\05.Login.pdb
+D:\ProgramsScool\Git Hub\SoftUni-school\Fundamentals - January 2024\01.BasicSyntax-Exercise\05.Login\obj\Debug\net7.0\05.Login.genruntimeconfig.cache
+D:\ProgramsScool\Git Hub\SoftUni-school\Fundamentals - January 2024\01.BasicSyntax-Exercise\05.Login\obj\Debug\net7.0\ref\05.Login.dll

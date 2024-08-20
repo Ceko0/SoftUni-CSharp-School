@@ -1,0 +1,213 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\OOP - June 2024\\03.Interfaces\u0410ndAbstraction-Lab\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7B21F172-EAFB-440C-B8BF-A46867395392}|02.Cars\\Cars.csproj|d:\\programsscool\\git hub\\softuni-csharp\\oop - june 2024\\03.interfaces\u0430ndabstraction-lab\\02.cars\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B21F172-EAFB-440C-B8BF-A46867395392}|02.Cars\\Cars.csproj|solutionrelative:02.cars\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B21F172-EAFB-440C-B8BF-A46867395392}|02.Cars\\Cars.csproj|d:\\programsscool\\git hub\\softuni-csharp\\oop - june 2024\\03.interfaces\u0430ndabstraction-lab\\02.cars\\seat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B21F172-EAFB-440C-B8BF-A46867395392}|02.Cars\\Cars.csproj|solutionrelative:02.cars\\seat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B21F172-EAFB-440C-B8BF-A46867395392}|02.Cars\\Cars.csproj|d:\\programsscool\\git hub\\softuni-csharp\\oop - june 2024\\03.interfaces\u0430ndabstraction-lab\\02.cars\\tesla.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B21F172-EAFB-440C-B8BF-A46867395392}|02.Cars\\Cars.csproj|solutionrelative:02.cars\\tesla.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B21F172-EAFB-440C-B8BF-A46867395392}|02.Cars\\Cars.csproj|d:\\programsscool\\git hub\\softuni-csharp\\oop - june 2024\\03.interfaces\u0430ndabstraction-lab\\02.cars\\ielectriccar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B21F172-EAFB-440C-B8BF-A46867395392}|02.Cars\\Cars.csproj|solutionrelative:02.cars\\ielectriccar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B21F172-EAFB-440C-B8BF-A46867395392}|02.Cars\\Cars.csproj|d:\\programsscool\\git hub\\softuni-csharp\\oop - june 2024\\03.interfaces\u0430ndabstraction-lab\\02.cars\\icar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B21F172-EAFB-440C-B8BF-A46867395392}|02.Cars\\Cars.csproj|solutionrelative:02.cars\\icar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B21F172-EAFB-440C-B8BF-A46867395392}|02.Cars\\Cars.csproj|d:\\programsscool\\git hub\\softuni-csharp\\oop - june 2024\\03.interfaces\u0430ndabstraction-lab\\02.cars\\cars.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{7B21F172-EAFB-440C-B8BF-A46867395392}|02.Cars\\Cars.csproj|solutionrelative:02.cars\\cars.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{960CC358-1515-4C30-A3FB-043FD1FA3A44}|01.Shapes\\Shapes.csproj|d:\\programsscool\\git hub\\softuni-csharp\\oop - june 2024\\03.interfaces\u0430ndabstraction-lab\\01.shapes\\circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{960CC358-1515-4C30-A3FB-043FD1FA3A44}|01.Shapes\\Shapes.csproj|solutionrelative:01.shapes\\circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{960CC358-1515-4C30-A3FB-043FD1FA3A44}|01.Shapes\\Shapes.csproj|d:\\programsscool\\git hub\\softuni-csharp\\oop - june 2024\\03.interfaces\u0430ndabstraction-lab\\01.shapes\\rectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{960CC358-1515-4C30-A3FB-043FD1FA3A44}|01.Shapes\\Shapes.csproj|solutionrelative:01.shapes\\rectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{960CC358-1515-4C30-A3FB-043FD1FA3A44}|01.Shapes\\Shapes.csproj|d:\\programsscool\\git hub\\softuni-csharp\\oop - june 2024\\03.interfaces\u0430ndabstraction-lab\\01.shapes\\idrawable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{960CC358-1515-4C30-A3FB-043FD1FA3A44}|01.Shapes\\Shapes.csproj|solutionrelative:01.shapes\\idrawable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{960CC358-1515-4C30-A3FB-043FD1FA3A44}|01.Shapes\\Shapes.csproj|d:\\programsscool\\git hub\\softuni-csharp\\oop - june 2024\\03.interfaces\u0430ndabstraction-lab\\01.shapes\\shapes.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{960CC358-1515-4C30-A3FB-043FD1FA3A44}|01.Shapes\\Shapes.csproj|solutionrelative:01.shapes\\shapes.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{960CC358-1515-4C30-A3FB-043FD1FA3A44}|01.Shapes\\Shapes.csproj|d:\\programsscool\\git hub\\softuni-csharp\\oop - june 2024\\03.interfaces\u0430ndabstraction-lab\\01.shapes\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{960CC358-1515-4C30-A3FB-043FD1FA3A44}|01.Shapes\\Shapes.csproj|solutionrelative:01.shapes\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Tesla.cs",
+              "DocumentMoniker": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\OOP - June 2024\\03.Interfaces\u0410ndAbstraction-Lab\\02.Cars\\Tesla.cs",
+              "RelativeDocumentMoniker": "02.Cars\\Tesla.cs",
+              "ToolTip": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\OOP - June 2024\\03.Interfaces\u0410ndAbstraction-Lab\\02.Cars\\Tesla.cs",
+              "RelativeToolTip": "02.Cars\\Tesla.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T16:46:07.271Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Seat.cs",
+              "DocumentMoniker": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\OOP - June 2024\\03.Interfaces\u0410ndAbstraction-Lab\\02.Cars\\Seat.cs",
+              "RelativeDocumentMoniker": "02.Cars\\Seat.cs",
+              "ToolTip": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\OOP - June 2024\\03.Interfaces\u0410ndAbstraction-Lab\\02.Cars\\Seat.cs",
+              "RelativeToolTip": "02.Cars\\Seat.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T16:44:09.891Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IElectricCar.cs",
+              "DocumentMoniker": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\OOP - June 2024\\03.Interfaces\u0410ndAbstraction-Lab\\02.Cars\\IElectricCar.cs",
+              "RelativeDocumentMoniker": "02.Cars\\IElectricCar.cs",
+              "ToolTip": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\OOP - June 2024\\03.Interfaces\u0410ndAbstraction-Lab\\02.Cars\\IElectricCar.cs",
+              "RelativeToolTip": "02.Cars\\IElectricCar.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T16:42:58.254Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ICar.cs",
+              "DocumentMoniker": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\OOP - June 2024\\03.Interfaces\u0410ndAbstraction-Lab\\02.Cars\\ICar.cs",
+              "RelativeDocumentMoniker": "02.Cars\\ICar.cs",
+              "ToolTip": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\OOP - June 2024\\03.Interfaces\u0410ndAbstraction-Lab\\02.Cars\\ICar.cs",
+              "RelativeToolTip": "02.Cars\\ICar.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T16:38:03.362Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Cars.csproj",
+              "DocumentMoniker": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\OOP - June 2024\\03.Interfaces\u0410ndAbstraction-Lab\\02.Cars\\Cars.csproj",
+              "RelativeDocumentMoniker": "02.Cars\\Cars.csproj",
+              "ToolTip": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\OOP - June 2024\\03.Interfaces\u0410ndAbstraction-Lab\\02.Cars\\Cars.csproj",
+              "RelativeToolTip": "02.Cars\\Cars.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-03T16:37:27.473Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StartUp.cs",
+              "DocumentMoniker": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\OOP - June 2024\\03.Interfaces\u0410ndAbstraction-Lab\\02.Cars\\StartUp.cs",
+              "RelativeDocumentMoniker": "02.Cars\\StartUp.cs",
+              "ToolTip": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\OOP - June 2024\\03.Interfaces\u0410ndAbstraction-Lab\\02.Cars\\StartUp.cs",
+              "RelativeToolTip": "02.Cars\\StartUp.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T16:37:15.675Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Rectangle.cs",
+              "DocumentMoniker": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\OOP - June 2024\\03.Interfaces\u0410ndAbstraction-Lab\\01.Shapes\\Rectangle.cs",
+              "RelativeDocumentMoniker": "01.Shapes\\Rectangle.cs",
+              "ToolTip": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\OOP - June 2024\\03.Interfaces\u0410ndAbstraction-Lab\\01.Shapes\\Rectangle.cs",
+              "RelativeToolTip": "01.Shapes\\Rectangle.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T16:15:24.32Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IDrawable.cs",
+              "DocumentMoniker": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\OOP - June 2024\\03.Interfaces\u0410ndAbstraction-Lab\\01.Shapes\\IDrawable.cs",
+              "RelativeDocumentMoniker": "01.Shapes\\IDrawable.cs",
+              "ToolTip": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\OOP - June 2024\\03.Interfaces\u0410ndAbstraction-Lab\\01.Shapes\\IDrawable.cs",
+              "RelativeToolTip": "01.Shapes\\IDrawable.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T16:14:52.915Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Circle.cs",
+              "DocumentMoniker": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\OOP - June 2024\\03.Interfaces\u0410ndAbstraction-Lab\\01.Shapes\\Circle.cs",
+              "RelativeDocumentMoniker": "01.Shapes\\Circle.cs",
+              "ToolTip": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\OOP - June 2024\\03.Interfaces\u0410ndAbstraction-Lab\\01.Shapes\\Circle.cs",
+              "RelativeToolTip": "01.Shapes\\Circle.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T16:13:26.89Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Shapes.csproj",
+              "DocumentMoniker": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\OOP - June 2024\\03.Interfaces\u0410ndAbstraction-Lab\\01.Shapes\\Shapes.csproj",
+              "RelativeDocumentMoniker": "01.Shapes\\Shapes.csproj",
+              "ToolTip": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\OOP - June 2024\\03.Interfaces\u0410ndAbstraction-Lab\\01.Shapes\\Shapes.csproj",
+              "RelativeToolTip": "01.Shapes\\Shapes.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-03T16:09:52.653Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "StartUp.cs",
+              "DocumentMoniker": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\OOP - June 2024\\03.Interfaces\u0410ndAbstraction-Lab\\01.Shapes\\StartUp.cs",
+              "RelativeDocumentMoniker": "01.Shapes\\StartUp.cs",
+              "ToolTip": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\OOP - June 2024\\03.Interfaces\u0410ndAbstraction-Lab\\01.Shapes\\StartUp.cs",
+              "RelativeToolTip": "01.Shapes\\StartUp.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T16:05:40.106Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

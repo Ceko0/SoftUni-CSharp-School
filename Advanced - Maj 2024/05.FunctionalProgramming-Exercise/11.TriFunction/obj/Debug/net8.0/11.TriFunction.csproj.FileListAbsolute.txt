@@ -1,0 +1,15 @@
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\05.FunctionalProgramming-Exercise\11.TriFunction\bin\Debug\net8.0\11.TriFunction.exe
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\05.FunctionalProgramming-Exercise\11.TriFunction\bin\Debug\net8.0\11.TriFunction.deps.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\05.FunctionalProgramming-Exercise\11.TriFunction\bin\Debug\net8.0\11.TriFunction.runtimeconfig.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\05.FunctionalProgramming-Exercise\11.TriFunction\bin\Debug\net8.0\11.TriFunction.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\05.FunctionalProgramming-Exercise\11.TriFunction\bin\Debug\net8.0\11.TriFunction.pdb
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\05.FunctionalProgramming-Exercise\11.TriFunction\obj\Debug\net8.0\11.TriFunction.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\05.FunctionalProgramming-Exercise\11.TriFunction\obj\Debug\net8.0\11.TriFunction.AssemblyInfoInputs.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\05.FunctionalProgramming-Exercise\11.TriFunction\obj\Debug\net8.0\11.TriFunction.AssemblyInfo.cs
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\05.FunctionalProgramming-Exercise\11.TriFunction\obj\Debug\net8.0\11.TriFunction.csproj.CoreCompileInputs.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\05.FunctionalProgramming-Exercise\11.TriFunction\obj\Debug\net8.0\11.TriFunction.sourcelink.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\05.FunctionalProgramming-Exercise\11.TriFunction\obj\Debug\net8.0\11.TriFunction.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\05.FunctionalProgramming-Exercise\11.TriFunction\obj\Debug\net8.0\refint\11.TriFunction.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\05.FunctionalProgramming-Exercise\11.TriFunction\obj\Debug\net8.0\11.TriFunction.pdb
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\05.FunctionalProgramming-Exercise\11.TriFunction\obj\Debug\net8.0\11.TriFunction.genruntimeconfig.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\05.FunctionalProgramming-Exercise\11.TriFunction\obj\Debug\net8.0\ref\11.TriFunction.dll

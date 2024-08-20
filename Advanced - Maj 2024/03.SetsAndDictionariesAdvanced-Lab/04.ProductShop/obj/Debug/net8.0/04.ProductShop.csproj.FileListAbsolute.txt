@@ -1,0 +1,15 @@
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\03.SetsAndDictionariesAdvanced-Lab\04.ProductShop\bin\Debug\net8.0\04.ProductShop.exe
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\03.SetsAndDictionariesAdvanced-Lab\04.ProductShop\bin\Debug\net8.0\04.ProductShop.deps.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\03.SetsAndDictionariesAdvanced-Lab\04.ProductShop\bin\Debug\net8.0\04.ProductShop.runtimeconfig.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\03.SetsAndDictionariesAdvanced-Lab\04.ProductShop\bin\Debug\net8.0\04.ProductShop.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\03.SetsAndDictionariesAdvanced-Lab\04.ProductShop\bin\Debug\net8.0\04.ProductShop.pdb
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\03.SetsAndDictionariesAdvanced-Lab\04.ProductShop\obj\Debug\net8.0\04.ProductShop.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\03.SetsAndDictionariesAdvanced-Lab\04.ProductShop\obj\Debug\net8.0\04.ProductShop.AssemblyInfoInputs.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\03.SetsAndDictionariesAdvanced-Lab\04.ProductShop\obj\Debug\net8.0\04.ProductShop.AssemblyInfo.cs
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\03.SetsAndDictionariesAdvanced-Lab\04.ProductShop\obj\Debug\net8.0\04.ProductShop.csproj.CoreCompileInputs.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\03.SetsAndDictionariesAdvanced-Lab\04.ProductShop\obj\Debug\net8.0\04.ProductShop.sourcelink.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\03.SetsAndDictionariesAdvanced-Lab\04.ProductShop\obj\Debug\net8.0\04.ProductShop.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\03.SetsAndDictionariesAdvanced-Lab\04.ProductShop\obj\Debug\net8.0\refint\04.ProductShop.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\03.SetsAndDictionariesAdvanced-Lab\04.ProductShop\obj\Debug\net8.0\04.ProductShop.pdb
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\03.SetsAndDictionariesAdvanced-Lab\04.ProductShop\obj\Debug\net8.0\04.ProductShop.genruntimeconfig.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\03.SetsAndDictionariesAdvanced-Lab\04.ProductShop\obj\Debug\net8.0\ref\04.ProductShop.dll

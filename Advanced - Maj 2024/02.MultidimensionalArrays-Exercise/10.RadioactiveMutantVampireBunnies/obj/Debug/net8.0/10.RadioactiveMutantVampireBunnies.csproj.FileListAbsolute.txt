@@ -1,0 +1,15 @@
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\02.MultidimensionalArrays-Exercise\10.RadioactiveMutantVampireBunnies\bin\Debug\net8.0\10.RadioactiveMutantVampireBunnies.exe
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\02.MultidimensionalArrays-Exercise\10.RadioactiveMutantVampireBunnies\bin\Debug\net8.0\10.RadioactiveMutantVampireBunnies.deps.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\02.MultidimensionalArrays-Exercise\10.RadioactiveMutantVampireBunnies\bin\Debug\net8.0\10.RadioactiveMutantVampireBunnies.runtimeconfig.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\02.MultidimensionalArrays-Exercise\10.RadioactiveMutantVampireBunnies\bin\Debug\net8.0\10.RadioactiveMutantVampireBunnies.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\02.MultidimensionalArrays-Exercise\10.RadioactiveMutantVampireBunnies\bin\Debug\net8.0\10.RadioactiveMutantVampireBunnies.pdb
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\02.MultidimensionalArrays-Exercise\10.RadioactiveMutantVampireBunnies\obj\Debug\net8.0\10.RadioactiveMutantVampireBunnies.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\02.MultidimensionalArrays-Exercise\10.RadioactiveMutantVampireBunnies\obj\Debug\net8.0\10.RadioactiveMutantVampireBunnies.AssemblyInfoInputs.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\02.MultidimensionalArrays-Exercise\10.RadioactiveMutantVampireBunnies\obj\Debug\net8.0\10.RadioactiveMutantVampireBunnies.AssemblyInfo.cs
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\02.MultidimensionalArrays-Exercise\10.RadioactiveMutantVampireBunnies\obj\Debug\net8.0\10.RadioactiveMutantVampireBunnies.csproj.CoreCompileInputs.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\02.MultidimensionalArrays-Exercise\10.RadioactiveMutantVampireBunnies\obj\Debug\net8.0\10.RadioactiveMutantVampireBunnies.sourcelink.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\02.MultidimensionalArrays-Exercise\10.RadioactiveMutantVampireBunnies\obj\Debug\net8.0\10.RadioactiveMutantVampireBunnies.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\02.MultidimensionalArrays-Exercise\10.RadioactiveMutantVampireBunnies\obj\Debug\net8.0\refint\10.RadioactiveMutantVampireBunnies.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\02.MultidimensionalArrays-Exercise\10.RadioactiveMutantVampireBunnies\obj\Debug\net8.0\10.RadioactiveMutantVampireBunnies.pdb
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\02.MultidimensionalArrays-Exercise\10.RadioactiveMutantVampireBunnies\obj\Debug\net8.0\10.RadioactiveMutantVampireBunnies.genruntimeconfig.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\02.MultidimensionalArrays-Exercise\10.RadioactiveMutantVampireBunnies\obj\Debug\net8.0\ref\10.RadioactiveMutantVampireBunnies.dll

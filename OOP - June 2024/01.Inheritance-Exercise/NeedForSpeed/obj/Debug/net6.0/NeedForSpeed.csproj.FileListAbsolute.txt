@@ -1,0 +1,15 @@
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\OOP - June 2024\01.Inheritance-Exercise\NeedForSpeed\bin\Debug\net6.0\NeedForSpeed.exe
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\OOP - June 2024\01.Inheritance-Exercise\NeedForSpeed\bin\Debug\net6.0\NeedForSpeed.deps.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\OOP - June 2024\01.Inheritance-Exercise\NeedForSpeed\bin\Debug\net6.0\NeedForSpeed.runtimeconfig.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\OOP - June 2024\01.Inheritance-Exercise\NeedForSpeed\bin\Debug\net6.0\NeedForSpeed.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\OOP - June 2024\01.Inheritance-Exercise\NeedForSpeed\bin\Debug\net6.0\NeedForSpeed.pdb
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\OOP - June 2024\01.Inheritance-Exercise\NeedForSpeed\obj\Debug\net6.0\NeedForSpeed.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\OOP - June 2024\01.Inheritance-Exercise\NeedForSpeed\obj\Debug\net6.0\NeedForSpeed.AssemblyInfoInputs.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\OOP - June 2024\01.Inheritance-Exercise\NeedForSpeed\obj\Debug\net6.0\NeedForSpeed.AssemblyInfo.cs
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\OOP - June 2024\01.Inheritance-Exercise\NeedForSpeed\obj\Debug\net6.0\NeedForSpeed.csproj.CoreCompileInputs.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\OOP - June 2024\01.Inheritance-Exercise\NeedForSpeed\obj\Debug\net6.0\NeedForSpeed.sourcelink.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\OOP - June 2024\01.Inheritance-Exercise\NeedForSpeed\obj\Debug\net6.0\NeedForSpeed.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\OOP - June 2024\01.Inheritance-Exercise\NeedForSpeed\obj\Debug\net6.0\refint\NeedForSpeed.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\OOP - June 2024\01.Inheritance-Exercise\NeedForSpeed\obj\Debug\net6.0\NeedForSpeed.pdb
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\OOP - June 2024\01.Inheritance-Exercise\NeedForSpeed\obj\Debug\net6.0\NeedForSpeed.genruntimeconfig.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\OOP - June 2024\01.Inheritance-Exercise\NeedForSpeed\obj\Debug\net6.0\ref\NeedForSpeed.dll

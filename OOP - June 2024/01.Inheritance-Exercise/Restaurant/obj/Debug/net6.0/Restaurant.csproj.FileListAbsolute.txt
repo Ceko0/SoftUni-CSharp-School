@@ -1,0 +1,15 @@
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\OOP - June 2024\01.Inheritance-Exercise\Restaurant\bin\Debug\net6.0\Restaurant.exe
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\OOP - June 2024\01.Inheritance-Exercise\Restaurant\bin\Debug\net6.0\Restaurant.deps.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\OOP - June 2024\01.Inheritance-Exercise\Restaurant\bin\Debug\net6.0\Restaurant.runtimeconfig.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\OOP - June 2024\01.Inheritance-Exercise\Restaurant\bin\Debug\net6.0\Restaurant.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\OOP - June 2024\01.Inheritance-Exercise\Restaurant\bin\Debug\net6.0\Restaurant.pdb
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\OOP - June 2024\01.Inheritance-Exercise\Restaurant\obj\Debug\net6.0\Restaurant.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\OOP - June 2024\01.Inheritance-Exercise\Restaurant\obj\Debug\net6.0\Restaurant.AssemblyInfoInputs.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\OOP - June 2024\01.Inheritance-Exercise\Restaurant\obj\Debug\net6.0\Restaurant.AssemblyInfo.cs
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\OOP - June 2024\01.Inheritance-Exercise\Restaurant\obj\Debug\net6.0\Restaurant.csproj.CoreCompileInputs.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\OOP - June 2024\01.Inheritance-Exercise\Restaurant\obj\Debug\net6.0\Restaurant.sourcelink.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\OOP - June 2024\01.Inheritance-Exercise\Restaurant\obj\Debug\net6.0\Restaurant.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\OOP - June 2024\01.Inheritance-Exercise\Restaurant\obj\Debug\net6.0\refint\Restaurant.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\OOP - June 2024\01.Inheritance-Exercise\Restaurant\obj\Debug\net6.0\Restaurant.pdb
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\OOP - June 2024\01.Inheritance-Exercise\Restaurant\obj\Debug\net6.0\Restaurant.genruntimeconfig.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\OOP - June 2024\01.Inheritance-Exercise\Restaurant\obj\Debug\net6.0\ref\Restaurant.dll

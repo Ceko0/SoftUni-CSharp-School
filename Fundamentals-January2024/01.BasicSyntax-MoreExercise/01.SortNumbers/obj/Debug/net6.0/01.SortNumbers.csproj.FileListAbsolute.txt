@@ -1,0 +1,14 @@
+D:\ProgramsScool\Git Hub\SoftUni-school\CSharp-Fundamentals - January 2024\01.BasicSyntaxConditionalStatementsAndLoops-MoreExercise\01.SortNumbers\bin\Debug\net6.0\01.SortNumbers.exe
+D:\ProgramsScool\Git Hub\SoftUni-school\CSharp-Fundamentals - January 2024\01.BasicSyntaxConditionalStatementsAndLoops-MoreExercise\01.SortNumbers\bin\Debug\net6.0\01.SortNumbers.deps.json
+D:\ProgramsScool\Git Hub\SoftUni-school\CSharp-Fundamentals - January 2024\01.BasicSyntaxConditionalStatementsAndLoops-MoreExercise\01.SortNumbers\bin\Debug\net6.0\01.SortNumbers.runtimeconfig.json
+D:\ProgramsScool\Git Hub\SoftUni-school\CSharp-Fundamentals - January 2024\01.BasicSyntaxConditionalStatementsAndLoops-MoreExercise\01.SortNumbers\bin\Debug\net6.0\01.SortNumbers.dll
+D:\ProgramsScool\Git Hub\SoftUni-school\CSharp-Fundamentals - January 2024\01.BasicSyntaxConditionalStatementsAndLoops-MoreExercise\01.SortNumbers\bin\Debug\net6.0\01.SortNumbers.pdb
+D:\ProgramsScool\Git Hub\SoftUni-school\CSharp-Fundamentals - January 2024\01.BasicSyntaxConditionalStatementsAndLoops-MoreExercise\01.SortNumbers\obj\Debug\net6.0\01.SortNumbers.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProgramsScool\Git Hub\SoftUni-school\CSharp-Fundamentals - January 2024\01.BasicSyntaxConditionalStatementsAndLoops-MoreExercise\01.SortNumbers\obj\Debug\net6.0\01.SortNumbers.AssemblyInfoInputs.cache
+D:\ProgramsScool\Git Hub\SoftUni-school\CSharp-Fundamentals - January 2024\01.BasicSyntaxConditionalStatementsAndLoops-MoreExercise\01.SortNumbers\obj\Debug\net6.0\01.SortNumbers.AssemblyInfo.cs
+D:\ProgramsScool\Git Hub\SoftUni-school\CSharp-Fundamentals - January 2024\01.BasicSyntaxConditionalStatementsAndLoops-MoreExercise\01.SortNumbers\obj\Debug\net6.0\01.SortNumbers.csproj.CoreCompileInputs.cache
+D:\ProgramsScool\Git Hub\SoftUni-school\CSharp-Fundamentals - January 2024\01.BasicSyntaxConditionalStatementsAndLoops-MoreExercise\01.SortNumbers\obj\Debug\net6.0\01.SortNumbers.dll
+D:\ProgramsScool\Git Hub\SoftUni-school\CSharp-Fundamentals - January 2024\01.BasicSyntaxConditionalStatementsAndLoops-MoreExercise\01.SortNumbers\obj\Debug\net6.0\refint\01.SortNumbers.dll
+D:\ProgramsScool\Git Hub\SoftUni-school\CSharp-Fundamentals - January 2024\01.BasicSyntaxConditionalStatementsAndLoops-MoreExercise\01.SortNumbers\obj\Debug\net6.0\01.SortNumbers.pdb
+D:\ProgramsScool\Git Hub\SoftUni-school\CSharp-Fundamentals - January 2024\01.BasicSyntaxConditionalStatementsAndLoops-MoreExercise\01.SortNumbers\obj\Debug\net6.0\01.SortNumbers.genruntimeconfig.cache
+D:\ProgramsScool\Git Hub\SoftUni-school\CSharp-Fundamentals - January 2024\01.BasicSyntaxConditionalStatementsAndLoops-MoreExercise\01.SortNumbers\obj\Debug\net6.0\ref\01.SortNumbers.dll

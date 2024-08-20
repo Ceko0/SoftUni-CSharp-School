@@ -1,0 +1,87 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\Advanced - Maj 2024\\Exams\\C#AdvancedRetakeExam-13December2023\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F80DC9DA-B87F-47C4-BF00-0508B2497BB5}|GroceriesManagement\\GroceriesManagement.csproj|d:\\programsscool\\git hub\\softuni-csharp\\advanced - maj 2024\\exams\\c#advancedretakeexam-13december2023\\groceriesmanagement\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F80DC9DA-B87F-47C4-BF00-0508B2497BB5}|GroceriesManagement\\GroceriesManagement.csproj|solutionrelative:groceriesmanagement\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F80DC9DA-B87F-47C4-BF00-0508B2497BB5}|GroceriesManagement\\GroceriesManagement.csproj|d:\\programsscool\\git hub\\softuni-csharp\\advanced - maj 2024\\exams\\c#advancedretakeexam-13december2023\\groceriesmanagement\\groceriesstore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F80DC9DA-B87F-47C4-BF00-0508B2497BB5}|GroceriesManagement\\GroceriesManagement.csproj|solutionrelative:groceriesmanagement\\groceriesstore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F80DC9DA-B87F-47C4-BF00-0508B2497BB5}|GroceriesManagement\\GroceriesManagement.csproj|d:\\programsscool\\git hub\\softuni-csharp\\advanced - maj 2024\\exams\\c#advancedretakeexam-13december2023\\groceriesmanagement\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F80DC9DA-B87F-47C4-BF00-0508B2497BB5}|GroceriesManagement\\GroceriesManagement.csproj|solutionrelative:groceriesmanagement\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StartUp.cs",
+              "DocumentMoniker": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\Advanced - Maj 2024\\Exams\\C#AdvancedRetakeExam-13December2023\\GroceriesManagement\\StartUp.cs",
+              "RelativeDocumentMoniker": "GroceriesManagement\\StartUp.cs",
+              "ToolTip": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\Advanced - Maj 2024\\Exams\\C#AdvancedRetakeExam-13December2023\\GroceriesManagement\\StartUp.cs",
+              "RelativeToolTip": "GroceriesManagement\\StartUp.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAgwDsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T20:38:28.163Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GroceriesStore.cs",
+              "DocumentMoniker": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\Advanced - Maj 2024\\Exams\\C#AdvancedRetakeExam-13December2023\\GroceriesManagement\\GroceriesStore.cs",
+              "RelativeDocumentMoniker": "GroceriesManagement\\GroceriesStore.cs",
+              "ToolTip": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\Advanced - Maj 2024\\Exams\\C#AdvancedRetakeExam-13December2023\\GroceriesManagement\\GroceriesStore.cs",
+              "RelativeToolTip": "GroceriesManagement\\GroceriesStore.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAIwDMAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T20:21:37.561Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\Advanced - Maj 2024\\Exams\\C#AdvancedRetakeExam-13December2023\\GroceriesManagement\\Product.cs",
+              "RelativeDocumentMoniker": "GroceriesManagement\\Product.cs",
+              "ToolTip": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\Advanced - Maj 2024\\Exams\\C#AdvancedRetakeExam-13December2023\\GroceriesManagement\\Product.cs",
+              "RelativeToolTip": "GroceriesManagement\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwA0AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T20:20:25.067Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

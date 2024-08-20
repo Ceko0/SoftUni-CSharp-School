@@ -1,0 +1,15 @@
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\OOP - June 2024\07.UnitTesting-Lab\Skeleton\bin\Debug\net6.0\Skeleton.exe
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\OOP - June 2024\07.UnitTesting-Lab\Skeleton\bin\Debug\net6.0\Skeleton.deps.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\OOP - June 2024\07.UnitTesting-Lab\Skeleton\bin\Debug\net6.0\Skeleton.runtimeconfig.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\OOP - June 2024\07.UnitTesting-Lab\Skeleton\bin\Debug\net6.0\Skeleton.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\OOP - June 2024\07.UnitTesting-Lab\Skeleton\bin\Debug\net6.0\Skeleton.pdb
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\OOP - June 2024\07.UnitTesting-Lab\Skeleton\obj\Debug\net6.0\Skeleton.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\OOP - June 2024\07.UnitTesting-Lab\Skeleton\obj\Debug\net6.0\Skeleton.AssemblyInfoInputs.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\OOP - June 2024\07.UnitTesting-Lab\Skeleton\obj\Debug\net6.0\Skeleton.AssemblyInfo.cs
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\OOP - June 2024\07.UnitTesting-Lab\Skeleton\obj\Debug\net6.0\Skeleton.csproj.CoreCompileInputs.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\OOP - June 2024\07.UnitTesting-Lab\Skeleton\obj\Debug\net6.0\Skeleton.sourcelink.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\OOP - June 2024\07.UnitTesting-Lab\Skeleton\obj\Debug\net6.0\Skeleton.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\OOP - June 2024\07.UnitTesting-Lab\Skeleton\obj\Debug\net6.0\refint\Skeleton.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\OOP - June 2024\07.UnitTesting-Lab\Skeleton\obj\Debug\net6.0\Skeleton.pdb
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\OOP - June 2024\07.UnitTesting-Lab\Skeleton\obj\Debug\net6.0\Skeleton.genruntimeconfig.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\OOP - June 2024\07.UnitTesting-Lab\Skeleton\obj\Debug\net6.0\ref\Skeleton.dll

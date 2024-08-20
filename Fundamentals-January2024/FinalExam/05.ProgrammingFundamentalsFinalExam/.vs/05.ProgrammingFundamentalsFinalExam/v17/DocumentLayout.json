@@ -1,0 +1,86 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\Fundamentals-January2024\\FinalExam\\05.ProgrammingFundamentalsFinalExam\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7B90889B-5F8C-4F1A-AEC5-433E8ACCF24C}|02.EmojiDetector\\02.EmojiDetector.csproj|d:\\programsscool\\git hub\\softuni-csharp\\fundamentals-january2024\\finalexam\\05.programmingfundamentalsfinalexam\\02.emojidetector\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B90889B-5F8C-4F1A-AEC5-433E8ACCF24C}|02.EmojiDetector\\02.EmojiDetector.csproj|solutionrelative:02.emojidetector\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3334AC0-09A7-4D3F-B080-64F01BA4867A}|03.P!rates\\03.P!rates.csproj|d:\\programsscool\\git hub\\softuni-csharp\\fundamentals-january2024\\finalexam\\05.programmingfundamentalsfinalexam\\03.p!rates\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3334AC0-09A7-4D3F-B080-64F01BA4867A}|03.P!rates\\03.P!rates.csproj|solutionrelative:03.p!rates\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6FEC233-1F85-48A2-BAF0-E84296B655F9}|01.ActivationKeys\\01.ActivationKeys.csproj|d:\\programsscool\\git hub\\softuni-csharp\\fundamentals-january2024\\finalexam\\05.programmingfundamentalsfinalexam\\01.activationkeys\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6FEC233-1F85-48A2-BAF0-E84296B655F9}|01.ActivationKeys\\01.ActivationKeys.csproj|solutionrelative:01.activationkeys\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\Fundamentals-January2024\\FinalExam\\05.ProgrammingFundamentalsFinalExam\\03.P!rates\\Program.cs",
+              "RelativeDocumentMoniker": "03.P!rates\\Program.cs",
+              "ToolTip": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\Fundamentals-January2024\\FinalExam\\05.ProgrammingFundamentalsFinalExam\\03.P!rates\\Program.cs",
+              "RelativeToolTip": "03.P!rates\\Program.cs",
+              "ViewState": "AQIAADQAAAAAAAAAAAAIwFsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T16:26:42.277Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\Fundamentals-January2024\\FinalExam\\05.ProgrammingFundamentalsFinalExam\\02.EmojiDetector\\Program.cs",
+              "RelativeDocumentMoniker": "02.EmojiDetector\\Program.cs",
+              "ToolTip": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\Fundamentals-January2024\\FinalExam\\05.ProgrammingFundamentalsFinalExam\\02.EmojiDetector\\Program.cs",
+              "RelativeToolTip": "02.EmojiDetector\\Program.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAIwCMAAABLAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T21:21:13.198Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\Fundamentals-January2024\\FinalExam\\05.ProgrammingFundamentalsFinalExam\\01.ActivationKeys\\Program.cs",
+              "RelativeDocumentMoniker": "01.ActivationKeys\\Program.cs",
+              "ToolTip": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\Fundamentals-January2024\\FinalExam\\05.ProgrammingFundamentalsFinalExam\\01.ActivationKeys\\Program.cs",
+              "RelativeToolTip": "01.ActivationKeys\\Program.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAwD8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T18:03:10.44Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

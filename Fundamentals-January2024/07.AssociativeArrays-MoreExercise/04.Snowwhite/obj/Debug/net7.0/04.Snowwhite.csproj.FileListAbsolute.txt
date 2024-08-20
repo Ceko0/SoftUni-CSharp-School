@@ -1,0 +1,15 @@
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\07.AssociativeArrays-MoreExercise\04.Snowwhite\bin\Debug\net7.0\04.Snowwhite.exe
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\07.AssociativeArrays-MoreExercise\04.Snowwhite\bin\Debug\net7.0\04.Snowwhite.deps.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\07.AssociativeArrays-MoreExercise\04.Snowwhite\bin\Debug\net7.0\04.Snowwhite.runtimeconfig.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\07.AssociativeArrays-MoreExercise\04.Snowwhite\bin\Debug\net7.0\04.Snowwhite.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\07.AssociativeArrays-MoreExercise\04.Snowwhite\bin\Debug\net7.0\04.Snowwhite.pdb
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\07.AssociativeArrays-MoreExercise\04.Snowwhite\obj\Debug\net7.0\04.Snowwhite.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\07.AssociativeArrays-MoreExercise\04.Snowwhite\obj\Debug\net7.0\04.Snowwhite.AssemblyInfoInputs.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\07.AssociativeArrays-MoreExercise\04.Snowwhite\obj\Debug\net7.0\04.Snowwhite.AssemblyInfo.cs
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\07.AssociativeArrays-MoreExercise\04.Snowwhite\obj\Debug\net7.0\04.Snowwhite.csproj.CoreCompileInputs.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\07.AssociativeArrays-MoreExercise\04.Snowwhite\obj\Debug\net7.0\04.Snowwhite.sourcelink.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\07.AssociativeArrays-MoreExercise\04.Snowwhite\obj\Debug\net7.0\04.Snowwhite.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\07.AssociativeArrays-MoreExercise\04.Snowwhite\obj\Debug\net7.0\refint\04.Snowwhite.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\07.AssociativeArrays-MoreExercise\04.Snowwhite\obj\Debug\net7.0\04.Snowwhite.pdb
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\07.AssociativeArrays-MoreExercise\04.Snowwhite\obj\Debug\net7.0\04.Snowwhite.genruntimeconfig.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\07.AssociativeArrays-MoreExercise\04.Snowwhite\obj\Debug\net7.0\ref\04.Snowwhite.dll

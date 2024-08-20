@@ -1,0 +1,15 @@
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\OOP - June 2024\05.ExceptionsAndErrorHandling-Lab\02.EnterNumbers\bin\Debug\net6.0\02.EnterNumbers.exe
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\OOP - June 2024\05.ExceptionsAndErrorHandling-Lab\02.EnterNumbers\bin\Debug\net6.0\02.EnterNumbers.deps.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\OOP - June 2024\05.ExceptionsAndErrorHandling-Lab\02.EnterNumbers\bin\Debug\net6.0\02.EnterNumbers.runtimeconfig.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\OOP - June 2024\05.ExceptionsAndErrorHandling-Lab\02.EnterNumbers\bin\Debug\net6.0\02.EnterNumbers.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\OOP - June 2024\05.ExceptionsAndErrorHandling-Lab\02.EnterNumbers\bin\Debug\net6.0\02.EnterNumbers.pdb
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\OOP - June 2024\05.ExceptionsAndErrorHandling-Lab\02.EnterNumbers\obj\Debug\net6.0\02.EnterNumbers.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\OOP - June 2024\05.ExceptionsAndErrorHandling-Lab\02.EnterNumbers\obj\Debug\net6.0\02.EnterNumbers.AssemblyInfoInputs.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\OOP - June 2024\05.ExceptionsAndErrorHandling-Lab\02.EnterNumbers\obj\Debug\net6.0\02.EnterNumbers.AssemblyInfo.cs
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\OOP - June 2024\05.ExceptionsAndErrorHandling-Lab\02.EnterNumbers\obj\Debug\net6.0\02.EnterNumbers.csproj.CoreCompileInputs.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\OOP - June 2024\05.ExceptionsAndErrorHandling-Lab\02.EnterNumbers\obj\Debug\net6.0\02.EnterNumbers.sourcelink.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\OOP - June 2024\05.ExceptionsAndErrorHandling-Lab\02.EnterNumbers\obj\Debug\net6.0\02.EnterNumbers.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\OOP - June 2024\05.ExceptionsAndErrorHandling-Lab\02.EnterNumbers\obj\Debug\net6.0\refint\02.EnterNumbers.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\OOP - June 2024\05.ExceptionsAndErrorHandling-Lab\02.EnterNumbers\obj\Debug\net6.0\02.EnterNumbers.pdb
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\OOP - June 2024\05.ExceptionsAndErrorHandling-Lab\02.EnterNumbers\obj\Debug\net6.0\02.EnterNumbers.genruntimeconfig.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\OOP - June 2024\05.ExceptionsAndErrorHandling-Lab\02.EnterNumbers\obj\Debug\net6.0\ref\02.EnterNumbers.dll

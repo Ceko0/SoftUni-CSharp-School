@@ -1,0 +1,15 @@
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\Exams\AdvancedRegularExam-17February2024\02.ClearSkies\bin\Debug\net6.0\02.ClearSkies.exe
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\Exams\AdvancedRegularExam-17February2024\02.ClearSkies\bin\Debug\net6.0\02.ClearSkies.deps.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\Exams\AdvancedRegularExam-17February2024\02.ClearSkies\bin\Debug\net6.0\02.ClearSkies.runtimeconfig.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\Exams\AdvancedRegularExam-17February2024\02.ClearSkies\bin\Debug\net6.0\02.ClearSkies.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\Exams\AdvancedRegularExam-17February2024\02.ClearSkies\bin\Debug\net6.0\02.ClearSkies.pdb
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\Exams\AdvancedRegularExam-17February2024\02.ClearSkies\obj\Debug\net6.0\02.ClearSkies.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\Exams\AdvancedRegularExam-17February2024\02.ClearSkies\obj\Debug\net6.0\02.ClearSkies.AssemblyInfoInputs.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\Exams\AdvancedRegularExam-17February2024\02.ClearSkies\obj\Debug\net6.0\02.ClearSkies.AssemblyInfo.cs
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\Exams\AdvancedRegularExam-17February2024\02.ClearSkies\obj\Debug\net6.0\02.ClearSkies.csproj.CoreCompileInputs.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\Exams\AdvancedRegularExam-17February2024\02.ClearSkies\obj\Debug\net6.0\02.ClearSkies.sourcelink.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\Exams\AdvancedRegularExam-17February2024\02.ClearSkies\obj\Debug\net6.0\02.ClearSkies.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\Exams\AdvancedRegularExam-17February2024\02.ClearSkies\obj\Debug\net6.0\refint\02.ClearSkies.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\Exams\AdvancedRegularExam-17February2024\02.ClearSkies\obj\Debug\net6.0\02.ClearSkies.pdb
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\Exams\AdvancedRegularExam-17February2024\02.ClearSkies\obj\Debug\net6.0\02.ClearSkies.genruntimeconfig.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\Exams\AdvancedRegularExam-17February2024\02.ClearSkies\obj\Debug\net6.0\ref\02.ClearSkies.dll

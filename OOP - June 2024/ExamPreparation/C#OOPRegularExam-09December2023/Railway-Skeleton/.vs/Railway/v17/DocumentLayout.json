@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\OOP - June 2024\\ExamPreparation\\C#OOPRegularExam-09December2023\\Railway-Skeleton\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CB6A4B8D-6517-4218-9B5E-7A2905024052}|Railway.Tests\\Railway.Tests.csproj|d:\\programsscool\\git hub\\softuni-csharp\\oop - june 2024\\exampreparation\\c#oopregularexam-09december2023\\railway-skeleton\\railway.tests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB6A4B8D-6517-4218-9B5E-7A2905024052}|Railway.Tests\\Railway.Tests.csproj|solutionrelative:railway.tests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9BFC384-C3D5-4CE3-90DB-062D572AACAD}|Railway\\Railway.csproj|d:\\programsscool\\git hub\\softuni-csharp\\oop - june 2024\\exampreparation\\c#oopregularexam-09december2023\\railway-skeleton\\railway\\railwaystation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9BFC384-C3D5-4CE3-90DB-062D572AACAD}|Railway\\Railway.csproj|solutionrelative:railway\\railwaystation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RailwayStation.cs",
+              "DocumentMoniker": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\OOP - June 2024\\ExamPreparation\\C#OOPRegularExam-09December2023\\Railway-Skeleton\\Railway\\RailwayStation.cs",
+              "RelativeDocumentMoniker": "Railway\\RailwayStation.cs",
+              "ToolTip": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\OOP - June 2024\\ExamPreparation\\C#OOPRegularExam-09December2023\\Railway-Skeleton\\Railway\\RailwayStation.cs",
+              "RelativeToolTip": "Railway\\RailwayStation.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAwwDcAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-04T06:38:44.439Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\OOP - June 2024\\ExamPreparation\\C#OOPRegularExam-09December2023\\Railway-Skeleton\\Railway.Tests\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "Railway.Tests\\UnitTest1.cs",
+              "ToolTip": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\OOP - June 2024\\ExamPreparation\\C#OOPRegularExam-09December2023\\Railway-Skeleton\\Railway.Tests\\UnitTest1.cs",
+              "RelativeToolTip": "Railway.Tests\\UnitTest1.cs",
+              "ViewState": "AQIAADAAAAAAAAAAAAArwEYAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-04T06:37:17.663Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

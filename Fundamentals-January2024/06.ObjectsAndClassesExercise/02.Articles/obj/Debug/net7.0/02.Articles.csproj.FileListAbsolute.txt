@@ -1,0 +1,15 @@
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\06.ObjectsAndClassesExercise\02.Articles\bin\Debug\net7.0\02.Articles.exe
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\06.ObjectsAndClassesExercise\02.Articles\bin\Debug\net7.0\02.Articles.deps.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\06.ObjectsAndClassesExercise\02.Articles\bin\Debug\net7.0\02.Articles.runtimeconfig.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\06.ObjectsAndClassesExercise\02.Articles\bin\Debug\net7.0\02.Articles.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\06.ObjectsAndClassesExercise\02.Articles\bin\Debug\net7.0\02.Articles.pdb
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\06.ObjectsAndClassesExercise\02.Articles\obj\Debug\net7.0\02.Articles.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\06.ObjectsAndClassesExercise\02.Articles\obj\Debug\net7.0\02.Articles.AssemblyInfoInputs.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\06.ObjectsAndClassesExercise\02.Articles\obj\Debug\net7.0\02.Articles.AssemblyInfo.cs
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\06.ObjectsAndClassesExercise\02.Articles\obj\Debug\net7.0\02.Articles.csproj.CoreCompileInputs.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\06.ObjectsAndClassesExercise\02.Articles\obj\Debug\net7.0\02.Articles.sourcelink.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\06.ObjectsAndClassesExercise\02.Articles\obj\Debug\net7.0\02.Articles.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\06.ObjectsAndClassesExercise\02.Articles\obj\Debug\net7.0\refint\02.Articles.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\06.ObjectsAndClassesExercise\02.Articles\obj\Debug\net7.0\02.Articles.pdb
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\06.ObjectsAndClassesExercise\02.Articles\obj\Debug\net7.0\02.Articles.genruntimeconfig.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\06.ObjectsAndClassesExercise\02.Articles\obj\Debug\net7.0\ref\02.Articles.dll

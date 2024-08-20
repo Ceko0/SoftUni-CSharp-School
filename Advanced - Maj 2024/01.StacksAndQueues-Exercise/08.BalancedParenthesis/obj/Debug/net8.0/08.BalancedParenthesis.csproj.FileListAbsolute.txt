@@ -1,0 +1,15 @@
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\01.StacksAndQueues-Exercise\08.BalancedParenthesis\bin\Debug\net8.0\08.BalancedParenthesis.exe
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\01.StacksAndQueues-Exercise\08.BalancedParenthesis\bin\Debug\net8.0\08.BalancedParenthesis.deps.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\01.StacksAndQueues-Exercise\08.BalancedParenthesis\bin\Debug\net8.0\08.BalancedParenthesis.runtimeconfig.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\01.StacksAndQueues-Exercise\08.BalancedParenthesis\bin\Debug\net8.0\08.BalancedParenthesis.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\01.StacksAndQueues-Exercise\08.BalancedParenthesis\bin\Debug\net8.0\08.BalancedParenthesis.pdb
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\01.StacksAndQueues-Exercise\08.BalancedParenthesis\obj\Debug\net8.0\08.BalancedParenthesis.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\01.StacksAndQueues-Exercise\08.BalancedParenthesis\obj\Debug\net8.0\08.BalancedParenthesis.AssemblyInfoInputs.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\01.StacksAndQueues-Exercise\08.BalancedParenthesis\obj\Debug\net8.0\08.BalancedParenthesis.AssemblyInfo.cs
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\01.StacksAndQueues-Exercise\08.BalancedParenthesis\obj\Debug\net8.0\08.BalancedParenthesis.csproj.CoreCompileInputs.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\01.StacksAndQueues-Exercise\08.BalancedParenthesis\obj\Debug\net8.0\08.BalancedParenthesis.sourcelink.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\01.StacksAndQueues-Exercise\08.BalancedParenthesis\obj\Debug\net8.0\08.BalancedParenthesis.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\01.StacksAndQueues-Exercise\08.BalancedParenthesis\obj\Debug\net8.0\refint\08.BalancedParenthesis.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\01.StacksAndQueues-Exercise\08.BalancedParenthesis\obj\Debug\net8.0\08.BalancedParenthesis.pdb
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\01.StacksAndQueues-Exercise\08.BalancedParenthesis\obj\Debug\net8.0\08.BalancedParenthesis.genruntimeconfig.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\01.StacksAndQueues-Exercise\08.BalancedParenthesis\obj\Debug\net8.0\ref\08.BalancedParenthesis.dll

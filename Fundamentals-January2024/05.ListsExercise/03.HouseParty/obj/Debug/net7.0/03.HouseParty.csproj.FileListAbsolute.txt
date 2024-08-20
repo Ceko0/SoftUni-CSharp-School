@@ -1,0 +1,15 @@
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\05.ListsExercise\03.HouseParty\bin\Debug\net7.0\03.HouseParty.exe
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\05.ListsExercise\03.HouseParty\bin\Debug\net7.0\03.HouseParty.deps.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\05.ListsExercise\03.HouseParty\bin\Debug\net7.0\03.HouseParty.runtimeconfig.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\05.ListsExercise\03.HouseParty\bin\Debug\net7.0\03.HouseParty.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\05.ListsExercise\03.HouseParty\bin\Debug\net7.0\03.HouseParty.pdb
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\05.ListsExercise\03.HouseParty\obj\Debug\net7.0\03.HouseParty.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\05.ListsExercise\03.HouseParty\obj\Debug\net7.0\03.HouseParty.AssemblyInfoInputs.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\05.ListsExercise\03.HouseParty\obj\Debug\net7.0\03.HouseParty.AssemblyInfo.cs
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\05.ListsExercise\03.HouseParty\obj\Debug\net7.0\03.HouseParty.csproj.CoreCompileInputs.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\05.ListsExercise\03.HouseParty\obj\Debug\net7.0\03.HouseParty.sourcelink.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\05.ListsExercise\03.HouseParty\obj\Debug\net7.0\03.HouseParty.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\05.ListsExercise\03.HouseParty\obj\Debug\net7.0\refint\03.HouseParty.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\05.ListsExercise\03.HouseParty\obj\Debug\net7.0\03.HouseParty.pdb
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\05.ListsExercise\03.HouseParty\obj\Debug\net7.0\03.HouseParty.genruntimeconfig.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\05.ListsExercise\03.HouseParty\obj\Debug\net7.0\ref\03.HouseParty.dll

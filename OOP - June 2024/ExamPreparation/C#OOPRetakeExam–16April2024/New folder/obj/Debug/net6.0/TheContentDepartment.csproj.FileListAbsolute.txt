@@ -1,0 +1,15 @@
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\OOP - June 2024\ExamPreparation\C#OOPRetakeExam–16April2024\New folder\bin\Debug\net6.0\TheContentDepartment.exe
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\OOP - June 2024\ExamPreparation\C#OOPRetakeExam–16April2024\New folder\bin\Debug\net6.0\TheContentDepartment.deps.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\OOP - June 2024\ExamPreparation\C#OOPRetakeExam–16April2024\New folder\bin\Debug\net6.0\TheContentDepartment.runtimeconfig.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\OOP - June 2024\ExamPreparation\C#OOPRetakeExam–16April2024\New folder\bin\Debug\net6.0\TheContentDepartment.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\OOP - June 2024\ExamPreparation\C#OOPRetakeExam–16April2024\New folder\bin\Debug\net6.0\TheContentDepartment.pdb
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\OOP - June 2024\ExamPreparation\C#OOPRetakeExam–16April2024\New folder\obj\Debug\net6.0\TheContentDepartment.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\OOP - June 2024\ExamPreparation\C#OOPRetakeExam–16April2024\New folder\obj\Debug\net6.0\TheContentDepartment.AssemblyInfoInputs.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\OOP - June 2024\ExamPreparation\C#OOPRetakeExam–16April2024\New folder\obj\Debug\net6.0\TheContentDepartment.AssemblyInfo.cs
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\OOP - June 2024\ExamPreparation\C#OOPRetakeExam–16April2024\New folder\obj\Debug\net6.0\TheContentDepartment.csproj.CoreCompileInputs.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\OOP - June 2024\ExamPreparation\C#OOPRetakeExam–16April2024\New folder\obj\Debug\net6.0\TheContentDepartment.sourcelink.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\OOP - June 2024\ExamPreparation\C#OOPRetakeExam–16April2024\New folder\obj\Debug\net6.0\TheContentDepartment.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\OOP - June 2024\ExamPreparation\C#OOPRetakeExam–16April2024\New folder\obj\Debug\net6.0\refint\TheContentDepartment.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\OOP - June 2024\ExamPreparation\C#OOPRetakeExam–16April2024\New folder\obj\Debug\net6.0\TheContentDepartment.pdb
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\OOP - June 2024\ExamPreparation\C#OOPRetakeExam–16April2024\New folder\obj\Debug\net6.0\TheContentDepartment.genruntimeconfig.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\OOP - June 2024\ExamPreparation\C#OOPRetakeExam–16April2024\New folder\obj\Debug\net6.0\ref\TheContentDepartment.dll

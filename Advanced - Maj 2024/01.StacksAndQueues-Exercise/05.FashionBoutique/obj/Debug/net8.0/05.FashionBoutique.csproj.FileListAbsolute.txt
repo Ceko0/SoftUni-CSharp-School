@@ -1,0 +1,15 @@
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\01.StacksAndQueues-Exercise\05.FashionBoutique\bin\Debug\net8.0\05.FashionBoutique.exe
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\01.StacksAndQueues-Exercise\05.FashionBoutique\bin\Debug\net8.0\05.FashionBoutique.deps.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\01.StacksAndQueues-Exercise\05.FashionBoutique\bin\Debug\net8.0\05.FashionBoutique.runtimeconfig.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\01.StacksAndQueues-Exercise\05.FashionBoutique\bin\Debug\net8.0\05.FashionBoutique.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\01.StacksAndQueues-Exercise\05.FashionBoutique\bin\Debug\net8.0\05.FashionBoutique.pdb
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\01.StacksAndQueues-Exercise\05.FashionBoutique\obj\Debug\net8.0\05.FashionBoutique.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\01.StacksAndQueues-Exercise\05.FashionBoutique\obj\Debug\net8.0\05.FashionBoutique.AssemblyInfoInputs.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\01.StacksAndQueues-Exercise\05.FashionBoutique\obj\Debug\net8.0\05.FashionBoutique.AssemblyInfo.cs
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\01.StacksAndQueues-Exercise\05.FashionBoutique\obj\Debug\net8.0\05.FashionBoutique.csproj.CoreCompileInputs.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\01.StacksAndQueues-Exercise\05.FashionBoutique\obj\Debug\net8.0\05.FashionBoutique.sourcelink.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\01.StacksAndQueues-Exercise\05.FashionBoutique\obj\Debug\net8.0\05.FashionBoutique.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\01.StacksAndQueues-Exercise\05.FashionBoutique\obj\Debug\net8.0\refint\05.FashionBoutique.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\01.StacksAndQueues-Exercise\05.FashionBoutique\obj\Debug\net8.0\05.FashionBoutique.pdb
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\01.StacksAndQueues-Exercise\05.FashionBoutique\obj\Debug\net8.0\05.FashionBoutique.genruntimeconfig.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\01.StacksAndQueues-Exercise\05.FashionBoutique\obj\Debug\net8.0\ref\05.FashionBoutique.dll

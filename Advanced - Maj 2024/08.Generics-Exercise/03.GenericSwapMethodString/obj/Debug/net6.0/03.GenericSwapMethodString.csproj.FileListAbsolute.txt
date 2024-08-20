@@ -1,0 +1,15 @@
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\08.Generics-Exercise\03.GenericSwapMethodString\bin\Debug\net6.0\03.GenericSwapMethodString.exe
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\08.Generics-Exercise\03.GenericSwapMethodString\bin\Debug\net6.0\03.GenericSwapMethodString.deps.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\08.Generics-Exercise\03.GenericSwapMethodString\bin\Debug\net6.0\03.GenericSwapMethodString.runtimeconfig.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\08.Generics-Exercise\03.GenericSwapMethodString\bin\Debug\net6.0\03.GenericSwapMethodString.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\08.Generics-Exercise\03.GenericSwapMethodString\bin\Debug\net6.0\03.GenericSwapMethodString.pdb
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\08.Generics-Exercise\03.GenericSwapMethodString\obj\Debug\net6.0\03.GenericSwapMethodString.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\08.Generics-Exercise\03.GenericSwapMethodString\obj\Debug\net6.0\03.GenericSwapMethodString.AssemblyInfoInputs.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\08.Generics-Exercise\03.GenericSwapMethodString\obj\Debug\net6.0\03.GenericSwapMethodString.AssemblyInfo.cs
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\08.Generics-Exercise\03.GenericSwapMethodString\obj\Debug\net6.0\03.GenericSwapMethodString.csproj.CoreCompileInputs.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\08.Generics-Exercise\03.GenericSwapMethodString\obj\Debug\net6.0\03.GenericSwapMethodString.sourcelink.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\08.Generics-Exercise\03.GenericSwapMethodString\obj\Debug\net6.0\03.GenericSwapMethodString.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\08.Generics-Exercise\03.GenericSwapMethodString\obj\Debug\net6.0\refint\03.GenericSwapMethodString.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\08.Generics-Exercise\03.GenericSwapMethodString\obj\Debug\net6.0\03.GenericSwapMethodString.pdb
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\08.Generics-Exercise\03.GenericSwapMethodString\obj\Debug\net6.0\03.GenericSwapMethodString.genruntimeconfig.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\08.Generics-Exercise\03.GenericSwapMethodString\obj\Debug\net6.0\ref\03.GenericSwapMethodString.dll

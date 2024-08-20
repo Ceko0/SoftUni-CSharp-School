@@ -1,0 +1,15 @@
+D:\ProgramsScool\PB-september.2023\06.ConditionalStatementsAdvanced-Exercise\03.NewHouse\bin\Debug\net6.0\03.NewHouse.exe
+D:\ProgramsScool\PB-september.2023\06.ConditionalStatementsAdvanced-Exercise\03.NewHouse\bin\Debug\net6.0\03.NewHouse.deps.json
+D:\ProgramsScool\PB-september.2023\06.ConditionalStatementsAdvanced-Exercise\03.NewHouse\bin\Debug\net6.0\03.NewHouse.runtimeconfig.json
+D:\ProgramsScool\PB-september.2023\06.ConditionalStatementsAdvanced-Exercise\03.NewHouse\bin\Debug\net6.0\03.NewHouse.dll
+D:\ProgramsScool\PB-september.2023\06.ConditionalStatementsAdvanced-Exercise\03.NewHouse\bin\Debug\net6.0\03.NewHouse.pdb
+D:\ProgramsScool\PB-september.2023\06.ConditionalStatementsAdvanced-Exercise\03.NewHouse\obj\Debug\net6.0\03.NewHouse.csproj.AssemblyReference.cache
+D:\ProgramsScool\PB-september.2023\06.ConditionalStatementsAdvanced-Exercise\03.NewHouse\obj\Debug\net6.0\03.NewHouse.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProgramsScool\PB-september.2023\06.ConditionalStatementsAdvanced-Exercise\03.NewHouse\obj\Debug\net6.0\03.NewHouse.AssemblyInfoInputs.cache
+D:\ProgramsScool\PB-september.2023\06.ConditionalStatementsAdvanced-Exercise\03.NewHouse\obj\Debug\net6.0\03.NewHouse.AssemblyInfo.cs
+D:\ProgramsScool\PB-september.2023\06.ConditionalStatementsAdvanced-Exercise\03.NewHouse\obj\Debug\net6.0\03.NewHouse.csproj.CoreCompileInputs.cache
+D:\ProgramsScool\PB-september.2023\06.ConditionalStatementsAdvanced-Exercise\03.NewHouse\obj\Debug\net6.0\03.NewHouse.dll
+D:\ProgramsScool\PB-september.2023\06.ConditionalStatementsAdvanced-Exercise\03.NewHouse\obj\Debug\net6.0\refint\03.NewHouse.dll
+D:\ProgramsScool\PB-september.2023\06.ConditionalStatementsAdvanced-Exercise\03.NewHouse\obj\Debug\net6.0\03.NewHouse.pdb
+D:\ProgramsScool\PB-september.2023\06.ConditionalStatementsAdvanced-Exercise\03.NewHouse\obj\Debug\net6.0\03.NewHouse.genruntimeconfig.cache
+D:\ProgramsScool\PB-september.2023\06.ConditionalStatementsAdvanced-Exercise\03.NewHouse\obj\Debug\net6.0\ref\03.NewHouse.dll

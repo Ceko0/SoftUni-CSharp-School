@@ -1,0 +1,14 @@
+D:\ProgramsScool\Git Hub\SoftUni-school\CSharp-Fundamentals - January 2024\02DataTypesАndVariables-Lab\10.LowerOrUpper\bin\Debug\net6.0\10.LowerOrUpper.exe
+D:\ProgramsScool\Git Hub\SoftUni-school\CSharp-Fundamentals - January 2024\02DataTypesАndVariables-Lab\10.LowerOrUpper\bin\Debug\net6.0\10.LowerOrUpper.deps.json
+D:\ProgramsScool\Git Hub\SoftUni-school\CSharp-Fundamentals - January 2024\02DataTypesАndVariables-Lab\10.LowerOrUpper\bin\Debug\net6.0\10.LowerOrUpper.runtimeconfig.json
+D:\ProgramsScool\Git Hub\SoftUni-school\CSharp-Fundamentals - January 2024\02DataTypesАndVariables-Lab\10.LowerOrUpper\bin\Debug\net6.0\10.LowerOrUpper.dll
+D:\ProgramsScool\Git Hub\SoftUni-school\CSharp-Fundamentals - January 2024\02DataTypesАndVariables-Lab\10.LowerOrUpper\bin\Debug\net6.0\10.LowerOrUpper.pdb
+D:\ProgramsScool\Git Hub\SoftUni-school\CSharp-Fundamentals - January 2024\02DataTypesАndVariables-Lab\10.LowerOrUpper\obj\Debug\net6.0\10.LowerOrUpper.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProgramsScool\Git Hub\SoftUni-school\CSharp-Fundamentals - January 2024\02DataTypesАndVariables-Lab\10.LowerOrUpper\obj\Debug\net6.0\10.LowerOrUpper.AssemblyInfoInputs.cache
+D:\ProgramsScool\Git Hub\SoftUni-school\CSharp-Fundamentals - January 2024\02DataTypesАndVariables-Lab\10.LowerOrUpper\obj\Debug\net6.0\10.LowerOrUpper.AssemblyInfo.cs
+D:\ProgramsScool\Git Hub\SoftUni-school\CSharp-Fundamentals - January 2024\02DataTypesАndVariables-Lab\10.LowerOrUpper\obj\Debug\net6.0\10.LowerOrUpper.csproj.CoreCompileInputs.cache
+D:\ProgramsScool\Git Hub\SoftUni-school\CSharp-Fundamentals - January 2024\02DataTypesАndVariables-Lab\10.LowerOrUpper\obj\Debug\net6.0\10.LowerOrUpper.dll
+D:\ProgramsScool\Git Hub\SoftUni-school\CSharp-Fundamentals - January 2024\02DataTypesАndVariables-Lab\10.LowerOrUpper\obj\Debug\net6.0\refint\10.LowerOrUpper.dll
+D:\ProgramsScool\Git Hub\SoftUni-school\CSharp-Fundamentals - January 2024\02DataTypesАndVariables-Lab\10.LowerOrUpper\obj\Debug\net6.0\10.LowerOrUpper.pdb
+D:\ProgramsScool\Git Hub\SoftUni-school\CSharp-Fundamentals - January 2024\02DataTypesАndVariables-Lab\10.LowerOrUpper\obj\Debug\net6.0\10.LowerOrUpper.genruntimeconfig.cache
+D:\ProgramsScool\Git Hub\SoftUni-school\CSharp-Fundamentals - January 2024\02DataTypesАndVariables-Lab\10.LowerOrUpper\obj\Debug\net6.0\ref\10.LowerOrUpper.dll

@@ -1,0 +1,15 @@
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\02.DataTypesAndVariables-MoreExercise\06.BalancedBrackets\bin\Debug\net6.0\06.BalancedBrackets.exe
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\02.DataTypesAndVariables-MoreExercise\06.BalancedBrackets\bin\Debug\net6.0\06.BalancedBrackets.deps.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\02.DataTypesAndVariables-MoreExercise\06.BalancedBrackets\bin\Debug\net6.0\06.BalancedBrackets.runtimeconfig.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\02.DataTypesAndVariables-MoreExercise\06.BalancedBrackets\bin\Debug\net6.0\06.BalancedBrackets.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\02.DataTypesAndVariables-MoreExercise\06.BalancedBrackets\bin\Debug\net6.0\06.BalancedBrackets.pdb
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\02.DataTypesAndVariables-MoreExercise\06.BalancedBrackets\obj\Debug\net6.0\06.BalancedBrackets.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\02.DataTypesAndVariables-MoreExercise\06.BalancedBrackets\obj\Debug\net6.0\06.BalancedBrackets.AssemblyInfoInputs.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\02.DataTypesAndVariables-MoreExercise\06.BalancedBrackets\obj\Debug\net6.0\06.BalancedBrackets.AssemblyInfo.cs
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\02.DataTypesAndVariables-MoreExercise\06.BalancedBrackets\obj\Debug\net6.0\06.BalancedBrackets.csproj.CoreCompileInputs.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\02.DataTypesAndVariables-MoreExercise\06.BalancedBrackets\obj\Debug\net6.0\06.BalancedBrackets.sourcelink.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\02.DataTypesAndVariables-MoreExercise\06.BalancedBrackets\obj\Debug\net6.0\06.BalancedBrackets.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\02.DataTypesAndVariables-MoreExercise\06.BalancedBrackets\obj\Debug\net6.0\refint\06.BalancedBrackets.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\02.DataTypesAndVariables-MoreExercise\06.BalancedBrackets\obj\Debug\net6.0\06.BalancedBrackets.pdb
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\02.DataTypesAndVariables-MoreExercise\06.BalancedBrackets\obj\Debug\net6.0\06.BalancedBrackets.genruntimeconfig.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\02.DataTypesAndVariables-MoreExercise\06.BalancedBrackets\obj\Debug\net6.0\ref\06.BalancedBrackets.dll

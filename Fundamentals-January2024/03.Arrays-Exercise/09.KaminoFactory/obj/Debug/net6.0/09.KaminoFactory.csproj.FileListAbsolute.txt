@@ -1,0 +1,15 @@
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\03.Arrays-Exercise\09.KaminoFactory\bin\Debug\net6.0\09.KaminoFactory.exe
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\03.Arrays-Exercise\09.KaminoFactory\bin\Debug\net6.0\09.KaminoFactory.deps.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\03.Arrays-Exercise\09.KaminoFactory\bin\Debug\net6.0\09.KaminoFactory.runtimeconfig.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\03.Arrays-Exercise\09.KaminoFactory\bin\Debug\net6.0\09.KaminoFactory.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\03.Arrays-Exercise\09.KaminoFactory\bin\Debug\net6.0\09.KaminoFactory.pdb
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\03.Arrays-Exercise\09.KaminoFactory\obj\Debug\net6.0\09.KaminoFactory.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\03.Arrays-Exercise\09.KaminoFactory\obj\Debug\net6.0\09.KaminoFactory.AssemblyInfoInputs.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\03.Arrays-Exercise\09.KaminoFactory\obj\Debug\net6.0\09.KaminoFactory.AssemblyInfo.cs
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\03.Arrays-Exercise\09.KaminoFactory\obj\Debug\net6.0\09.KaminoFactory.csproj.CoreCompileInputs.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\03.Arrays-Exercise\09.KaminoFactory\obj\Debug\net6.0\09.KaminoFactory.sourcelink.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\03.Arrays-Exercise\09.KaminoFactory\obj\Debug\net6.0\09.KaminoFactory.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\03.Arrays-Exercise\09.KaminoFactory\obj\Debug\net6.0\refint\09.KaminoFactory.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\03.Arrays-Exercise\09.KaminoFactory\obj\Debug\net6.0\09.KaminoFactory.pdb
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\03.Arrays-Exercise\09.KaminoFactory\obj\Debug\net6.0\09.KaminoFactory.genruntimeconfig.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\03.Arrays-Exercise\09.KaminoFactory\obj\Debug\net6.0\ref\09.KaminoFactory.dll

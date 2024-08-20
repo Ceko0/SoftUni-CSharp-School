@@ -1,0 +1,15 @@
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\03.Arrays-MoreExercise\05.LongestIncreasingSubsequence\bin\Debug\net6.0\05.LongestIncreasingSubsequence.exe
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\03.Arrays-MoreExercise\05.LongestIncreasingSubsequence\bin\Debug\net6.0\05.LongestIncreasingSubsequence.deps.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\03.Arrays-MoreExercise\05.LongestIncreasingSubsequence\bin\Debug\net6.0\05.LongestIncreasingSubsequence.runtimeconfig.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\03.Arrays-MoreExercise\05.LongestIncreasingSubsequence\bin\Debug\net6.0\05.LongestIncreasingSubsequence.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\03.Arrays-MoreExercise\05.LongestIncreasingSubsequence\bin\Debug\net6.0\05.LongestIncreasingSubsequence.pdb
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\03.Arrays-MoreExercise\05.LongestIncreasingSubsequence\obj\Debug\net6.0\05.LongestIncreasingSubsequence.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\03.Arrays-MoreExercise\05.LongestIncreasingSubsequence\obj\Debug\net6.0\05.LongestIncreasingSubsequence.AssemblyInfoInputs.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\03.Arrays-MoreExercise\05.LongestIncreasingSubsequence\obj\Debug\net6.0\05.LongestIncreasingSubsequence.AssemblyInfo.cs
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\03.Arrays-MoreExercise\05.LongestIncreasingSubsequence\obj\Debug\net6.0\05.LongestIncreasingSubsequence.csproj.CoreCompileInputs.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\03.Arrays-MoreExercise\05.LongestIncreasingSubsequence\obj\Debug\net6.0\05.LongestIncreasingSubsequence.sourcelink.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\03.Arrays-MoreExercise\05.LongestIncreasingSubsequence\obj\Debug\net6.0\05.LongestIncreasingSubsequence.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\03.Arrays-MoreExercise\05.LongestIncreasingSubsequence\obj\Debug\net6.0\refint\05.LongestIncreasingSubsequence.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\03.Arrays-MoreExercise\05.LongestIncreasingSubsequence\obj\Debug\net6.0\05.LongestIncreasingSubsequence.pdb
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\03.Arrays-MoreExercise\05.LongestIncreasingSubsequence\obj\Debug\net6.0\05.LongestIncreasingSubsequence.genruntimeconfig.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\03.Arrays-MoreExercise\05.LongestIncreasingSubsequence\obj\Debug\net6.0\ref\05.LongestIncreasingSubsequence.dll

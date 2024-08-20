@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\Advanced - Maj 2024\\Exams\\AdvancedRetakeExam-10April2024\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F64A1A44-ADA7-4FB1-AE95-BC5D4D24D79D}|02.EscapeTheMaze\\02.EscapeTheMaze.csproj|d:\\programsscool\\git hub\\softuni-csharp\\advanced - maj 2024\\exams\\advancedretakeexam-10april2024\\02.escapethemaze\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F64A1A44-ADA7-4FB1-AE95-BC5D4D24D79D}|02.EscapeTheMaze\\02.EscapeTheMaze.csproj|solutionrelative:02.escapethemaze\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B05DCD39-82AA-480B-A982-AF5A5315FFE7}|01.PiePursuit\\01.PiePursuit.csproj|d:\\programsscool\\git hub\\softuni-csharp\\advanced - maj 2024\\exams\\advancedretakeexam-10april2024\\01.piepursuit\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B05DCD39-82AA-480B-A982-AF5A5315FFE7}|01.PiePursuit\\01.PiePursuit.csproj|solutionrelative:01.piepursuit\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\Advanced - Maj 2024\\Exams\\AdvancedRetakeExam-10April2024\\02.EscapeTheMaze\\Program.cs",
+              "RelativeDocumentMoniker": "02.EscapeTheMaze\\Program.cs",
+              "ToolTip": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\Advanced - Maj 2024\\Exams\\AdvancedRetakeExam-10April2024\\02.EscapeTheMaze\\Program.cs",
+              "RelativeToolTip": "02.EscapeTheMaze\\Program.cs",
+              "ViewState": "AQIAAEoAAAAAAAAAAAAkwF0AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T13:26:19.294Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\Advanced - Maj 2024\\Exams\\AdvancedRetakeExam-10April2024\\01.PiePursuit\\Program.cs",
+              "RelativeDocumentMoniker": "01.PiePursuit\\Program.cs",
+              "ToolTip": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\Advanced - Maj 2024\\Exams\\AdvancedRetakeExam-10April2024\\01.PiePursuit\\Program.cs",
+              "RelativeToolTip": "01.PiePursuit\\Program.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAgwBQAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T13:03:18.909Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

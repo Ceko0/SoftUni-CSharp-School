@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\Advanced - Maj 2024\\01.StacksAndQueues-Lab\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C8C8FADD-5F35-4174-B4EC-F773DCB565C6}|8.TrafficJam\\8.TrafficJam.csproj|d:\\programsscool\\git hub\\softuni-csharp\\advanced - maj 2024\\01.stacksandqueues-lab\\8.trafficjam\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8C8FADD-5F35-4174-B4EC-F773DCB565C6}|8.TrafficJam\\8.TrafficJam.csproj|solutionrelative:8.trafficjam\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F276BB6A-03D2-4CDE-A572-CF632FECFA9E}|7.HotPotato\\7.HotPotato.csproj|d:\\programsscool\\git hub\\softuni-csharp\\advanced - maj 2024\\01.stacksandqueues-lab\\7.hotpotato\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F276BB6A-03D2-4CDE-A572-CF632FECFA9E}|7.HotPotato\\7.HotPotato.csproj|solutionrelative:7.hotpotato\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2829FB4A-41F3-4C31-B7CF-C7DA0F2E35E2}|6.Supermarket\\6.Supermarket.csproj|d:\\programsscool\\git hub\\softuni-csharp\\advanced - maj 2024\\01.stacksandqueues-lab\\6.supermarket\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2829FB4A-41F3-4C31-B7CF-C7DA0F2E35E2}|6.Supermarket\\6.Supermarket.csproj|solutionrelative:6.supermarket\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{533B45B6-B322-40A9-B46B-A75818E533C0}|5.PrintEvenNumbers\\5.PrintEvenNumbers.csproj|d:\\programsscool\\git hub\\softuni-csharp\\advanced - maj 2024\\01.stacksandqueues-lab\\5.printevennumbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{533B45B6-B322-40A9-B46B-A75818E533C0}|5.PrintEvenNumbers\\5.PrintEvenNumbers.csproj|solutionrelative:5.printevennumbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F5833BF-2E63-4661-827A-87F6264E38A0}|4.MatchingBrackets\\4.MatchingBrackets.csproj|d:\\programsscool\\git hub\\softuni-csharp\\advanced - maj 2024\\01.stacksandqueues-lab\\4.matchingbrackets\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F5833BF-2E63-4661-827A-87F6264E38A0}|4.MatchingBrackets\\4.MatchingBrackets.csproj|solutionrelative:4.matchingbrackets\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AEEB321-410E-4781-9B01-79F194AA30A2}|3.SimpleCalculator\\3.SimpleCalculator.csproj|d:\\programsscool\\git hub\\softuni-csharp\\advanced - maj 2024\\01.stacksandqueues-lab\\3.simplecalculator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9AEEB321-410E-4781-9B01-79F194AA30A2}|3.SimpleCalculator\\3.SimpleCalculator.csproj|solutionrelative:3.simplecalculator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AEEB321-410E-4781-9B01-79F194AA30A2}|3.SimpleCalculator\\3.SimpleCalculator.csproj|d:\\programsscool\\git hub\\softuni-csharp\\advanced - maj 2024\\01.stacksandqueues-lab\\3.simplecalculator\\3.simplecalculator.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{9AEEB321-410E-4781-9B01-79F194AA30A2}|3.SimpleCalculator\\3.SimpleCalculator.csproj|solutionrelative:3.simplecalculator\\3.simplecalculator.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3877996E-4EC7-40D3-8730-721E58A388EE}|2.StackSum\\2.StackSum.csproj|d:\\programsscool\\git hub\\softuni-csharp\\advanced - maj 2024\\01.stacksandqueues-lab\\2.stacksum\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3877996E-4EC7-40D3-8730-721E58A388EE}|2.StackSum\\2.StackSum.csproj|solutionrelative:2.stacksum\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\Advanced - Maj 2024\\01.StacksAndQueues-Lab\\8.TrafficJam\\Program.cs",
+              "RelativeDocumentMoniker": "8.TrafficJam\\Program.cs",
+              "ToolTip": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\Advanced - Maj 2024\\01.StacksAndQueues-Lab\\8.TrafficJam\\Program.cs",
+              "RelativeToolTip": "8.TrafficJam\\Program.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAiwCQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T13:58:39.259Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\Advanced - Maj 2024\\01.StacksAndQueues-Lab\\7.HotPotato\\Program.cs",
+              "RelativeDocumentMoniker": "7.HotPotato\\Program.cs",
+              "ToolTip": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\Advanced - Maj 2024\\01.StacksAndQueues-Lab\\7.HotPotato\\Program.cs",
+              "RelativeToolTip": "7.HotPotato\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T13:50:25.109Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\Advanced - Maj 2024\\01.StacksAndQueues-Lab\\6.Supermarket\\Program.cs",
+              "RelativeDocumentMoniker": "6.Supermarket\\Program.cs",
+              "ToolTip": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\Advanced - Maj 2024\\01.StacksAndQueues-Lab\\6.Supermarket\\Program.cs",
+              "RelativeToolTip": "6.Supermarket\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T13:40:34.024Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\Advanced - Maj 2024\\01.StacksAndQueues-Lab\\5.PrintEvenNumbers\\Program.cs",
+              "RelativeDocumentMoniker": "5.PrintEvenNumbers\\Program.cs",
+              "ToolTip": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\Advanced - Maj 2024\\01.StacksAndQueues-Lab\\5.PrintEvenNumbers\\Program.cs",
+              "RelativeToolTip": "5.PrintEvenNumbers\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T13:33:43.325Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\Advanced - Maj 2024\\01.StacksAndQueues-Lab\\4.MatchingBrackets\\Program.cs",
+              "RelativeDocumentMoniker": "4.MatchingBrackets\\Program.cs",
+              "ToolTip": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\Advanced - Maj 2024\\01.StacksAndQueues-Lab\\4.MatchingBrackets\\Program.cs",
+              "RelativeToolTip": "4.MatchingBrackets\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T13:21:40.091Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "3.SimpleCalculator",
+              "DocumentMoniker": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\Advanced - Maj 2024\\01.StacksAndQueues-Lab\\3.SimpleCalculator\\3.SimpleCalculator.csproj",
+              "RelativeDocumentMoniker": "3.SimpleCalculator\\3.SimpleCalculator.csproj",
+              "ToolTip": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\Advanced - Maj 2024\\01.StacksAndQueues-Lab\\3.SimpleCalculator\\3.SimpleCalculator.csproj",
+              "RelativeToolTip": "3.SimpleCalculator\\3.SimpleCalculator.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-15T12:52:20.994Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\Advanced - Maj 2024\\01.StacksAndQueues-Lab\\3.SimpleCalculator\\Program.cs",
+              "RelativeDocumentMoniker": "3.SimpleCalculator\\Program.cs",
+              "ToolTip": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\Advanced - Maj 2024\\01.StacksAndQueues-Lab\\3.SimpleCalculator\\Program.cs",
+              "RelativeToolTip": "3.SimpleCalculator\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T12:51:22.302Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\Advanced - Maj 2024\\01.StacksAndQueues-Lab\\2.StackSum\\Program.cs",
+              "RelativeDocumentMoniker": "2.StackSum\\Program.cs",
+              "ToolTip": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\Advanced - Maj 2024\\01.StacksAndQueues-Lab\\2.StackSum\\Program.cs",
+              "RelativeToolTip": "2.StackSum\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACMAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T11:48:02.354Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

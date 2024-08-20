@@ -1,0 +1,15 @@
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\05.ListsMoreExercise\02.CarRace\bin\Debug\net7.0\02.CarRace.exe
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\05.ListsMoreExercise\02.CarRace\bin\Debug\net7.0\02.CarRace.deps.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\05.ListsMoreExercise\02.CarRace\bin\Debug\net7.0\02.CarRace.runtimeconfig.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\05.ListsMoreExercise\02.CarRace\bin\Debug\net7.0\02.CarRace.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\05.ListsMoreExercise\02.CarRace\bin\Debug\net7.0\02.CarRace.pdb
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\05.ListsMoreExercise\02.CarRace\obj\Debug\net7.0\02.CarRace.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\05.ListsMoreExercise\02.CarRace\obj\Debug\net7.0\02.CarRace.AssemblyInfoInputs.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\05.ListsMoreExercise\02.CarRace\obj\Debug\net7.0\02.CarRace.AssemblyInfo.cs
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\05.ListsMoreExercise\02.CarRace\obj\Debug\net7.0\02.CarRace.csproj.CoreCompileInputs.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\05.ListsMoreExercise\02.CarRace\obj\Debug\net7.0\02.CarRace.sourcelink.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\05.ListsMoreExercise\02.CarRace\obj\Debug\net7.0\02.CarRace.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\05.ListsMoreExercise\02.CarRace\obj\Debug\net7.0\refint\02.CarRace.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\05.ListsMoreExercise\02.CarRace\obj\Debug\net7.0\02.CarRace.pdb
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\05.ListsMoreExercise\02.CarRace\obj\Debug\net7.0\02.CarRace.genruntimeconfig.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\05.ListsMoreExercise\02.CarRace\obj\Debug\net7.0\ref\02.CarRace.dll

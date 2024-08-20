@@ -1,0 +1,15 @@
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\05.FunctionalProgramming-Lab\05.FilterByAge\bin\Debug\net8.0\05.FilterByAge.exe
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\05.FunctionalProgramming-Lab\05.FilterByAge\bin\Debug\net8.0\05.FilterByAge.deps.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\05.FunctionalProgramming-Lab\05.FilterByAge\bin\Debug\net8.0\05.FilterByAge.runtimeconfig.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\05.FunctionalProgramming-Lab\05.FilterByAge\bin\Debug\net8.0\05.FilterByAge.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\05.FunctionalProgramming-Lab\05.FilterByAge\bin\Debug\net8.0\05.FilterByAge.pdb
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\05.FunctionalProgramming-Lab\05.FilterByAge\obj\Debug\net8.0\05.FilterByAge.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\05.FunctionalProgramming-Lab\05.FilterByAge\obj\Debug\net8.0\05.FilterByAge.AssemblyInfoInputs.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\05.FunctionalProgramming-Lab\05.FilterByAge\obj\Debug\net8.0\05.FilterByAge.AssemblyInfo.cs
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\05.FunctionalProgramming-Lab\05.FilterByAge\obj\Debug\net8.0\05.FilterByAge.csproj.CoreCompileInputs.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\05.FunctionalProgramming-Lab\05.FilterByAge\obj\Debug\net8.0\05.FilterByAge.sourcelink.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\05.FunctionalProgramming-Lab\05.FilterByAge\obj\Debug\net8.0\05.FilterByAge.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\05.FunctionalProgramming-Lab\05.FilterByAge\obj\Debug\net8.0\refint\05.FilterByAge.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\05.FunctionalProgramming-Lab\05.FilterByAge\obj\Debug\net8.0\05.FilterByAge.pdb
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\05.FunctionalProgramming-Lab\05.FilterByAge\obj\Debug\net8.0\05.FilterByAge.genruntimeconfig.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\05.FunctionalProgramming-Lab\05.FilterByAge\obj\Debug\net8.0\ref\05.FilterByAge.dll

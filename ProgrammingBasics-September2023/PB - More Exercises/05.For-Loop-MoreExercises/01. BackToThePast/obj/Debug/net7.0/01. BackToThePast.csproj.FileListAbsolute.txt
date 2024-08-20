@@ -1,0 +1,14 @@
+D:\ProgramsScool\Fundamental C# 2024\05.For-Loop-MoreExercises\01. BackToThePast\bin\Debug\net7.0\01. BackToThePast.exe
+D:\ProgramsScool\Fundamental C# 2024\05.For-Loop-MoreExercises\01. BackToThePast\bin\Debug\net7.0\01. BackToThePast.deps.json
+D:\ProgramsScool\Fundamental C# 2024\05.For-Loop-MoreExercises\01. BackToThePast\bin\Debug\net7.0\01. BackToThePast.runtimeconfig.json
+D:\ProgramsScool\Fundamental C# 2024\05.For-Loop-MoreExercises\01. BackToThePast\bin\Debug\net7.0\01. BackToThePast.dll
+D:\ProgramsScool\Fundamental C# 2024\05.For-Loop-MoreExercises\01. BackToThePast\bin\Debug\net7.0\01. BackToThePast.pdb
+D:\ProgramsScool\Fundamental C# 2024\05.For-Loop-MoreExercises\01. BackToThePast\obj\Debug\net7.0\01. BackToThePast.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProgramsScool\Fundamental C# 2024\05.For-Loop-MoreExercises\01. BackToThePast\obj\Debug\net7.0\01. BackToThePast.AssemblyInfoInputs.cache
+D:\ProgramsScool\Fundamental C# 2024\05.For-Loop-MoreExercises\01. BackToThePast\obj\Debug\net7.0\01. BackToThePast.AssemblyInfo.cs
+D:\ProgramsScool\Fundamental C# 2024\05.For-Loop-MoreExercises\01. BackToThePast\obj\Debug\net7.0\01. BackToThePast.csproj.CoreCompileInputs.cache
+D:\ProgramsScool\Fundamental C# 2024\05.For-Loop-MoreExercises\01. BackToThePast\obj\Debug\net7.0\01. BackToThePast.dll
+D:\ProgramsScool\Fundamental C# 2024\05.For-Loop-MoreExercises\01. BackToThePast\obj\Debug\net7.0\refint\01. BackToThePast.dll
+D:\ProgramsScool\Fundamental C# 2024\05.For-Loop-MoreExercises\01. BackToThePast\obj\Debug\net7.0\01. BackToThePast.pdb
+D:\ProgramsScool\Fundamental C# 2024\05.For-Loop-MoreExercises\01. BackToThePast\obj\Debug\net7.0\01. BackToThePast.genruntimeconfig.cache
+D:\ProgramsScool\Fundamental C# 2024\05.For-Loop-MoreExercises\01. BackToThePast\obj\Debug\net7.0\ref\01. BackToThePast.dll

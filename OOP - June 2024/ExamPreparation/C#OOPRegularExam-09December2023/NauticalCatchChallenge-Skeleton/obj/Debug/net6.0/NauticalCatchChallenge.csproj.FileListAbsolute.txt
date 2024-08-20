@@ -1,0 +1,15 @@
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\OOP - June 2024\ExamPreparation\C#OOPRegularExam-09December2023\NauticalCatchChallenge-Skeleton\bin\Debug\net6.0\NauticalCatchChallenge.exe
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\OOP - June 2024\ExamPreparation\C#OOPRegularExam-09December2023\NauticalCatchChallenge-Skeleton\bin\Debug\net6.0\NauticalCatchChallenge.deps.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\OOP - June 2024\ExamPreparation\C#OOPRegularExam-09December2023\NauticalCatchChallenge-Skeleton\bin\Debug\net6.0\NauticalCatchChallenge.runtimeconfig.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\OOP - June 2024\ExamPreparation\C#OOPRegularExam-09December2023\NauticalCatchChallenge-Skeleton\bin\Debug\net6.0\NauticalCatchChallenge.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\OOP - June 2024\ExamPreparation\C#OOPRegularExam-09December2023\NauticalCatchChallenge-Skeleton\bin\Debug\net6.0\NauticalCatchChallenge.pdb
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\OOP - June 2024\ExamPreparation\C#OOPRegularExam-09December2023\NauticalCatchChallenge-Skeleton\obj\Debug\net6.0\NauticalCatchChallenge.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\OOP - June 2024\ExamPreparation\C#OOPRegularExam-09December2023\NauticalCatchChallenge-Skeleton\obj\Debug\net6.0\NauticalCatchChallenge.AssemblyInfoInputs.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\OOP - June 2024\ExamPreparation\C#OOPRegularExam-09December2023\NauticalCatchChallenge-Skeleton\obj\Debug\net6.0\NauticalCatchChallenge.AssemblyInfo.cs
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\OOP - June 2024\ExamPreparation\C#OOPRegularExam-09December2023\NauticalCatchChallenge-Skeleton\obj\Debug\net6.0\NauticalCatchChallenge.csproj.CoreCompileInputs.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\OOP - June 2024\ExamPreparation\C#OOPRegularExam-09December2023\NauticalCatchChallenge-Skeleton\obj\Debug\net6.0\NauticalCatchChallenge.sourcelink.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\OOP - June 2024\ExamPreparation\C#OOPRegularExam-09December2023\NauticalCatchChallenge-Skeleton\obj\Debug\net6.0\NauticalCatchChallenge.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\OOP - June 2024\ExamPreparation\C#OOPRegularExam-09December2023\NauticalCatchChallenge-Skeleton\obj\Debug\net6.0\refint\NauticalCatchChallenge.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\OOP - June 2024\ExamPreparation\C#OOPRegularExam-09December2023\NauticalCatchChallenge-Skeleton\obj\Debug\net6.0\NauticalCatchChallenge.pdb
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\OOP - June 2024\ExamPreparation\C#OOPRegularExam-09December2023\NauticalCatchChallenge-Skeleton\obj\Debug\net6.0\NauticalCatchChallenge.genruntimeconfig.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\OOP - June 2024\ExamPreparation\C#OOPRegularExam-09December2023\NauticalCatchChallenge-Skeleton\obj\Debug\net6.0\ref\NauticalCatchChallenge.dll

@@ -1,0 +1,15 @@
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\02.DataTypesAndVariables-Exercise\06.TriplesOfLatinLetters\bin\Debug\net6.0\06.TriplesOfLatinLetters.exe
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\02.DataTypesAndVariables-Exercise\06.TriplesOfLatinLetters\bin\Debug\net6.0\06.TriplesOfLatinLetters.deps.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\02.DataTypesAndVariables-Exercise\06.TriplesOfLatinLetters\bin\Debug\net6.0\06.TriplesOfLatinLetters.runtimeconfig.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\02.DataTypesAndVariables-Exercise\06.TriplesOfLatinLetters\bin\Debug\net6.0\06.TriplesOfLatinLetters.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\02.DataTypesAndVariables-Exercise\06.TriplesOfLatinLetters\bin\Debug\net6.0\06.TriplesOfLatinLetters.pdb
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\02.DataTypesAndVariables-Exercise\06.TriplesOfLatinLetters\obj\Debug\net6.0\06.TriplesOfLatinLetters.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\02.DataTypesAndVariables-Exercise\06.TriplesOfLatinLetters\obj\Debug\net6.0\06.TriplesOfLatinLetters.AssemblyInfoInputs.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\02.DataTypesAndVariables-Exercise\06.TriplesOfLatinLetters\obj\Debug\net6.0\06.TriplesOfLatinLetters.AssemblyInfo.cs
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\02.DataTypesAndVariables-Exercise\06.TriplesOfLatinLetters\obj\Debug\net6.0\06.TriplesOfLatinLetters.csproj.CoreCompileInputs.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\02.DataTypesAndVariables-Exercise\06.TriplesOfLatinLetters\obj\Debug\net6.0\06.TriplesOfLatinLetters.sourcelink.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\02.DataTypesAndVariables-Exercise\06.TriplesOfLatinLetters\obj\Debug\net6.0\06.TriplesOfLatinLetters.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\02.DataTypesAndVariables-Exercise\06.TriplesOfLatinLetters\obj\Debug\net6.0\refint\06.TriplesOfLatinLetters.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\02.DataTypesAndVariables-Exercise\06.TriplesOfLatinLetters\obj\Debug\net6.0\06.TriplesOfLatinLetters.pdb
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\02.DataTypesAndVariables-Exercise\06.TriplesOfLatinLetters\obj\Debug\net6.0\06.TriplesOfLatinLetters.genruntimeconfig.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\02.DataTypesAndVariables-Exercise\06.TriplesOfLatinLetters\obj\Debug\net6.0\ref\06.TriplesOfLatinLetters.dll

@@ -1,0 +1,15 @@
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\02.MultidimensionalArrays-Exercise\4.MatrixShuffling\obj\Debug\net8.0\4.MatrixShuffling.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\02.MultidimensionalArrays-Exercise\4.MatrixShuffling\obj\Debug\net8.0\4.MatrixShuffling.AssemblyInfoInputs.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\02.MultidimensionalArrays-Exercise\4.MatrixShuffling\obj\Debug\net8.0\4.MatrixShuffling.AssemblyInfo.cs
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\02.MultidimensionalArrays-Exercise\4.MatrixShuffling\obj\Debug\net8.0\4.MatrixShuffling.csproj.CoreCompileInputs.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\02.MultidimensionalArrays-Exercise\4.MatrixShuffling\obj\Debug\net8.0\4.MatrixShuffling.sourcelink.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\02.MultidimensionalArrays-Exercise\4.MatrixShuffling\bin\Debug\net8.0\4.MatrixShuffling.exe
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\02.MultidimensionalArrays-Exercise\4.MatrixShuffling\bin\Debug\net8.0\4.MatrixShuffling.deps.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\02.MultidimensionalArrays-Exercise\4.MatrixShuffling\bin\Debug\net8.0\4.MatrixShuffling.runtimeconfig.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\02.MultidimensionalArrays-Exercise\4.MatrixShuffling\bin\Debug\net8.0\4.MatrixShuffling.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\02.MultidimensionalArrays-Exercise\4.MatrixShuffling\bin\Debug\net8.0\4.MatrixShuffling.pdb
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\02.MultidimensionalArrays-Exercise\4.MatrixShuffling\obj\Debug\net8.0\4.MatrixShuffling.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\02.MultidimensionalArrays-Exercise\4.MatrixShuffling\obj\Debug\net8.0\refint\4.MatrixShuffling.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\02.MultidimensionalArrays-Exercise\4.MatrixShuffling\obj\Debug\net8.0\4.MatrixShuffling.pdb
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\02.MultidimensionalArrays-Exercise\4.MatrixShuffling\obj\Debug\net8.0\4.MatrixShuffling.genruntimeconfig.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\02.MultidimensionalArrays-Exercise\4.MatrixShuffling\obj\Debug\net8.0\ref\4.MatrixShuffling.dll

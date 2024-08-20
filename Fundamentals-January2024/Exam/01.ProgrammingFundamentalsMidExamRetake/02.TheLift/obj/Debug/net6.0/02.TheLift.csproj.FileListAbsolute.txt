@@ -1,0 +1,15 @@
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\Exam\01.ProgrammingFundamentalsMidExamRetake\02.TheLift\bin\Debug\net6.0\02.TheLift.exe
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\Exam\01.ProgrammingFundamentalsMidExamRetake\02.TheLift\bin\Debug\net6.0\02.TheLift.deps.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\Exam\01.ProgrammingFundamentalsMidExamRetake\02.TheLift\bin\Debug\net6.0\02.TheLift.runtimeconfig.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\Exam\01.ProgrammingFundamentalsMidExamRetake\02.TheLift\bin\Debug\net6.0\02.TheLift.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\Exam\01.ProgrammingFundamentalsMidExamRetake\02.TheLift\bin\Debug\net6.0\02.TheLift.pdb
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\Exam\01.ProgrammingFundamentalsMidExamRetake\02.TheLift\obj\Debug\net6.0\02.TheLift.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\Exam\01.ProgrammingFundamentalsMidExamRetake\02.TheLift\obj\Debug\net6.0\02.TheLift.AssemblyInfoInputs.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\Exam\01.ProgrammingFundamentalsMidExamRetake\02.TheLift\obj\Debug\net6.0\02.TheLift.AssemblyInfo.cs
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\Exam\01.ProgrammingFundamentalsMidExamRetake\02.TheLift\obj\Debug\net6.0\02.TheLift.csproj.CoreCompileInputs.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\Exam\01.ProgrammingFundamentalsMidExamRetake\02.TheLift\obj\Debug\net6.0\02.TheLift.sourcelink.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\Exam\01.ProgrammingFundamentalsMidExamRetake\02.TheLift\obj\Debug\net6.0\02.TheLift.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\Exam\01.ProgrammingFundamentalsMidExamRetake\02.TheLift\obj\Debug\net6.0\refint\02.TheLift.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\Exam\01.ProgrammingFundamentalsMidExamRetake\02.TheLift\obj\Debug\net6.0\02.TheLift.pdb
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\Exam\01.ProgrammingFundamentalsMidExamRetake\02.TheLift\obj\Debug\net6.0\02.TheLift.genruntimeconfig.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\Exam\01.ProgrammingFundamentalsMidExamRetake\02.TheLift\obj\Debug\net6.0\ref\02.TheLift.dll

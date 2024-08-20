@@ -1,0 +1,15 @@
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\OOP - June 2024\ExamPreparation\C#OOPRetakeExam–19December2023\HighwayToPeak-Skeleton\bin\Debug\net6.0\HighwayToPeak.exe
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\OOP - June 2024\ExamPreparation\C#OOPRetakeExam–19December2023\HighwayToPeak-Skeleton\bin\Debug\net6.0\HighwayToPeak.deps.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\OOP - June 2024\ExamPreparation\C#OOPRetakeExam–19December2023\HighwayToPeak-Skeleton\bin\Debug\net6.0\HighwayToPeak.runtimeconfig.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\OOP - June 2024\ExamPreparation\C#OOPRetakeExam–19December2023\HighwayToPeak-Skeleton\bin\Debug\net6.0\HighwayToPeak.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\OOP - June 2024\ExamPreparation\C#OOPRetakeExam–19December2023\HighwayToPeak-Skeleton\bin\Debug\net6.0\HighwayToPeak.pdb
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\OOP - June 2024\ExamPreparation\C#OOPRetakeExam–19December2023\HighwayToPeak-Skeleton\obj\Debug\net6.0\HighwayToPeak.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\OOP - June 2024\ExamPreparation\C#OOPRetakeExam–19December2023\HighwayToPeak-Skeleton\obj\Debug\net6.0\HighwayToPeak.AssemblyInfoInputs.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\OOP - June 2024\ExamPreparation\C#OOPRetakeExam–19December2023\HighwayToPeak-Skeleton\obj\Debug\net6.0\HighwayToPeak.AssemblyInfo.cs
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\OOP - June 2024\ExamPreparation\C#OOPRetakeExam–19December2023\HighwayToPeak-Skeleton\obj\Debug\net6.0\HighwayToPeak.csproj.CoreCompileInputs.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\OOP - June 2024\ExamPreparation\C#OOPRetakeExam–19December2023\HighwayToPeak-Skeleton\obj\Debug\net6.0\HighwayToPeak.sourcelink.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\OOP - June 2024\ExamPreparation\C#OOPRetakeExam–19December2023\HighwayToPeak-Skeleton\obj\Debug\net6.0\HighwayToPeak.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\OOP - June 2024\ExamPreparation\C#OOPRetakeExam–19December2023\HighwayToPeak-Skeleton\obj\Debug\net6.0\refint\HighwayToPeak.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\OOP - June 2024\ExamPreparation\C#OOPRetakeExam–19December2023\HighwayToPeak-Skeleton\obj\Debug\net6.0\HighwayToPeak.pdb
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\OOP - June 2024\ExamPreparation\C#OOPRetakeExam–19December2023\HighwayToPeak-Skeleton\obj\Debug\net6.0\HighwayToPeak.genruntimeconfig.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\OOP - June 2024\ExamPreparation\C#OOPRetakeExam–19December2023\HighwayToPeak-Skeleton\obj\Debug\net6.0\ref\HighwayToPeak.dll

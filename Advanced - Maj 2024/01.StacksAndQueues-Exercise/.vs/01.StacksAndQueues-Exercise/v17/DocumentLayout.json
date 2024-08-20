@@ -1,0 +1,224 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\Advanced - Maj 2024\\01.StacksAndQueues-Exercise\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{235F8464-7009-4A98-B0D0-A8EB64E2042B}|12.CupsAndBottles\\12.CupsAndBottles.csproj|d:\\programsscool\\git hub\\softuni-csharp\\advanced - maj 2024\\01.stacksandqueues-exercise\\12.cupsandbottles\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{235F8464-7009-4A98-B0D0-A8EB64E2042B}|12.CupsAndBottles\\12.CupsAndBottles.csproj|solutionrelative:12.cupsandbottles\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7359608-15A0-4ECA-B4C9-3F25CFD0F6F5}|11.KeyRevolver\\11.KeyRevolver.csproj|d:\\programsscool\\git hub\\softuni-csharp\\advanced - maj 2024\\01.stacksandqueues-exercise\\11.keyrevolver\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7359608-15A0-4ECA-B4C9-3F25CFD0F6F5}|11.KeyRevolver\\11.KeyRevolver.csproj|solutionrelative:11.keyrevolver\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A915EC7-1E93-4684-9BEE-957614D0B79D}|10.Crossroads\\10.Crossroads.csproj|d:\\programsscool\\git hub\\softuni-csharp\\advanced - maj 2024\\01.stacksandqueues-exercise\\10.crossroads\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A915EC7-1E93-4684-9BEE-957614D0B79D}|10.Crossroads\\10.Crossroads.csproj|solutionrelative:10.crossroads\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30DF4A35-CEB3-4A99-802E-9E50AE4548C4}|09.SimpleTextEditor\\09.SimpleTextEditor.csproj|d:\\programsscool\\git hub\\softuni-csharp\\advanced - maj 2024\\01.stacksandqueues-exercise\\09.simpletexteditor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30DF4A35-CEB3-4A99-802E-9E50AE4548C4}|09.SimpleTextEditor\\09.SimpleTextEditor.csproj|solutionrelative:09.simpletexteditor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFCF9DD2-E44E-4695-ACB4-D9FE0C9C8F99}|08.BalancedParenthesis\\08.BalancedParenthesis.csproj|d:\\programsscool\\git hub\\softuni-csharp\\advanced - maj 2024\\01.stacksandqueues-exercise\\08.balancedparenthesis\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CFCF9DD2-E44E-4695-ACB4-D9FE0C9C8F99}|08.BalancedParenthesis\\08.BalancedParenthesis.csproj|solutionrelative:08.balancedparenthesis\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A3BC708-DF8E-4A62-908D-7938FA1717A2}|07.TruckTour\\07.TruckTour.csproj|d:\\programsscool\\git hub\\softuni-csharp\\advanced - maj 2024\\01.stacksandqueues-exercise\\07.trucktour\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A3BC708-DF8E-4A62-908D-7938FA1717A2}|07.TruckTour\\07.TruckTour.csproj|solutionrelative:07.trucktour\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DB94BE5-B299-40A1-828B-08392A118AA0}|06.SongsQueue\\06.SongsQueue.csproj|d:\\programsscool\\git hub\\softuni-csharp\\advanced - maj 2024\\01.stacksandqueues-exercise\\06.songsqueue\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DB94BE5-B299-40A1-828B-08392A118AA0}|06.SongsQueue\\06.SongsQueue.csproj|solutionrelative:06.songsqueue\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6C7C7AB-E36C-49BD-8CD4-C7A731AAEE03}|05.FashionBoutique\\05.FashionBoutique.csproj|d:\\programsscool\\git hub\\softuni-csharp\\advanced - maj 2024\\01.stacksandqueues-exercise\\05.fashionboutique\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6C7C7AB-E36C-49BD-8CD4-C7A731AAEE03}|05.FashionBoutique\\05.FashionBoutique.csproj|solutionrelative:05.fashionboutique\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{038420C2-CAC3-4F21-A370-10B6017B6216}|04.FastFood\\04.FastFood.csproj|d:\\programsscool\\git hub\\softuni-csharp\\advanced - maj 2024\\01.stacksandqueues-exercise\\04.fastfood\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{038420C2-CAC3-4F21-A370-10B6017B6216}|04.FastFood\\04.FastFood.csproj|solutionrelative:04.fastfood\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB55F15F-294C-4219-9CB9-473B94F532A0}|03.MaximumAndMinimumElement\\03.MaximumAndMinimumElement.csproj|d:\\programsscool\\git hub\\softuni-csharp\\advanced - maj 2024\\01.stacksandqueues-exercise\\03.maximumandminimumelement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB55F15F-294C-4219-9CB9-473B94F532A0}|03.MaximumAndMinimumElement\\03.MaximumAndMinimumElement.csproj|solutionrelative:03.maximumandminimumelement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{881AA5E7-CB79-422D-ADFA-8A55689AAB93}|02.BasicQueueOperations\\02.BasicQueueOperations.csproj|d:\\programsscool\\git hub\\softuni-csharp\\advanced - maj 2024\\01.stacksandqueues-exercise\\02.basicqueueoperations\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{881AA5E7-CB79-422D-ADFA-8A55689AAB93}|02.BasicQueueOperations\\02.BasicQueueOperations.csproj|solutionrelative:02.basicqueueoperations\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CFD6932-B1AF-473B-803C-30EE7C6E18D6}|01.BasicStackOperations\\01.BasicStackOperations.csproj|d:\\programsscool\\git hub\\softuni-csharp\\advanced - maj 2024\\01.stacksandqueues-exercise\\01.basicstackoperations\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CFD6932-B1AF-473B-803C-30EE7C6E18D6}|01.BasicStackOperations\\01.BasicStackOperations.csproj|solutionrelative:01.basicstackoperations\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\Advanced - Maj 2024\\01.StacksAndQueues-Exercise\\12.CupsAndBottles\\Program.cs",
+              "RelativeDocumentMoniker": "12.CupsAndBottles\\Program.cs",
+              "ToolTip": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\Advanced - Maj 2024\\01.StacksAndQueues-Exercise\\12.CupsAndBottles\\Program.cs",
+              "RelativeToolTip": "12.CupsAndBottles\\Program.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAAwC8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T13:47:36.075Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\Advanced - Maj 2024\\01.StacksAndQueues-Exercise\\11.KeyRevolver\\Program.cs",
+              "RelativeDocumentMoniker": "11.KeyRevolver\\Program.cs",
+              "ToolTip": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\Advanced - Maj 2024\\01.StacksAndQueues-Exercise\\11.KeyRevolver\\Program.cs",
+              "RelativeToolTip": "11.KeyRevolver\\Program.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAwC4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T13:09:18.828Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\Advanced - Maj 2024\\01.StacksAndQueues-Exercise\\10.Crossroads\\Program.cs",
+              "RelativeDocumentMoniker": "10.Crossroads\\Program.cs",
+              "ToolTip": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\Advanced - Maj 2024\\01.StacksAndQueues-Exercise\\10.Crossroads\\Program.cs",
+              "RelativeToolTip": "10.Crossroads\\Program.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAgwCwAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T12:33:07.322Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\Advanced - Maj 2024\\01.StacksAndQueues-Exercise\\09.SimpleTextEditor\\Program.cs",
+              "RelativeDocumentMoniker": "09.SimpleTextEditor\\Program.cs",
+              "ToolTip": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\Advanced - Maj 2024\\01.StacksAndQueues-Exercise\\09.SimpleTextEditor\\Program.cs",
+              "RelativeToolTip": "09.SimpleTextEditor\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T05:26:43.191Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\Advanced - Maj 2024\\01.StacksAndQueues-Exercise\\08.BalancedParenthesis\\Program.cs",
+              "RelativeDocumentMoniker": "08.BalancedParenthesis\\Program.cs",
+              "ToolTip": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\Advanced - Maj 2024\\01.StacksAndQueues-Exercise\\08.BalancedParenthesis\\Program.cs",
+              "RelativeToolTip": "08.BalancedParenthesis\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T05:01:48.207Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\Advanced - Maj 2024\\01.StacksAndQueues-Exercise\\07.TruckTour\\Program.cs",
+              "RelativeDocumentMoniker": "07.TruckTour\\Program.cs",
+              "ToolTip": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\Advanced - Maj 2024\\01.StacksAndQueues-Exercise\\07.TruckTour\\Program.cs",
+              "RelativeToolTip": "07.TruckTour\\Program.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAA1wDIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T15:55:42.644Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\Advanced - Maj 2024\\01.StacksAndQueues-Exercise\\06.SongsQueue\\Program.cs",
+              "RelativeDocumentMoniker": "06.SongsQueue\\Program.cs",
+              "ToolTip": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\Advanced - Maj 2024\\01.StacksAndQueues-Exercise\\06.SongsQueue\\Program.cs",
+              "RelativeToolTip": "06.SongsQueue\\Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAqwCYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T15:43:19.237Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\Advanced - Maj 2024\\01.StacksAndQueues-Exercise\\05.FashionBoutique\\Program.cs",
+              "RelativeDocumentMoniker": "05.FashionBoutique\\Program.cs",
+              "ToolTip": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\Advanced - Maj 2024\\01.StacksAndQueues-Exercise\\05.FashionBoutique\\Program.cs",
+              "RelativeToolTip": "05.FashionBoutique\\Program.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAiwCMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T15:19:56.204Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\Advanced - Maj 2024\\01.StacksAndQueues-Exercise\\04.FastFood\\Program.cs",
+              "RelativeDocumentMoniker": "04.FastFood\\Program.cs",
+              "ToolTip": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\Advanced - Maj 2024\\01.StacksAndQueues-Exercise\\04.FastFood\\Program.cs",
+              "RelativeToolTip": "04.FastFood\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T15:02:49.275Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\Advanced - Maj 2024\\01.StacksAndQueues-Exercise\\03.MaximumAndMinimumElement\\Program.cs",
+              "RelativeDocumentMoniker": "03.MaximumAndMinimumElement\\Program.cs",
+              "ToolTip": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\Advanced - Maj 2024\\01.StacksAndQueues-Exercise\\03.MaximumAndMinimumElement\\Program.cs",
+              "RelativeToolTip": "03.MaximumAndMinimumElement\\Program.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAAC4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T14:50:17.925Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\Advanced - Maj 2024\\01.StacksAndQueues-Exercise\\02.BasicQueueOperations\\Program.cs",
+              "RelativeDocumentMoniker": "02.BasicQueueOperations\\Program.cs",
+              "ToolTip": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\Advanced - Maj 2024\\01.StacksAndQueues-Exercise\\02.BasicQueueOperations\\Program.cs",
+              "RelativeToolTip": "02.BasicQueueOperations\\Program.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAAAC0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T14:42:29.277Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\Advanced - Maj 2024\\01.StacksAndQueues-Exercise\\01.BasicStackOperations\\Program.cs",
+              "RelativeDocumentMoniker": "01.BasicStackOperations\\Program.cs",
+              "ToolTip": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\Advanced - Maj 2024\\01.StacksAndQueues-Exercise\\01.BasicStackOperations\\Program.cs",
+              "RelativeToolTip": "01.BasicStackOperations\\Program.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAA1wA8AAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T14:18:43.199Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

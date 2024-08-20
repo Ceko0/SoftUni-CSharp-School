@@ -1,0 +1,182 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\Advanced - Maj 2024\\03.SetsAndDictionariesAdvanced-Exercise\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{65434F6E-0429-40AB-A715-469DD2EAC09E}|07.TheV-Logger\\07.TheV-Logger.csproj|d:\\programsscool\\git hub\\softuni-csharp\\advanced - maj 2024\\03.setsanddictionariesadvanced-exercise\\07.thev-logger\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65434F6E-0429-40AB-A715-469DD2EAC09E}|07.TheV-Logger\\07.TheV-Logger.csproj|solutionrelative:07.thev-logger\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4FFE1DA-1A80-4D83-8DEA-DC27741E4871}|10.ForceBook\\10.ForceBook.csproj|d:\\programsscool\\git hub\\softuni-csharp\\advanced - maj 2024\\03.setsanddictionariesadvanced-exercise\\10.forcebook\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4FFE1DA-1A80-4D83-8DEA-DC27741E4871}|10.ForceBook\\10.ForceBook.csproj|solutionrelative:10.forcebook\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1117312-4EC6-4071-A965-A65B5F9883B1}|09.SoftUniExamResults\\09.SoftUniExamResults.csproj|d:\\programsscool\\git hub\\softuni-csharp\\advanced - maj 2024\\03.setsanddictionariesadvanced-exercise\\09.softuniexamresults\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1117312-4EC6-4071-A965-A65B5F9883B1}|09.SoftUniExamResults\\09.SoftUniExamResults.csproj|solutionrelative:09.softuniexamresults\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{736EADED-D214-419B-8D64-8F18DD61414D}|08.Ranking\\08.Ranking.csproj|d:\\programsscool\\git hub\\softuni-csharp\\advanced - maj 2024\\03.setsanddictionariesadvanced-exercise\\08.ranking\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{736EADED-D214-419B-8D64-8F18DD61414D}|08.Ranking\\08.Ranking.csproj|solutionrelative:08.ranking\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{746E43E4-DABD-4832-8C24-31162C0F40AB}|06.Wardrobe\\06.Wardrobe.csproj|d:\\programsscool\\git hub\\softuni-csharp\\advanced - maj 2024\\03.setsanddictionariesadvanced-exercise\\06.wardrobe\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{746E43E4-DABD-4832-8C24-31162C0F40AB}|06.Wardrobe\\06.Wardrobe.csproj|solutionrelative:06.wardrobe\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3716BF0A-537E-4536-BD78-002BA85E8795}|05.CountSymbols\\05.CountSymbols.csproj|d:\\programsscool\\git hub\\softuni-csharp\\advanced - maj 2024\\03.setsanddictionariesadvanced-exercise\\05.countsymbols\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3716BF0A-537E-4536-BD78-002BA85E8795}|05.CountSymbols\\05.CountSymbols.csproj|solutionrelative:05.countsymbols\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55ABCFF8-6D74-44EC-A439-1CEAE33AFD2C}|04.EvenTimes\\04.EvenTimes.csproj|d:\\programsscool\\git hub\\softuni-csharp\\advanced - maj 2024\\03.setsanddictionariesadvanced-exercise\\04.eventimes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55ABCFF8-6D74-44EC-A439-1CEAE33AFD2C}|04.EvenTimes\\04.EvenTimes.csproj|solutionrelative:04.eventimes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63C65FCF-21CE-449D-A290-5728077346EC}|03.PeriodicTable\\03.PeriodicTable.csproj|d:\\programsscool\\git hub\\softuni-csharp\\advanced - maj 2024\\03.setsanddictionariesadvanced-exercise\\03.periodictable\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63C65FCF-21CE-449D-A290-5728077346EC}|03.PeriodicTable\\03.PeriodicTable.csproj|solutionrelative:03.periodictable\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4445EDBE-C3A8-4029-9060-9BEE838BFDA5}|02.SetsOfElements\\02.SetsOfElements.csproj|d:\\programsscool\\git hub\\softuni-csharp\\advanced - maj 2024\\03.setsanddictionariesadvanced-exercise\\02.setsofelements\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4445EDBE-C3A8-4029-9060-9BEE838BFDA5}|02.SetsOfElements\\02.SetsOfElements.csproj|solutionrelative:02.setsofelements\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D21BA14D-FA48-4132-9F6C-892984EE0FBD}|01.UniqueUsernames\\01.UniqueUsernames.csproj|d:\\programsscool\\git hub\\softuni-csharp\\advanced - maj 2024\\03.setsanddictionariesadvanced-exercise\\01.uniqueusernames\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D21BA14D-FA48-4132-9F6C-892984EE0FBD}|01.UniqueUsernames\\01.UniqueUsernames.csproj|solutionrelative:01.uniqueusernames\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\Advanced - Maj 2024\\03.SetsAndDictionariesAdvanced-Exercise\\10.ForceBook\\Program.cs",
+              "RelativeDocumentMoniker": "10.ForceBook\\Program.cs",
+              "ToolTip": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\Advanced - Maj 2024\\03.SetsAndDictionariesAdvanced-Exercise\\10.ForceBook\\Program.cs",
+              "RelativeToolTip": "10.ForceBook\\Program.cs",
+              "ViewState": "AQIAAEsAAAAAAAAAAAAuwG0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T06:54:19.963Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\Advanced - Maj 2024\\03.SetsAndDictionariesAdvanced-Exercise\\09.SoftUniExamResults\\Program.cs",
+              "RelativeDocumentMoniker": "09.SoftUniExamResults\\Program.cs",
+              "ToolTip": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\Advanced - Maj 2024\\03.SetsAndDictionariesAdvanced-Exercise\\09.SoftUniExamResults\\Program.cs",
+              "RelativeToolTip": "09.SoftUniExamResults\\Program.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAwDQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T07:38:51.2Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\Advanced - Maj 2024\\03.SetsAndDictionariesAdvanced-Exercise\\08.Ranking\\Program.cs",
+              "RelativeDocumentMoniker": "08.Ranking\\Program.cs",
+              "ToolTip": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\Advanced - Maj 2024\\03.SetsAndDictionariesAdvanced-Exercise\\08.Ranking\\Program.cs",
+              "RelativeToolTip": "08.Ranking\\Program.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAkwEEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T05:51:23.547Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\Advanced - Maj 2024\\03.SetsAndDictionariesAdvanced-Exercise\\07.TheV-Logger\\Program.cs",
+              "RelativeDocumentMoniker": "07.TheV-Logger\\Program.cs",
+              "ToolTip": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\Advanced - Maj 2024\\03.SetsAndDictionariesAdvanced-Exercise\\07.TheV-Logger\\Program.cs",
+              "RelativeToolTip": "07.TheV-Logger\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAD8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T04:55:24.619Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\Advanced - Maj 2024\\03.SetsAndDictionariesAdvanced-Exercise\\06.Wardrobe\\Program.cs",
+              "RelativeDocumentMoniker": "06.Wardrobe\\Program.cs",
+              "ToolTip": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\Advanced - Maj 2024\\03.SetsAndDictionariesAdvanced-Exercise\\06.Wardrobe\\Program.cs",
+              "RelativeToolTip": "06.Wardrobe\\Program.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAAwDAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T04:38:31.848Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\Advanced - Maj 2024\\03.SetsAndDictionariesAdvanced-Exercise\\05.CountSymbols\\Program.cs",
+              "RelativeDocumentMoniker": "05.CountSymbols\\Program.cs",
+              "ToolTip": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\Advanced - Maj 2024\\03.SetsAndDictionariesAdvanced-Exercise\\05.CountSymbols\\Program.cs",
+              "RelativeToolTip": "05.CountSymbols\\Program.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAmwBkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T04:33:14.69Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\Advanced - Maj 2024\\03.SetsAndDictionariesAdvanced-Exercise\\04.EvenTimes\\Program.cs",
+              "RelativeDocumentMoniker": "04.EvenTimes\\Program.cs",
+              "ToolTip": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\Advanced - Maj 2024\\03.SetsAndDictionariesAdvanced-Exercise\\04.EvenTimes\\Program.cs",
+              "RelativeToolTip": "04.EvenTimes\\Program.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAuwB0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T04:14:22.588Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\Advanced - Maj 2024\\03.SetsAndDictionariesAdvanced-Exercise\\03.PeriodicTable\\Program.cs",
+              "RelativeDocumentMoniker": "03.PeriodicTable\\Program.cs",
+              "ToolTip": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\Advanced - Maj 2024\\03.SetsAndDictionariesAdvanced-Exercise\\03.PeriodicTable\\Program.cs",
+              "RelativeToolTip": "03.PeriodicTable\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T04:10:17.606Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\Advanced - Maj 2024\\03.SetsAndDictionariesAdvanced-Exercise\\02.SetsOfElements\\Program.cs",
+              "RelativeDocumentMoniker": "02.SetsOfElements\\Program.cs",
+              "ToolTip": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\Advanced - Maj 2024\\03.SetsAndDictionariesAdvanced-Exercise\\02.SetsOfElements\\Program.cs",
+              "RelativeToolTip": "02.SetsOfElements\\Program.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAIwCUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T04:02:35.898Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\Advanced - Maj 2024\\03.SetsAndDictionariesAdvanced-Exercise\\01.UniqueUsernames\\Program.cs",
+              "RelativeDocumentMoniker": "01.UniqueUsernames\\Program.cs",
+              "ToolTip": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\Advanced - Maj 2024\\03.SetsAndDictionariesAdvanced-Exercise\\01.UniqueUsernames\\Program.cs",
+              "RelativeToolTip": "01.UniqueUsernames\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T03:58:54.671Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

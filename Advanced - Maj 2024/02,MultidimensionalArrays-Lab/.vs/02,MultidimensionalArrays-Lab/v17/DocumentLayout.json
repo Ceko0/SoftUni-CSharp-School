@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\Advanced - Maj 2024\\02,MultidimensionalArrays-Lab\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8CCC2D7D-13A8-4169-B73C-F75088D2265D}|7.PascalTriangle\\7.PascalTriangle.csproj|d:\\programsscool\\git hub\\softuni-csharp\\advanced - maj 2024\\02,multidimensionalarrays-lab\\7.pascaltriangle\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CCC2D7D-13A8-4169-B73C-F75088D2265D}|7.PascalTriangle\\7.PascalTriangle.csproj|solutionrelative:7.pascaltriangle\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74061026-CF46-41AA-8701-4F20658D33EF}|6.Jagged-ArrayModification\\6.Jagged-ArrayModification.csproj|d:\\programsscool\\git hub\\softuni-csharp\\advanced - maj 2024\\02,multidimensionalarrays-lab\\6.jagged-arraymodification\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74061026-CF46-41AA-8701-4F20658D33EF}|6.Jagged-ArrayModification\\6.Jagged-ArrayModification.csproj|solutionrelative:6.jagged-arraymodification\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55019F5E-AEB1-441E-84BA-3BC9584BCE42}|5.SquareWithMaximumSum\\5.SquareWithMaximumSum.csproj|d:\\programsscool\\git hub\\softuni-csharp\\advanced - maj 2024\\02,multidimensionalarrays-lab\\5.squarewithmaximumsum\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55019F5E-AEB1-441E-84BA-3BC9584BCE42}|5.SquareWithMaximumSum\\5.SquareWithMaximumSum.csproj|solutionrelative:5.squarewithmaximumsum\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{068B4C6D-8875-40E0-91A2-09B7A29D1118}|1.SumMatrixElements\\1.SumMatrixElements.csproj|d:\\programsscool\\git hub\\softuni-csharp\\advanced - maj 2024\\02,multidimensionalarrays-lab\\1.summatrixelements\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{068B4C6D-8875-40E0-91A2-09B7A29D1118}|1.SumMatrixElements\\1.SumMatrixElements.csproj|solutionrelative:1.summatrixelements\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{218DDF0C-6DD4-477D-B277-C2F02D05F8B8}|4.SymbolInMatrix\\4.SymbolInMatrix.csproj|d:\\programsscool\\git hub\\softuni-csharp\\advanced - maj 2024\\02,multidimensionalarrays-lab\\4.symbolinmatrix\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{218DDF0C-6DD4-477D-B277-C2F02D05F8B8}|4.SymbolInMatrix\\4.SymbolInMatrix.csproj|solutionrelative:4.symbolinmatrix\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A716B140-7793-47BC-8BB3-1E97AAF23F13}|3.PrimaryDiagonal\\3.PrimaryDiagonal.csproj|d:\\programsscool\\git hub\\softuni-csharp\\advanced - maj 2024\\02,multidimensionalarrays-lab\\3.primarydiagonal\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A716B140-7793-47BC-8BB3-1E97AAF23F13}|3.PrimaryDiagonal\\3.PrimaryDiagonal.csproj|solutionrelative:3.primarydiagonal\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D975192-66FB-4417-8C83-73D99B8B6CE9}|2.SumMatrixColumns\\2.SumMatrixColumns.csproj|d:\\programsscool\\git hub\\softuni-csharp\\advanced - maj 2024\\02,multidimensionalarrays-lab\\2.summatrixcolumns\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D975192-66FB-4417-8C83-73D99B8B6CE9}|2.SumMatrixColumns\\2.SumMatrixColumns.csproj|solutionrelative:2.summatrixcolumns\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\Advanced - Maj 2024\\02,MultidimensionalArrays-Lab\\7.PascalTriangle\\Program.cs",
+              "RelativeDocumentMoniker": "7.PascalTriangle\\Program.cs",
+              "ToolTip": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\Advanced - Maj 2024\\02,MultidimensionalArrays-Lab\\7.PascalTriangle\\Program.cs",
+              "RelativeToolTip": "7.PascalTriangle\\Program.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAAwCQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T12:04:25.547Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\Advanced - Maj 2024\\02,MultidimensionalArrays-Lab\\6.Jagged-ArrayModification\\Program.cs",
+              "RelativeDocumentMoniker": "6.Jagged-ArrayModification\\Program.cs",
+              "ToolTip": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\Advanced - Maj 2024\\02,MultidimensionalArrays-Lab\\6.Jagged-ArrayModification\\Program.cs",
+              "RelativeToolTip": "6.Jagged-ArrayModification\\Program.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAkwDkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T11:11:07.771Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\Advanced - Maj 2024\\02,MultidimensionalArrays-Lab\\5.SquareWithMaximumSum\\Program.cs",
+              "RelativeDocumentMoniker": "5.SquareWithMaximumSum\\Program.cs",
+              "ToolTip": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\Advanced - Maj 2024\\02,MultidimensionalArrays-Lab\\5.SquareWithMaximumSum\\Program.cs",
+              "RelativeToolTip": "5.SquareWithMaximumSum\\Program.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAwC4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T10:47:08.341Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\Advanced - Maj 2024\\02,MultidimensionalArrays-Lab\\4.SymbolInMatrix\\Program.cs",
+              "RelativeDocumentMoniker": "4.SymbolInMatrix\\Program.cs",
+              "ToolTip": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\Advanced - Maj 2024\\02,MultidimensionalArrays-Lab\\4.SymbolInMatrix\\Program.cs",
+              "RelativeToolTip": "4.SymbolInMatrix\\Program.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAgwB4AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T10:17:06.28Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\Advanced - Maj 2024\\02,MultidimensionalArrays-Lab\\3.PrimaryDiagonal\\Program.cs",
+              "RelativeDocumentMoniker": "3.PrimaryDiagonal\\Program.cs",
+              "ToolTip": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\Advanced - Maj 2024\\02,MultidimensionalArrays-Lab\\3.PrimaryDiagonal\\Program.cs",
+              "RelativeToolTip": "3.PrimaryDiagonal\\Program.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAwCQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T10:12:27.032Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\Advanced - Maj 2024\\02,MultidimensionalArrays-Lab\\2.SumMatrixColumns\\Program.cs",
+              "RelativeDocumentMoniker": "2.SumMatrixColumns\\Program.cs",
+              "ToolTip": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\Advanced - Maj 2024\\02,MultidimensionalArrays-Lab\\2.SumMatrixColumns\\Program.cs",
+              "RelativeToolTip": "2.SumMatrixColumns\\Program.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAwCQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T10:08:08.814Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\Advanced - Maj 2024\\02,MultidimensionalArrays-Lab\\1.SumMatrixElements\\Program.cs",
+              "RelativeDocumentMoniker": "1.SumMatrixElements\\Program.cs",
+              "ToolTip": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\Advanced - Maj 2024\\02,MultidimensionalArrays-Lab\\1.SumMatrixElements\\Program.cs",
+              "RelativeToolTip": "1.SumMatrixElements\\Program.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAwBYAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T09:48:50.052Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

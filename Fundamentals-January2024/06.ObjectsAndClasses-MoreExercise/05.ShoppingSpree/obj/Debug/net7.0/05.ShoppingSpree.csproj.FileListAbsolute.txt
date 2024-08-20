@@ -1,0 +1,15 @@
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\06.ObjectsAndClasses-MoreExercise\05.ShoppingSpree\bin\Debug\net7.0\05.ShoppingSpree.exe
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\06.ObjectsAndClasses-MoreExercise\05.ShoppingSpree\bin\Debug\net7.0\05.ShoppingSpree.deps.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\06.ObjectsAndClasses-MoreExercise\05.ShoppingSpree\bin\Debug\net7.0\05.ShoppingSpree.runtimeconfig.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\06.ObjectsAndClasses-MoreExercise\05.ShoppingSpree\bin\Debug\net7.0\05.ShoppingSpree.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\06.ObjectsAndClasses-MoreExercise\05.ShoppingSpree\bin\Debug\net7.0\05.ShoppingSpree.pdb
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\06.ObjectsAndClasses-MoreExercise\05.ShoppingSpree\obj\Debug\net7.0\05.ShoppingSpree.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\06.ObjectsAndClasses-MoreExercise\05.ShoppingSpree\obj\Debug\net7.0\05.ShoppingSpree.AssemblyInfoInputs.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\06.ObjectsAndClasses-MoreExercise\05.ShoppingSpree\obj\Debug\net7.0\05.ShoppingSpree.AssemblyInfo.cs
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\06.ObjectsAndClasses-MoreExercise\05.ShoppingSpree\obj\Debug\net7.0\05.ShoppingSpree.csproj.CoreCompileInputs.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\06.ObjectsAndClasses-MoreExercise\05.ShoppingSpree\obj\Debug\net7.0\05.ShoppingSpree.sourcelink.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\06.ObjectsAndClasses-MoreExercise\05.ShoppingSpree\obj\Debug\net7.0\05.ShoppingSpree.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\06.ObjectsAndClasses-MoreExercise\05.ShoppingSpree\obj\Debug\net7.0\refint\05.ShoppingSpree.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\06.ObjectsAndClasses-MoreExercise\05.ShoppingSpree\obj\Debug\net7.0\05.ShoppingSpree.pdb
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\06.ObjectsAndClasses-MoreExercise\05.ShoppingSpree\obj\Debug\net7.0\05.ShoppingSpree.genruntimeconfig.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\06.ObjectsAndClasses-MoreExercise\05.ShoppingSpree\obj\Debug\net7.0\ref\05.ShoppingSpree.dll

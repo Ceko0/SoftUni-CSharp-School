@@ -1,0 +1,15 @@
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\04.MethodsExercise\08.FactorialDivision\bin\Debug\net7.0\08.FactorialDivision.exe
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\04.MethodsExercise\08.FactorialDivision\bin\Debug\net7.0\08.FactorialDivision.deps.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\04.MethodsExercise\08.FactorialDivision\bin\Debug\net7.0\08.FactorialDivision.runtimeconfig.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\04.MethodsExercise\08.FactorialDivision\bin\Debug\net7.0\08.FactorialDivision.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\04.MethodsExercise\08.FactorialDivision\bin\Debug\net7.0\08.FactorialDivision.pdb
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\04.MethodsExercise\08.FactorialDivision\obj\Debug\net7.0\08.FactorialDivision.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\04.MethodsExercise\08.FactorialDivision\obj\Debug\net7.0\08.FactorialDivision.AssemblyInfoInputs.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\04.MethodsExercise\08.FactorialDivision\obj\Debug\net7.0\08.FactorialDivision.AssemblyInfo.cs
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\04.MethodsExercise\08.FactorialDivision\obj\Debug\net7.0\08.FactorialDivision.csproj.CoreCompileInputs.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\04.MethodsExercise\08.FactorialDivision\obj\Debug\net7.0\08.FactorialDivision.sourcelink.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\04.MethodsExercise\08.FactorialDivision\obj\Debug\net7.0\08.FactorialDivision.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\04.MethodsExercise\08.FactorialDivision\obj\Debug\net7.0\refint\08.FactorialDivision.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\04.MethodsExercise\08.FactorialDivision\obj\Debug\net7.0\08.FactorialDivision.pdb
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\04.MethodsExercise\08.FactorialDivision\obj\Debug\net7.0\08.FactorialDivision.genruntimeconfig.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\04.MethodsExercise\08.FactorialDivision\obj\Debug\net7.0\ref\08.FactorialDivision.dll

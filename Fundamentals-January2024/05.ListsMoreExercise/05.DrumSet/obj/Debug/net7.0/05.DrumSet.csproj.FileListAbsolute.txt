@@ -1,0 +1,15 @@
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\05.ListsMoreExercise\05.DrumSet\bin\Debug\net7.0\05.DrumSet.exe
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\05.ListsMoreExercise\05.DrumSet\bin\Debug\net7.0\05.DrumSet.deps.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\05.ListsMoreExercise\05.DrumSet\bin\Debug\net7.0\05.DrumSet.runtimeconfig.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\05.ListsMoreExercise\05.DrumSet\bin\Debug\net7.0\05.DrumSet.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\05.ListsMoreExercise\05.DrumSet\bin\Debug\net7.0\05.DrumSet.pdb
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\05.ListsMoreExercise\05.DrumSet\obj\Debug\net7.0\05.DrumSet.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\05.ListsMoreExercise\05.DrumSet\obj\Debug\net7.0\05.DrumSet.AssemblyInfoInputs.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\05.ListsMoreExercise\05.DrumSet\obj\Debug\net7.0\05.DrumSet.AssemblyInfo.cs
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\05.ListsMoreExercise\05.DrumSet\obj\Debug\net7.0\05.DrumSet.csproj.CoreCompileInputs.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\05.ListsMoreExercise\05.DrumSet\obj\Debug\net7.0\05.DrumSet.sourcelink.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\05.ListsMoreExercise\05.DrumSet\obj\Debug\net7.0\05.DrumSet.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\05.ListsMoreExercise\05.DrumSet\obj\Debug\net7.0\refint\05.DrumSet.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\05.ListsMoreExercise\05.DrumSet\obj\Debug\net7.0\05.DrumSet.pdb
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\05.ListsMoreExercise\05.DrumSet\obj\Debug\net7.0\05.DrumSet.genruntimeconfig.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\05.ListsMoreExercise\05.DrumSet\obj\Debug\net7.0\ref\05.DrumSet.dll

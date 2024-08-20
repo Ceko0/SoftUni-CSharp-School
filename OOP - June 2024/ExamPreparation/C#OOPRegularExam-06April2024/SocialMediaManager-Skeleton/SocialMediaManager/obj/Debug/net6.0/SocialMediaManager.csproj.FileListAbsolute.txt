@@ -1,0 +1,15 @@
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\OOP - June 2024\ExamPreparation\C#OOPRegularExam-06April2024\SocialMediaManager-Skeleton\SocialMediaManager\bin\Debug\net6.0\SocialMediaManager.exe
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\OOP - June 2024\ExamPreparation\C#OOPRegularExam-06April2024\SocialMediaManager-Skeleton\SocialMediaManager\bin\Debug\net6.0\SocialMediaManager.deps.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\OOP - June 2024\ExamPreparation\C#OOPRegularExam-06April2024\SocialMediaManager-Skeleton\SocialMediaManager\bin\Debug\net6.0\SocialMediaManager.runtimeconfig.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\OOP - June 2024\ExamPreparation\C#OOPRegularExam-06April2024\SocialMediaManager-Skeleton\SocialMediaManager\bin\Debug\net6.0\SocialMediaManager.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\OOP - June 2024\ExamPreparation\C#OOPRegularExam-06April2024\SocialMediaManager-Skeleton\SocialMediaManager\bin\Debug\net6.0\SocialMediaManager.pdb
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\OOP - June 2024\ExamPreparation\C#OOPRegularExam-06April2024\SocialMediaManager-Skeleton\SocialMediaManager\obj\Debug\net6.0\SocialMediaManager.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\OOP - June 2024\ExamPreparation\C#OOPRegularExam-06April2024\SocialMediaManager-Skeleton\SocialMediaManager\obj\Debug\net6.0\SocialMediaManager.AssemblyInfoInputs.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\OOP - June 2024\ExamPreparation\C#OOPRegularExam-06April2024\SocialMediaManager-Skeleton\SocialMediaManager\obj\Debug\net6.0\SocialMediaManager.AssemblyInfo.cs
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\OOP - June 2024\ExamPreparation\C#OOPRegularExam-06April2024\SocialMediaManager-Skeleton\SocialMediaManager\obj\Debug\net6.0\SocialMediaManager.csproj.CoreCompileInputs.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\OOP - June 2024\ExamPreparation\C#OOPRegularExam-06April2024\SocialMediaManager-Skeleton\SocialMediaManager\obj\Debug\net6.0\SocialMediaManager.sourcelink.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\OOP - June 2024\ExamPreparation\C#OOPRegularExam-06April2024\SocialMediaManager-Skeleton\SocialMediaManager\obj\Debug\net6.0\SocialMediaManager.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\OOP - June 2024\ExamPreparation\C#OOPRegularExam-06April2024\SocialMediaManager-Skeleton\SocialMediaManager\obj\Debug\net6.0\refint\SocialMediaManager.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\OOP - June 2024\ExamPreparation\C#OOPRegularExam-06April2024\SocialMediaManager-Skeleton\SocialMediaManager\obj\Debug\net6.0\SocialMediaManager.pdb
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\OOP - June 2024\ExamPreparation\C#OOPRegularExam-06April2024\SocialMediaManager-Skeleton\SocialMediaManager\obj\Debug\net6.0\SocialMediaManager.genruntimeconfig.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\OOP - June 2024\ExamPreparation\C#OOPRegularExam-06April2024\SocialMediaManager-Skeleton\SocialMediaManager\obj\Debug\net6.0\ref\SocialMediaManager.dll

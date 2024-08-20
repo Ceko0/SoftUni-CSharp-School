@@ -1,0 +1,15 @@
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\03.SetsAndDictionariesAdvanced-Lab\08.SoftUniParty\bin\Debug\net8.0\08.SoftUniParty.exe
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\03.SetsAndDictionariesAdvanced-Lab\08.SoftUniParty\bin\Debug\net8.0\08.SoftUniParty.deps.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\03.SetsAndDictionariesAdvanced-Lab\08.SoftUniParty\bin\Debug\net8.0\08.SoftUniParty.runtimeconfig.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\03.SetsAndDictionariesAdvanced-Lab\08.SoftUniParty\bin\Debug\net8.0\08.SoftUniParty.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\03.SetsAndDictionariesAdvanced-Lab\08.SoftUniParty\bin\Debug\net8.0\08.SoftUniParty.pdb
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\03.SetsAndDictionariesAdvanced-Lab\08.SoftUniParty\obj\Debug\net8.0\08.SoftUniParty.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\03.SetsAndDictionariesAdvanced-Lab\08.SoftUniParty\obj\Debug\net8.0\08.SoftUniParty.AssemblyInfoInputs.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\03.SetsAndDictionariesAdvanced-Lab\08.SoftUniParty\obj\Debug\net8.0\08.SoftUniParty.AssemblyInfo.cs
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\03.SetsAndDictionariesAdvanced-Lab\08.SoftUniParty\obj\Debug\net8.0\08.SoftUniParty.csproj.CoreCompileInputs.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\03.SetsAndDictionariesAdvanced-Lab\08.SoftUniParty\obj\Debug\net8.0\08.SoftUniParty.sourcelink.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\03.SetsAndDictionariesAdvanced-Lab\08.SoftUniParty\obj\Debug\net8.0\08.SoftUniParty.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\03.SetsAndDictionariesAdvanced-Lab\08.SoftUniParty\obj\Debug\net8.0\refint\08.SoftUniParty.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\03.SetsAndDictionariesAdvanced-Lab\08.SoftUniParty\obj\Debug\net8.0\08.SoftUniParty.pdb
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\03.SetsAndDictionariesAdvanced-Lab\08.SoftUniParty\obj\Debug\net8.0\08.SoftUniParty.genruntimeconfig.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\03.SetsAndDictionariesAdvanced-Lab\08.SoftUniParty\obj\Debug\net8.0\ref\08.SoftUniParty.dll

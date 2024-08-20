@@ -1,0 +1,15 @@
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\07.ImplementingLinkedList\CustomDoublyLinkedList\obj\Debug\net6.0\CustomDoublyLinkedList.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\07.ImplementingLinkedList\CustomDoublyLinkedList\obj\Debug\net6.0\CustomDoublyLinkedList.AssemblyInfoInputs.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\07.ImplementingLinkedList\CustomDoublyLinkedList\obj\Debug\net6.0\CustomDoublyLinkedList.AssemblyInfo.cs
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\07.ImplementingLinkedList\CustomDoublyLinkedList\obj\Debug\net6.0\CustomDoublyLinkedList.csproj.CoreCompileInputs.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\07.ImplementingLinkedList\CustomDoublyLinkedList\obj\Debug\net6.0\CustomDoublyLinkedList.sourcelink.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\07.ImplementingLinkedList\CustomDoublyLinkedList\bin\Debug\net6.0\CustomDoublyLinkedList.exe
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\07.ImplementingLinkedList\CustomDoublyLinkedList\bin\Debug\net6.0\CustomDoublyLinkedList.deps.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\07.ImplementingLinkedList\CustomDoublyLinkedList\bin\Debug\net6.0\CustomDoublyLinkedList.runtimeconfig.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\07.ImplementingLinkedList\CustomDoublyLinkedList\bin\Debug\net6.0\CustomDoublyLinkedList.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\07.ImplementingLinkedList\CustomDoublyLinkedList\bin\Debug\net6.0\CustomDoublyLinkedList.pdb
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\07.ImplementingLinkedList\CustomDoublyLinkedList\obj\Debug\net6.0\CustomDoublyLinkedList.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\07.ImplementingLinkedList\CustomDoublyLinkedList\obj\Debug\net6.0\refint\CustomDoublyLinkedList.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\07.ImplementingLinkedList\CustomDoublyLinkedList\obj\Debug\net6.0\CustomDoublyLinkedList.pdb
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\07.ImplementingLinkedList\CustomDoublyLinkedList\obj\Debug\net6.0\CustomDoublyLinkedList.genruntimeconfig.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\07.ImplementingLinkedList\CustomDoublyLinkedList\obj\Debug\net6.0\ref\CustomDoublyLinkedList.dll

@@ -1,0 +1,14 @@
+C:\Users\falen\source\repos\06.DrawingFiguresWithLoops-MoreExercises\09.House\bin\Debug\net7.0\09.House.exe
+C:\Users\falen\source\repos\06.DrawingFiguresWithLoops-MoreExercises\09.House\bin\Debug\net7.0\09.House.deps.json
+C:\Users\falen\source\repos\06.DrawingFiguresWithLoops-MoreExercises\09.House\bin\Debug\net7.0\09.House.runtimeconfig.json
+C:\Users\falen\source\repos\06.DrawingFiguresWithLoops-MoreExercises\09.House\bin\Debug\net7.0\09.House.dll
+C:\Users\falen\source\repos\06.DrawingFiguresWithLoops-MoreExercises\09.House\bin\Debug\net7.0\09.House.pdb
+C:\Users\falen\source\repos\06.DrawingFiguresWithLoops-MoreExercises\09.House\obj\Debug\net7.0\09.House.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\falen\source\repos\06.DrawingFiguresWithLoops-MoreExercises\09.House\obj\Debug\net7.0\09.House.AssemblyInfoInputs.cache
+C:\Users\falen\source\repos\06.DrawingFiguresWithLoops-MoreExercises\09.House\obj\Debug\net7.0\09.House.AssemblyInfo.cs
+C:\Users\falen\source\repos\06.DrawingFiguresWithLoops-MoreExercises\09.House\obj\Debug\net7.0\09.House.csproj.CoreCompileInputs.cache
+C:\Users\falen\source\repos\06.DrawingFiguresWithLoops-MoreExercises\09.House\obj\Debug\net7.0\09.House.dll
+C:\Users\falen\source\repos\06.DrawingFiguresWithLoops-MoreExercises\09.House\obj\Debug\net7.0\refint\09.House.dll
+C:\Users\falen\source\repos\06.DrawingFiguresWithLoops-MoreExercises\09.House\obj\Debug\net7.0\09.House.pdb
+C:\Users\falen\source\repos\06.DrawingFiguresWithLoops-MoreExercises\09.House\obj\Debug\net7.0\09.House.genruntimeconfig.cache
+C:\Users\falen\source\repos\06.DrawingFiguresWithLoops-MoreExercises\09.House\obj\Debug\net7.0\ref\09.House.dll

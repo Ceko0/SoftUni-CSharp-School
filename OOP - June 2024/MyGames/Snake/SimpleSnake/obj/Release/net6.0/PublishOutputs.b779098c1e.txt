@@ -1,0 +1,5 @@
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\OOP - June 2024\Snake\newSnake\SimpleSnake.exe
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\OOP - June 2024\Snake\newSnake\SimpleSnake.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\OOP - June 2024\Snake\newSnake\SimpleSnake.deps.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\OOP - June 2024\Snake\newSnake\SimpleSnake.runtimeconfig.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\OOP - June 2024\Snake\newSnake\SimpleSnake.pdb

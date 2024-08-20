@@ -1,0 +1,15 @@
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\08.Generics-Lab\02.ArrayCreator\obj\Debug\net6.0\02.ArrayCreator.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\08.Generics-Lab\02.ArrayCreator\obj\Debug\net6.0\02.ArrayCreator.AssemblyInfoInputs.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\08.Generics-Lab\02.ArrayCreator\obj\Debug\net6.0\02.ArrayCreator.AssemblyInfo.cs
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\08.Generics-Lab\02.ArrayCreator\obj\Debug\net6.0\02.ArrayCreator.csproj.CoreCompileInputs.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\08.Generics-Lab\02.ArrayCreator\obj\Debug\net6.0\02.ArrayCreator.sourcelink.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\08.Generics-Lab\02.ArrayCreator\bin\Debug\net6.0\02.ArrayCreator.exe
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\08.Generics-Lab\02.ArrayCreator\bin\Debug\net6.0\02.ArrayCreator.deps.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\08.Generics-Lab\02.ArrayCreator\bin\Debug\net6.0\02.ArrayCreator.runtimeconfig.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\08.Generics-Lab\02.ArrayCreator\bin\Debug\net6.0\02.ArrayCreator.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\08.Generics-Lab\02.ArrayCreator\bin\Debug\net6.0\02.ArrayCreator.pdb
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\08.Generics-Lab\02.ArrayCreator\obj\Debug\net6.0\02.ArrayCreator.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\08.Generics-Lab\02.ArrayCreator\obj\Debug\net6.0\refint\02.ArrayCreator.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\08.Generics-Lab\02.ArrayCreator\obj\Debug\net6.0\02.ArrayCreator.pdb
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\08.Generics-Lab\02.ArrayCreator\obj\Debug\net6.0\02.ArrayCreator.genruntimeconfig.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\08.Generics-Lab\02.ArrayCreator\obj\Debug\net6.0\ref\02.ArrayCreator.dll

@@ -1,0 +1,15 @@
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\Exams\AdvancedRetakeExam-10April2024\01.PiePursuit\bin\Debug\net6.0\01.PiePursuit.exe
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\Exams\AdvancedRetakeExam-10April2024\01.PiePursuit\bin\Debug\net6.0\01.PiePursuit.deps.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\Exams\AdvancedRetakeExam-10April2024\01.PiePursuit\bin\Debug\net6.0\01.PiePursuit.runtimeconfig.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\Exams\AdvancedRetakeExam-10April2024\01.PiePursuit\bin\Debug\net6.0\01.PiePursuit.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\Exams\AdvancedRetakeExam-10April2024\01.PiePursuit\bin\Debug\net6.0\01.PiePursuit.pdb
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\Exams\AdvancedRetakeExam-10April2024\01.PiePursuit\obj\Debug\net6.0\01.PiePursuit.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\Exams\AdvancedRetakeExam-10April2024\01.PiePursuit\obj\Debug\net6.0\01.PiePursuit.AssemblyInfoInputs.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\Exams\AdvancedRetakeExam-10April2024\01.PiePursuit\obj\Debug\net6.0\01.PiePursuit.AssemblyInfo.cs
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\Exams\AdvancedRetakeExam-10April2024\01.PiePursuit\obj\Debug\net6.0\01.PiePursuit.csproj.CoreCompileInputs.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\Exams\AdvancedRetakeExam-10April2024\01.PiePursuit\obj\Debug\net6.0\01.PiePursuit.sourcelink.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\Exams\AdvancedRetakeExam-10April2024\01.PiePursuit\obj\Debug\net6.0\01.PiePursuit.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\Exams\AdvancedRetakeExam-10April2024\01.PiePursuit\obj\Debug\net6.0\refint\01.PiePursuit.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\Exams\AdvancedRetakeExam-10April2024\01.PiePursuit\obj\Debug\net6.0\01.PiePursuit.pdb
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\Exams\AdvancedRetakeExam-10April2024\01.PiePursuit\obj\Debug\net6.0\01.PiePursuit.genruntimeconfig.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\Exams\AdvancedRetakeExam-10April2024\01.PiePursuit\obj\Debug\net6.0\ref\01.PiePursuit.dll

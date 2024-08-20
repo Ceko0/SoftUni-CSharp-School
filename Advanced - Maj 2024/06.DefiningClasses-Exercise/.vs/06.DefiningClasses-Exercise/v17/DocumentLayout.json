@@ -1,0 +1,340 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\Advanced - Maj 2024\\06.DefiningClasses-Exercise\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9BF93D0D-CA5C-4739-A2E7-E3F8456DFA9E}|09.PokemonTrainer\\09.PokemonTrainer.csproj|d:\\programsscool\\git hub\\softuni-csharp\\advanced - maj 2024\\06.definingclasses-exercise\\09.pokemontrainer\\pokemon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BF93D0D-CA5C-4739-A2E7-E3F8456DFA9E}|09.PokemonTrainer\\09.PokemonTrainer.csproj|solutionrelative:09.pokemontrainer\\pokemon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BF93D0D-CA5C-4739-A2E7-E3F8456DFA9E}|09.PokemonTrainer\\09.PokemonTrainer.csproj|d:\\programsscool\\git hub\\softuni-csharp\\advanced - maj 2024\\06.definingclasses-exercise\\09.pokemontrainer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BF93D0D-CA5C-4739-A2E7-E3F8456DFA9E}|09.PokemonTrainer\\09.PokemonTrainer.csproj|solutionrelative:09.pokemontrainer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BF93D0D-CA5C-4739-A2E7-E3F8456DFA9E}|09.PokemonTrainer\\09.PokemonTrainer.csproj|d:\\programsscool\\git hub\\softuni-csharp\\advanced - maj 2024\\06.definingclasses-exercise\\09.pokemontrainer\\trainer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BF93D0D-CA5C-4739-A2E7-E3F8456DFA9E}|09.PokemonTrainer\\09.PokemonTrainer.csproj|solutionrelative:09.pokemontrainer\\trainer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2811702-A0BA-4C19-B523-9A8B8B1CA35B}|08.CarSalesman\\08.CarSalesman.csproj|d:\\programsscool\\git hub\\softuni-csharp\\advanced - maj 2024\\06.definingclasses-exercise\\08.carsalesman\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2811702-A0BA-4C19-B523-9A8B8B1CA35B}|08.CarSalesman\\08.CarSalesman.csproj|solutionrelative:08.carsalesman\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2811702-A0BA-4C19-B523-9A8B8B1CA35B}|08.CarSalesman\\08.CarSalesman.csproj|d:\\programsscool\\git hub\\softuni-csharp\\advanced - maj 2024\\06.definingclasses-exercise\\08.carsalesman\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2811702-A0BA-4C19-B523-9A8B8B1CA35B}|08.CarSalesman\\08.CarSalesman.csproj|solutionrelative:08.carsalesman\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82014AE3-940B-46DD-A24E-BB1A3C8E8F9C}|DateModifier\\DateModifier.csproj|d:\\programsscool\\git hub\\softuni-csharp\\advanced - maj 2024\\06.definingclasses-exercise\\datemodifier\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82014AE3-940B-46DD-A24E-BB1A3C8E8F9C}|DateModifier\\DateModifier.csproj|solutionrelative:datemodifier\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2811702-A0BA-4C19-B523-9A8B8B1CA35B}|08.CarSalesman\\08.CarSalesman.csproj|d:\\programsscool\\git hub\\softuni-csharp\\advanced - maj 2024\\06.definingclasses-exercise\\08.carsalesman\\engine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2811702-A0BA-4C19-B523-9A8B8B1CA35B}|08.CarSalesman\\08.CarSalesman.csproj|solutionrelative:08.carsalesman\\engine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82014AE3-940B-46DD-A24E-BB1A3C8E8F9C}|DateModifier\\DateModifier.csproj|d:\\programsscool\\git hub\\softuni-csharp\\advanced - maj 2024\\06.definingclasses-exercise\\datemodifier\\datemodifier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82014AE3-940B-46DD-A24E-BB1A3C8E8F9C}|DateModifier\\DateModifier.csproj|solutionrelative:datemodifier\\datemodifier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20463050-B625-4508-8AE1-FF113A5D48E5}|07.RawData\\07.RawData.csproj|d:\\programsscool\\git hub\\softuni-csharp\\advanced - maj 2024\\06.definingclasses-exercise\\07.rawdata\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20463050-B625-4508-8AE1-FF113A5D48E5}|07.RawData\\07.RawData.csproj|solutionrelative:07.rawdata\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20463050-B625-4508-8AE1-FF113A5D48E5}|07.RawData\\07.RawData.csproj|d:\\programsscool\\git hub\\softuni-csharp\\advanced - maj 2024\\06.definingclasses-exercise\\07.rawdata\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20463050-B625-4508-8AE1-FF113A5D48E5}|07.RawData\\07.RawData.csproj|solutionrelative:07.rawdata\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20463050-B625-4508-8AE1-FF113A5D48E5}|07.RawData\\07.RawData.csproj|d:\\programsscool\\git hub\\softuni-csharp\\advanced - maj 2024\\06.definingclasses-exercise\\07.rawdata\\tire.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20463050-B625-4508-8AE1-FF113A5D48E5}|07.RawData\\07.RawData.csproj|solutionrelative:07.rawdata\\tire.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20463050-B625-4508-8AE1-FF113A5D48E5}|07.RawData\\07.RawData.csproj|d:\\programsscool\\git hub\\softuni-csharp\\advanced - maj 2024\\06.definingclasses-exercise\\07.rawdata\\cargo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20463050-B625-4508-8AE1-FF113A5D48E5}|07.RawData\\07.RawData.csproj|solutionrelative:07.rawdata\\cargo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20463050-B625-4508-8AE1-FF113A5D48E5}|07.RawData\\07.RawData.csproj|d:\\programsscool\\git hub\\softuni-csharp\\advanced - maj 2024\\06.definingclasses-exercise\\07.rawdata\\engine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20463050-B625-4508-8AE1-FF113A5D48E5}|07.RawData\\07.RawData.csproj|solutionrelative:07.rawdata\\engine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81D53DD1-064A-472D-A82E-36A847372E03}|06.SpeedRacing\\06.SpeedRacing.csproj|d:\\programsscool\\git hub\\softuni-csharp\\advanced - maj 2024\\06.definingclasses-exercise\\06.speedracing\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81D53DD1-064A-472D-A82E-36A847372E03}|06.SpeedRacing\\06.SpeedRacing.csproj|solutionrelative:06.speedracing\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81D53DD1-064A-472D-A82E-36A847372E03}|06.SpeedRacing\\06.SpeedRacing.csproj|d:\\programsscool\\git hub\\softuni-csharp\\advanced - maj 2024\\06.definingclasses-exercise\\06.speedracing\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81D53DD1-064A-472D-A82E-36A847372E03}|06.SpeedRacing\\06.SpeedRacing.csproj|solutionrelative:06.speedracing\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9E2BE60-B4F6-4E95-A016-83C0684EB690}|01.DefineAClassPerson\\DefiningClasses.csproj|d:\\programsscool\\git hub\\softuni-csharp\\advanced - maj 2024\\06.definingclasses-exercise\\01.defineaclassperson\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9E2BE60-B4F6-4E95-A016-83C0684EB690}|01.DefineAClassPerson\\DefiningClasses.csproj|solutionrelative:01.defineaclassperson\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9E2BE60-B4F6-4E95-A016-83C0684EB690}|01.DefineAClassPerson\\DefiningClasses.csproj|d:\\programsscool\\git hub\\softuni-csharp\\advanced - maj 2024\\06.definingclasses-exercise\\01.defineaclassperson\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9E2BE60-B4F6-4E95-A016-83C0684EB690}|01.DefineAClassPerson\\DefiningClasses.csproj|solutionrelative:01.defineaclassperson\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9E2BE60-B4F6-4E95-A016-83C0684EB690}|01.DefineAClassPerson\\DefiningClasses.csproj|d:\\programsscool\\git hub\\softuni-csharp\\advanced - maj 2024\\06.definingclasses-exercise\\01.defineaclassperson\\family.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9E2BE60-B4F6-4E95-A016-83C0684EB690}|01.DefineAClassPerson\\DefiningClasses.csproj|solutionrelative:01.defineaclassperson\\family.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Pokemon.cs",
+              "DocumentMoniker": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\Advanced - Maj 2024\\06.DefiningClasses-Exercise\\09.PokemonTrainer\\Pokemon.cs",
+              "RelativeDocumentMoniker": "09.PokemonTrainer\\Pokemon.cs",
+              "ToolTip": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\Advanced - Maj 2024\\06.DefiningClasses-Exercise\\09.PokemonTrainer\\Pokemon.cs",
+              "RelativeToolTip": "09.PokemonTrainer\\Pokemon.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-08T13:13:09.315Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Trainer.cs",
+              "DocumentMoniker": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\Advanced - Maj 2024\\06.DefiningClasses-Exercise\\09.PokemonTrainer\\Trainer.cs",
+              "RelativeDocumentMoniker": "09.PokemonTrainer\\Trainer.cs",
+              "ToolTip": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\Advanced - Maj 2024\\06.DefiningClasses-Exercise\\09.PokemonTrainer\\Trainer.cs",
+              "RelativeToolTip": "09.PokemonTrainer\\Trainer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-08T13:12:59.052Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\Advanced - Maj 2024\\06.DefiningClasses-Exercise\\09.PokemonTrainer\\Program.cs",
+              "RelativeDocumentMoniker": "09.PokemonTrainer\\Program.cs",
+              "ToolTip": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\Advanced - Maj 2024\\06.DefiningClasses-Exercise\\09.PokemonTrainer\\Program.cs",
+              "RelativeToolTip": "09.PokemonTrainer\\Program.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAqwC4AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-08T13:12:16.754Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Engine.cs",
+              "DocumentMoniker": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\Advanced - Maj 2024\\06.DefiningClasses-Exercise\\08.CarSalesman\\Engine.cs",
+              "RelativeDocumentMoniker": "08.CarSalesman\\Engine.cs",
+              "ToolTip": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\Advanced - Maj 2024\\06.DefiningClasses-Exercise\\08.CarSalesman\\Engine.cs",
+              "RelativeToolTip": "08.CarSalesman\\Engine.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAQAAABSAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-08T11:42:53.367Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Car.cs",
+              "DocumentMoniker": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\Advanced - Maj 2024\\06.DefiningClasses-Exercise\\08.CarSalesman\\Car.cs",
+              "RelativeDocumentMoniker": "08.CarSalesman\\Car.cs",
+              "ToolTip": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\Advanced - Maj 2024\\06.DefiningClasses-Exercise\\08.CarSalesman\\Car.cs",
+              "RelativeToolTip": "08.CarSalesman\\Car.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAAABYAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-08T11:42:44.996Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\Advanced - Maj 2024\\06.DefiningClasses-Exercise\\08.CarSalesman\\Program.cs",
+              "RelativeDocumentMoniker": "08.CarSalesman\\Program.cs",
+              "ToolTip": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\Advanced - Maj 2024\\06.DefiningClasses-Exercise\\08.CarSalesman\\Program.cs",
+              "RelativeToolTip": "08.CarSalesman\\Program.cs",
+              "ViewState": "AQIAACsAAAAAAAAAAAAgwAwAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-08T11:40:43.02Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Tire.cs",
+              "DocumentMoniker": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\Advanced - Maj 2024\\06.DefiningClasses-Exercise\\07.RawData\\Tire.cs",
+              "RelativeDocumentMoniker": "07.RawData\\Tire.cs",
+              "ToolTip": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\Advanced - Maj 2024\\06.DefiningClasses-Exercise\\07.RawData\\Tire.cs",
+              "RelativeToolTip": "07.RawData\\Tire.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAoAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-08T09:06:58.086Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Cargo.cs",
+              "DocumentMoniker": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\Advanced - Maj 2024\\06.DefiningClasses-Exercise\\07.RawData\\Cargo.cs",
+              "RelativeDocumentMoniker": "07.RawData\\Cargo.cs",
+              "ToolTip": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\Advanced - Maj 2024\\06.DefiningClasses-Exercise\\07.RawData\\Cargo.cs",
+              "RelativeToolTip": "07.RawData\\Cargo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-08T09:04:59.974Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Engine.cs",
+              "DocumentMoniker": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\Advanced - Maj 2024\\06.DefiningClasses-Exercise\\07.RawData\\Engine.cs",
+              "RelativeDocumentMoniker": "07.RawData\\Engine.cs",
+              "ToolTip": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\Advanced - Maj 2024\\06.DefiningClasses-Exercise\\07.RawData\\Engine.cs",
+              "RelativeToolTip": "07.RawData\\Engine.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAQwBEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-08T09:04:02.116Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Car.cs",
+              "DocumentMoniker": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\Advanced - Maj 2024\\06.DefiningClasses-Exercise\\07.RawData\\Car.cs",
+              "RelativeDocumentMoniker": "07.RawData\\Car.cs",
+              "ToolTip": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\Advanced - Maj 2024\\06.DefiningClasses-Exercise\\07.RawData\\Car.cs",
+              "RelativeToolTip": "07.RawData\\Car.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAQwB8AAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-08T09:03:17.552Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\Advanced - Maj 2024\\06.DefiningClasses-Exercise\\07.RawData\\Program.cs",
+              "RelativeDocumentMoniker": "07.RawData\\Program.cs",
+              "ToolTip": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\Advanced - Maj 2024\\06.DefiningClasses-Exercise\\07.RawData\\Program.cs",
+              "RelativeToolTip": "07.RawData\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T21:47:56.115Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Car.cs",
+              "DocumentMoniker": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\Advanced - Maj 2024\\06.DefiningClasses-Exercise\\06.SpeedRacing\\Car.cs",
+              "RelativeDocumentMoniker": "06.SpeedRacing\\Car.cs",
+              "ToolTip": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\Advanced - Maj 2024\\06.DefiningClasses-Exercise\\06.SpeedRacing\\Car.cs",
+              "RelativeToolTip": "06.SpeedRacing\\Car.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T20:55:38.035Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\Advanced - Maj 2024\\06.DefiningClasses-Exercise\\06.SpeedRacing\\Program.cs",
+              "RelativeDocumentMoniker": "06.SpeedRacing\\Program.cs",
+              "ToolTip": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\Advanced - Maj 2024\\06.DefiningClasses-Exercise\\06.SpeedRacing\\Program.cs",
+              "RelativeToolTip": "06.SpeedRacing\\Program.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAAwBEAAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T20:53:48.732Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DateModifier.cs",
+              "DocumentMoniker": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\Advanced - Maj 2024\\06.DefiningClasses-Exercise\\DateModifier\\DateModifier.cs",
+              "RelativeDocumentMoniker": "DateModifier\\DateModifier.cs",
+              "ToolTip": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\Advanced - Maj 2024\\06.DefiningClasses-Exercise\\DateModifier\\DateModifier.cs",
+              "RelativeToolTip": "DateModifier\\DateModifier.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T20:44:08.56Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\Advanced - Maj 2024\\06.DefiningClasses-Exercise\\DateModifier\\Program.cs",
+              "RelativeDocumentMoniker": "DateModifier\\Program.cs",
+              "ToolTip": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\Advanced - Maj 2024\\06.DefiningClasses-Exercise\\DateModifier\\Program.cs",
+              "RelativeToolTip": "DateModifier\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T17:08:08.029Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Family.cs",
+              "DocumentMoniker": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\Advanced - Maj 2024\\06.DefiningClasses-Exercise\\01.DefineAClassPerson\\Family.cs",
+              "RelativeDocumentMoniker": "01.DefineAClassPerson\\Family.cs",
+              "ToolTip": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\Advanced - Maj 2024\\06.DefiningClasses-Exercise\\01.DefineAClassPerson\\Family.cs",
+              "RelativeToolTip": "01.DefineAClassPerson\\Family.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAxwBoAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T15:40:45.745Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Person.cs",
+              "DocumentMoniker": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\Advanced - Maj 2024\\06.DefiningClasses-Exercise\\01.DefineAClassPerson\\Person.cs",
+              "RelativeDocumentMoniker": "01.DefineAClassPerson\\Person.cs",
+              "ToolTip": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\Advanced - Maj 2024\\06.DefiningClasses-Exercise\\01.DefineAClassPerson\\Person.cs",
+              "RelativeToolTip": "01.DefineAClassPerson\\Person.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAQwB8AAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T15:22:42.603Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "StartUp.cs",
+              "DocumentMoniker": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\Advanced - Maj 2024\\06.DefiningClasses-Exercise\\01.DefineAClassPerson\\StartUp.cs",
+              "RelativeDocumentMoniker": "01.DefineAClassPerson\\StartUp.cs",
+              "ToolTip": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\Advanced - Maj 2024\\06.DefiningClasses-Exercise\\01.DefineAClassPerson\\StartUp.cs",
+              "RelativeToolTip": "01.DefineAClassPerson\\StartUp.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T15:05:55.56Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\04.ProgrammingFundamentalsМidExam\02.ShoppingList\bin\Debug\net7.0\02.ShoppingList.exe
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\04.ProgrammingFundamentalsМidExam\02.ShoppingList\bin\Debug\net7.0\02.ShoppingList.deps.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\04.ProgrammingFundamentalsМidExam\02.ShoppingList\bin\Debug\net7.0\02.ShoppingList.runtimeconfig.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\04.ProgrammingFundamentalsМidExam\02.ShoppingList\bin\Debug\net7.0\02.ShoppingList.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\04.ProgrammingFundamentalsМidExam\02.ShoppingList\bin\Debug\net7.0\02.ShoppingList.pdb
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\04.ProgrammingFundamentalsМidExam\02.ShoppingList\obj\Debug\net7.0\02.ShoppingList.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\04.ProgrammingFundamentalsМidExam\02.ShoppingList\obj\Debug\net7.0\02.ShoppingList.AssemblyInfoInputs.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\04.ProgrammingFundamentalsМidExam\02.ShoppingList\obj\Debug\net7.0\02.ShoppingList.AssemblyInfo.cs
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\04.ProgrammingFundamentalsМidExam\02.ShoppingList\obj\Debug\net7.0\02.ShoppingList.csproj.CoreCompileInputs.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\04.ProgrammingFundamentalsМidExam\02.ShoppingList\obj\Debug\net7.0\02.ShoppingList.sourcelink.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\04.ProgrammingFundamentalsМidExam\02.ShoppingList\obj\Debug\net7.0\02.ShoppingList.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\04.ProgrammingFundamentalsМidExam\02.ShoppingList\obj\Debug\net7.0\refint\02.ShoppingList.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\04.ProgrammingFundamentalsМidExam\02.ShoppingList\obj\Debug\net7.0\02.ShoppingList.pdb
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\04.ProgrammingFundamentalsМidExam\02.ShoppingList\obj\Debug\net7.0\02.ShoppingList.genruntimeconfig.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\04.ProgrammingFundamentalsМidExam\02.ShoppingList\obj\Debug\net7.0\ref\02.ShoppingList.dll

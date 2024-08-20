@@ -1,0 +1,223 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\OOP - June 2024\\ExamPreparation\\C#OOPRetakeExam\u201319December2023\\HighwayToPeak-Skeleton\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{20354CBB-A52D-47BC-84C0-B809A1CE4C0E}|HighwayToPeak.csproj|d:\\programsscool\\git hub\\softuni-csharp\\oop - june 2024\\exampreparation\\c#oopretakeexam\u201319december2023\\highwaytopeak-skeleton\\utilities\\results\\actual.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{20354CBB-A52D-47BC-84C0-B809A1CE4C0E}|HighwayToPeak.csproj|solutionrelative:utilities\\results\\actual.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20354CBB-A52D-47BC-84C0-B809A1CE4C0E}|HighwayToPeak.csproj|d:\\programsscool\\git hub\\softuni-csharp\\oop - june 2024\\exampreparation\\c#oopretakeexam\u201319december2023\\highwaytopeak-skeleton\\core\\controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20354CBB-A52D-47BC-84C0-B809A1CE4C0E}|HighwayToPeak.csproj|solutionrelative:core\\controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20354CBB-A52D-47BC-84C0-B809A1CE4C0E}|HighwayToPeak.csproj|d:\\programsscool\\git hub\\softuni-csharp\\oop - june 2024\\exampreparation\\c#oopretakeexam\u201319december2023\\highwaytopeak-skeleton\\models\\climber.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20354CBB-A52D-47BC-84C0-B809A1CE4C0E}|HighwayToPeak.csproj|solutionrelative:models\\climber.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20354CBB-A52D-47BC-84C0-B809A1CE4C0E}|HighwayToPeak.csproj|d:\\programsscool\\git hub\\softuni-csharp\\oop - june 2024\\exampreparation\\c#oopretakeexam\u201319december2023\\highwaytopeak-skeleton\\models\\basecamp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20354CBB-A52D-47BC-84C0-B809A1CE4C0E}|HighwayToPeak.csproj|solutionrelative:models\\basecamp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20354CBB-A52D-47BC-84C0-B809A1CE4C0E}|HighwayToPeak.csproj|d:\\programsscool\\git hub\\softuni-csharp\\oop - june 2024\\exampreparation\\c#oopretakeexam\u201319december2023\\highwaytopeak-skeleton\\core\\engine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20354CBB-A52D-47BC-84C0-B809A1CE4C0E}|HighwayToPeak.csproj|solutionrelative:core\\engine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20354CBB-A52D-47BC-84C0-B809A1CE4C0E}|HighwayToPeak.csproj|d:\\programsscool\\git hub\\softuni-csharp\\oop - june 2024\\exampreparation\\c#oopretakeexam\u201319december2023\\highwaytopeak-skeleton\\utilities\\results\\expected.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{20354CBB-A52D-47BC-84C0-B809A1CE4C0E}|HighwayToPeak.csproj|solutionrelative:utilities\\results\\expected.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20354CBB-A52D-47BC-84C0-B809A1CE4C0E}|HighwayToPeak.csproj|d:\\programsscool\\git hub\\softuni-csharp\\oop - june 2024\\exampreparation\\c#oopretakeexam\u201319december2023\\highwaytopeak-skeleton\\utilities\\messages\\outputmessages.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20354CBB-A52D-47BC-84C0-B809A1CE4C0E}|HighwayToPeak.csproj|solutionrelative:utilities\\messages\\outputmessages.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20354CBB-A52D-47BC-84C0-B809A1CE4C0E}|HighwayToPeak.csproj|d:\\programsscool\\git hub\\softuni-csharp\\oop - june 2024\\exampreparation\\c#oopretakeexam\u201319december2023\\highwaytopeak-skeleton\\repositories\\climberrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20354CBB-A52D-47BC-84C0-B809A1CE4C0E}|HighwayToPeak.csproj|solutionrelative:repositories\\climberrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20354CBB-A52D-47BC-84C0-B809A1CE4C0E}|HighwayToPeak.csproj|d:\\programsscool\\git hub\\softuni-csharp\\oop - june 2024\\exampreparation\\c#oopretakeexam\u201319december2023\\highwaytopeak-skeleton\\models\\contracts\\iclimber.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20354CBB-A52D-47BC-84C0-B809A1CE4C0E}|HighwayToPeak.csproj|solutionrelative:models\\contracts\\iclimber.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20354CBB-A52D-47BC-84C0-B809A1CE4C0E}|HighwayToPeak.csproj|d:\\programsscool\\git hub\\softuni-csharp\\oop - june 2024\\exampreparation\\c#oopretakeexam\u201319december2023\\highwaytopeak-skeleton\\models\\contracts\\ibasecamp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20354CBB-A52D-47BC-84C0-B809A1CE4C0E}|HighwayToPeak.csproj|solutionrelative:models\\contracts\\ibasecamp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20354CBB-A52D-47BC-84C0-B809A1CE4C0E}|HighwayToPeak.csproj|d:\\programsscool\\git hub\\softuni-csharp\\oop - june 2024\\exampreparation\\c#oopretakeexam\u201319december2023\\highwaytopeak-skeleton\\core\\contracts\\iengine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20354CBB-A52D-47BC-84C0-B809A1CE4C0E}|HighwayToPeak.csproj|solutionrelative:core\\contracts\\iengine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Actual.txt",
+              "DocumentMoniker": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\OOP - June 2024\\ExamPreparation\\C#OOPRetakeExam\u201319December2023\\HighwayToPeak-Skeleton\\Utilities\\Results\\Actual.txt",
+              "RelativeDocumentMoniker": "Utilities\\Results\\Actual.txt",
+              "ToolTip": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\OOP - June 2024\\ExamPreparation\\C#OOPRetakeExam\u201319December2023\\HighwayToPeak-Skeleton\\Utilities\\Results\\Actual.txt",
+              "RelativeToolTip": "Utilities\\Results\\Actual.txt",
+              "ViewState": "AQIAABcAAAAAAAAAAAAuwD4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-08-03T14:47:16.288Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Expected.txt",
+              "DocumentMoniker": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\OOP - June 2024\\ExamPreparation\\C#OOPRetakeExam\u201319December2023\\HighwayToPeak-Skeleton\\Utilities\\Results\\Expected.txt",
+              "RelativeDocumentMoniker": "Utilities\\Results\\Expected.txt",
+              "ToolTip": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\OOP - June 2024\\ExamPreparation\\C#OOPRetakeExam\u201319December2023\\HighwayToPeak-Skeleton\\Utilities\\Results\\Expected.txt",
+              "RelativeToolTip": "Utilities\\Results\\Expected.txt",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAuwD4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-08-03T14:43:53.052Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Engine.cs",
+              "DocumentMoniker": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\OOP - June 2024\\ExamPreparation\\C#OOPRetakeExam\u201319December2023\\HighwayToPeak-Skeleton\\Core\\Engine.cs",
+              "RelativeDocumentMoniker": "Core\\Engine.cs",
+              "ToolTip": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\OOP - June 2024\\ExamPreparation\\C#OOPRetakeExam\u201319December2023\\HighwayToPeak-Skeleton\\Core\\Engine.cs",
+              "RelativeToolTip": "Core\\Engine.cs",
+              "ViewState": "AQIAACMAAAAAAAAAAAAwwDoAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T14:40:36.143Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Climber.cs",
+              "DocumentMoniker": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\OOP - June 2024\\ExamPreparation\\C#OOPRetakeExam\u201319December2023\\HighwayToPeak-Skeleton\\Models\\Climber.cs",
+              "RelativeDocumentMoniker": "Models\\Climber.cs",
+              "ToolTip": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\OOP - June 2024\\ExamPreparation\\C#OOPRetakeExam\u201319December2023\\HighwayToPeak-Skeleton\\Models\\Climber.cs",
+              "RelativeToolTip": "Models\\Climber.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAA5wC4AAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T14:12:21.231Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ClimberRepository.cs",
+              "DocumentMoniker": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\OOP - June 2024\\ExamPreparation\\C#OOPRetakeExam\u201319December2023\\HighwayToPeak-Skeleton\\Repositories\\ClimberRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\ClimberRepository.cs",
+              "ToolTip": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\OOP - June 2024\\ExamPreparation\\C#OOPRetakeExam\u201319December2023\\HighwayToPeak-Skeleton\\Repositories\\ClimberRepository.cs",
+              "RelativeToolTip": "Repositories\\ClimberRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T14:38:13.53Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IClimber.cs",
+              "DocumentMoniker": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\OOP - June 2024\\ExamPreparation\\C#OOPRetakeExam\u201319December2023\\HighwayToPeak-Skeleton\\Models\\Contracts\\IClimber.cs",
+              "RelativeDocumentMoniker": "Models\\Contracts\\IClimber.cs",
+              "ToolTip": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\OOP - June 2024\\ExamPreparation\\C#OOPRetakeExam\u201319December2023\\HighwayToPeak-Skeleton\\Models\\Contracts\\IClimber.cs",
+              "RelativeToolTip": "Models\\Contracts\\IClimber.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T14:16:27.049Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IEngine.cs",
+              "DocumentMoniker": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\OOP - June 2024\\ExamPreparation\\C#OOPRetakeExam\u201319December2023\\HighwayToPeak-Skeleton\\Core\\Contracts\\IEngine.cs",
+              "RelativeDocumentMoniker": "Core\\Contracts\\IEngine.cs",
+              "ToolTip": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\OOP - June 2024\\ExamPreparation\\C#OOPRetakeExam\u201319December2023\\HighwayToPeak-Skeleton\\Core\\Contracts\\IEngine.cs",
+              "RelativeToolTip": "Core\\Contracts\\IEngine.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T14:03:39.953Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BaseCamp.cs",
+              "DocumentMoniker": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\OOP - June 2024\\ExamPreparation\\C#OOPRetakeExam\u201319December2023\\HighwayToPeak-Skeleton\\Models\\BaseCamp.cs",
+              "RelativeDocumentMoniker": "Models\\BaseCamp.cs",
+              "ToolTip": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\OOP - June 2024\\ExamPreparation\\C#OOPRetakeExam\u201319December2023\\HighwayToPeak-Skeleton\\Models\\BaseCamp.cs",
+              "RelativeToolTip": "Models\\BaseCamp.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T14:03:04.465Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IBaseCamp.cs",
+              "DocumentMoniker": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\OOP - June 2024\\ExamPreparation\\C#OOPRetakeExam\u201319December2023\\HighwayToPeak-Skeleton\\Models\\Contracts\\IBaseCamp.cs",
+              "RelativeDocumentMoniker": "Models\\Contracts\\IBaseCamp.cs",
+              "ToolTip": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\OOP - June 2024\\ExamPreparation\\C#OOPRetakeExam\u201319December2023\\HighwayToPeak-Skeleton\\Models\\Contracts\\IBaseCamp.cs",
+              "RelativeToolTip": "Models\\Contracts\\IBaseCamp.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T14:02:53.251Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "OutputMessages.cs",
+              "DocumentMoniker": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\OOP - June 2024\\ExamPreparation\\C#OOPRetakeExam\u201319December2023\\HighwayToPeak-Skeleton\\Utilities\\Messages\\OutputMessages.cs",
+              "RelativeDocumentMoniker": "Utilities\\Messages\\OutputMessages.cs",
+              "ToolTip": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\OOP - June 2024\\ExamPreparation\\C#OOPRetakeExam\u201319December2023\\HighwayToPeak-Skeleton\\Utilities\\Messages\\OutputMessages.cs",
+              "RelativeToolTip": "Utilities\\Messages\\OutputMessages.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAABuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T13:46:35.779Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Controller.cs",
+              "DocumentMoniker": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\OOP - June 2024\\ExamPreparation\\C#OOPRetakeExam\u201319December2023\\HighwayToPeak-Skeleton\\Core\\Controller.cs",
+              "RelativeDocumentMoniker": "Core\\Controller.cs",
+              "ToolTip": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\OOP - June 2024\\ExamPreparation\\C#OOPRetakeExam\u201319December2023\\HighwayToPeak-Skeleton\\Core\\Controller.cs",
+              "RelativeToolTip": "Core\\Controller.cs",
+              "ViewState": "AQIAAFoAAAAAAAAAAAAIwHUAAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T13:38:02.906Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

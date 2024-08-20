@@ -1,0 +1,15 @@
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\01.StacksAndQueues-Exercise\01.BasicStackOperations\bin\Debug\net8.0\01.BasicStackOperations.exe
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\01.StacksAndQueues-Exercise\01.BasicStackOperations\bin\Debug\net8.0\01.BasicStackOperations.deps.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\01.StacksAndQueues-Exercise\01.BasicStackOperations\bin\Debug\net8.0\01.BasicStackOperations.runtimeconfig.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\01.StacksAndQueues-Exercise\01.BasicStackOperations\bin\Debug\net8.0\01.BasicStackOperations.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\01.StacksAndQueues-Exercise\01.BasicStackOperations\bin\Debug\net8.0\01.BasicStackOperations.pdb
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\01.StacksAndQueues-Exercise\01.BasicStackOperations\obj\Debug\net8.0\01.BasicStackOperations.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\01.StacksAndQueues-Exercise\01.BasicStackOperations\obj\Debug\net8.0\01.BasicStackOperations.AssemblyInfoInputs.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\01.StacksAndQueues-Exercise\01.BasicStackOperations\obj\Debug\net8.0\01.BasicStackOperations.AssemblyInfo.cs
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\01.StacksAndQueues-Exercise\01.BasicStackOperations\obj\Debug\net8.0\01.BasicStackOperations.csproj.CoreCompileInputs.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\01.StacksAndQueues-Exercise\01.BasicStackOperations\obj\Debug\net8.0\01.BasicStackOperations.sourcelink.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\01.StacksAndQueues-Exercise\01.BasicStackOperations\obj\Debug\net8.0\01.BasicStackOperations.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\01.StacksAndQueues-Exercise\01.BasicStackOperations\obj\Debug\net8.0\refint\01.BasicStackOperations.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\01.StacksAndQueues-Exercise\01.BasicStackOperations\obj\Debug\net8.0\01.BasicStackOperations.pdb
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\01.StacksAndQueues-Exercise\01.BasicStackOperations\obj\Debug\net8.0\01.BasicStackOperations.genruntimeconfig.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\01.StacksAndQueues-Exercise\01.BasicStackOperations\obj\Debug\net8.0\ref\01.BasicStackOperations.dll

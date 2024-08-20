@@ -1,0 +1,15 @@
+D:\ProgramsScool\PB-september.2023\08.ForLoo- Exercise\02.HalfSumElement\bin\Debug\net6.0\02.HalfSumElement.exe
+D:\ProgramsScool\PB-september.2023\08.ForLoo- Exercise\02.HalfSumElement\bin\Debug\net6.0\02.HalfSumElement.deps.json
+D:\ProgramsScool\PB-september.2023\08.ForLoo- Exercise\02.HalfSumElement\bin\Debug\net6.0\02.HalfSumElement.runtimeconfig.json
+D:\ProgramsScool\PB-september.2023\08.ForLoo- Exercise\02.HalfSumElement\bin\Debug\net6.0\02.HalfSumElement.dll
+D:\ProgramsScool\PB-september.2023\08.ForLoo- Exercise\02.HalfSumElement\bin\Debug\net6.0\02.HalfSumElement.pdb
+D:\ProgramsScool\PB-september.2023\08.ForLoo- Exercise\02.HalfSumElement\obj\Debug\net6.0\02.HalfSumElement.csproj.AssemblyReference.cache
+D:\ProgramsScool\PB-september.2023\08.ForLoo- Exercise\02.HalfSumElement\obj\Debug\net6.0\02.HalfSumElement.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProgramsScool\PB-september.2023\08.ForLoo- Exercise\02.HalfSumElement\obj\Debug\net6.0\02.HalfSumElement.AssemblyInfoInputs.cache
+D:\ProgramsScool\PB-september.2023\08.ForLoo- Exercise\02.HalfSumElement\obj\Debug\net6.0\02.HalfSumElement.AssemblyInfo.cs
+D:\ProgramsScool\PB-september.2023\08.ForLoo- Exercise\02.HalfSumElement\obj\Debug\net6.0\02.HalfSumElement.csproj.CoreCompileInputs.cache
+D:\ProgramsScool\PB-september.2023\08.ForLoo- Exercise\02.HalfSumElement\obj\Debug\net6.0\02.HalfSumElement.dll
+D:\ProgramsScool\PB-september.2023\08.ForLoo- Exercise\02.HalfSumElement\obj\Debug\net6.0\refint\02.HalfSumElement.dll
+D:\ProgramsScool\PB-september.2023\08.ForLoo- Exercise\02.HalfSumElement\obj\Debug\net6.0\02.HalfSumElement.pdb
+D:\ProgramsScool\PB-september.2023\08.ForLoo- Exercise\02.HalfSumElement\obj\Debug\net6.0\02.HalfSumElement.genruntimeconfig.cache
+D:\ProgramsScool\PB-september.2023\08.ForLoo- Exercise\02.HalfSumElement\obj\Debug\net6.0\ref\02.HalfSumElement.dll

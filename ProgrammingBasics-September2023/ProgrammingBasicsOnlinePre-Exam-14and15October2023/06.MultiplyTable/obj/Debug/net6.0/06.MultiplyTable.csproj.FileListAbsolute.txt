@@ -1,0 +1,15 @@
+D:\ProgramsScool\PB-september.2023\ProgrammingBasicsOnlinePre-Exam-14and15October2023\06.MultiplyTable\obj\Debug\net6.0\06.MultiplyTable.csproj.AssemblyReference.cache
+D:\ProgramsScool\PB-september.2023\ProgrammingBasicsOnlinePre-Exam-14and15October2023\06.MultiplyTable\obj\Debug\net6.0\06.MultiplyTable.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProgramsScool\PB-september.2023\ProgrammingBasicsOnlinePre-Exam-14and15October2023\06.MultiplyTable\obj\Debug\net6.0\06.MultiplyTable.AssemblyInfoInputs.cache
+D:\ProgramsScool\PB-september.2023\ProgrammingBasicsOnlinePre-Exam-14and15October2023\06.MultiplyTable\obj\Debug\net6.0\06.MultiplyTable.AssemblyInfo.cs
+D:\ProgramsScool\PB-september.2023\ProgrammingBasicsOnlinePre-Exam-14and15October2023\06.MultiplyTable\obj\Debug\net6.0\06.MultiplyTable.csproj.CoreCompileInputs.cache
+D:\ProgramsScool\PB-september.2023\ProgrammingBasicsOnlinePre-Exam-14and15October2023\06.MultiplyTable\bin\Debug\net6.0\06.MultiplyTable.exe
+D:\ProgramsScool\PB-september.2023\ProgrammingBasicsOnlinePre-Exam-14and15October2023\06.MultiplyTable\bin\Debug\net6.0\06.MultiplyTable.deps.json
+D:\ProgramsScool\PB-september.2023\ProgrammingBasicsOnlinePre-Exam-14and15October2023\06.MultiplyTable\bin\Debug\net6.0\06.MultiplyTable.runtimeconfig.json
+D:\ProgramsScool\PB-september.2023\ProgrammingBasicsOnlinePre-Exam-14and15October2023\06.MultiplyTable\bin\Debug\net6.0\06.MultiplyTable.dll
+D:\ProgramsScool\PB-september.2023\ProgrammingBasicsOnlinePre-Exam-14and15October2023\06.MultiplyTable\bin\Debug\net6.0\06.MultiplyTable.pdb
+D:\ProgramsScool\PB-september.2023\ProgrammingBasicsOnlinePre-Exam-14and15October2023\06.MultiplyTable\obj\Debug\net6.0\06.MultiplyTable.dll
+D:\ProgramsScool\PB-september.2023\ProgrammingBasicsOnlinePre-Exam-14and15October2023\06.MultiplyTable\obj\Debug\net6.0\refint\06.MultiplyTable.dll
+D:\ProgramsScool\PB-september.2023\ProgrammingBasicsOnlinePre-Exam-14and15October2023\06.MultiplyTable\obj\Debug\net6.0\06.MultiplyTable.pdb
+D:\ProgramsScool\PB-september.2023\ProgrammingBasicsOnlinePre-Exam-14and15October2023\06.MultiplyTable\obj\Debug\net6.0\06.MultiplyTable.genruntimeconfig.cache
+D:\ProgramsScool\PB-september.2023\ProgrammingBasicsOnlinePre-Exam-14and15October2023\06.MultiplyTable\obj\Debug\net6.0\ref\06.MultiplyTable.dll

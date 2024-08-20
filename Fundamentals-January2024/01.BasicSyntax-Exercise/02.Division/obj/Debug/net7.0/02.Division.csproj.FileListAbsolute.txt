@@ -1,0 +1,15 @@
+D:\ProgramsScool\Git Hub\SoftUni-school\Fundamentals - January 2024\01.BasicSyntax-Exercise\02.Division\bin\Debug\net7.0\02.Division.exe
+D:\ProgramsScool\Git Hub\SoftUni-school\Fundamentals - January 2024\01.BasicSyntax-Exercise\02.Division\bin\Debug\net7.0\02.Division.deps.json
+D:\ProgramsScool\Git Hub\SoftUni-school\Fundamentals - January 2024\01.BasicSyntax-Exercise\02.Division\bin\Debug\net7.0\02.Division.runtimeconfig.json
+D:\ProgramsScool\Git Hub\SoftUni-school\Fundamentals - January 2024\01.BasicSyntax-Exercise\02.Division\bin\Debug\net7.0\02.Division.dll
+D:\ProgramsScool\Git Hub\SoftUni-school\Fundamentals - January 2024\01.BasicSyntax-Exercise\02.Division\bin\Debug\net7.0\02.Division.pdb
+D:\ProgramsScool\Git Hub\SoftUni-school\Fundamentals - January 2024\01.BasicSyntax-Exercise\02.Division\obj\Debug\net7.0\02.Division.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProgramsScool\Git Hub\SoftUni-school\Fundamentals - January 2024\01.BasicSyntax-Exercise\02.Division\obj\Debug\net7.0\02.Division.AssemblyInfoInputs.cache
+D:\ProgramsScool\Git Hub\SoftUni-school\Fundamentals - January 2024\01.BasicSyntax-Exercise\02.Division\obj\Debug\net7.0\02.Division.AssemblyInfo.cs
+D:\ProgramsScool\Git Hub\SoftUni-school\Fundamentals - January 2024\01.BasicSyntax-Exercise\02.Division\obj\Debug\net7.0\02.Division.csproj.CoreCompileInputs.cache
+D:\ProgramsScool\Git Hub\SoftUni-school\Fundamentals - January 2024\01.BasicSyntax-Exercise\02.Division\obj\Debug\net7.0\02.Division.sourcelink.json
+D:\ProgramsScool\Git Hub\SoftUni-school\Fundamentals - January 2024\01.BasicSyntax-Exercise\02.Division\obj\Debug\net7.0\02.Division.dll
+D:\ProgramsScool\Git Hub\SoftUni-school\Fundamentals - January 2024\01.BasicSyntax-Exercise\02.Division\obj\Debug\net7.0\refint\02.Division.dll
+D:\ProgramsScool\Git Hub\SoftUni-school\Fundamentals - January 2024\01.BasicSyntax-Exercise\02.Division\obj\Debug\net7.0\02.Division.pdb
+D:\ProgramsScool\Git Hub\SoftUni-school\Fundamentals - January 2024\01.BasicSyntax-Exercise\02.Division\obj\Debug\net7.0\02.Division.genruntimeconfig.cache
+D:\ProgramsScool\Git Hub\SoftUni-school\Fundamentals - January 2024\01.BasicSyntax-Exercise\02.Division\obj\Debug\net7.0\ref\02.Division.dll

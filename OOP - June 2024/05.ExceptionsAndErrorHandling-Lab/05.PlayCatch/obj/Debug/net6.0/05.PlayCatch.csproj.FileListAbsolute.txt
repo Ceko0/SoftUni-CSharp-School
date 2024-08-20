@@ -1,0 +1,15 @@
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\OOP - June 2024\05.ExceptionsAndErrorHandling-Lab\05.PlayCatch\bin\Debug\net6.0\05.PlayCatch.exe
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\OOP - June 2024\05.ExceptionsAndErrorHandling-Lab\05.PlayCatch\bin\Debug\net6.0\05.PlayCatch.deps.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\OOP - June 2024\05.ExceptionsAndErrorHandling-Lab\05.PlayCatch\bin\Debug\net6.0\05.PlayCatch.runtimeconfig.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\OOP - June 2024\05.ExceptionsAndErrorHandling-Lab\05.PlayCatch\bin\Debug\net6.0\05.PlayCatch.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\OOP - June 2024\05.ExceptionsAndErrorHandling-Lab\05.PlayCatch\bin\Debug\net6.0\05.PlayCatch.pdb
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\OOP - June 2024\05.ExceptionsAndErrorHandling-Lab\05.PlayCatch\obj\Debug\net6.0\05.PlayCatch.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\OOP - June 2024\05.ExceptionsAndErrorHandling-Lab\05.PlayCatch\obj\Debug\net6.0\05.PlayCatch.AssemblyInfoInputs.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\OOP - June 2024\05.ExceptionsAndErrorHandling-Lab\05.PlayCatch\obj\Debug\net6.0\05.PlayCatch.AssemblyInfo.cs
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\OOP - June 2024\05.ExceptionsAndErrorHandling-Lab\05.PlayCatch\obj\Debug\net6.0\05.PlayCatch.csproj.CoreCompileInputs.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\OOP - June 2024\05.ExceptionsAndErrorHandling-Lab\05.PlayCatch\obj\Debug\net6.0\05.PlayCatch.sourcelink.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\OOP - June 2024\05.ExceptionsAndErrorHandling-Lab\05.PlayCatch\obj\Debug\net6.0\05.PlayCatch.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\OOP - June 2024\05.ExceptionsAndErrorHandling-Lab\05.PlayCatch\obj\Debug\net6.0\refint\05.PlayCatch.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\OOP - June 2024\05.ExceptionsAndErrorHandling-Lab\05.PlayCatch\obj\Debug\net6.0\05.PlayCatch.pdb
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\OOP - June 2024\05.ExceptionsAndErrorHandling-Lab\05.PlayCatch\obj\Debug\net6.0\05.PlayCatch.genruntimeconfig.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\OOP - June 2024\05.ExceptionsAndErrorHandling-Lab\05.PlayCatch\obj\Debug\net6.0\ref\05.PlayCatch.dll

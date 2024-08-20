@@ -1,0 +1,14 @@
+D:\ProgramsScool\Fundamental C# 2024\05.For-Loop-MoreExercises\04. Grades\bin\Debug\net7.0\04. Grades.exe
+D:\ProgramsScool\Fundamental C# 2024\05.For-Loop-MoreExercises\04. Grades\bin\Debug\net7.0\04. Grades.deps.json
+D:\ProgramsScool\Fundamental C# 2024\05.For-Loop-MoreExercises\04. Grades\bin\Debug\net7.0\04. Grades.runtimeconfig.json
+D:\ProgramsScool\Fundamental C# 2024\05.For-Loop-MoreExercises\04. Grades\bin\Debug\net7.0\04. Grades.dll
+D:\ProgramsScool\Fundamental C# 2024\05.For-Loop-MoreExercises\04. Grades\bin\Debug\net7.0\04. Grades.pdb
+D:\ProgramsScool\Fundamental C# 2024\05.For-Loop-MoreExercises\04. Grades\obj\Debug\net7.0\04. Grades.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProgramsScool\Fundamental C# 2024\05.For-Loop-MoreExercises\04. Grades\obj\Debug\net7.0\04. Grades.AssemblyInfoInputs.cache
+D:\ProgramsScool\Fundamental C# 2024\05.For-Loop-MoreExercises\04. Grades\obj\Debug\net7.0\04. Grades.AssemblyInfo.cs
+D:\ProgramsScool\Fundamental C# 2024\05.For-Loop-MoreExercises\04. Grades\obj\Debug\net7.0\04. Grades.csproj.CoreCompileInputs.cache
+D:\ProgramsScool\Fundamental C# 2024\05.For-Loop-MoreExercises\04. Grades\obj\Debug\net7.0\04. Grades.dll
+D:\ProgramsScool\Fundamental C# 2024\05.For-Loop-MoreExercises\04. Grades\obj\Debug\net7.0\refint\04. Grades.dll
+D:\ProgramsScool\Fundamental C# 2024\05.For-Loop-MoreExercises\04. Grades\obj\Debug\net7.0\04. Grades.pdb
+D:\ProgramsScool\Fundamental C# 2024\05.For-Loop-MoreExercises\04. Grades\obj\Debug\net7.0\04. Grades.genruntimeconfig.cache
+D:\ProgramsScool\Fundamental C# 2024\05.For-Loop-MoreExercises\04. Grades\obj\Debug\net7.0\ref\04. Grades.dll

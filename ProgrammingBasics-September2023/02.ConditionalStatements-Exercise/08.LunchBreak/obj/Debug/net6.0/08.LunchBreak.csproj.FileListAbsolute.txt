@@ -1,0 +1,15 @@
+D:\ProgramsScool\PB-september.2023\04.ConditionalStatements-Exercise\08.LunchBreak\bin\Debug\net6.0\08.LunchBreak.exe
+D:\ProgramsScool\PB-september.2023\04.ConditionalStatements-Exercise\08.LunchBreak\bin\Debug\net6.0\08.LunchBreak.deps.json
+D:\ProgramsScool\PB-september.2023\04.ConditionalStatements-Exercise\08.LunchBreak\bin\Debug\net6.0\08.LunchBreak.runtimeconfig.json
+D:\ProgramsScool\PB-september.2023\04.ConditionalStatements-Exercise\08.LunchBreak\bin\Debug\net6.0\08.LunchBreak.dll
+D:\ProgramsScool\PB-september.2023\04.ConditionalStatements-Exercise\08.LunchBreak\bin\Debug\net6.0\08.LunchBreak.pdb
+D:\ProgramsScool\PB-september.2023\04.ConditionalStatements-Exercise\08.LunchBreak\obj\Debug\net6.0\08.LunchBreak.csproj.AssemblyReference.cache
+D:\ProgramsScool\PB-september.2023\04.ConditionalStatements-Exercise\08.LunchBreak\obj\Debug\net6.0\08.LunchBreak.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProgramsScool\PB-september.2023\04.ConditionalStatements-Exercise\08.LunchBreak\obj\Debug\net6.0\08.LunchBreak.AssemblyInfoInputs.cache
+D:\ProgramsScool\PB-september.2023\04.ConditionalStatements-Exercise\08.LunchBreak\obj\Debug\net6.0\08.LunchBreak.AssemblyInfo.cs
+D:\ProgramsScool\PB-september.2023\04.ConditionalStatements-Exercise\08.LunchBreak\obj\Debug\net6.0\08.LunchBreak.csproj.CoreCompileInputs.cache
+D:\ProgramsScool\PB-september.2023\04.ConditionalStatements-Exercise\08.LunchBreak\obj\Debug\net6.0\08.LunchBreak.dll
+D:\ProgramsScool\PB-september.2023\04.ConditionalStatements-Exercise\08.LunchBreak\obj\Debug\net6.0\refint\08.LunchBreak.dll
+D:\ProgramsScool\PB-september.2023\04.ConditionalStatements-Exercise\08.LunchBreak\obj\Debug\net6.0\08.LunchBreak.pdb
+D:\ProgramsScool\PB-september.2023\04.ConditionalStatements-Exercise\08.LunchBreak\obj\Debug\net6.0\08.LunchBreak.genruntimeconfig.cache
+D:\ProgramsScool\PB-september.2023\04.ConditionalStatements-Exercise\08.LunchBreak\obj\Debug\net6.0\ref\08.LunchBreak.dll

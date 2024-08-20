@@ -1,0 +1,15 @@
+D:\ProgramsScool\PB-september.2023\While-Loop-MoreExercises\03.StreamOfLetters\bin\Debug\net6.0\03.StreamOfLetters.exe
+D:\ProgramsScool\PB-september.2023\While-Loop-MoreExercises\03.StreamOfLetters\bin\Debug\net6.0\03.StreamOfLetters.deps.json
+D:\ProgramsScool\PB-september.2023\While-Loop-MoreExercises\03.StreamOfLetters\bin\Debug\net6.0\03.StreamOfLetters.runtimeconfig.json
+D:\ProgramsScool\PB-september.2023\While-Loop-MoreExercises\03.StreamOfLetters\bin\Debug\net6.0\03.StreamOfLetters.dll
+D:\ProgramsScool\PB-september.2023\While-Loop-MoreExercises\03.StreamOfLetters\bin\Debug\net6.0\03.StreamOfLetters.pdb
+D:\ProgramsScool\PB-september.2023\While-Loop-MoreExercises\03.StreamOfLetters\obj\Debug\net6.0\03.StreamOfLetters.csproj.AssemblyReference.cache
+D:\ProgramsScool\PB-september.2023\While-Loop-MoreExercises\03.StreamOfLetters\obj\Debug\net6.0\03.StreamOfLetters.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProgramsScool\PB-september.2023\While-Loop-MoreExercises\03.StreamOfLetters\obj\Debug\net6.0\03.StreamOfLetters.AssemblyInfoInputs.cache
+D:\ProgramsScool\PB-september.2023\While-Loop-MoreExercises\03.StreamOfLetters\obj\Debug\net6.0\03.StreamOfLetters.AssemblyInfo.cs
+D:\ProgramsScool\PB-september.2023\While-Loop-MoreExercises\03.StreamOfLetters\obj\Debug\net6.0\03.StreamOfLetters.csproj.CoreCompileInputs.cache
+D:\ProgramsScool\PB-september.2023\While-Loop-MoreExercises\03.StreamOfLetters\obj\Debug\net6.0\03.StreamOfLetters.dll
+D:\ProgramsScool\PB-september.2023\While-Loop-MoreExercises\03.StreamOfLetters\obj\Debug\net6.0\refint\03.StreamOfLetters.dll
+D:\ProgramsScool\PB-september.2023\While-Loop-MoreExercises\03.StreamOfLetters\obj\Debug\net6.0\03.StreamOfLetters.pdb
+D:\ProgramsScool\PB-september.2023\While-Loop-MoreExercises\03.StreamOfLetters\obj\Debug\net6.0\03.StreamOfLetters.genruntimeconfig.cache
+D:\ProgramsScool\PB-september.2023\While-Loop-MoreExercises\03.StreamOfLetters\obj\Debug\net6.0\ref\03.StreamOfLetters.dll

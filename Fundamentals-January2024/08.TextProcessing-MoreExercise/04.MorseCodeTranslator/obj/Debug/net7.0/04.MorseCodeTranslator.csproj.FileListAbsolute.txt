@@ -1,0 +1,15 @@
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\08.TextProcessing-MoreExercise\04.MorseCodeTranslator\bin\Debug\net7.0\04.MorseCodeTranslator.exe
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\08.TextProcessing-MoreExercise\04.MorseCodeTranslator\bin\Debug\net7.0\04.MorseCodeTranslator.deps.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\08.TextProcessing-MoreExercise\04.MorseCodeTranslator\bin\Debug\net7.0\04.MorseCodeTranslator.runtimeconfig.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\08.TextProcessing-MoreExercise\04.MorseCodeTranslator\bin\Debug\net7.0\04.MorseCodeTranslator.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\08.TextProcessing-MoreExercise\04.MorseCodeTranslator\bin\Debug\net7.0\04.MorseCodeTranslator.pdb
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\08.TextProcessing-MoreExercise\04.MorseCodeTranslator\obj\Debug\net7.0\04.MorseCodeTranslator.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\08.TextProcessing-MoreExercise\04.MorseCodeTranslator\obj\Debug\net7.0\04.MorseCodeTranslator.AssemblyInfoInputs.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\08.TextProcessing-MoreExercise\04.MorseCodeTranslator\obj\Debug\net7.0\04.MorseCodeTranslator.AssemblyInfo.cs
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\08.TextProcessing-MoreExercise\04.MorseCodeTranslator\obj\Debug\net7.0\04.MorseCodeTranslator.csproj.CoreCompileInputs.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\08.TextProcessing-MoreExercise\04.MorseCodeTranslator\obj\Debug\net7.0\04.MorseCodeTranslator.sourcelink.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\08.TextProcessing-MoreExercise\04.MorseCodeTranslator\obj\Debug\net7.0\04.MorseCodeTranslator.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\08.TextProcessing-MoreExercise\04.MorseCodeTranslator\obj\Debug\net7.0\refint\04.MorseCodeTranslator.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\08.TextProcessing-MoreExercise\04.MorseCodeTranslator\obj\Debug\net7.0\04.MorseCodeTranslator.pdb
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\08.TextProcessing-MoreExercise\04.MorseCodeTranslator\obj\Debug\net7.0\04.MorseCodeTranslator.genruntimeconfig.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\08.TextProcessing-MoreExercise\04.MorseCodeTranslator\obj\Debug\net7.0\ref\04.MorseCodeTranslator.dll

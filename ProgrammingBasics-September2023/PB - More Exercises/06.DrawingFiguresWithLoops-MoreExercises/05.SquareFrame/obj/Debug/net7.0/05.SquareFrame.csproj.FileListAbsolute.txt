@@ -1,0 +1,14 @@
+C:\Users\falen\source\repos\06.DrawingFiguresWithLoops-MoreExercises\05.SquareFrame\bin\Debug\net7.0\05.SquareFrame.exe
+C:\Users\falen\source\repos\06.DrawingFiguresWithLoops-MoreExercises\05.SquareFrame\bin\Debug\net7.0\05.SquareFrame.deps.json
+C:\Users\falen\source\repos\06.DrawingFiguresWithLoops-MoreExercises\05.SquareFrame\bin\Debug\net7.0\05.SquareFrame.runtimeconfig.json
+C:\Users\falen\source\repos\06.DrawingFiguresWithLoops-MoreExercises\05.SquareFrame\bin\Debug\net7.0\05.SquareFrame.dll
+C:\Users\falen\source\repos\06.DrawingFiguresWithLoops-MoreExercises\05.SquareFrame\bin\Debug\net7.0\05.SquareFrame.pdb
+C:\Users\falen\source\repos\06.DrawingFiguresWithLoops-MoreExercises\05.SquareFrame\obj\Debug\net7.0\05.SquareFrame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\falen\source\repos\06.DrawingFiguresWithLoops-MoreExercises\05.SquareFrame\obj\Debug\net7.0\05.SquareFrame.AssemblyInfoInputs.cache
+C:\Users\falen\source\repos\06.DrawingFiguresWithLoops-MoreExercises\05.SquareFrame\obj\Debug\net7.0\05.SquareFrame.AssemblyInfo.cs
+C:\Users\falen\source\repos\06.DrawingFiguresWithLoops-MoreExercises\05.SquareFrame\obj\Debug\net7.0\05.SquareFrame.csproj.CoreCompileInputs.cache
+C:\Users\falen\source\repos\06.DrawingFiguresWithLoops-MoreExercises\05.SquareFrame\obj\Debug\net7.0\05.SquareFrame.dll
+C:\Users\falen\source\repos\06.DrawingFiguresWithLoops-MoreExercises\05.SquareFrame\obj\Debug\net7.0\refint\05.SquareFrame.dll
+C:\Users\falen\source\repos\06.DrawingFiguresWithLoops-MoreExercises\05.SquareFrame\obj\Debug\net7.0\05.SquareFrame.pdb
+C:\Users\falen\source\repos\06.DrawingFiguresWithLoops-MoreExercises\05.SquareFrame\obj\Debug\net7.0\05.SquareFrame.genruntimeconfig.cache
+C:\Users\falen\source\repos\06.DrawingFiguresWithLoops-MoreExercises\05.SquareFrame\obj\Debug\net7.0\ref\05.SquareFrame.dll

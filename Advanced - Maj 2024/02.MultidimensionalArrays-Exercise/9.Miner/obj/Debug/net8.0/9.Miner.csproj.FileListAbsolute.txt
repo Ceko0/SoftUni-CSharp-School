@@ -1,0 +1,15 @@
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\02.MultidimensionalArrays-Exercise\9.Miner\bin\Debug\net8.0\9.Miner.exe
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\02.MultidimensionalArrays-Exercise\9.Miner\bin\Debug\net8.0\9.Miner.deps.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\02.MultidimensionalArrays-Exercise\9.Miner\bin\Debug\net8.0\9.Miner.runtimeconfig.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\02.MultidimensionalArrays-Exercise\9.Miner\bin\Debug\net8.0\9.Miner.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\02.MultidimensionalArrays-Exercise\9.Miner\bin\Debug\net8.0\9.Miner.pdb
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\02.MultidimensionalArrays-Exercise\9.Miner\obj\Debug\net8.0\9.Miner.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\02.MultidimensionalArrays-Exercise\9.Miner\obj\Debug\net8.0\9.Miner.AssemblyInfoInputs.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\02.MultidimensionalArrays-Exercise\9.Miner\obj\Debug\net8.0\9.Miner.AssemblyInfo.cs
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\02.MultidimensionalArrays-Exercise\9.Miner\obj\Debug\net8.0\9.Miner.csproj.CoreCompileInputs.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\02.MultidimensionalArrays-Exercise\9.Miner\obj\Debug\net8.0\9.Miner.sourcelink.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\02.MultidimensionalArrays-Exercise\9.Miner\obj\Debug\net8.0\9.Miner.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\02.MultidimensionalArrays-Exercise\9.Miner\obj\Debug\net8.0\refint\9.Miner.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\02.MultidimensionalArrays-Exercise\9.Miner\obj\Debug\net8.0\9.Miner.pdb
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\02.MultidimensionalArrays-Exercise\9.Miner\obj\Debug\net8.0\9.Miner.genruntimeconfig.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\02.MultidimensionalArrays-Exercise\9.Miner\obj\Debug\net8.0\ref\9.Miner.dll

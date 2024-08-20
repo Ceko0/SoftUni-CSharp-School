@@ -1,0 +1,15 @@
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\03.Arrays-Exercise\05.TopIntegers\bin\Debug\net6.0\05.TopIntegers.exe
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\03.Arrays-Exercise\05.TopIntegers\bin\Debug\net6.0\05.TopIntegers.deps.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\03.Arrays-Exercise\05.TopIntegers\bin\Debug\net6.0\05.TopIntegers.runtimeconfig.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\03.Arrays-Exercise\05.TopIntegers\bin\Debug\net6.0\05.TopIntegers.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\03.Arrays-Exercise\05.TopIntegers\bin\Debug\net6.0\05.TopIntegers.pdb
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\03.Arrays-Exercise\05.TopIntegers\obj\Debug\net6.0\05.TopIntegers.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\03.Arrays-Exercise\05.TopIntegers\obj\Debug\net6.0\05.TopIntegers.AssemblyInfoInputs.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\03.Arrays-Exercise\05.TopIntegers\obj\Debug\net6.0\05.TopIntegers.AssemblyInfo.cs
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\03.Arrays-Exercise\05.TopIntegers\obj\Debug\net6.0\05.TopIntegers.csproj.CoreCompileInputs.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\03.Arrays-Exercise\05.TopIntegers\obj\Debug\net6.0\05.TopIntegers.sourcelink.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\03.Arrays-Exercise\05.TopIntegers\obj\Debug\net6.0\05.TopIntegers.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\03.Arrays-Exercise\05.TopIntegers\obj\Debug\net6.0\refint\05.TopIntegers.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\03.Arrays-Exercise\05.TopIntegers\obj\Debug\net6.0\05.TopIntegers.pdb
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\03.Arrays-Exercise\05.TopIntegers\obj\Debug\net6.0\05.TopIntegers.genruntimeconfig.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\03.Arrays-Exercise\05.TopIntegers\obj\Debug\net6.0\ref\05.TopIntegers.dll

@@ -1,0 +1,15 @@
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\02.DataTypesAndVariables-Exercise\05.PrintPartOfASCIITable\bin\Debug\net6.0\05.PrintPartOfASCIITable.exe
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\02.DataTypesAndVariables-Exercise\05.PrintPartOfASCIITable\bin\Debug\net6.0\05.PrintPartOfASCIITable.deps.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\02.DataTypesAndVariables-Exercise\05.PrintPartOfASCIITable\bin\Debug\net6.0\05.PrintPartOfASCIITable.runtimeconfig.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\02.DataTypesAndVariables-Exercise\05.PrintPartOfASCIITable\bin\Debug\net6.0\05.PrintPartOfASCIITable.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\02.DataTypesAndVariables-Exercise\05.PrintPartOfASCIITable\bin\Debug\net6.0\05.PrintPartOfASCIITable.pdb
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\02.DataTypesAndVariables-Exercise\05.PrintPartOfASCIITable\obj\Debug\net6.0\05.PrintPartOfASCIITable.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\02.DataTypesAndVariables-Exercise\05.PrintPartOfASCIITable\obj\Debug\net6.0\05.PrintPartOfASCIITable.AssemblyInfoInputs.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\02.DataTypesAndVariables-Exercise\05.PrintPartOfASCIITable\obj\Debug\net6.0\05.PrintPartOfASCIITable.AssemblyInfo.cs
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\02.DataTypesAndVariables-Exercise\05.PrintPartOfASCIITable\obj\Debug\net6.0\05.PrintPartOfASCIITable.csproj.CoreCompileInputs.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\02.DataTypesAndVariables-Exercise\05.PrintPartOfASCIITable\obj\Debug\net6.0\05.PrintPartOfASCIITable.sourcelink.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\02.DataTypesAndVariables-Exercise\05.PrintPartOfASCIITable\obj\Debug\net6.0\05.PrintPartOfASCIITable.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\02.DataTypesAndVariables-Exercise\05.PrintPartOfASCIITable\obj\Debug\net6.0\refint\05.PrintPartOfASCIITable.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\02.DataTypesAndVariables-Exercise\05.PrintPartOfASCIITable\obj\Debug\net6.0\05.PrintPartOfASCIITable.pdb
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\02.DataTypesAndVariables-Exercise\05.PrintPartOfASCIITable\obj\Debug\net6.0\05.PrintPartOfASCIITable.genruntimeconfig.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\02.DataTypesAndVariables-Exercise\05.PrintPartOfASCIITable\obj\Debug\net6.0\ref\05.PrintPartOfASCIITable.dll

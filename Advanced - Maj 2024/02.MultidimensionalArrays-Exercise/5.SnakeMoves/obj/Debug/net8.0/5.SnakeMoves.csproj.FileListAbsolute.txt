@@ -1,0 +1,15 @@
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\02.MultidimensionalArrays-Exercise\5.SnakeMoves\bin\Debug\net8.0\5.SnakeMoves.exe
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\02.MultidimensionalArrays-Exercise\5.SnakeMoves\bin\Debug\net8.0\5.SnakeMoves.deps.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\02.MultidimensionalArrays-Exercise\5.SnakeMoves\bin\Debug\net8.0\5.SnakeMoves.runtimeconfig.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\02.MultidimensionalArrays-Exercise\5.SnakeMoves\bin\Debug\net8.0\5.SnakeMoves.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\02.MultidimensionalArrays-Exercise\5.SnakeMoves\bin\Debug\net8.0\5.SnakeMoves.pdb
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\02.MultidimensionalArrays-Exercise\5.SnakeMoves\obj\Debug\net8.0\5.SnakeMoves.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\02.MultidimensionalArrays-Exercise\5.SnakeMoves\obj\Debug\net8.0\5.SnakeMoves.AssemblyInfoInputs.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\02.MultidimensionalArrays-Exercise\5.SnakeMoves\obj\Debug\net8.0\5.SnakeMoves.AssemblyInfo.cs
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\02.MultidimensionalArrays-Exercise\5.SnakeMoves\obj\Debug\net8.0\5.SnakeMoves.csproj.CoreCompileInputs.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\02.MultidimensionalArrays-Exercise\5.SnakeMoves\obj\Debug\net8.0\5.SnakeMoves.sourcelink.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\02.MultidimensionalArrays-Exercise\5.SnakeMoves\obj\Debug\net8.0\5.SnakeMoves.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\02.MultidimensionalArrays-Exercise\5.SnakeMoves\obj\Debug\net8.0\refint\5.SnakeMoves.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\02.MultidimensionalArrays-Exercise\5.SnakeMoves\obj\Debug\net8.0\5.SnakeMoves.pdb
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\02.MultidimensionalArrays-Exercise\5.SnakeMoves\obj\Debug\net8.0\5.SnakeMoves.genruntimeconfig.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\02.MultidimensionalArrays-Exercise\5.SnakeMoves\obj\Debug\net8.0\ref\5.SnakeMoves.dll

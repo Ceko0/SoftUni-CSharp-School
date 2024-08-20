@@ -1,0 +1,15 @@
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\06.ObjectsAndClassesLab\04.Students\bin\Debug\net7.0\04.Students.exe
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\06.ObjectsAndClassesLab\04.Students\bin\Debug\net7.0\04.Students.deps.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\06.ObjectsAndClassesLab\04.Students\bin\Debug\net7.0\04.Students.runtimeconfig.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\06.ObjectsAndClassesLab\04.Students\bin\Debug\net7.0\04.Students.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\06.ObjectsAndClassesLab\04.Students\bin\Debug\net7.0\04.Students.pdb
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\06.ObjectsAndClassesLab\04.Students\obj\Debug\net7.0\04.Students.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\06.ObjectsAndClassesLab\04.Students\obj\Debug\net7.0\04.Students.AssemblyInfoInputs.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\06.ObjectsAndClassesLab\04.Students\obj\Debug\net7.0\04.Students.AssemblyInfo.cs
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\06.ObjectsAndClassesLab\04.Students\obj\Debug\net7.0\04.Students.csproj.CoreCompileInputs.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\06.ObjectsAndClassesLab\04.Students\obj\Debug\net7.0\04.Students.sourcelink.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\06.ObjectsAndClassesLab\04.Students\obj\Debug\net7.0\04.Students.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\06.ObjectsAndClassesLab\04.Students\obj\Debug\net7.0\refint\04.Students.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\06.ObjectsAndClassesLab\04.Students\obj\Debug\net7.0\04.Students.pdb
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\06.ObjectsAndClassesLab\04.Students\obj\Debug\net7.0\04.Students.genruntimeconfig.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\06.ObjectsAndClassesLab\04.Students\obj\Debug\net7.0\ref\04.Students.dll

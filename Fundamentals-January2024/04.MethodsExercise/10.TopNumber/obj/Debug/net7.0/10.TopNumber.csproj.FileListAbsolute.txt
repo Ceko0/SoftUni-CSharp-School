@@ -1,0 +1,15 @@
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\04.MethodsExercise\10.TopNumber\bin\Debug\net7.0\10.TopNumber.exe
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\04.MethodsExercise\10.TopNumber\bin\Debug\net7.0\10.TopNumber.deps.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\04.MethodsExercise\10.TopNumber\bin\Debug\net7.0\10.TopNumber.runtimeconfig.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\04.MethodsExercise\10.TopNumber\bin\Debug\net7.0\10.TopNumber.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\04.MethodsExercise\10.TopNumber\bin\Debug\net7.0\10.TopNumber.pdb
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\04.MethodsExercise\10.TopNumber\obj\Debug\net7.0\10.TopNumber.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\04.MethodsExercise\10.TopNumber\obj\Debug\net7.0\10.TopNumber.AssemblyInfoInputs.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\04.MethodsExercise\10.TopNumber\obj\Debug\net7.0\10.TopNumber.AssemblyInfo.cs
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\04.MethodsExercise\10.TopNumber\obj\Debug\net7.0\10.TopNumber.csproj.CoreCompileInputs.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\04.MethodsExercise\10.TopNumber\obj\Debug\net7.0\10.TopNumber.sourcelink.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\04.MethodsExercise\10.TopNumber\obj\Debug\net7.0\10.TopNumber.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\04.MethodsExercise\10.TopNumber\obj\Debug\net7.0\refint\10.TopNumber.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\04.MethodsExercise\10.TopNumber\obj\Debug\net7.0\10.TopNumber.pdb
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\04.MethodsExercise\10.TopNumber\obj\Debug\net7.0\10.TopNumber.genruntimeconfig.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\04.MethodsExercise\10.TopNumber\obj\Debug\net7.0\ref\10.TopNumber.dll

@@ -1,0 +1,5 @@
+D:\ProgramsScool\SimpleConsoleGames\Breakout\new Breakout\Breakout.exe
+D:\ProgramsScool\SimpleConsoleGames\Breakout\new Breakout\Breakout.dll
+D:\ProgramsScool\SimpleConsoleGames\Breakout\new Breakout\Breakout.deps.json
+D:\ProgramsScool\SimpleConsoleGames\Breakout\new Breakout\Breakout.runtimeconfig.json
+D:\ProgramsScool\SimpleConsoleGames\Breakout\new Breakout\Breakout.pdb

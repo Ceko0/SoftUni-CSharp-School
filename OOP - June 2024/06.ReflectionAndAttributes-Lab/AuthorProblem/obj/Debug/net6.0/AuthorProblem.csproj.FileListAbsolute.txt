@@ -1,0 +1,29 @@
+C:\Users\falen\source\repos\06.ReflectionAndAttributes-Lab\AuthorProblem\bin\Debug\net6.0\AuthorProblem.exe
+C:\Users\falen\source\repos\06.ReflectionAndAttributes-Lab\AuthorProblem\bin\Debug\net6.0\AuthorProblem.deps.json
+C:\Users\falen\source\repos\06.ReflectionAndAttributes-Lab\AuthorProblem\bin\Debug\net6.0\AuthorProblem.runtimeconfig.json
+C:\Users\falen\source\repos\06.ReflectionAndAttributes-Lab\AuthorProblem\bin\Debug\net6.0\AuthorProblem.dll
+C:\Users\falen\source\repos\06.ReflectionAndAttributes-Lab\AuthorProblem\bin\Debug\net6.0\AuthorProblem.pdb
+C:\Users\falen\source\repos\06.ReflectionAndAttributes-Lab\AuthorProblem\obj\Debug\net6.0\AuthorProblem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\falen\source\repos\06.ReflectionAndAttributes-Lab\AuthorProblem\obj\Debug\net6.0\AuthorProblem.AssemblyInfoInputs.cache
+C:\Users\falen\source\repos\06.ReflectionAndAttributes-Lab\AuthorProblem\obj\Debug\net6.0\AuthorProblem.AssemblyInfo.cs
+C:\Users\falen\source\repos\06.ReflectionAndAttributes-Lab\AuthorProblem\obj\Debug\net6.0\AuthorProblem.csproj.CoreCompileInputs.cache
+C:\Users\falen\source\repos\06.ReflectionAndAttributes-Lab\AuthorProblem\obj\Debug\net6.0\AuthorProblem.dll
+C:\Users\falen\source\repos\06.ReflectionAndAttributes-Lab\AuthorProblem\obj\Debug\net6.0\refint\AuthorProblem.dll
+C:\Users\falen\source\repos\06.ReflectionAndAttributes-Lab\AuthorProblem\obj\Debug\net6.0\AuthorProblem.pdb
+C:\Users\falen\source\repos\06.ReflectionAndAttributes-Lab\AuthorProblem\obj\Debug\net6.0\AuthorProblem.genruntimeconfig.cache
+C:\Users\falen\source\repos\06.ReflectionAndAttributes-Lab\AuthorProblem\obj\Debug\net6.0\ref\AuthorProblem.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\OOP - June 2024\06.ReflectionAndAttributes-Lab\AuthorProblem\bin\Debug\net6.0\AuthorProblem.exe
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\OOP - June 2024\06.ReflectionAndAttributes-Lab\AuthorProblem\bin\Debug\net6.0\AuthorProblem.deps.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\OOP - June 2024\06.ReflectionAndAttributes-Lab\AuthorProblem\bin\Debug\net6.0\AuthorProblem.runtimeconfig.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\OOP - June 2024\06.ReflectionAndAttributes-Lab\AuthorProblem\bin\Debug\net6.0\AuthorProblem.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\OOP - June 2024\06.ReflectionAndAttributes-Lab\AuthorProblem\bin\Debug\net6.0\AuthorProblem.pdb
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\OOP - June 2024\06.ReflectionAndAttributes-Lab\AuthorProblem\obj\Debug\net6.0\AuthorProblem.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\OOP - June 2024\06.ReflectionAndAttributes-Lab\AuthorProblem\obj\Debug\net6.0\AuthorProblem.AssemblyInfoInputs.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\OOP - June 2024\06.ReflectionAndAttributes-Lab\AuthorProblem\obj\Debug\net6.0\AuthorProblem.AssemblyInfo.cs
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\OOP - June 2024\06.ReflectionAndAttributes-Lab\AuthorProblem\obj\Debug\net6.0\AuthorProblem.csproj.CoreCompileInputs.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\OOP - June 2024\06.ReflectionAndAttributes-Lab\AuthorProblem\obj\Debug\net6.0\AuthorProblem.sourcelink.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\OOP - June 2024\06.ReflectionAndAttributes-Lab\AuthorProblem\obj\Debug\net6.0\AuthorProblem.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\OOP - June 2024\06.ReflectionAndAttributes-Lab\AuthorProblem\obj\Debug\net6.0\refint\AuthorProblem.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\OOP - June 2024\06.ReflectionAndAttributes-Lab\AuthorProblem\obj\Debug\net6.0\AuthorProblem.pdb
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\OOP - June 2024\06.ReflectionAndAttributes-Lab\AuthorProblem\obj\Debug\net6.0\AuthorProblem.genruntimeconfig.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\OOP - June 2024\06.ReflectionAndAttributes-Lab\AuthorProblem\obj\Debug\net6.0\ref\AuthorProblem.dll

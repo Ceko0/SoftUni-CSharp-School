@@ -1,0 +1,15 @@
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\09.RegularExpressions-Exercise\02.Race\bin\Debug\net7.0\02.Race.exe
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\09.RegularExpressions-Exercise\02.Race\bin\Debug\net7.0\02.Race.deps.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\09.RegularExpressions-Exercise\02.Race\bin\Debug\net7.0\02.Race.runtimeconfig.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\09.RegularExpressions-Exercise\02.Race\bin\Debug\net7.0\02.Race.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\09.RegularExpressions-Exercise\02.Race\bin\Debug\net7.0\02.Race.pdb
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\09.RegularExpressions-Exercise\02.Race\obj\Debug\net7.0\02.Race.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\09.RegularExpressions-Exercise\02.Race\obj\Debug\net7.0\02.Race.AssemblyInfoInputs.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\09.RegularExpressions-Exercise\02.Race\obj\Debug\net7.0\02.Race.AssemblyInfo.cs
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\09.RegularExpressions-Exercise\02.Race\obj\Debug\net7.0\02.Race.csproj.CoreCompileInputs.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\09.RegularExpressions-Exercise\02.Race\obj\Debug\net7.0\02.Race.sourcelink.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\09.RegularExpressions-Exercise\02.Race\obj\Debug\net7.0\02.Race.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\09.RegularExpressions-Exercise\02.Race\obj\Debug\net7.0\refint\02.Race.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\09.RegularExpressions-Exercise\02.Race\obj\Debug\net7.0\02.Race.pdb
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\09.RegularExpressions-Exercise\02.Race\obj\Debug\net7.0\02.Race.genruntimeconfig.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\09.RegularExpressions-Exercise\02.Race\obj\Debug\net7.0\ref\02.Race.dll

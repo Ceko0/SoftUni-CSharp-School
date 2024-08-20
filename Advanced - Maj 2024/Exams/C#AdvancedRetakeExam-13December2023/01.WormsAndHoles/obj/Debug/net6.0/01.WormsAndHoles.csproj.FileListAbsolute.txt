@@ -1,0 +1,15 @@
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\Exams\C#AdvancedRetakeExam-13December2023\01.WormsAndHoles\bin\Debug\net6.0\01.WormsAndHoles.exe
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\Exams\C#AdvancedRetakeExam-13December2023\01.WormsAndHoles\bin\Debug\net6.0\01.WormsAndHoles.deps.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\Exams\C#AdvancedRetakeExam-13December2023\01.WormsAndHoles\bin\Debug\net6.0\01.WormsAndHoles.runtimeconfig.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\Exams\C#AdvancedRetakeExam-13December2023\01.WormsAndHoles\bin\Debug\net6.0\01.WormsAndHoles.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\Exams\C#AdvancedRetakeExam-13December2023\01.WormsAndHoles\bin\Debug\net6.0\01.WormsAndHoles.pdb
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\Exams\C#AdvancedRetakeExam-13December2023\01.WormsAndHoles\obj\Debug\net6.0\01.WormsAndHoles.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\Exams\C#AdvancedRetakeExam-13December2023\01.WormsAndHoles\obj\Debug\net6.0\01.WormsAndHoles.AssemblyInfoInputs.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\Exams\C#AdvancedRetakeExam-13December2023\01.WormsAndHoles\obj\Debug\net6.0\01.WormsAndHoles.AssemblyInfo.cs
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\Exams\C#AdvancedRetakeExam-13December2023\01.WormsAndHoles\obj\Debug\net6.0\01.WormsAndHoles.csproj.CoreCompileInputs.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\Exams\C#AdvancedRetakeExam-13December2023\01.WormsAndHoles\obj\Debug\net6.0\01.WormsAndHoles.sourcelink.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\Exams\C#AdvancedRetakeExam-13December2023\01.WormsAndHoles\obj\Debug\net6.0\01.WormsAndHoles.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\Exams\C#AdvancedRetakeExam-13December2023\01.WormsAndHoles\obj\Debug\net6.0\refint\01.WormsAndHoles.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\Exams\C#AdvancedRetakeExam-13December2023\01.WormsAndHoles\obj\Debug\net6.0\01.WormsAndHoles.pdb
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\Exams\C#AdvancedRetakeExam-13December2023\01.WormsAndHoles\obj\Debug\net6.0\01.WormsAndHoles.genruntimeconfig.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\Exams\C#AdvancedRetakeExam-13December2023\01.WormsAndHoles\obj\Debug\net6.0\ref\01.WormsAndHoles.dll

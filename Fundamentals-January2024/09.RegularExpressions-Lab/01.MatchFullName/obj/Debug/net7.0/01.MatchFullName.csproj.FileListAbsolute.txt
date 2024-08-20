@@ -1,0 +1,15 @@
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\09.RegularExpressions-Lab\01.MatchFullName\bin\Debug\net7.0\01.MatchFullName.exe
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\09.RegularExpressions-Lab\01.MatchFullName\bin\Debug\net7.0\01.MatchFullName.deps.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\09.RegularExpressions-Lab\01.MatchFullName\bin\Debug\net7.0\01.MatchFullName.runtimeconfig.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\09.RegularExpressions-Lab\01.MatchFullName\bin\Debug\net7.0\01.MatchFullName.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\09.RegularExpressions-Lab\01.MatchFullName\bin\Debug\net7.0\01.MatchFullName.pdb
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\09.RegularExpressions-Lab\01.MatchFullName\obj\Debug\net7.0\01.MatchFullName.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\09.RegularExpressions-Lab\01.MatchFullName\obj\Debug\net7.0\01.MatchFullName.AssemblyInfoInputs.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\09.RegularExpressions-Lab\01.MatchFullName\obj\Debug\net7.0\01.MatchFullName.AssemblyInfo.cs
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\09.RegularExpressions-Lab\01.MatchFullName\obj\Debug\net7.0\01.MatchFullName.csproj.CoreCompileInputs.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\09.RegularExpressions-Lab\01.MatchFullName\obj\Debug\net7.0\01.MatchFullName.sourcelink.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\09.RegularExpressions-Lab\01.MatchFullName\obj\Debug\net7.0\01.MatchFullName.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\09.RegularExpressions-Lab\01.MatchFullName\obj\Debug\net7.0\refint\01.MatchFullName.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\09.RegularExpressions-Lab\01.MatchFullName\obj\Debug\net7.0\01.MatchFullName.pdb
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\09.RegularExpressions-Lab\01.MatchFullName\obj\Debug\net7.0\01.MatchFullName.genruntimeconfig.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\09.RegularExpressions-Lab\01.MatchFullName\obj\Debug\net7.0\ref\01.MatchFullName.dll

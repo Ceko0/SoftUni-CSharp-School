@@ -1,0 +1,15 @@
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\02.MultidimensionalArrays-Exercise\6.JaggedArrayManipulator\bin\Debug\net8.0\6.JaggedArrayManipulator.exe
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\02.MultidimensionalArrays-Exercise\6.JaggedArrayManipulator\bin\Debug\net8.0\6.JaggedArrayManipulator.deps.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\02.MultidimensionalArrays-Exercise\6.JaggedArrayManipulator\bin\Debug\net8.0\6.JaggedArrayManipulator.runtimeconfig.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\02.MultidimensionalArrays-Exercise\6.JaggedArrayManipulator\bin\Debug\net8.0\6.JaggedArrayManipulator.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\02.MultidimensionalArrays-Exercise\6.JaggedArrayManipulator\bin\Debug\net8.0\6.JaggedArrayManipulator.pdb
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\02.MultidimensionalArrays-Exercise\6.JaggedArrayManipulator\obj\Debug\net8.0\6.JaggedArrayManipulator.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\02.MultidimensionalArrays-Exercise\6.JaggedArrayManipulator\obj\Debug\net8.0\6.JaggedArrayManipulator.AssemblyInfoInputs.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\02.MultidimensionalArrays-Exercise\6.JaggedArrayManipulator\obj\Debug\net8.0\6.JaggedArrayManipulator.AssemblyInfo.cs
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\02.MultidimensionalArrays-Exercise\6.JaggedArrayManipulator\obj\Debug\net8.0\6.JaggedArrayManipulator.csproj.CoreCompileInputs.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\02.MultidimensionalArrays-Exercise\6.JaggedArrayManipulator\obj\Debug\net8.0\6.JaggedArrayManipulator.sourcelink.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\02.MultidimensionalArrays-Exercise\6.JaggedArrayManipulator\obj\Debug\net8.0\6.JaggedArrayManipulator.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\02.MultidimensionalArrays-Exercise\6.JaggedArrayManipulator\obj\Debug\net8.0\refint\6.JaggedArrayManipulator.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\02.MultidimensionalArrays-Exercise\6.JaggedArrayManipulator\obj\Debug\net8.0\6.JaggedArrayManipulator.pdb
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\02.MultidimensionalArrays-Exercise\6.JaggedArrayManipulator\obj\Debug\net8.0\6.JaggedArrayManipulator.genruntimeconfig.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\02.MultidimensionalArrays-Exercise\6.JaggedArrayManipulator\obj\Debug\net8.0\ref\6.JaggedArrayManipulator.dll

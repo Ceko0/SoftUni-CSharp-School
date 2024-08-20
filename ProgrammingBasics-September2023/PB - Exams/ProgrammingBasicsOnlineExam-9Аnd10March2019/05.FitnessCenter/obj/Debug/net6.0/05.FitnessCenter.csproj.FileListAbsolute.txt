@@ -1,0 +1,15 @@
+D:\ProgramsScool\PB-september.2023\ProgrammingBasicsOnlineExam-9Аnd10March2019\05.FitnessCenter\bin\Debug\net6.0\05.FitnessCenter.exe
+D:\ProgramsScool\PB-september.2023\ProgrammingBasicsOnlineExam-9Аnd10March2019\05.FitnessCenter\bin\Debug\net6.0\05.FitnessCenter.deps.json
+D:\ProgramsScool\PB-september.2023\ProgrammingBasicsOnlineExam-9Аnd10March2019\05.FitnessCenter\bin\Debug\net6.0\05.FitnessCenter.runtimeconfig.json
+D:\ProgramsScool\PB-september.2023\ProgrammingBasicsOnlineExam-9Аnd10March2019\05.FitnessCenter\bin\Debug\net6.0\05.FitnessCenter.dll
+D:\ProgramsScool\PB-september.2023\ProgrammingBasicsOnlineExam-9Аnd10March2019\05.FitnessCenter\bin\Debug\net6.0\05.FitnessCenter.pdb
+D:\ProgramsScool\PB-september.2023\ProgrammingBasicsOnlineExam-9Аnd10March2019\05.FitnessCenter\obj\Debug\net6.0\05.FitnessCenter.csproj.AssemblyReference.cache
+D:\ProgramsScool\PB-september.2023\ProgrammingBasicsOnlineExam-9Аnd10March2019\05.FitnessCenter\obj\Debug\net6.0\05.FitnessCenter.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProgramsScool\PB-september.2023\ProgrammingBasicsOnlineExam-9Аnd10March2019\05.FitnessCenter\obj\Debug\net6.0\05.FitnessCenter.AssemblyInfoInputs.cache
+D:\ProgramsScool\PB-september.2023\ProgrammingBasicsOnlineExam-9Аnd10March2019\05.FitnessCenter\obj\Debug\net6.0\05.FitnessCenter.AssemblyInfo.cs
+D:\ProgramsScool\PB-september.2023\ProgrammingBasicsOnlineExam-9Аnd10March2019\05.FitnessCenter\obj\Debug\net6.0\05.FitnessCenter.csproj.CoreCompileInputs.cache
+D:\ProgramsScool\PB-september.2023\ProgrammingBasicsOnlineExam-9Аnd10March2019\05.FitnessCenter\obj\Debug\net6.0\05.FitnessCenter.dll
+D:\ProgramsScool\PB-september.2023\ProgrammingBasicsOnlineExam-9Аnd10March2019\05.FitnessCenter\obj\Debug\net6.0\refint\05.FitnessCenter.dll
+D:\ProgramsScool\PB-september.2023\ProgrammingBasicsOnlineExam-9Аnd10March2019\05.FitnessCenter\obj\Debug\net6.0\05.FitnessCenter.pdb
+D:\ProgramsScool\PB-september.2023\ProgrammingBasicsOnlineExam-9Аnd10March2019\05.FitnessCenter\obj\Debug\net6.0\05.FitnessCenter.genruntimeconfig.cache
+D:\ProgramsScool\PB-september.2023\ProgrammingBasicsOnlineExam-9Аnd10March2019\05.FitnessCenter\obj\Debug\net6.0\ref\05.FitnessCenter.dll

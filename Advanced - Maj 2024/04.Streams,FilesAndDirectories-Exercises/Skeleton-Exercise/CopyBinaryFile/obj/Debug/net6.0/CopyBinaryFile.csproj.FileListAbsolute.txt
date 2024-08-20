@@ -1,0 +1,15 @@
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\04.Streams,FilesAndDirectories-Exercises\Skeleton-Exercise\CopyBinaryFile\bin\Debug\net6.0\CopyBinaryFile.exe
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\04.Streams,FilesAndDirectories-Exercises\Skeleton-Exercise\CopyBinaryFile\bin\Debug\net6.0\CopyBinaryFile.deps.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\04.Streams,FilesAndDirectories-Exercises\Skeleton-Exercise\CopyBinaryFile\bin\Debug\net6.0\CopyBinaryFile.runtimeconfig.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\04.Streams,FilesAndDirectories-Exercises\Skeleton-Exercise\CopyBinaryFile\bin\Debug\net6.0\CopyBinaryFile.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\04.Streams,FilesAndDirectories-Exercises\Skeleton-Exercise\CopyBinaryFile\bin\Debug\net6.0\CopyBinaryFile.pdb
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\04.Streams,FilesAndDirectories-Exercises\Skeleton-Exercise\CopyBinaryFile\obj\Debug\net6.0\CopyBinaryFile.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\04.Streams,FilesAndDirectories-Exercises\Skeleton-Exercise\CopyBinaryFile\obj\Debug\net6.0\CopyBinaryFile.AssemblyInfoInputs.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\04.Streams,FilesAndDirectories-Exercises\Skeleton-Exercise\CopyBinaryFile\obj\Debug\net6.0\CopyBinaryFile.AssemblyInfo.cs
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\04.Streams,FilesAndDirectories-Exercises\Skeleton-Exercise\CopyBinaryFile\obj\Debug\net6.0\CopyBinaryFile.csproj.CoreCompileInputs.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\04.Streams,FilesAndDirectories-Exercises\Skeleton-Exercise\CopyBinaryFile\obj\Debug\net6.0\CopyBinaryFile.sourcelink.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\04.Streams,FilesAndDirectories-Exercises\Skeleton-Exercise\CopyBinaryFile\obj\Debug\net6.0\CopyBinaryFile.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\04.Streams,FilesAndDirectories-Exercises\Skeleton-Exercise\CopyBinaryFile\obj\Debug\net6.0\refint\CopyBinaryFile.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\04.Streams,FilesAndDirectories-Exercises\Skeleton-Exercise\CopyBinaryFile\obj\Debug\net6.0\CopyBinaryFile.pdb
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\04.Streams,FilesAndDirectories-Exercises\Skeleton-Exercise\CopyBinaryFile\obj\Debug\net6.0\CopyBinaryFile.genruntimeconfig.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\04.Streams,FilesAndDirectories-Exercises\Skeleton-Exercise\CopyBinaryFile\obj\Debug\net6.0\ref\CopyBinaryFile.dll

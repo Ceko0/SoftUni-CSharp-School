@@ -1,0 +1,87 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\Advanced - Maj 2024\\Exams\\AdvancedRegularExam-17February2024\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{43E304C6-1431-414C-ACEC-B82BA4224ECD}|SharkTaxonomy\\SharkTaxonomy.csproj|d:\\programsscool\\git hub\\softuni-csharp\\advanced - maj 2024\\exams\\advancedregularexam-17february2024\\sharktaxonomy\\classifier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43E304C6-1431-414C-ACEC-B82BA4224ECD}|SharkTaxonomy\\SharkTaxonomy.csproj|solutionrelative:sharktaxonomy\\classifier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43E304C6-1431-414C-ACEC-B82BA4224ECD}|SharkTaxonomy\\SharkTaxonomy.csproj|d:\\programsscool\\git hub\\softuni-csharp\\advanced - maj 2024\\exams\\advancedregularexam-17february2024\\sharktaxonomy\\shark.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43E304C6-1431-414C-ACEC-B82BA4224ECD}|SharkTaxonomy\\SharkTaxonomy.csproj|solutionrelative:sharktaxonomy\\shark.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43E304C6-1431-414C-ACEC-B82BA4224ECD}|SharkTaxonomy\\SharkTaxonomy.csproj|d:\\programsscool\\git hub\\softuni-csharp\\advanced - maj 2024\\exams\\advancedregularexam-17february2024\\sharktaxonomy\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43E304C6-1431-414C-ACEC-B82BA4224ECD}|SharkTaxonomy\\SharkTaxonomy.csproj|solutionrelative:sharktaxonomy\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StartUp.cs",
+              "DocumentMoniker": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\Advanced - Maj 2024\\Exams\\AdvancedRegularExam-17February2024\\SharkTaxonomy\\StartUp.cs",
+              "RelativeDocumentMoniker": "SharkTaxonomy\\StartUp.cs",
+              "ToolTip": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\Advanced - Maj 2024\\Exams\\AdvancedRegularExam-17February2024\\SharkTaxonomy\\StartUp.cs",
+              "RelativeToolTip": "SharkTaxonomy\\StartUp.cs",
+              "ViewState": "AQIAAFIAAAAAAAAAAAAgwGMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T15:39:03.777Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Classifier.cs",
+              "DocumentMoniker": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\Advanced - Maj 2024\\Exams\\AdvancedRegularExam-17February2024\\SharkTaxonomy\\Classifier.cs",
+              "RelativeDocumentMoniker": "SharkTaxonomy\\Classifier.cs",
+              "ToolTip": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\Advanced - Maj 2024\\Exams\\AdvancedRegularExam-17February2024\\SharkTaxonomy\\Classifier.cs",
+              "RelativeToolTip": "SharkTaxonomy\\Classifier.cs",
+              "ViewState": "AQIAACcAAAAAAAAAAAAwwDMAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T15:23:51.201Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Shark.cs",
+              "DocumentMoniker": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\Advanced - Maj 2024\\Exams\\AdvancedRegularExam-17February2024\\SharkTaxonomy\\Shark.cs",
+              "RelativeDocumentMoniker": "SharkTaxonomy\\Shark.cs",
+              "ToolTip": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\Advanced - Maj 2024\\Exams\\AdvancedRegularExam-17February2024\\SharkTaxonomy\\Shark.cs",
+              "RelativeToolTip": "SharkTaxonomy\\Shark.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAcwBkAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T15:20:11.73Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

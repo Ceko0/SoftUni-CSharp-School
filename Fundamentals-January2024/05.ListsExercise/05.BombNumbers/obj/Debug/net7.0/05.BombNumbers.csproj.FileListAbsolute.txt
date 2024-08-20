@@ -1,0 +1,15 @@
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\05.ListsExercise\05.BombNumbers\bin\Debug\net7.0\05.BombNumbers.exe
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\05.ListsExercise\05.BombNumbers\bin\Debug\net7.0\05.BombNumbers.deps.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\05.ListsExercise\05.BombNumbers\bin\Debug\net7.0\05.BombNumbers.runtimeconfig.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\05.ListsExercise\05.BombNumbers\bin\Debug\net7.0\05.BombNumbers.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\05.ListsExercise\05.BombNumbers\bin\Debug\net7.0\05.BombNumbers.pdb
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\05.ListsExercise\05.BombNumbers\obj\Debug\net7.0\05.BombNumbers.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\05.ListsExercise\05.BombNumbers\obj\Debug\net7.0\05.BombNumbers.AssemblyInfoInputs.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\05.ListsExercise\05.BombNumbers\obj\Debug\net7.0\05.BombNumbers.AssemblyInfo.cs
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\05.ListsExercise\05.BombNumbers\obj\Debug\net7.0\05.BombNumbers.csproj.CoreCompileInputs.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\05.ListsExercise\05.BombNumbers\obj\Debug\net7.0\05.BombNumbers.sourcelink.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\05.ListsExercise\05.BombNumbers\obj\Debug\net7.0\05.BombNumbers.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\05.ListsExercise\05.BombNumbers\obj\Debug\net7.0\refint\05.BombNumbers.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\05.ListsExercise\05.BombNumbers\obj\Debug\net7.0\05.BombNumbers.pdb
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\05.ListsExercise\05.BombNumbers\obj\Debug\net7.0\05.BombNumbers.genruntimeconfig.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\05.ListsExercise\05.BombNumbers\obj\Debug\net7.0\ref\05.BombNumbers.dll

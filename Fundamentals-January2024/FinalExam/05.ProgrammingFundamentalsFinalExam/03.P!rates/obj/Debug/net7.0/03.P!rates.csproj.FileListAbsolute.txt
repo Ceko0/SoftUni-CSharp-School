@@ -1,0 +1,15 @@
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\FinalExam\05.ProgrammingFundamentalsFinalExam\03.P!rates\bin\Debug\net7.0\03.P!rates.exe
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\FinalExam\05.ProgrammingFundamentalsFinalExam\03.P!rates\bin\Debug\net7.0\03.P!rates.deps.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\FinalExam\05.ProgrammingFundamentalsFinalExam\03.P!rates\bin\Debug\net7.0\03.P!rates.runtimeconfig.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\FinalExam\05.ProgrammingFundamentalsFinalExam\03.P!rates\bin\Debug\net7.0\03.P!rates.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\FinalExam\05.ProgrammingFundamentalsFinalExam\03.P!rates\bin\Debug\net7.0\03.P!rates.pdb
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\FinalExam\05.ProgrammingFundamentalsFinalExam\03.P!rates\obj\Debug\net7.0\03.P!rates.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\FinalExam\05.ProgrammingFundamentalsFinalExam\03.P!rates\obj\Debug\net7.0\03.P!rates.AssemblyInfoInputs.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\FinalExam\05.ProgrammingFundamentalsFinalExam\03.P!rates\obj\Debug\net7.0\03.P!rates.AssemblyInfo.cs
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\FinalExam\05.ProgrammingFundamentalsFinalExam\03.P!rates\obj\Debug\net7.0\03.P!rates.csproj.CoreCompileInputs.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\FinalExam\05.ProgrammingFundamentalsFinalExam\03.P!rates\obj\Debug\net7.0\03.P!rates.sourcelink.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\FinalExam\05.ProgrammingFundamentalsFinalExam\03.P!rates\obj\Debug\net7.0\03.P!rates.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\FinalExam\05.ProgrammingFundamentalsFinalExam\03.P!rates\obj\Debug\net7.0\refint\03.P!rates.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\FinalExam\05.ProgrammingFundamentalsFinalExam\03.P!rates\obj\Debug\net7.0\03.P!rates.pdb
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\FinalExam\05.ProgrammingFundamentalsFinalExam\03.P!rates\obj\Debug\net7.0\03.P!rates.genruntimeconfig.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\FinalExam\05.ProgrammingFundamentalsFinalExam\03.P!rates\obj\Debug\net7.0\ref\03.P!rates.dll

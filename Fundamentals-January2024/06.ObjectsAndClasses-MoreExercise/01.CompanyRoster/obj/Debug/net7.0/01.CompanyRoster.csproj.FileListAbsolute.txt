@@ -1,0 +1,15 @@
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\06.ObjectsAndClasses-MoreExercise\01.CompanyRoster\bin\Debug\net7.0\01.CompanyRoster.exe
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\06.ObjectsAndClasses-MoreExercise\01.CompanyRoster\bin\Debug\net7.0\01.CompanyRoster.deps.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\06.ObjectsAndClasses-MoreExercise\01.CompanyRoster\bin\Debug\net7.0\01.CompanyRoster.runtimeconfig.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\06.ObjectsAndClasses-MoreExercise\01.CompanyRoster\bin\Debug\net7.0\01.CompanyRoster.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\06.ObjectsAndClasses-MoreExercise\01.CompanyRoster\bin\Debug\net7.0\01.CompanyRoster.pdb
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\06.ObjectsAndClasses-MoreExercise\01.CompanyRoster\obj\Debug\net7.0\01.CompanyRoster.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\06.ObjectsAndClasses-MoreExercise\01.CompanyRoster\obj\Debug\net7.0\01.CompanyRoster.AssemblyInfoInputs.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\06.ObjectsAndClasses-MoreExercise\01.CompanyRoster\obj\Debug\net7.0\01.CompanyRoster.AssemblyInfo.cs
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\06.ObjectsAndClasses-MoreExercise\01.CompanyRoster\obj\Debug\net7.0\01.CompanyRoster.csproj.CoreCompileInputs.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\06.ObjectsAndClasses-MoreExercise\01.CompanyRoster\obj\Debug\net7.0\01.CompanyRoster.sourcelink.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\06.ObjectsAndClasses-MoreExercise\01.CompanyRoster\obj\Debug\net7.0\01.CompanyRoster.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\06.ObjectsAndClasses-MoreExercise\01.CompanyRoster\obj\Debug\net7.0\refint\01.CompanyRoster.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\06.ObjectsAndClasses-MoreExercise\01.CompanyRoster\obj\Debug\net7.0\01.CompanyRoster.pdb
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\06.ObjectsAndClasses-MoreExercise\01.CompanyRoster\obj\Debug\net7.0\01.CompanyRoster.genruntimeconfig.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\06.ObjectsAndClasses-MoreExercise\01.CompanyRoster\obj\Debug\net7.0\ref\01.CompanyRoster.dll

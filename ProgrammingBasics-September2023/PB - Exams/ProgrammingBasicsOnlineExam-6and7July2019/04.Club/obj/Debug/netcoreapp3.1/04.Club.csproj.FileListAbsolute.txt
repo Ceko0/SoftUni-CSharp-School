@@ -1,0 +1,14 @@
+D:\ProgramsScool\ProgrammingBasicsOnlineExam-6and7July2019\04.Club\bin\Debug\netcoreapp3.1\04.Club.exe
+D:\ProgramsScool\ProgrammingBasicsOnlineExam-6and7July2019\04.Club\bin\Debug\netcoreapp3.1\04.Club.deps.json
+D:\ProgramsScool\ProgrammingBasicsOnlineExam-6and7July2019\04.Club\bin\Debug\netcoreapp3.1\04.Club.runtimeconfig.json
+D:\ProgramsScool\ProgrammingBasicsOnlineExam-6and7July2019\04.Club\bin\Debug\netcoreapp3.1\04.Club.runtimeconfig.dev.json
+D:\ProgramsScool\ProgrammingBasicsOnlineExam-6and7July2019\04.Club\bin\Debug\netcoreapp3.1\04.Club.dll
+D:\ProgramsScool\ProgrammingBasicsOnlineExam-6and7July2019\04.Club\bin\Debug\netcoreapp3.1\04.Club.pdb
+D:\ProgramsScool\ProgrammingBasicsOnlineExam-6and7July2019\04.Club\obj\Debug\netcoreapp3.1\04.Club.csproj.AssemblyReference.cache
+D:\ProgramsScool\ProgrammingBasicsOnlineExam-6and7July2019\04.Club\obj\Debug\netcoreapp3.1\04.Club.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProgramsScool\ProgrammingBasicsOnlineExam-6and7July2019\04.Club\obj\Debug\netcoreapp3.1\04.Club.AssemblyInfoInputs.cache
+D:\ProgramsScool\ProgrammingBasicsOnlineExam-6and7July2019\04.Club\obj\Debug\netcoreapp3.1\04.Club.AssemblyInfo.cs
+D:\ProgramsScool\ProgrammingBasicsOnlineExam-6and7July2019\04.Club\obj\Debug\netcoreapp3.1\04.Club.csproj.CoreCompileInputs.cache
+D:\ProgramsScool\ProgrammingBasicsOnlineExam-6and7July2019\04.Club\obj\Debug\netcoreapp3.1\04.Club.dll
+D:\ProgramsScool\ProgrammingBasicsOnlineExam-6and7July2019\04.Club\obj\Debug\netcoreapp3.1\04.Club.pdb
+D:\ProgramsScool\ProgrammingBasicsOnlineExam-6and7July2019\04.Club\obj\Debug\netcoreapp3.1\04.Club.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\03.SetsAndDictionariesAdvanced-Exercise\09.SoftUniExamResults\bin\Debug\net8.0\09.SoftUniExamResults.exe
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\03.SetsAndDictionariesAdvanced-Exercise\09.SoftUniExamResults\bin\Debug\net8.0\09.SoftUniExamResults.deps.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\03.SetsAndDictionariesAdvanced-Exercise\09.SoftUniExamResults\bin\Debug\net8.0\09.SoftUniExamResults.runtimeconfig.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\03.SetsAndDictionariesAdvanced-Exercise\09.SoftUniExamResults\bin\Debug\net8.0\09.SoftUniExamResults.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\03.SetsAndDictionariesAdvanced-Exercise\09.SoftUniExamResults\bin\Debug\net8.0\09.SoftUniExamResults.pdb
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\03.SetsAndDictionariesAdvanced-Exercise\09.SoftUniExamResults\obj\Debug\net8.0\09.SoftUniExamResults.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\03.SetsAndDictionariesAdvanced-Exercise\09.SoftUniExamResults\obj\Debug\net8.0\09.SoftUniExamResults.AssemblyInfoInputs.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\03.SetsAndDictionariesAdvanced-Exercise\09.SoftUniExamResults\obj\Debug\net8.0\09.SoftUniExamResults.AssemblyInfo.cs
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\03.SetsAndDictionariesAdvanced-Exercise\09.SoftUniExamResults\obj\Debug\net8.0\09.SoftUniExamResults.csproj.CoreCompileInputs.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\03.SetsAndDictionariesAdvanced-Exercise\09.SoftUniExamResults\obj\Debug\net8.0\09.SoftUniExamResults.sourcelink.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\03.SetsAndDictionariesAdvanced-Exercise\09.SoftUniExamResults\obj\Debug\net8.0\09.SoftUniExamResults.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\03.SetsAndDictionariesAdvanced-Exercise\09.SoftUniExamResults\obj\Debug\net8.0\refint\09.SoftUniExamResults.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\03.SetsAndDictionariesAdvanced-Exercise\09.SoftUniExamResults\obj\Debug\net8.0\09.SoftUniExamResults.pdb
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\03.SetsAndDictionariesAdvanced-Exercise\09.SoftUniExamResults\obj\Debug\net8.0\09.SoftUniExamResults.genruntimeconfig.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\03.SetsAndDictionariesAdvanced-Exercise\09.SoftUniExamResults\obj\Debug\net8.0\ref\09.SoftUniExamResults.dll

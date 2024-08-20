@@ -1,0 +1,15 @@
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\FinalExam\04.ProgrammingFundamentalsFinalExam\03.HeroesOfCodeAndLogicVII\bin\Debug\net7.0\03.HeroesOfCodeAndLogicVII.exe
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\FinalExam\04.ProgrammingFundamentalsFinalExam\03.HeroesOfCodeAndLogicVII\bin\Debug\net7.0\03.HeroesOfCodeAndLogicVII.deps.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\FinalExam\04.ProgrammingFundamentalsFinalExam\03.HeroesOfCodeAndLogicVII\bin\Debug\net7.0\03.HeroesOfCodeAndLogicVII.runtimeconfig.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\FinalExam\04.ProgrammingFundamentalsFinalExam\03.HeroesOfCodeAndLogicVII\bin\Debug\net7.0\03.HeroesOfCodeAndLogicVII.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\FinalExam\04.ProgrammingFundamentalsFinalExam\03.HeroesOfCodeAndLogicVII\bin\Debug\net7.0\03.HeroesOfCodeAndLogicVII.pdb
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\FinalExam\04.ProgrammingFundamentalsFinalExam\03.HeroesOfCodeAndLogicVII\obj\Debug\net7.0\03.HeroesOfCodeAndLogicVII.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\FinalExam\04.ProgrammingFundamentalsFinalExam\03.HeroesOfCodeAndLogicVII\obj\Debug\net7.0\03.HeroesOfCodeAndLogicVII.AssemblyInfoInputs.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\FinalExam\04.ProgrammingFundamentalsFinalExam\03.HeroesOfCodeAndLogicVII\obj\Debug\net7.0\03.HeroesOfCodeAndLogicVII.AssemblyInfo.cs
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\FinalExam\04.ProgrammingFundamentalsFinalExam\03.HeroesOfCodeAndLogicVII\obj\Debug\net7.0\03.HeroesOfCodeAndLogicVII.csproj.CoreCompileInputs.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\FinalExam\04.ProgrammingFundamentalsFinalExam\03.HeroesOfCodeAndLogicVII\obj\Debug\net7.0\03.HeroesOfCodeAndLogicVII.sourcelink.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\FinalExam\04.ProgrammingFundamentalsFinalExam\03.HeroesOfCodeAndLogicVII\obj\Debug\net7.0\03.HeroesOfCodeAndLogicVII.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\FinalExam\04.ProgrammingFundamentalsFinalExam\03.HeroesOfCodeAndLogicVII\obj\Debug\net7.0\refint\03.HeroesOfCodeAndLogicVII.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\FinalExam\04.ProgrammingFundamentalsFinalExam\03.HeroesOfCodeAndLogicVII\obj\Debug\net7.0\03.HeroesOfCodeAndLogicVII.pdb
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\FinalExam\04.ProgrammingFundamentalsFinalExam\03.HeroesOfCodeAndLogicVII\obj\Debug\net7.0\03.HeroesOfCodeAndLogicVII.genruntimeconfig.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\FinalExam\04.ProgrammingFundamentalsFinalExam\03.HeroesOfCodeAndLogicVII\obj\Debug\net7.0\ref\03.HeroesOfCodeAndLogicVII.dll

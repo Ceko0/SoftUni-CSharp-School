@@ -1,0 +1,15 @@
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\08.Generics-Exercise\01.GenericBoxOfString\bin\Debug\net6.0\01.GenericBoxOfString.exe
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\08.Generics-Exercise\01.GenericBoxOfString\bin\Debug\net6.0\01.GenericBoxOfString.deps.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\08.Generics-Exercise\01.GenericBoxOfString\bin\Debug\net6.0\01.GenericBoxOfString.runtimeconfig.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\08.Generics-Exercise\01.GenericBoxOfString\bin\Debug\net6.0\01.GenericBoxOfString.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\08.Generics-Exercise\01.GenericBoxOfString\bin\Debug\net6.0\01.GenericBoxOfString.pdb
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\08.Generics-Exercise\01.GenericBoxOfString\obj\Debug\net6.0\01.GenericBoxOfString.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\08.Generics-Exercise\01.GenericBoxOfString\obj\Debug\net6.0\01.GenericBoxOfString.AssemblyInfoInputs.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\08.Generics-Exercise\01.GenericBoxOfString\obj\Debug\net6.0\01.GenericBoxOfString.AssemblyInfo.cs
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\08.Generics-Exercise\01.GenericBoxOfString\obj\Debug\net6.0\01.GenericBoxOfString.csproj.CoreCompileInputs.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\08.Generics-Exercise\01.GenericBoxOfString\obj\Debug\net6.0\01.GenericBoxOfString.sourcelink.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\08.Generics-Exercise\01.GenericBoxOfString\obj\Debug\net6.0\01.GenericBoxOfString.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\08.Generics-Exercise\01.GenericBoxOfString\obj\Debug\net6.0\refint\01.GenericBoxOfString.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\08.Generics-Exercise\01.GenericBoxOfString\obj\Debug\net6.0\01.GenericBoxOfString.pdb
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\08.Generics-Exercise\01.GenericBoxOfString\obj\Debug\net6.0\01.GenericBoxOfString.genruntimeconfig.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\08.Generics-Exercise\01.GenericBoxOfString\obj\Debug\net6.0\ref\01.GenericBoxOfString.dll

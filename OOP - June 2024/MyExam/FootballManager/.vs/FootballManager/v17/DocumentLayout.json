@@ -1,0 +1,291 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\OOP - June 2024\\MyExam\\FootballManager\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A3BD572A-3EA0-4955-B0D4-2968249CD8F3}|FootballManager\\FootballManager.csproj|d:\\programsscool\\git hub\\softuni-csharp\\oop - june 2024\\myexam\\footballmanager\\footballmanager\\models\\managerchild\\seniormanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3BD572A-3EA0-4955-B0D4-2968249CD8F3}|FootballManager\\FootballManager.csproj|solutionrelative:footballmanager\\models\\managerchild\\seniormanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3BD572A-3EA0-4955-B0D4-2968249CD8F3}|FootballManager\\FootballManager.csproj|d:\\programsscool\\git hub\\softuni-csharp\\oop - june 2024\\myexam\\footballmanager\\footballmanager\\models\\managerchild\\professionalmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3BD572A-3EA0-4955-B0D4-2968249CD8F3}|FootballManager\\FootballManager.csproj|solutionrelative:footballmanager\\models\\managerchild\\professionalmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3BD572A-3EA0-4955-B0D4-2968249CD8F3}|FootballManager\\FootballManager.csproj|d:\\programsscool\\git hub\\softuni-csharp\\oop - june 2024\\myexam\\footballmanager\\footballmanager\\models\\manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3BD572A-3EA0-4955-B0D4-2968249CD8F3}|FootballManager\\FootballManager.csproj|solutionrelative:footballmanager\\models\\manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3BD572A-3EA0-4955-B0D4-2968249CD8F3}|FootballManager\\FootballManager.csproj|d:\\programsscool\\git hub\\softuni-csharp\\oop - june 2024\\myexam\\footballmanager\\footballmanager\\models\\managerchild\\amateurmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3BD572A-3EA0-4955-B0D4-2968249CD8F3}|FootballManager\\FootballManager.csproj|solutionrelative:footballmanager\\models\\managerchild\\amateurmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3BD572A-3EA0-4955-B0D4-2968249CD8F3}|FootballManager\\FootballManager.csproj|d:\\programsscool\\git hub\\softuni-csharp\\oop - june 2024\\myexam\\footballmanager\\footballmanager\\core\\controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3BD572A-3EA0-4955-B0D4-2968249CD8F3}|FootballManager\\FootballManager.csproj|solutionrelative:footballmanager\\core\\controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3BD572A-3EA0-4955-B0D4-2968249CD8F3}|FootballManager\\FootballManager.csproj|d:\\programsscool\\git hub\\softuni-csharp\\oop - june 2024\\myexam\\footballmanager\\footballmanager\\core\\engine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3BD572A-3EA0-4955-B0D4-2968249CD8F3}|FootballManager\\FootballManager.csproj|solutionrelative:footballmanager\\core\\engine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3BD572A-3EA0-4955-B0D4-2968249CD8F3}|FootballManager\\FootballManager.csproj|d:\\programsscool\\git hub\\softuni-csharp\\oop - june 2024\\myexam\\footballmanager\\footballmanager\\core\\contracts\\iengine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3BD572A-3EA0-4955-B0D4-2968249CD8F3}|FootballManager\\FootballManager.csproj|solutionrelative:footballmanager\\core\\contracts\\iengine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3BD572A-3EA0-4955-B0D4-2968249CD8F3}|FootballManager\\FootballManager.csproj|d:\\programsscool\\git hub\\softuni-csharp\\oop - june 2024\\myexam\\footballmanager\\footballmanager\\utilities\\messages\\outputmessages.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3BD572A-3EA0-4955-B0D4-2968249CD8F3}|FootballManager\\FootballManager.csproj|solutionrelative:footballmanager\\utilities\\messages\\outputmessages.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3BD572A-3EA0-4955-B0D4-2968249CD8F3}|FootballManager\\FootballManager.csproj|d:\\programsscool\\git hub\\softuni-csharp\\oop - june 2024\\myexam\\footballmanager\\footballmanager\\utilities\\results\\actual.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A3BD572A-3EA0-4955-B0D4-2968249CD8F3}|FootballManager\\FootballManager.csproj|solutionrelative:footballmanager\\utilities\\results\\actual.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3BD572A-3EA0-4955-B0D4-2968249CD8F3}|FootballManager\\FootballManager.csproj|d:\\programsscool\\git hub\\softuni-csharp\\oop - june 2024\\myexam\\footballmanager\\footballmanager\\utilities\\results\\expected.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A3BD572A-3EA0-4955-B0D4-2968249CD8F3}|FootballManager\\FootballManager.csproj|solutionrelative:footballmanager\\utilities\\results\\expected.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3BD572A-3EA0-4955-B0D4-2968249CD8F3}|FootballManager\\FootballManager.csproj|d:\\programsscool\\git hub\\softuni-csharp\\oop - june 2024\\myexam\\footballmanager\\footballmanager\\models\\team.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3BD572A-3EA0-4955-B0D4-2968249CD8F3}|FootballManager\\FootballManager.csproj|solutionrelative:footballmanager\\models\\team.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3BD572A-3EA0-4955-B0D4-2968249CD8F3}|FootballManager\\FootballManager.csproj|d:\\programsscool\\git hub\\softuni-csharp\\oop - june 2024\\myexam\\footballmanager\\footballmanager\\utilities\\messages\\exceptionmessages.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3BD572A-3EA0-4955-B0D4-2968249CD8F3}|FootballManager\\FootballManager.csproj|solutionrelative:footballmanager\\utilities\\messages\\exceptionmessages.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3BD572A-3EA0-4955-B0D4-2968249CD8F3}|FootballManager\\FootballManager.csproj|d:\\programsscool\\git hub\\softuni-csharp\\oop - june 2024\\myexam\\footballmanager\\footballmanager\\models\\contracts\\iteam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3BD572A-3EA0-4955-B0D4-2968249CD8F3}|FootballManager\\FootballManager.csproj|solutionrelative:footballmanager\\models\\contracts\\iteam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3BD572A-3EA0-4955-B0D4-2968249CD8F3}|FootballManager\\FootballManager.csproj|d:\\programsscool\\git hub\\softuni-csharp\\oop - june 2024\\myexam\\footballmanager\\footballmanager\\repositories\\teamrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3BD572A-3EA0-4955-B0D4-2968249CD8F3}|FootballManager\\FootballManager.csproj|solutionrelative:footballmanager\\repositories\\teamrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3BD572A-3EA0-4955-B0D4-2968249CD8F3}|FootballManager\\FootballManager.csproj|d:\\programsscool\\git hub\\softuni-csharp\\oop - june 2024\\myexam\\footballmanager\\footballmanager\\core\\contracts\\icontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3BD572A-3EA0-4955-B0D4-2968249CD8F3}|FootballManager\\FootballManager.csproj|solutionrelative:footballmanager\\core\\contracts\\icontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 15,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Expected.txt",
+              "DocumentMoniker": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\OOP - June 2024\\MyExam\\FootballManager\\FootballManager\\Utilities\\Results\\Expected.txt",
+              "RelativeDocumentMoniker": "FootballManager\\Utilities\\Results\\Expected.txt",
+              "ToolTip": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\OOP - June 2024\\MyExam\\FootballManager\\FootballManager\\Utilities\\Results\\Expected.txt",
+              "RelativeToolTip": "FootballManager\\Utilities\\Results\\Expected.txt",
+              "ViewState": "AQIAACUAAAAAAAAAAAAAAEoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-08-10T08:19:31.625Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Actual.txt",
+              "DocumentMoniker": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\OOP - June 2024\\MyExam\\FootballManager\\FootballManager\\Utilities\\Results\\Actual.txt",
+              "RelativeDocumentMoniker": "FootballManager\\Utilities\\Results\\Actual.txt",
+              "ToolTip": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\OOP - June 2024\\MyExam\\FootballManager\\FootballManager\\Utilities\\Results\\Actual.txt",
+              "RelativeToolTip": "FootballManager\\Utilities\\Results\\Actual.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-08-10T08:14:34.195Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ExceptionMessages.cs",
+              "DocumentMoniker": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\OOP - June 2024\\MyExam\\FootballManager\\FootballManager\\Utilities\\Messages\\ExceptionMessages.cs",
+              "RelativeDocumentMoniker": "FootballManager\\Utilities\\Messages\\ExceptionMessages.cs",
+              "ToolTip": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\OOP - June 2024\\MyExam\\FootballManager\\FootballManager\\Utilities\\Messages\\ExceptionMessages.cs",
+              "RelativeToolTip": "FootballManager\\Utilities\\Messages\\ExceptionMessages.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-10T07:44:23.282Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ITeam.cs",
+              "DocumentMoniker": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\OOP - June 2024\\MyExam\\FootballManager\\FootballManager\\Models\\Contracts\\ITeam.cs",
+              "RelativeDocumentMoniker": "FootballManager\\Models\\Contracts\\ITeam.cs",
+              "ToolTip": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\OOP - June 2024\\MyExam\\FootballManager\\FootballManager\\Models\\Contracts\\ITeam.cs",
+              "RelativeToolTip": "FootballManager\\Models\\Contracts\\ITeam.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-10T07:50:10.968Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "OutputMessages.cs",
+              "DocumentMoniker": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\OOP - June 2024\\MyExam\\FootballManager\\FootballManager\\Utilities\\Messages\\OutputMessages.cs",
+              "RelativeDocumentMoniker": "FootballManager\\Utilities\\Messages\\OutputMessages.cs",
+              "ToolTip": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\OOP - June 2024\\MyExam\\FootballManager\\FootballManager\\Utilities\\Messages\\OutputMessages.cs",
+              "RelativeToolTip": "FootballManager\\Utilities\\Messages\\OutputMessages.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-10T07:31:34.278Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IController.cs",
+              "DocumentMoniker": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\OOP - June 2024\\MyExam\\FootballManager\\FootballManager\\Core\\Contracts\\IController.cs",
+              "RelativeDocumentMoniker": "FootballManager\\Core\\Contracts\\IController.cs",
+              "ToolTip": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\OOP - June 2024\\MyExam\\FootballManager\\FootballManager\\Core\\Contracts\\IController.cs",
+              "RelativeToolTip": "FootballManager\\Core\\Contracts\\IController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-10T07:25:58.843Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IEngine.cs",
+              "DocumentMoniker": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\OOP - June 2024\\MyExam\\FootballManager\\FootballManager\\Core\\Contracts\\IEngine.cs",
+              "RelativeDocumentMoniker": "FootballManager\\Core\\Contracts\\IEngine.cs",
+              "ToolTip": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\OOP - June 2024\\MyExam\\FootballManager\\FootballManager\\Core\\Contracts\\IEngine.cs",
+              "RelativeToolTip": "FootballManager\\Core\\Contracts\\IEngine.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-10T07:25:49.093Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Controller.cs",
+              "DocumentMoniker": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\OOP - June 2024\\MyExam\\FootballManager\\FootballManager\\Core\\Controller.cs",
+              "RelativeDocumentMoniker": "FootballManager\\Core\\Controller.cs",
+              "ToolTip": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\OOP - June 2024\\MyExam\\FootballManager\\FootballManager\\Core\\Controller.cs",
+              "RelativeToolTip": "FootballManager\\Core\\Controller.cs",
+              "ViewState": "AQIAACoAAAAAAAAAAAAowEMAAABdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-10T07:25:07.574Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Engine.cs",
+              "DocumentMoniker": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\OOP - June 2024\\MyExam\\FootballManager\\FootballManager\\Core\\Engine.cs",
+              "RelativeDocumentMoniker": "FootballManager\\Core\\Engine.cs",
+              "ToolTip": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\OOP - June 2024\\MyExam\\FootballManager\\FootballManager\\Core\\Engine.cs",
+              "RelativeToolTip": "FootballManager\\Core\\Engine.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAiwDIAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-10T07:24:53.518Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "TeamRepository.cs",
+              "DocumentMoniker": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\OOP - June 2024\\MyExam\\FootballManager\\FootballManager\\Repositories\\TeamRepository.cs",
+              "RelativeDocumentMoniker": "FootballManager\\Repositories\\TeamRepository.cs",
+              "ToolTip": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\OOP - June 2024\\MyExam\\FootballManager\\FootballManager\\Repositories\\TeamRepository.cs",
+              "RelativeToolTip": "FootballManager\\Repositories\\TeamRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-10T07:04:27.237Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProfessionalManager.cs",
+              "DocumentMoniker": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\OOP - June 2024\\MyExam\\FootballManager\\FootballManager\\Models\\ManagerChild\\ProfessionalManager.cs",
+              "RelativeDocumentMoniker": "FootballManager\\Models\\ManagerChild\\ProfessionalManager.cs",
+              "ToolTip": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\OOP - June 2024\\MyExam\\FootballManager\\FootballManager\\Models\\ManagerChild\\ProfessionalManager.cs",
+              "RelativeToolTip": "FootballManager\\Models\\ManagerChild\\ProfessionalManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-10T06:53:37.317Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SeniorManager.cs",
+              "DocumentMoniker": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\OOP - June 2024\\MyExam\\FootballManager\\FootballManager\\Models\\ManagerChild\\SeniorManager.cs",
+              "RelativeDocumentMoniker": "FootballManager\\Models\\ManagerChild\\SeniorManager.cs",
+              "ToolTip": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\OOP - June 2024\\MyExam\\FootballManager\\FootballManager\\Models\\ManagerChild\\SeniorManager.cs",
+              "RelativeToolTip": "FootballManager\\Models\\ManagerChild\\SeniorManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-10T06:51:46.597Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AmateurManager.cs",
+              "DocumentMoniker": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\OOP - June 2024\\MyExam\\FootballManager\\FootballManager\\Models\\ManagerChild\\AmateurManager.cs",
+              "RelativeDocumentMoniker": "FootballManager\\Models\\ManagerChild\\AmateurManager.cs",
+              "ToolTip": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\OOP - June 2024\\MyExam\\FootballManager\\FootballManager\\Models\\ManagerChild\\AmateurManager.cs",
+              "RelativeToolTip": "FootballManager\\Models\\ManagerChild\\AmateurManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-10T06:49:17.482Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Team.cs",
+              "DocumentMoniker": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\OOP - June 2024\\MyExam\\FootballManager\\FootballManager\\Models\\Team.cs",
+              "RelativeDocumentMoniker": "FootballManager\\Models\\Team.cs",
+              "ToolTip": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\OOP - June 2024\\MyExam\\FootballManager\\FootballManager\\Models\\Team.cs",
+              "RelativeToolTip": "FootballManager\\Models\\Team.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAsAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-10T06:43:39.547Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Manager.cs",
+              "DocumentMoniker": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\OOP - June 2024\\MyExam\\FootballManager\\FootballManager\\Models\\Manager.cs",
+              "RelativeDocumentMoniker": "FootballManager\\Models\\Manager.cs",
+              "ToolTip": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\OOP - June 2024\\MyExam\\FootballManager\\FootballManager\\Models\\Manager.cs",
+              "RelativeToolTip": "FootballManager\\Models\\Manager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwBcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-10T06:43:28.958Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

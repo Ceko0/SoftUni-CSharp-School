@@ -1,0 +1,15 @@
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\02,MultidimensionalArrays-Lab\3.PrimaryDiagonal\bin\Debug\net8.0\3.PrimaryDiagonal.exe
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\02,MultidimensionalArrays-Lab\3.PrimaryDiagonal\bin\Debug\net8.0\3.PrimaryDiagonal.deps.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\02,MultidimensionalArrays-Lab\3.PrimaryDiagonal\bin\Debug\net8.0\3.PrimaryDiagonal.runtimeconfig.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\02,MultidimensionalArrays-Lab\3.PrimaryDiagonal\bin\Debug\net8.0\3.PrimaryDiagonal.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\02,MultidimensionalArrays-Lab\3.PrimaryDiagonal\bin\Debug\net8.0\3.PrimaryDiagonal.pdb
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\02,MultidimensionalArrays-Lab\3.PrimaryDiagonal\obj\Debug\net8.0\3.PrimaryDiagonal.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\02,MultidimensionalArrays-Lab\3.PrimaryDiagonal\obj\Debug\net8.0\3.PrimaryDiagonal.AssemblyInfoInputs.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\02,MultidimensionalArrays-Lab\3.PrimaryDiagonal\obj\Debug\net8.0\3.PrimaryDiagonal.AssemblyInfo.cs
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\02,MultidimensionalArrays-Lab\3.PrimaryDiagonal\obj\Debug\net8.0\3.PrimaryDiagonal.csproj.CoreCompileInputs.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\02,MultidimensionalArrays-Lab\3.PrimaryDiagonal\obj\Debug\net8.0\3.PrimaryDiagonal.sourcelink.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\02,MultidimensionalArrays-Lab\3.PrimaryDiagonal\obj\Debug\net8.0\3.PrimaryDiagonal.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\02,MultidimensionalArrays-Lab\3.PrimaryDiagonal\obj\Debug\net8.0\refint\3.PrimaryDiagonal.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\02,MultidimensionalArrays-Lab\3.PrimaryDiagonal\obj\Debug\net8.0\3.PrimaryDiagonal.pdb
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\02,MultidimensionalArrays-Lab\3.PrimaryDiagonal\obj\Debug\net8.0\3.PrimaryDiagonal.genruntimeconfig.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\02,MultidimensionalArrays-Lab\3.PrimaryDiagonal\obj\Debug\net8.0\ref\3.PrimaryDiagonal.dll

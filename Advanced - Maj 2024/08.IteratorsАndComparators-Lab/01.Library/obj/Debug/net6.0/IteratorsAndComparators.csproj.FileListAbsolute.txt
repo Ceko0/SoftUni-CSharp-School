@@ -1,0 +1,15 @@
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\08.IteratorsАndComparators-Lab\01.Library\obj\Debug\net6.0\IteratorsAndComparators.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\08.IteratorsАndComparators-Lab\01.Library\obj\Debug\net6.0\IteratorsAndComparators.AssemblyInfoInputs.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\08.IteratorsАndComparators-Lab\01.Library\obj\Debug\net6.0\IteratorsAndComparators.AssemblyInfo.cs
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\08.IteratorsАndComparators-Lab\01.Library\obj\Debug\net6.0\IteratorsAndComparators.csproj.CoreCompileInputs.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\08.IteratorsАndComparators-Lab\01.Library\obj\Debug\net6.0\IteratorsAndComparators.sourcelink.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\08.IteratorsАndComparators-Lab\01.Library\bin\Debug\net6.0\IteratorsAndComparators.exe
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\08.IteratorsАndComparators-Lab\01.Library\bin\Debug\net6.0\IteratorsAndComparators.deps.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\08.IteratorsАndComparators-Lab\01.Library\bin\Debug\net6.0\IteratorsAndComparators.runtimeconfig.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\08.IteratorsАndComparators-Lab\01.Library\bin\Debug\net6.0\IteratorsAndComparators.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\08.IteratorsАndComparators-Lab\01.Library\bin\Debug\net6.0\IteratorsAndComparators.pdb
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\08.IteratorsАndComparators-Lab\01.Library\obj\Debug\net6.0\IteratorsAndComparators.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\08.IteratorsАndComparators-Lab\01.Library\obj\Debug\net6.0\refint\IteratorsAndComparators.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\08.IteratorsАndComparators-Lab\01.Library\obj\Debug\net6.0\IteratorsAndComparators.pdb
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\08.IteratorsАndComparators-Lab\01.Library\obj\Debug\net6.0\IteratorsAndComparators.genruntimeconfig.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\08.IteratorsАndComparators-Lab\01.Library\obj\Debug\net6.0\ref\IteratorsAndComparators.dll

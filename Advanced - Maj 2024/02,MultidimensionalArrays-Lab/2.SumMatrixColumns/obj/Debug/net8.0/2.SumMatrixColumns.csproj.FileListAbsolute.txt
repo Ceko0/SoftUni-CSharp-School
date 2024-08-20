@@ -1,0 +1,15 @@
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\02,MultidimensionalArrays-Lab\2.SumMatrixColumns\bin\Debug\net8.0\2.SumMatrixColumns.exe
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\02,MultidimensionalArrays-Lab\2.SumMatrixColumns\bin\Debug\net8.0\2.SumMatrixColumns.deps.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\02,MultidimensionalArrays-Lab\2.SumMatrixColumns\bin\Debug\net8.0\2.SumMatrixColumns.runtimeconfig.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\02,MultidimensionalArrays-Lab\2.SumMatrixColumns\bin\Debug\net8.0\2.SumMatrixColumns.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\02,MultidimensionalArrays-Lab\2.SumMatrixColumns\bin\Debug\net8.0\2.SumMatrixColumns.pdb
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\02,MultidimensionalArrays-Lab\2.SumMatrixColumns\obj\Debug\net8.0\2.SumMatrixColumns.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\02,MultidimensionalArrays-Lab\2.SumMatrixColumns\obj\Debug\net8.0\2.SumMatrixColumns.AssemblyInfoInputs.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\02,MultidimensionalArrays-Lab\2.SumMatrixColumns\obj\Debug\net8.0\2.SumMatrixColumns.AssemblyInfo.cs
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\02,MultidimensionalArrays-Lab\2.SumMatrixColumns\obj\Debug\net8.0\2.SumMatrixColumns.csproj.CoreCompileInputs.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\02,MultidimensionalArrays-Lab\2.SumMatrixColumns\obj\Debug\net8.0\2.SumMatrixColumns.sourcelink.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\02,MultidimensionalArrays-Lab\2.SumMatrixColumns\obj\Debug\net8.0\2.SumMatrixColumns.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\02,MultidimensionalArrays-Lab\2.SumMatrixColumns\obj\Debug\net8.0\refint\2.SumMatrixColumns.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\02,MultidimensionalArrays-Lab\2.SumMatrixColumns\obj\Debug\net8.0\2.SumMatrixColumns.pdb
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\02,MultidimensionalArrays-Lab\2.SumMatrixColumns\obj\Debug\net8.0\2.SumMatrixColumns.genruntimeconfig.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\02,MultidimensionalArrays-Lab\2.SumMatrixColumns\obj\Debug\net8.0\ref\2.SumMatrixColumns.dll

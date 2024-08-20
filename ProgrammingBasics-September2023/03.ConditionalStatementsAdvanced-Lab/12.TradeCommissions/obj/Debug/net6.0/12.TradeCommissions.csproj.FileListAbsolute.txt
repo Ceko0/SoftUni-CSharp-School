@@ -1,0 +1,15 @@
+D:\ProgramsScool\PB-september.2023\PB-MoreExercises\05.ConditionalStatementsAdvanced-Lab\12.TradeCommissions\bin\Debug\net6.0\12.TradeCommissions.exe
+D:\ProgramsScool\PB-september.2023\PB-MoreExercises\05.ConditionalStatementsAdvanced-Lab\12.TradeCommissions\bin\Debug\net6.0\12.TradeCommissions.deps.json
+D:\ProgramsScool\PB-september.2023\PB-MoreExercises\05.ConditionalStatementsAdvanced-Lab\12.TradeCommissions\bin\Debug\net6.0\12.TradeCommissions.runtimeconfig.json
+D:\ProgramsScool\PB-september.2023\PB-MoreExercises\05.ConditionalStatementsAdvanced-Lab\12.TradeCommissions\bin\Debug\net6.0\12.TradeCommissions.dll
+D:\ProgramsScool\PB-september.2023\PB-MoreExercises\05.ConditionalStatementsAdvanced-Lab\12.TradeCommissions\bin\Debug\net6.0\12.TradeCommissions.pdb
+D:\ProgramsScool\PB-september.2023\PB-MoreExercises\05.ConditionalStatementsAdvanced-Lab\12.TradeCommissions\obj\Debug\net6.0\12.TradeCommissions.csproj.AssemblyReference.cache
+D:\ProgramsScool\PB-september.2023\PB-MoreExercises\05.ConditionalStatementsAdvanced-Lab\12.TradeCommissions\obj\Debug\net6.0\12.TradeCommissions.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProgramsScool\PB-september.2023\PB-MoreExercises\05.ConditionalStatementsAdvanced-Lab\12.TradeCommissions\obj\Debug\net6.0\12.TradeCommissions.AssemblyInfoInputs.cache
+D:\ProgramsScool\PB-september.2023\PB-MoreExercises\05.ConditionalStatementsAdvanced-Lab\12.TradeCommissions\obj\Debug\net6.0\12.TradeCommissions.AssemblyInfo.cs
+D:\ProgramsScool\PB-september.2023\PB-MoreExercises\05.ConditionalStatementsAdvanced-Lab\12.TradeCommissions\obj\Debug\net6.0\12.TradeCommissions.csproj.CoreCompileInputs.cache
+D:\ProgramsScool\PB-september.2023\PB-MoreExercises\05.ConditionalStatementsAdvanced-Lab\12.TradeCommissions\obj\Debug\net6.0\12.TradeCommissions.dll
+D:\ProgramsScool\PB-september.2023\PB-MoreExercises\05.ConditionalStatementsAdvanced-Lab\12.TradeCommissions\obj\Debug\net6.0\refint\12.TradeCommissions.dll
+D:\ProgramsScool\PB-september.2023\PB-MoreExercises\05.ConditionalStatementsAdvanced-Lab\12.TradeCommissions\obj\Debug\net6.0\12.TradeCommissions.pdb
+D:\ProgramsScool\PB-september.2023\PB-MoreExercises\05.ConditionalStatementsAdvanced-Lab\12.TradeCommissions\obj\Debug\net6.0\12.TradeCommissions.genruntimeconfig.cache
+D:\ProgramsScool\PB-september.2023\PB-MoreExercises\05.ConditionalStatementsAdvanced-Lab\12.TradeCommissions\obj\Debug\net6.0\ref\12.TradeCommissions.dll

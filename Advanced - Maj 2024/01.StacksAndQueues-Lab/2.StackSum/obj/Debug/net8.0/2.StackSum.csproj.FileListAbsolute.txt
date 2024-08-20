@@ -1,0 +1,15 @@
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\01.StacksAndQueues-Lab\2.StackSum\bin\Debug\net8.0\2.StackSum.exe
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\01.StacksAndQueues-Lab\2.StackSum\bin\Debug\net8.0\2.StackSum.deps.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\01.StacksAndQueues-Lab\2.StackSum\bin\Debug\net8.0\2.StackSum.runtimeconfig.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\01.StacksAndQueues-Lab\2.StackSum\bin\Debug\net8.0\2.StackSum.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\01.StacksAndQueues-Lab\2.StackSum\bin\Debug\net8.0\2.StackSum.pdb
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\01.StacksAndQueues-Lab\2.StackSum\obj\Debug\net8.0\2.StackSum.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\01.StacksAndQueues-Lab\2.StackSum\obj\Debug\net8.0\2.StackSum.AssemblyInfoInputs.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\01.StacksAndQueues-Lab\2.StackSum\obj\Debug\net8.0\2.StackSum.AssemblyInfo.cs
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\01.StacksAndQueues-Lab\2.StackSum\obj\Debug\net8.0\2.StackSum.csproj.CoreCompileInputs.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\01.StacksAndQueues-Lab\2.StackSum\obj\Debug\net8.0\2.StackSum.sourcelink.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\01.StacksAndQueues-Lab\2.StackSum\obj\Debug\net8.0\2.StackSum.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\01.StacksAndQueues-Lab\2.StackSum\obj\Debug\net8.0\refint\2.StackSum.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\01.StacksAndQueues-Lab\2.StackSum\obj\Debug\net8.0\2.StackSum.pdb
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\01.StacksAndQueues-Lab\2.StackSum\obj\Debug\net8.0\2.StackSum.genruntimeconfig.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\01.StacksAndQueues-Lab\2.StackSum\obj\Debug\net8.0\ref\2.StackSum.dll

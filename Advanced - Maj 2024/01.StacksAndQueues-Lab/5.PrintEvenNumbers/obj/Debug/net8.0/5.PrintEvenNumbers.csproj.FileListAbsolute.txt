@@ -1,0 +1,15 @@
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\01.StacksAndQueues-Lab\5.PrintEvenNumbers\bin\Debug\net8.0\5.PrintEvenNumbers.exe
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\01.StacksAndQueues-Lab\5.PrintEvenNumbers\bin\Debug\net8.0\5.PrintEvenNumbers.deps.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\01.StacksAndQueues-Lab\5.PrintEvenNumbers\bin\Debug\net8.0\5.PrintEvenNumbers.runtimeconfig.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\01.StacksAndQueues-Lab\5.PrintEvenNumbers\bin\Debug\net8.0\5.PrintEvenNumbers.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\01.StacksAndQueues-Lab\5.PrintEvenNumbers\bin\Debug\net8.0\5.PrintEvenNumbers.pdb
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\01.StacksAndQueues-Lab\5.PrintEvenNumbers\obj\Debug\net8.0\5.PrintEvenNumbers.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\01.StacksAndQueues-Lab\5.PrintEvenNumbers\obj\Debug\net8.0\5.PrintEvenNumbers.AssemblyInfoInputs.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\01.StacksAndQueues-Lab\5.PrintEvenNumbers\obj\Debug\net8.0\5.PrintEvenNumbers.AssemblyInfo.cs
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\01.StacksAndQueues-Lab\5.PrintEvenNumbers\obj\Debug\net8.0\5.PrintEvenNumbers.csproj.CoreCompileInputs.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\01.StacksAndQueues-Lab\5.PrintEvenNumbers\obj\Debug\net8.0\5.PrintEvenNumbers.sourcelink.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\01.StacksAndQueues-Lab\5.PrintEvenNumbers\obj\Debug\net8.0\5.PrintEvenNumbers.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\01.StacksAndQueues-Lab\5.PrintEvenNumbers\obj\Debug\net8.0\refint\5.PrintEvenNumbers.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\01.StacksAndQueues-Lab\5.PrintEvenNumbers\obj\Debug\net8.0\5.PrintEvenNumbers.pdb
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\01.StacksAndQueues-Lab\5.PrintEvenNumbers\obj\Debug\net8.0\5.PrintEvenNumbers.genruntimeconfig.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\01.StacksAndQueues-Lab\5.PrintEvenNumbers\obj\Debug\net8.0\ref\5.PrintEvenNumbers.dll

@@ -1,0 +1,15 @@
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\07.ImplementingStackAndQueue\CustomStack\bin\Debug\net6.0\CustomStack.exe
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\07.ImplementingStackAndQueue\CustomStack\bin\Debug\net6.0\CustomStack.deps.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\07.ImplementingStackAndQueue\CustomStack\bin\Debug\net6.0\CustomStack.runtimeconfig.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\07.ImplementingStackAndQueue\CustomStack\bin\Debug\net6.0\CustomStack.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\07.ImplementingStackAndQueue\CustomStack\bin\Debug\net6.0\CustomStack.pdb
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\07.ImplementingStackAndQueue\CustomStack\obj\Debug\net6.0\CustomStack.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\07.ImplementingStackAndQueue\CustomStack\obj\Debug\net6.0\CustomStack.AssemblyInfoInputs.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\07.ImplementingStackAndQueue\CustomStack\obj\Debug\net6.0\CustomStack.AssemblyInfo.cs
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\07.ImplementingStackAndQueue\CustomStack\obj\Debug\net6.0\CustomStack.csproj.CoreCompileInputs.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\07.ImplementingStackAndQueue\CustomStack\obj\Debug\net6.0\CustomStack.sourcelink.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\07.ImplementingStackAndQueue\CustomStack\obj\Debug\net6.0\CustomStack.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\07.ImplementingStackAndQueue\CustomStack\obj\Debug\net6.0\refint\CustomStack.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\07.ImplementingStackAndQueue\CustomStack\obj\Debug\net6.0\CustomStack.pdb
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\07.ImplementingStackAndQueue\CustomStack\obj\Debug\net6.0\CustomStack.genruntimeconfig.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\07.ImplementingStackAndQueue\CustomStack\obj\Debug\net6.0\ref\CustomStack.dll

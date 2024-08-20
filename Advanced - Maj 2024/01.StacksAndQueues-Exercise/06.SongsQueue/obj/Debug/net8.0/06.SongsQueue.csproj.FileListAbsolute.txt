@@ -1,0 +1,15 @@
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\01.StacksAndQueues-Exercise\06.SongsQueue\bin\Debug\net8.0\06.SongsQueue.exe
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\01.StacksAndQueues-Exercise\06.SongsQueue\bin\Debug\net8.0\06.SongsQueue.deps.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\01.StacksAndQueues-Exercise\06.SongsQueue\bin\Debug\net8.0\06.SongsQueue.runtimeconfig.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\01.StacksAndQueues-Exercise\06.SongsQueue\bin\Debug\net8.0\06.SongsQueue.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\01.StacksAndQueues-Exercise\06.SongsQueue\bin\Debug\net8.0\06.SongsQueue.pdb
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\01.StacksAndQueues-Exercise\06.SongsQueue\obj\Debug\net8.0\06.SongsQueue.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\01.StacksAndQueues-Exercise\06.SongsQueue\obj\Debug\net8.0\06.SongsQueue.AssemblyInfoInputs.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\01.StacksAndQueues-Exercise\06.SongsQueue\obj\Debug\net8.0\06.SongsQueue.AssemblyInfo.cs
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\01.StacksAndQueues-Exercise\06.SongsQueue\obj\Debug\net8.0\06.SongsQueue.csproj.CoreCompileInputs.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\01.StacksAndQueues-Exercise\06.SongsQueue\obj\Debug\net8.0\06.SongsQueue.sourcelink.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\01.StacksAndQueues-Exercise\06.SongsQueue\obj\Debug\net8.0\06.SongsQueue.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\01.StacksAndQueues-Exercise\06.SongsQueue\obj\Debug\net8.0\refint\06.SongsQueue.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\01.StacksAndQueues-Exercise\06.SongsQueue\obj\Debug\net8.0\06.SongsQueue.pdb
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\01.StacksAndQueues-Exercise\06.SongsQueue\obj\Debug\net8.0\06.SongsQueue.genruntimeconfig.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\01.StacksAndQueues-Exercise\06.SongsQueue\obj\Debug\net8.0\ref\06.SongsQueue.dll

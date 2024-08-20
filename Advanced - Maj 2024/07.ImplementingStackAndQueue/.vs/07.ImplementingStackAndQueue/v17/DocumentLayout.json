@@ -1,0 +1,136 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\Advanced - Maj 2024\\07.ImplementingStackAndQueue\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7914482B-A596-4ABE-B7DB-DB4B7F2F5742}|CustumList\\CustomList.csproj|d:\\programsscool\\git hub\\softuni-csharp\\advanced - maj 2024\\07.implementingstackandqueue\\custumlist\\customlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7914482B-A596-4ABE-B7DB-DB4B7F2F5742}|CustumList\\CustomList.csproj|solutionrelative:custumlist\\customlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7914482B-A596-4ABE-B7DB-DB4B7F2F5742}|CustumList\\CustomList.csproj|d:\\programsscool\\git hub\\softuni-csharp\\advanced - maj 2024\\07.implementingstackandqueue\\custumlist\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7914482B-A596-4ABE-B7DB-DB4B7F2F5742}|CustumList\\CustomList.csproj|solutionrelative:custumlist\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23836C01-1E66-434D-80FB-BD81F7AA464A}|CustomQueue\\CustomQueue.csproj|d:\\programsscool\\git hub\\softuni-csharp\\advanced - maj 2024\\07.implementingstackandqueue\\customqueue\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23836C01-1E66-434D-80FB-BD81F7AA464A}|CustomQueue\\CustomQueue.csproj|solutionrelative:customqueue\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23836C01-1E66-434D-80FB-BD81F7AA464A}|CustomQueue\\CustomQueue.csproj|d:\\programsscool\\git hub\\softuni-csharp\\advanced - maj 2024\\07.implementingstackandqueue\\customqueue\\customqueue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23836C01-1E66-434D-80FB-BD81F7AA464A}|CustomQueue\\CustomQueue.csproj|solutionrelative:customqueue\\customqueue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{968F717C-095D-449E-B8FE-C3B895AEE615}|CustomStack\\CustomStack.csproj|d:\\programsscool\\git hub\\softuni-csharp\\advanced - maj 2024\\07.implementingstackandqueue\\customstack\\customstack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{968F717C-095D-449E-B8FE-C3B895AEE615}|CustomStack\\CustomStack.csproj|solutionrelative:customstack\\customstack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{968F717C-095D-449E-B8FE-C3B895AEE615}|CustomStack\\CustomStack.csproj|d:\\programsscool\\git hub\\softuni-csharp\\advanced - maj 2024\\07.implementingstackandqueue\\customstack\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{968F717C-095D-449E-B8FE-C3B895AEE615}|CustomStack\\CustomStack.csproj|solutionrelative:customstack\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CustomQueue.cs",
+              "DocumentMoniker": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\Advanced - Maj 2024\\07.ImplementingStackAndQueue\\CustomQueue\\CustomQueue.cs",
+              "RelativeDocumentMoniker": "CustomQueue\\CustomQueue.cs",
+              "ToolTip": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\Advanced - Maj 2024\\07.ImplementingStackAndQueue\\CustomQueue\\CustomQueue.cs",
+              "RelativeToolTip": "CustomQueue\\CustomQueue.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAowCoAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T07:24:09.746Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\Advanced - Maj 2024\\07.ImplementingStackAndQueue\\CustomQueue\\Program.cs",
+              "RelativeDocumentMoniker": "CustomQueue\\Program.cs",
+              "ToolTip": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\Advanced - Maj 2024\\07.ImplementingStackAndQueue\\CustomQueue\\Program.cs",
+              "RelativeToolTip": "CustomQueue\\Program.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAxwAYAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T07:23:23.16Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CustomStack.cs",
+              "DocumentMoniker": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\Advanced - Maj 2024\\07.ImplementingStackAndQueue\\CustomStack\\CustomStack.cs",
+              "RelativeDocumentMoniker": "CustomStack\\CustomStack.cs",
+              "ToolTip": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\Advanced - Maj 2024\\07.ImplementingStackAndQueue\\CustomStack\\CustomStack.cs",
+              "RelativeToolTip": "CustomStack\\CustomStack.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAMwCUAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T15:43:29.455Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\Advanced - Maj 2024\\07.ImplementingStackAndQueue\\CustomStack\\Program.cs",
+              "RelativeDocumentMoniker": "CustomStack\\Program.cs",
+              "ToolTip": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\Advanced - Maj 2024\\07.ImplementingStackAndQueue\\CustomStack\\Program.cs",
+              "RelativeToolTip": "CustomStack\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T15:42:14.371Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CustomList.cs",
+              "DocumentMoniker": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\Advanced - Maj 2024\\07.ImplementingStackAndQueue\\CustumList\\CustomList.cs",
+              "RelativeDocumentMoniker": "CustumList\\CustomList.cs",
+              "ToolTip": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\Advanced - Maj 2024\\07.ImplementingStackAndQueue\\CustumList\\CustomList.cs",
+              "RelativeToolTip": "CustumList\\CustomList.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC4AAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T13:08:29.601Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\Advanced - Maj 2024\\07.ImplementingStackAndQueue\\CustumList\\Program.cs",
+              "RelativeDocumentMoniker": "CustumList\\Program.cs",
+              "ToolTip": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\Advanced - Maj 2024\\07.ImplementingStackAndQueue\\CustumList\\Program.cs",
+              "RelativeToolTip": "CustumList\\Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAowBEAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T13:07:22.88Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

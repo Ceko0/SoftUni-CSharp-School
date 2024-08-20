@@ -1,0 +1,15 @@
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\08.Generics-Exercise\05.GenericCountMethodString\bin\Debug\net6.0\05.GenericCountMethodString.exe
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\08.Generics-Exercise\05.GenericCountMethodString\bin\Debug\net6.0\05.GenericCountMethodString.deps.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\08.Generics-Exercise\05.GenericCountMethodString\bin\Debug\net6.0\05.GenericCountMethodString.runtimeconfig.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\08.Generics-Exercise\05.GenericCountMethodString\bin\Debug\net6.0\05.GenericCountMethodString.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\08.Generics-Exercise\05.GenericCountMethodString\bin\Debug\net6.0\05.GenericCountMethodString.pdb
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\08.Generics-Exercise\05.GenericCountMethodString\obj\Debug\net6.0\05.GenericCountMethodString.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\08.Generics-Exercise\05.GenericCountMethodString\obj\Debug\net6.0\05.GenericCountMethodString.AssemblyInfoInputs.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\08.Generics-Exercise\05.GenericCountMethodString\obj\Debug\net6.0\05.GenericCountMethodString.AssemblyInfo.cs
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\08.Generics-Exercise\05.GenericCountMethodString\obj\Debug\net6.0\05.GenericCountMethodString.csproj.CoreCompileInputs.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\08.Generics-Exercise\05.GenericCountMethodString\obj\Debug\net6.0\05.GenericCountMethodString.sourcelink.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\08.Generics-Exercise\05.GenericCountMethodString\obj\Debug\net6.0\05.GenericCountMethodString.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\08.Generics-Exercise\05.GenericCountMethodString\obj\Debug\net6.0\refint\05.GenericCountMethodString.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\08.Generics-Exercise\05.GenericCountMethodString\obj\Debug\net6.0\05.GenericCountMethodString.pdb
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\08.Generics-Exercise\05.GenericCountMethodString\obj\Debug\net6.0\05.GenericCountMethodString.genruntimeconfig.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\08.Generics-Exercise\05.GenericCountMethodString\obj\Debug\net6.0\ref\05.GenericCountMethodString.dll

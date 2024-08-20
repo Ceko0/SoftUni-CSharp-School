@@ -1,0 +1,15 @@
+D:\ProgramsScool\PB-september.2023\06.ConditionalStatementsAdvanced-Exercise\05.Journey\bin\Debug\net6.0\05.Journey.exe
+D:\ProgramsScool\PB-september.2023\06.ConditionalStatementsAdvanced-Exercise\05.Journey\bin\Debug\net6.0\05.Journey.deps.json
+D:\ProgramsScool\PB-september.2023\06.ConditionalStatementsAdvanced-Exercise\05.Journey\bin\Debug\net6.0\05.Journey.runtimeconfig.json
+D:\ProgramsScool\PB-september.2023\06.ConditionalStatementsAdvanced-Exercise\05.Journey\bin\Debug\net6.0\05.Journey.dll
+D:\ProgramsScool\PB-september.2023\06.ConditionalStatementsAdvanced-Exercise\05.Journey\bin\Debug\net6.0\05.Journey.pdb
+D:\ProgramsScool\PB-september.2023\06.ConditionalStatementsAdvanced-Exercise\05.Journey\obj\Debug\net6.0\05.Journey.csproj.AssemblyReference.cache
+D:\ProgramsScool\PB-september.2023\06.ConditionalStatementsAdvanced-Exercise\05.Journey\obj\Debug\net6.0\05.Journey.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProgramsScool\PB-september.2023\06.ConditionalStatementsAdvanced-Exercise\05.Journey\obj\Debug\net6.0\05.Journey.AssemblyInfoInputs.cache
+D:\ProgramsScool\PB-september.2023\06.ConditionalStatementsAdvanced-Exercise\05.Journey\obj\Debug\net6.0\05.Journey.AssemblyInfo.cs
+D:\ProgramsScool\PB-september.2023\06.ConditionalStatementsAdvanced-Exercise\05.Journey\obj\Debug\net6.0\05.Journey.csproj.CoreCompileInputs.cache
+D:\ProgramsScool\PB-september.2023\06.ConditionalStatementsAdvanced-Exercise\05.Journey\obj\Debug\net6.0\05.Journey.dll
+D:\ProgramsScool\PB-september.2023\06.ConditionalStatementsAdvanced-Exercise\05.Journey\obj\Debug\net6.0\refint\05.Journey.dll
+D:\ProgramsScool\PB-september.2023\06.ConditionalStatementsAdvanced-Exercise\05.Journey\obj\Debug\net6.0\05.Journey.pdb
+D:\ProgramsScool\PB-september.2023\06.ConditionalStatementsAdvanced-Exercise\05.Journey\obj\Debug\net6.0\05.Journey.genruntimeconfig.cache
+D:\ProgramsScool\PB-september.2023\06.ConditionalStatementsAdvanced-Exercise\05.Journey\obj\Debug\net6.0\ref\05.Journey.dll

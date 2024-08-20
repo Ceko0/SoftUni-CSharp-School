@@ -1,0 +1,15 @@
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\05.ListsLab\04.ListOfProducts\bin\Debug\net7.0\04.ListOfProducts.exe
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\05.ListsLab\04.ListOfProducts\bin\Debug\net7.0\04.ListOfProducts.deps.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\05.ListsLab\04.ListOfProducts\bin\Debug\net7.0\04.ListOfProducts.runtimeconfig.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\05.ListsLab\04.ListOfProducts\bin\Debug\net7.0\04.ListOfProducts.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\05.ListsLab\04.ListOfProducts\bin\Debug\net7.0\04.ListOfProducts.pdb
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\05.ListsLab\04.ListOfProducts\obj\Debug\net7.0\04.ListOfProducts.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\05.ListsLab\04.ListOfProducts\obj\Debug\net7.0\04.ListOfProducts.AssemblyInfoInputs.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\05.ListsLab\04.ListOfProducts\obj\Debug\net7.0\04.ListOfProducts.AssemblyInfo.cs
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\05.ListsLab\04.ListOfProducts\obj\Debug\net7.0\04.ListOfProducts.csproj.CoreCompileInputs.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\05.ListsLab\04.ListOfProducts\obj\Debug\net7.0\04.ListOfProducts.sourcelink.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\05.ListsLab\04.ListOfProducts\obj\Debug\net7.0\04.ListOfProducts.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\05.ListsLab\04.ListOfProducts\obj\Debug\net7.0\refint\04.ListOfProducts.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\05.ListsLab\04.ListOfProducts\obj\Debug\net7.0\04.ListOfProducts.pdb
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\05.ListsLab\04.ListOfProducts\obj\Debug\net7.0\04.ListOfProducts.genruntimeconfig.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\05.ListsLab\04.ListOfProducts\obj\Debug\net7.0\ref\04.ListOfProducts.dll

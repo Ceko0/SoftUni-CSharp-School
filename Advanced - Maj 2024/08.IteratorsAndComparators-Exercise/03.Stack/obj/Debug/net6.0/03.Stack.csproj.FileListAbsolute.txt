@@ -1,0 +1,15 @@
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\08.IteratorsAndComparators-Exercise\03.Stack\bin\Debug\net6.0\03.Stack.exe
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\08.IteratorsAndComparators-Exercise\03.Stack\bin\Debug\net6.0\03.Stack.deps.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\08.IteratorsAndComparators-Exercise\03.Stack\bin\Debug\net6.0\03.Stack.runtimeconfig.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\08.IteratorsAndComparators-Exercise\03.Stack\bin\Debug\net6.0\03.Stack.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\08.IteratorsAndComparators-Exercise\03.Stack\bin\Debug\net6.0\03.Stack.pdb
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\08.IteratorsAndComparators-Exercise\03.Stack\obj\Debug\net6.0\03.Stack.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\08.IteratorsAndComparators-Exercise\03.Stack\obj\Debug\net6.0\03.Stack.AssemblyInfoInputs.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\08.IteratorsAndComparators-Exercise\03.Stack\obj\Debug\net6.0\03.Stack.AssemblyInfo.cs
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\08.IteratorsAndComparators-Exercise\03.Stack\obj\Debug\net6.0\03.Stack.csproj.CoreCompileInputs.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\08.IteratorsAndComparators-Exercise\03.Stack\obj\Debug\net6.0\03.Stack.sourcelink.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\08.IteratorsAndComparators-Exercise\03.Stack\obj\Debug\net6.0\03.Stack.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\08.IteratorsAndComparators-Exercise\03.Stack\obj\Debug\net6.0\refint\03.Stack.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\08.IteratorsAndComparators-Exercise\03.Stack\obj\Debug\net6.0\03.Stack.pdb
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\08.IteratorsAndComparators-Exercise\03.Stack\obj\Debug\net6.0\03.Stack.genruntimeconfig.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\08.IteratorsAndComparators-Exercise\03.Stack\obj\Debug\net6.0\ref\03.Stack.dll

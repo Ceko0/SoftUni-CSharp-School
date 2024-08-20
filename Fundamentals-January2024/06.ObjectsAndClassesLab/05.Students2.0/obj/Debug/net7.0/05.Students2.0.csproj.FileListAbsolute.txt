@@ -1,0 +1,15 @@
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\06.ObjectsAndClassesLab\05.Students2.0\obj\Debug\net7.0\05.Students2.0.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\06.ObjectsAndClassesLab\05.Students2.0\obj\Debug\net7.0\05.Students2.0.AssemblyInfoInputs.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\06.ObjectsAndClassesLab\05.Students2.0\obj\Debug\net7.0\05.Students2.0.AssemblyInfo.cs
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\06.ObjectsAndClassesLab\05.Students2.0\obj\Debug\net7.0\05.Students2.0.csproj.CoreCompileInputs.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\06.ObjectsAndClassesLab\05.Students2.0\obj\Debug\net7.0\05.Students2.0.sourcelink.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\06.ObjectsAndClassesLab\05.Students2.0\bin\Debug\net7.0\05.Students2.0.exe
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\06.ObjectsAndClassesLab\05.Students2.0\bin\Debug\net7.0\05.Students2.0.deps.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\06.ObjectsAndClassesLab\05.Students2.0\bin\Debug\net7.0\05.Students2.0.runtimeconfig.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\06.ObjectsAndClassesLab\05.Students2.0\bin\Debug\net7.0\05.Students2.0.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\06.ObjectsAndClassesLab\05.Students2.0\bin\Debug\net7.0\05.Students2.0.pdb
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\06.ObjectsAndClassesLab\05.Students2.0\obj\Debug\net7.0\05.Students2.0.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\06.ObjectsAndClassesLab\05.Students2.0\obj\Debug\net7.0\refint\05.Students2.0.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\06.ObjectsAndClassesLab\05.Students2.0\obj\Debug\net7.0\05.Students2.0.pdb
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\06.ObjectsAndClassesLab\05.Students2.0\obj\Debug\net7.0\05.Students2.0.genruntimeconfig.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\06.ObjectsAndClassesLab\05.Students2.0\obj\Debug\net7.0\ref\05.Students2.0.dll

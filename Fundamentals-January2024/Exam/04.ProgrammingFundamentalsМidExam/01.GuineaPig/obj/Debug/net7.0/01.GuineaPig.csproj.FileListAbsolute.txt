@@ -1,0 +1,15 @@
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\04.ProgrammingFundamentalsМidExam\01.GuineaPig\bin\Debug\net7.0\01.GuineaPig.exe
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\04.ProgrammingFundamentalsМidExam\01.GuineaPig\bin\Debug\net7.0\01.GuineaPig.deps.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\04.ProgrammingFundamentalsМidExam\01.GuineaPig\bin\Debug\net7.0\01.GuineaPig.runtimeconfig.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\04.ProgrammingFundamentalsМidExam\01.GuineaPig\bin\Debug\net7.0\01.GuineaPig.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\04.ProgrammingFundamentalsМidExam\01.GuineaPig\bin\Debug\net7.0\01.GuineaPig.pdb
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\04.ProgrammingFundamentalsМidExam\01.GuineaPig\obj\Debug\net7.0\01.GuineaPig.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\04.ProgrammingFundamentalsМidExam\01.GuineaPig\obj\Debug\net7.0\01.GuineaPig.AssemblyInfoInputs.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\04.ProgrammingFundamentalsМidExam\01.GuineaPig\obj\Debug\net7.0\01.GuineaPig.AssemblyInfo.cs
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\04.ProgrammingFundamentalsМidExam\01.GuineaPig\obj\Debug\net7.0\01.GuineaPig.csproj.CoreCompileInputs.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\04.ProgrammingFundamentalsМidExam\01.GuineaPig\obj\Debug\net7.0\01.GuineaPig.sourcelink.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\04.ProgrammingFundamentalsМidExam\01.GuineaPig\obj\Debug\net7.0\01.GuineaPig.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\04.ProgrammingFundamentalsМidExam\01.GuineaPig\obj\Debug\net7.0\refint\01.GuineaPig.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\04.ProgrammingFundamentalsМidExam\01.GuineaPig\obj\Debug\net7.0\01.GuineaPig.pdb
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\04.ProgrammingFundamentalsМidExam\01.GuineaPig\obj\Debug\net7.0\01.GuineaPig.genruntimeconfig.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\04.ProgrammingFundamentalsМidExam\01.GuineaPig\obj\Debug\net7.0\ref\01.GuineaPig.dll

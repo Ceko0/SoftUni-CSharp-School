@@ -1,0 +1,15 @@
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\FinalExam\05.ProgrammingFundamentalsFinalExam\02.EmojiDetector\bin\Debug\net7.0\02.EmojiDetector.exe
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\FinalExam\05.ProgrammingFundamentalsFinalExam\02.EmojiDetector\bin\Debug\net7.0\02.EmojiDetector.deps.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\FinalExam\05.ProgrammingFundamentalsFinalExam\02.EmojiDetector\bin\Debug\net7.0\02.EmojiDetector.runtimeconfig.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\FinalExam\05.ProgrammingFundamentalsFinalExam\02.EmojiDetector\bin\Debug\net7.0\02.EmojiDetector.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\FinalExam\05.ProgrammingFundamentalsFinalExam\02.EmojiDetector\bin\Debug\net7.0\02.EmojiDetector.pdb
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\FinalExam\05.ProgrammingFundamentalsFinalExam\02.EmojiDetector\obj\Debug\net7.0\02.EmojiDetector.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\FinalExam\05.ProgrammingFundamentalsFinalExam\02.EmojiDetector\obj\Debug\net7.0\02.EmojiDetector.AssemblyInfoInputs.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\FinalExam\05.ProgrammingFundamentalsFinalExam\02.EmojiDetector\obj\Debug\net7.0\02.EmojiDetector.AssemblyInfo.cs
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\FinalExam\05.ProgrammingFundamentalsFinalExam\02.EmojiDetector\obj\Debug\net7.0\02.EmojiDetector.csproj.CoreCompileInputs.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\FinalExam\05.ProgrammingFundamentalsFinalExam\02.EmojiDetector\obj\Debug\net7.0\02.EmojiDetector.sourcelink.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\FinalExam\05.ProgrammingFundamentalsFinalExam\02.EmojiDetector\obj\Debug\net7.0\02.EmojiDetector.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\FinalExam\05.ProgrammingFundamentalsFinalExam\02.EmojiDetector\obj\Debug\net7.0\refint\02.EmojiDetector.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\FinalExam\05.ProgrammingFundamentalsFinalExam\02.EmojiDetector\obj\Debug\net7.0\02.EmojiDetector.pdb
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\FinalExam\05.ProgrammingFundamentalsFinalExam\02.EmojiDetector\obj\Debug\net7.0\02.EmojiDetector.genruntimeconfig.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\FinalExam\05.ProgrammingFundamentalsFinalExam\02.EmojiDetector\obj\Debug\net7.0\ref\02.EmojiDetector.dll

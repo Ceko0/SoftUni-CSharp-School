@@ -1,0 +1,15 @@
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\05.FunctionalProgramming-Exercise\01.ActionPrint\obj\Debug\net8.0\01.ActionPrint.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\05.FunctionalProgramming-Exercise\01.ActionPrint\obj\Debug\net8.0\01.ActionPrint.AssemblyInfoInputs.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\05.FunctionalProgramming-Exercise\01.ActionPrint\obj\Debug\net8.0\01.ActionPrint.AssemblyInfo.cs
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\05.FunctionalProgramming-Exercise\01.ActionPrint\obj\Debug\net8.0\01.ActionPrint.csproj.CoreCompileInputs.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\05.FunctionalProgramming-Exercise\01.ActionPrint\obj\Debug\net8.0\01.ActionPrint.sourcelink.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\05.FunctionalProgramming-Exercise\01.ActionPrint\bin\Debug\net8.0\01.ActionPrint.exe
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\05.FunctionalProgramming-Exercise\01.ActionPrint\bin\Debug\net8.0\01.ActionPrint.deps.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\05.FunctionalProgramming-Exercise\01.ActionPrint\bin\Debug\net8.0\01.ActionPrint.runtimeconfig.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\05.FunctionalProgramming-Exercise\01.ActionPrint\bin\Debug\net8.0\01.ActionPrint.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\05.FunctionalProgramming-Exercise\01.ActionPrint\bin\Debug\net8.0\01.ActionPrint.pdb
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\05.FunctionalProgramming-Exercise\01.ActionPrint\obj\Debug\net8.0\01.ActionPrint.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\05.FunctionalProgramming-Exercise\01.ActionPrint\obj\Debug\net8.0\refint\01.ActionPrint.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\05.FunctionalProgramming-Exercise\01.ActionPrint\obj\Debug\net8.0\01.ActionPrint.pdb
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\05.FunctionalProgramming-Exercise\01.ActionPrint\obj\Debug\net8.0\01.ActionPrint.genruntimeconfig.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\05.FunctionalProgramming-Exercise\01.ActionPrint\obj\Debug\net8.0\ref\01.ActionPrint.dll

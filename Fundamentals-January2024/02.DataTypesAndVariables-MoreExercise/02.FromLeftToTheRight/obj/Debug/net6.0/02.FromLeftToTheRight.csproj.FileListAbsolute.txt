@@ -1,0 +1,15 @@
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\02.DataTypesAndVariables-MoreExercise\02.FromLeftToTheRight\bin\Debug\net6.0\02.FromLeftToTheRight.exe
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\02.DataTypesAndVariables-MoreExercise\02.FromLeftToTheRight\bin\Debug\net6.0\02.FromLeftToTheRight.deps.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\02.DataTypesAndVariables-MoreExercise\02.FromLeftToTheRight\bin\Debug\net6.0\02.FromLeftToTheRight.runtimeconfig.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\02.DataTypesAndVariables-MoreExercise\02.FromLeftToTheRight\bin\Debug\net6.0\02.FromLeftToTheRight.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\02.DataTypesAndVariables-MoreExercise\02.FromLeftToTheRight\bin\Debug\net6.0\02.FromLeftToTheRight.pdb
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\02.DataTypesAndVariables-MoreExercise\02.FromLeftToTheRight\obj\Debug\net6.0\02.FromLeftToTheRight.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\02.DataTypesAndVariables-MoreExercise\02.FromLeftToTheRight\obj\Debug\net6.0\02.FromLeftToTheRight.AssemblyInfoInputs.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\02.DataTypesAndVariables-MoreExercise\02.FromLeftToTheRight\obj\Debug\net6.0\02.FromLeftToTheRight.AssemblyInfo.cs
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\02.DataTypesAndVariables-MoreExercise\02.FromLeftToTheRight\obj\Debug\net6.0\02.FromLeftToTheRight.csproj.CoreCompileInputs.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\02.DataTypesAndVariables-MoreExercise\02.FromLeftToTheRight\obj\Debug\net6.0\02.FromLeftToTheRight.sourcelink.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\02.DataTypesAndVariables-MoreExercise\02.FromLeftToTheRight\obj\Debug\net6.0\02.FromLeftToTheRight.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\02.DataTypesAndVariables-MoreExercise\02.FromLeftToTheRight\obj\Debug\net6.0\refint\02.FromLeftToTheRight.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\02.DataTypesAndVariables-MoreExercise\02.FromLeftToTheRight\obj\Debug\net6.0\02.FromLeftToTheRight.pdb
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\02.DataTypesAndVariables-MoreExercise\02.FromLeftToTheRight\obj\Debug\net6.0\02.FromLeftToTheRight.genruntimeconfig.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\02.DataTypesAndVariables-MoreExercise\02.FromLeftToTheRight\obj\Debug\net6.0\ref\02.FromLeftToTheRight.dll

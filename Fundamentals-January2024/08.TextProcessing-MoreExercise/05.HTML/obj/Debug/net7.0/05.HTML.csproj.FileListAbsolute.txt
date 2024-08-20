@@ -1,0 +1,15 @@
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\08.TextProcessing-MoreExercise\05.HTML\bin\Debug\net7.0\05.HTML.exe
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\08.TextProcessing-MoreExercise\05.HTML\bin\Debug\net7.0\05.HTML.deps.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\08.TextProcessing-MoreExercise\05.HTML\bin\Debug\net7.0\05.HTML.runtimeconfig.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\08.TextProcessing-MoreExercise\05.HTML\bin\Debug\net7.0\05.HTML.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\08.TextProcessing-MoreExercise\05.HTML\bin\Debug\net7.0\05.HTML.pdb
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\08.TextProcessing-MoreExercise\05.HTML\obj\Debug\net7.0\05.HTML.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\08.TextProcessing-MoreExercise\05.HTML\obj\Debug\net7.0\05.HTML.AssemblyInfoInputs.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\08.TextProcessing-MoreExercise\05.HTML\obj\Debug\net7.0\05.HTML.AssemblyInfo.cs
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\08.TextProcessing-MoreExercise\05.HTML\obj\Debug\net7.0\05.HTML.csproj.CoreCompileInputs.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\08.TextProcessing-MoreExercise\05.HTML\obj\Debug\net7.0\05.HTML.sourcelink.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\08.TextProcessing-MoreExercise\05.HTML\obj\Debug\net7.0\05.HTML.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\08.TextProcessing-MoreExercise\05.HTML\obj\Debug\net7.0\refint\05.HTML.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\08.TextProcessing-MoreExercise\05.HTML\obj\Debug\net7.0\05.HTML.pdb
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\08.TextProcessing-MoreExercise\05.HTML\obj\Debug\net7.0\05.HTML.genruntimeconfig.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\08.TextProcessing-MoreExercise\05.HTML\obj\Debug\net7.0\ref\05.HTML.dll

@@ -1,0 +1,15 @@
+D:\ProgramsScool\Git Hub\SoftUni-school\SoftUni-school\Programming Basics - September 2023\PB - More Exercises\05.For-Loop-MoreExercises\09.Clock\bin\Debug\net7.0\09.Clock.exe
+D:\ProgramsScool\Git Hub\SoftUni-school\SoftUni-school\Programming Basics - September 2023\PB - More Exercises\05.For-Loop-MoreExercises\09.Clock\bin\Debug\net7.0\09.Clock.deps.json
+D:\ProgramsScool\Git Hub\SoftUni-school\SoftUni-school\Programming Basics - September 2023\PB - More Exercises\05.For-Loop-MoreExercises\09.Clock\bin\Debug\net7.0\09.Clock.runtimeconfig.json
+D:\ProgramsScool\Git Hub\SoftUni-school\SoftUni-school\Programming Basics - September 2023\PB - More Exercises\05.For-Loop-MoreExercises\09.Clock\bin\Debug\net7.0\09.Clock.dll
+D:\ProgramsScool\Git Hub\SoftUni-school\SoftUni-school\Programming Basics - September 2023\PB - More Exercises\05.For-Loop-MoreExercises\09.Clock\bin\Debug\net7.0\09.Clock.pdb
+D:\ProgramsScool\Git Hub\SoftUni-school\SoftUni-school\Programming Basics - September 2023\PB - More Exercises\05.For-Loop-MoreExercises\09.Clock\obj\Debug\net7.0\09.Clock.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProgramsScool\Git Hub\SoftUni-school\SoftUni-school\Programming Basics - September 2023\PB - More Exercises\05.For-Loop-MoreExercises\09.Clock\obj\Debug\net7.0\09.Clock.AssemblyInfoInputs.cache
+D:\ProgramsScool\Git Hub\SoftUni-school\SoftUni-school\Programming Basics - September 2023\PB - More Exercises\05.For-Loop-MoreExercises\09.Clock\obj\Debug\net7.0\09.Clock.AssemblyInfo.cs
+D:\ProgramsScool\Git Hub\SoftUni-school\SoftUni-school\Programming Basics - September 2023\PB - More Exercises\05.For-Loop-MoreExercises\09.Clock\obj\Debug\net7.0\09.Clock.csproj.CoreCompileInputs.cache
+D:\ProgramsScool\Git Hub\SoftUni-school\SoftUni-school\Programming Basics - September 2023\PB - More Exercises\05.For-Loop-MoreExercises\09.Clock\obj\Debug\net7.0\09.Clock.sourcelink.json
+D:\ProgramsScool\Git Hub\SoftUni-school\SoftUni-school\Programming Basics - September 2023\PB - More Exercises\05.For-Loop-MoreExercises\09.Clock\obj\Debug\net7.0\09.Clock.dll
+D:\ProgramsScool\Git Hub\SoftUni-school\SoftUni-school\Programming Basics - September 2023\PB - More Exercises\05.For-Loop-MoreExercises\09.Clock\obj\Debug\net7.0\refint\09.Clock.dll
+D:\ProgramsScool\Git Hub\SoftUni-school\SoftUni-school\Programming Basics - September 2023\PB - More Exercises\05.For-Loop-MoreExercises\09.Clock\obj\Debug\net7.0\09.Clock.pdb
+D:\ProgramsScool\Git Hub\SoftUni-school\SoftUni-school\Programming Basics - September 2023\PB - More Exercises\05.For-Loop-MoreExercises\09.Clock\obj\Debug\net7.0\09.Clock.genruntimeconfig.cache
+D:\ProgramsScool\Git Hub\SoftUni-school\SoftUni-school\Programming Basics - September 2023\PB - More Exercises\05.For-Loop-MoreExercises\09.Clock\obj\Debug\net7.0\ref\09.Clock.dll

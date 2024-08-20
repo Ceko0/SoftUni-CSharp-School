@@ -1,0 +1,15 @@
+D:\ProgramsScool\PB-september.2023\07,ForLoop-Lab\ConsoleApp1\bin\Debug\net6.0\01.NumbersFrom1To100.exe
+D:\ProgramsScool\PB-september.2023\07,ForLoop-Lab\ConsoleApp1\bin\Debug\net6.0\01.NumbersFrom1To100.deps.json
+D:\ProgramsScool\PB-september.2023\07,ForLoop-Lab\ConsoleApp1\bin\Debug\net6.0\01.NumbersFrom1To100.runtimeconfig.json
+D:\ProgramsScool\PB-september.2023\07,ForLoop-Lab\ConsoleApp1\bin\Debug\net6.0\01.NumbersFrom1To100.dll
+D:\ProgramsScool\PB-september.2023\07,ForLoop-Lab\ConsoleApp1\bin\Debug\net6.0\01.NumbersFrom1To100.pdb
+D:\ProgramsScool\PB-september.2023\07,ForLoop-Lab\ConsoleApp1\obj\Debug\net6.0\01.NumbersFrom1To100.csproj.AssemblyReference.cache
+D:\ProgramsScool\PB-september.2023\07,ForLoop-Lab\ConsoleApp1\obj\Debug\net6.0\01.NumbersFrom1To100.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProgramsScool\PB-september.2023\07,ForLoop-Lab\ConsoleApp1\obj\Debug\net6.0\01.NumbersFrom1To100.AssemblyInfoInputs.cache
+D:\ProgramsScool\PB-september.2023\07,ForLoop-Lab\ConsoleApp1\obj\Debug\net6.0\01.NumbersFrom1To100.AssemblyInfo.cs
+D:\ProgramsScool\PB-september.2023\07,ForLoop-Lab\ConsoleApp1\obj\Debug\net6.0\01.NumbersFrom1To100.csproj.CoreCompileInputs.cache
+D:\ProgramsScool\PB-september.2023\07,ForLoop-Lab\ConsoleApp1\obj\Debug\net6.0\01.NumbersFrom1To100.dll
+D:\ProgramsScool\PB-september.2023\07,ForLoop-Lab\ConsoleApp1\obj\Debug\net6.0\refint\01.NumbersFrom1To100.dll
+D:\ProgramsScool\PB-september.2023\07,ForLoop-Lab\ConsoleApp1\obj\Debug\net6.0\01.NumbersFrom1To100.pdb
+D:\ProgramsScool\PB-september.2023\07,ForLoop-Lab\ConsoleApp1\obj\Debug\net6.0\01.NumbersFrom1To100.genruntimeconfig.cache
+D:\ProgramsScool\PB-september.2023\07,ForLoop-Lab\ConsoleApp1\obj\Debug\net6.0\ref\01.NumbersFrom1To100.dll

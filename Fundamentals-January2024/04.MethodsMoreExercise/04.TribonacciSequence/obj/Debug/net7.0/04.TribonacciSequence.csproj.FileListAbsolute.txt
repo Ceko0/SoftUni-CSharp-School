@@ -1,0 +1,15 @@
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\04.MethodsMoreExercise\04.TribonacciSequence\bin\Debug\net7.0\04.TribonacciSequence.exe
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\04.MethodsMoreExercise\04.TribonacciSequence\bin\Debug\net7.0\04.TribonacciSequence.deps.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\04.MethodsMoreExercise\04.TribonacciSequence\bin\Debug\net7.0\04.TribonacciSequence.runtimeconfig.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\04.MethodsMoreExercise\04.TribonacciSequence\bin\Debug\net7.0\04.TribonacciSequence.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\04.MethodsMoreExercise\04.TribonacciSequence\bin\Debug\net7.0\04.TribonacciSequence.pdb
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\04.MethodsMoreExercise\04.TribonacciSequence\obj\Debug\net7.0\04.TribonacciSequence.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\04.MethodsMoreExercise\04.TribonacciSequence\obj\Debug\net7.0\04.TribonacciSequence.AssemblyInfoInputs.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\04.MethodsMoreExercise\04.TribonacciSequence\obj\Debug\net7.0\04.TribonacciSequence.AssemblyInfo.cs
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\04.MethodsMoreExercise\04.TribonacciSequence\obj\Debug\net7.0\04.TribonacciSequence.csproj.CoreCompileInputs.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\04.MethodsMoreExercise\04.TribonacciSequence\obj\Debug\net7.0\04.TribonacciSequence.sourcelink.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\04.MethodsMoreExercise\04.TribonacciSequence\obj\Debug\net7.0\04.TribonacciSequence.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\04.MethodsMoreExercise\04.TribonacciSequence\obj\Debug\net7.0\refint\04.TribonacciSequence.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\04.MethodsMoreExercise\04.TribonacciSequence\obj\Debug\net7.0\04.TribonacciSequence.pdb
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\04.MethodsMoreExercise\04.TribonacciSequence\obj\Debug\net7.0\04.TribonacciSequence.genruntimeconfig.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\04.MethodsMoreExercise\04.TribonacciSequence\obj\Debug\net7.0\ref\04.TribonacciSequence.dll

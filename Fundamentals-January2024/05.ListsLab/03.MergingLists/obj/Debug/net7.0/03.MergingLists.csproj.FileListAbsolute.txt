@@ -1,0 +1,15 @@
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\05.ListsLab\03.MergingLists\bin\Debug\net7.0\03.MergingLists.exe
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\05.ListsLab\03.MergingLists\bin\Debug\net7.0\03.MergingLists.deps.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\05.ListsLab\03.MergingLists\bin\Debug\net7.0\03.MergingLists.runtimeconfig.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\05.ListsLab\03.MergingLists\bin\Debug\net7.0\03.MergingLists.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\05.ListsLab\03.MergingLists\bin\Debug\net7.0\03.MergingLists.pdb
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\05.ListsLab\03.MergingLists\obj\Debug\net7.0\03.MergingLists.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\05.ListsLab\03.MergingLists\obj\Debug\net7.0\03.MergingLists.AssemblyInfoInputs.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\05.ListsLab\03.MergingLists\obj\Debug\net7.0\03.MergingLists.AssemblyInfo.cs
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\05.ListsLab\03.MergingLists\obj\Debug\net7.0\03.MergingLists.csproj.CoreCompileInputs.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\05.ListsLab\03.MergingLists\obj\Debug\net7.0\03.MergingLists.sourcelink.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\05.ListsLab\03.MergingLists\obj\Debug\net7.0\03.MergingLists.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\05.ListsLab\03.MergingLists\obj\Debug\net7.0\refint\03.MergingLists.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\05.ListsLab\03.MergingLists\obj\Debug\net7.0\03.MergingLists.pdb
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\05.ListsLab\03.MergingLists\obj\Debug\net7.0\03.MergingLists.genruntimeconfig.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\05.ListsLab\03.MergingLists\obj\Debug\net7.0\ref\03.MergingLists.dll

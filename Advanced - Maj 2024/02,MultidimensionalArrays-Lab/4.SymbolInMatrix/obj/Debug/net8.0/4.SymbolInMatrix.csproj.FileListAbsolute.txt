@@ -1,0 +1,15 @@
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\02,MultidimensionalArrays-Lab\4.SymbolInMatrix\obj\Debug\net8.0\4.SymbolInMatrix.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\02,MultidimensionalArrays-Lab\4.SymbolInMatrix\obj\Debug\net8.0\4.SymbolInMatrix.AssemblyInfoInputs.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\02,MultidimensionalArrays-Lab\4.SymbolInMatrix\obj\Debug\net8.0\4.SymbolInMatrix.AssemblyInfo.cs
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\02,MultidimensionalArrays-Lab\4.SymbolInMatrix\obj\Debug\net8.0\4.SymbolInMatrix.csproj.CoreCompileInputs.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\02,MultidimensionalArrays-Lab\4.SymbolInMatrix\obj\Debug\net8.0\4.SymbolInMatrix.sourcelink.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\02,MultidimensionalArrays-Lab\4.SymbolInMatrix\bin\Debug\net8.0\4.SymbolInMatrix.exe
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\02,MultidimensionalArrays-Lab\4.SymbolInMatrix\bin\Debug\net8.0\4.SymbolInMatrix.deps.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\02,MultidimensionalArrays-Lab\4.SymbolInMatrix\bin\Debug\net8.0\4.SymbolInMatrix.runtimeconfig.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\02,MultidimensionalArrays-Lab\4.SymbolInMatrix\bin\Debug\net8.0\4.SymbolInMatrix.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\02,MultidimensionalArrays-Lab\4.SymbolInMatrix\bin\Debug\net8.0\4.SymbolInMatrix.pdb
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\02,MultidimensionalArrays-Lab\4.SymbolInMatrix\obj\Debug\net8.0\4.SymbolInMatrix.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\02,MultidimensionalArrays-Lab\4.SymbolInMatrix\obj\Debug\net8.0\refint\4.SymbolInMatrix.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\02,MultidimensionalArrays-Lab\4.SymbolInMatrix\obj\Debug\net8.0\4.SymbolInMatrix.pdb
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\02,MultidimensionalArrays-Lab\4.SymbolInMatrix\obj\Debug\net8.0\4.SymbolInMatrix.genruntimeconfig.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\02,MultidimensionalArrays-Lab\4.SymbolInMatrix\obj\Debug\net8.0\ref\4.SymbolInMatrix.dll

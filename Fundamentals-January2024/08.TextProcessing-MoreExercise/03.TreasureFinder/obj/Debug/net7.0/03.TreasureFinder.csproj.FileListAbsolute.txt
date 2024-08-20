@@ -1,0 +1,15 @@
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\08.TextProcessing-MoreExercise\03.TreasureFinder\bin\Debug\net7.0\03.TreasureFinder.exe
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\08.TextProcessing-MoreExercise\03.TreasureFinder\bin\Debug\net7.0\03.TreasureFinder.deps.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\08.TextProcessing-MoreExercise\03.TreasureFinder\bin\Debug\net7.0\03.TreasureFinder.runtimeconfig.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\08.TextProcessing-MoreExercise\03.TreasureFinder\bin\Debug\net7.0\03.TreasureFinder.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\08.TextProcessing-MoreExercise\03.TreasureFinder\bin\Debug\net7.0\03.TreasureFinder.pdb
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\08.TextProcessing-MoreExercise\03.TreasureFinder\obj\Debug\net7.0\03.TreasureFinder.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\08.TextProcessing-MoreExercise\03.TreasureFinder\obj\Debug\net7.0\03.TreasureFinder.AssemblyInfoInputs.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\08.TextProcessing-MoreExercise\03.TreasureFinder\obj\Debug\net7.0\03.TreasureFinder.AssemblyInfo.cs
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\08.TextProcessing-MoreExercise\03.TreasureFinder\obj\Debug\net7.0\03.TreasureFinder.csproj.CoreCompileInputs.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\08.TextProcessing-MoreExercise\03.TreasureFinder\obj\Debug\net7.0\03.TreasureFinder.sourcelink.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\08.TextProcessing-MoreExercise\03.TreasureFinder\obj\Debug\net7.0\03.TreasureFinder.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\08.TextProcessing-MoreExercise\03.TreasureFinder\obj\Debug\net7.0\refint\03.TreasureFinder.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\08.TextProcessing-MoreExercise\03.TreasureFinder\obj\Debug\net7.0\03.TreasureFinder.pdb
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\08.TextProcessing-MoreExercise\03.TreasureFinder\obj\Debug\net7.0\03.TreasureFinder.genruntimeconfig.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\08.TextProcessing-MoreExercise\03.TreasureFinder\obj\Debug\net7.0\ref\03.TreasureFinder.dll

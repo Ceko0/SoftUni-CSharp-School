@@ -1,0 +1,15 @@
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\07.AssociativeArrays-MoreExercise\02.Judge\bin\Debug\net7.0\02.Judge.exe
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\07.AssociativeArrays-MoreExercise\02.Judge\bin\Debug\net7.0\02.Judge.deps.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\07.AssociativeArrays-MoreExercise\02.Judge\bin\Debug\net7.0\02.Judge.runtimeconfig.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\07.AssociativeArrays-MoreExercise\02.Judge\bin\Debug\net7.0\02.Judge.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\07.AssociativeArrays-MoreExercise\02.Judge\bin\Debug\net7.0\02.Judge.pdb
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\07.AssociativeArrays-MoreExercise\02.Judge\obj\Debug\net7.0\02.Judge.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\07.AssociativeArrays-MoreExercise\02.Judge\obj\Debug\net7.0\02.Judge.AssemblyInfoInputs.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\07.AssociativeArrays-MoreExercise\02.Judge\obj\Debug\net7.0\02.Judge.AssemblyInfo.cs
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\07.AssociativeArrays-MoreExercise\02.Judge\obj\Debug\net7.0\02.Judge.csproj.CoreCompileInputs.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\07.AssociativeArrays-MoreExercise\02.Judge\obj\Debug\net7.0\02.Judge.sourcelink.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\07.AssociativeArrays-MoreExercise\02.Judge\obj\Debug\net7.0\02.Judge.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\07.AssociativeArrays-MoreExercise\02.Judge\obj\Debug\net7.0\refint\02.Judge.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\07.AssociativeArrays-MoreExercise\02.Judge\obj\Debug\net7.0\02.Judge.pdb
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\07.AssociativeArrays-MoreExercise\02.Judge\obj\Debug\net7.0\02.Judge.genruntimeconfig.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\07.AssociativeArrays-MoreExercise\02.Judge\obj\Debug\net7.0\ref\02.Judge.dll

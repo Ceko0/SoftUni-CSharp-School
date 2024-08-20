@@ -1,0 +1,15 @@
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\06.ObjectsAndClassesLab\01.RandomizeWords\bin\Debug\net7.0\01.RandomizeWords.exe
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\06.ObjectsAndClassesLab\01.RandomizeWords\bin\Debug\net7.0\01.RandomizeWords.deps.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\06.ObjectsAndClassesLab\01.RandomizeWords\bin\Debug\net7.0\01.RandomizeWords.runtimeconfig.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\06.ObjectsAndClassesLab\01.RandomizeWords\bin\Debug\net7.0\01.RandomizeWords.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\06.ObjectsAndClassesLab\01.RandomizeWords\bin\Debug\net7.0\01.RandomizeWords.pdb
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\06.ObjectsAndClassesLab\01.RandomizeWords\obj\Debug\net7.0\01.RandomizeWords.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\06.ObjectsAndClassesLab\01.RandomizeWords\obj\Debug\net7.0\01.RandomizeWords.AssemblyInfoInputs.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\06.ObjectsAndClassesLab\01.RandomizeWords\obj\Debug\net7.0\01.RandomizeWords.AssemblyInfo.cs
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\06.ObjectsAndClassesLab\01.RandomizeWords\obj\Debug\net7.0\01.RandomizeWords.csproj.CoreCompileInputs.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\06.ObjectsAndClassesLab\01.RandomizeWords\obj\Debug\net7.0\01.RandomizeWords.sourcelink.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\06.ObjectsAndClassesLab\01.RandomizeWords\obj\Debug\net7.0\01.RandomizeWords.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\06.ObjectsAndClassesLab\01.RandomizeWords\obj\Debug\net7.0\refint\01.RandomizeWords.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\06.ObjectsAndClassesLab\01.RandomizeWords\obj\Debug\net7.0\01.RandomizeWords.pdb
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\06.ObjectsAndClassesLab\01.RandomizeWords\obj\Debug\net7.0\01.RandomizeWords.genruntimeconfig.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\06.ObjectsAndClassesLab\01.RandomizeWords\obj\Debug\net7.0\ref\01.RandomizeWords.dll

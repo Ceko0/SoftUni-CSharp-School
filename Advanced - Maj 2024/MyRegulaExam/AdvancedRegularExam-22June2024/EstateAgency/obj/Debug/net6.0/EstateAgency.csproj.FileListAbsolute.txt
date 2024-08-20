@@ -1,0 +1,15 @@
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\MyRegulaExam\AdvancedRegularExam-22June2024\EstateAgency\bin\Debug\net6.0\EstateAgency.exe
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\MyRegulaExam\AdvancedRegularExam-22June2024\EstateAgency\bin\Debug\net6.0\EstateAgency.deps.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\MyRegulaExam\AdvancedRegularExam-22June2024\EstateAgency\bin\Debug\net6.0\EstateAgency.runtimeconfig.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\MyRegulaExam\AdvancedRegularExam-22June2024\EstateAgency\bin\Debug\net6.0\EstateAgency.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\MyRegulaExam\AdvancedRegularExam-22June2024\EstateAgency\bin\Debug\net6.0\EstateAgency.pdb
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\MyRegulaExam\AdvancedRegularExam-22June2024\EstateAgency\obj\Debug\net6.0\EstateAgency.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\MyRegulaExam\AdvancedRegularExam-22June2024\EstateAgency\obj\Debug\net6.0\EstateAgency.AssemblyInfoInputs.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\MyRegulaExam\AdvancedRegularExam-22June2024\EstateAgency\obj\Debug\net6.0\EstateAgency.AssemblyInfo.cs
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\MyRegulaExam\AdvancedRegularExam-22June2024\EstateAgency\obj\Debug\net6.0\EstateAgency.csproj.CoreCompileInputs.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\MyRegulaExam\AdvancedRegularExam-22June2024\EstateAgency\obj\Debug\net6.0\EstateAgency.sourcelink.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\MyRegulaExam\AdvancedRegularExam-22June2024\EstateAgency\obj\Debug\net6.0\EstateAgency.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\MyRegulaExam\AdvancedRegularExam-22June2024\EstateAgency\obj\Debug\net6.0\refint\EstateAgency.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\MyRegulaExam\AdvancedRegularExam-22June2024\EstateAgency\obj\Debug\net6.0\EstateAgency.pdb
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\MyRegulaExam\AdvancedRegularExam-22June2024\EstateAgency\obj\Debug\net6.0\EstateAgency.genruntimeconfig.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\MyRegulaExam\AdvancedRegularExam-22June2024\EstateAgency\obj\Debug\net6.0\ref\EstateAgency.dll

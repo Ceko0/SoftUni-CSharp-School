@@ -1,0 +1,15 @@
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\02,MultidimensionalArrays-Lab\5.SquareWithMaximumSum\bin\Debug\net8.0\5.SquareWithMaximumSum.exe
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\02,MultidimensionalArrays-Lab\5.SquareWithMaximumSum\bin\Debug\net8.0\5.SquareWithMaximumSum.deps.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\02,MultidimensionalArrays-Lab\5.SquareWithMaximumSum\bin\Debug\net8.0\5.SquareWithMaximumSum.runtimeconfig.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\02,MultidimensionalArrays-Lab\5.SquareWithMaximumSum\bin\Debug\net8.0\5.SquareWithMaximumSum.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\02,MultidimensionalArrays-Lab\5.SquareWithMaximumSum\bin\Debug\net8.0\5.SquareWithMaximumSum.pdb
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\02,MultidimensionalArrays-Lab\5.SquareWithMaximumSum\obj\Debug\net8.0\5.SquareWithMaximumSum.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\02,MultidimensionalArrays-Lab\5.SquareWithMaximumSum\obj\Debug\net8.0\5.SquareWithMaximumSum.AssemblyInfoInputs.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\02,MultidimensionalArrays-Lab\5.SquareWithMaximumSum\obj\Debug\net8.0\5.SquareWithMaximumSum.AssemblyInfo.cs
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\02,MultidimensionalArrays-Lab\5.SquareWithMaximumSum\obj\Debug\net8.0\5.SquareWithMaximumSum.csproj.CoreCompileInputs.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\02,MultidimensionalArrays-Lab\5.SquareWithMaximumSum\obj\Debug\net8.0\5.SquareWithMaximumSum.sourcelink.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\02,MultidimensionalArrays-Lab\5.SquareWithMaximumSum\obj\Debug\net8.0\5.SquareWithMaximumSum.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\02,MultidimensionalArrays-Lab\5.SquareWithMaximumSum\obj\Debug\net8.0\refint\5.SquareWithMaximumSum.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\02,MultidimensionalArrays-Lab\5.SquareWithMaximumSum\obj\Debug\net8.0\5.SquareWithMaximumSum.pdb
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\02,MultidimensionalArrays-Lab\5.SquareWithMaximumSum\obj\Debug\net8.0\5.SquareWithMaximumSum.genruntimeconfig.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\02,MultidimensionalArrays-Lab\5.SquareWithMaximumSum\obj\Debug\net8.0\ref\5.SquareWithMaximumSum.dll

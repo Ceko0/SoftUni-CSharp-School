@@ -1,0 +1,15 @@
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\FinalExam\03.ProgrammingFundamentalsFinalExamRetake\02.MirrorWords\bin\Debug\net7.0\02.MirrorWords.exe
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\FinalExam\03.ProgrammingFundamentalsFinalExamRetake\02.MirrorWords\bin\Debug\net7.0\02.MirrorWords.deps.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\FinalExam\03.ProgrammingFundamentalsFinalExamRetake\02.MirrorWords\bin\Debug\net7.0\02.MirrorWords.runtimeconfig.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\FinalExam\03.ProgrammingFundamentalsFinalExamRetake\02.MirrorWords\bin\Debug\net7.0\02.MirrorWords.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\FinalExam\03.ProgrammingFundamentalsFinalExamRetake\02.MirrorWords\bin\Debug\net7.0\02.MirrorWords.pdb
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\FinalExam\03.ProgrammingFundamentalsFinalExamRetake\02.MirrorWords\obj\Debug\net7.0\02.MirrorWords.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\FinalExam\03.ProgrammingFundamentalsFinalExamRetake\02.MirrorWords\obj\Debug\net7.0\02.MirrorWords.AssemblyInfoInputs.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\FinalExam\03.ProgrammingFundamentalsFinalExamRetake\02.MirrorWords\obj\Debug\net7.0\02.MirrorWords.AssemblyInfo.cs
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\FinalExam\03.ProgrammingFundamentalsFinalExamRetake\02.MirrorWords\obj\Debug\net7.0\02.MirrorWords.csproj.CoreCompileInputs.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\FinalExam\03.ProgrammingFundamentalsFinalExamRetake\02.MirrorWords\obj\Debug\net7.0\02.MirrorWords.sourcelink.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\FinalExam\03.ProgrammingFundamentalsFinalExamRetake\02.MirrorWords\obj\Debug\net7.0\02.MirrorWords.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\FinalExam\03.ProgrammingFundamentalsFinalExamRetake\02.MirrorWords\obj\Debug\net7.0\refint\02.MirrorWords.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\FinalExam\03.ProgrammingFundamentalsFinalExamRetake\02.MirrorWords\obj\Debug\net7.0\02.MirrorWords.pdb
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\FinalExam\03.ProgrammingFundamentalsFinalExamRetake\02.MirrorWords\obj\Debug\net7.0\02.MirrorWords.genruntimeconfig.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\FinalExam\03.ProgrammingFundamentalsFinalExamRetake\02.MirrorWords\obj\Debug\net7.0\ref\02.MirrorWords.dll

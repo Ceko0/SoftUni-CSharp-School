@@ -1,0 +1,15 @@
+D:\ProgramsScool\PB-september.2023\06.ConditionalStatementsAdvanced-Exercise\02.SummerOutfit\bin\Debug\net6.0\02.SummerOutfit.exe
+D:\ProgramsScool\PB-september.2023\06.ConditionalStatementsAdvanced-Exercise\02.SummerOutfit\bin\Debug\net6.0\02.SummerOutfit.deps.json
+D:\ProgramsScool\PB-september.2023\06.ConditionalStatementsAdvanced-Exercise\02.SummerOutfit\bin\Debug\net6.0\02.SummerOutfit.runtimeconfig.json
+D:\ProgramsScool\PB-september.2023\06.ConditionalStatementsAdvanced-Exercise\02.SummerOutfit\bin\Debug\net6.0\02.SummerOutfit.dll
+D:\ProgramsScool\PB-september.2023\06.ConditionalStatementsAdvanced-Exercise\02.SummerOutfit\bin\Debug\net6.0\02.SummerOutfit.pdb
+D:\ProgramsScool\PB-september.2023\06.ConditionalStatementsAdvanced-Exercise\02.SummerOutfit\obj\Debug\net6.0\02.SummerOutfit.csproj.AssemblyReference.cache
+D:\ProgramsScool\PB-september.2023\06.ConditionalStatementsAdvanced-Exercise\02.SummerOutfit\obj\Debug\net6.0\02.SummerOutfit.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProgramsScool\PB-september.2023\06.ConditionalStatementsAdvanced-Exercise\02.SummerOutfit\obj\Debug\net6.0\02.SummerOutfit.AssemblyInfoInputs.cache
+D:\ProgramsScool\PB-september.2023\06.ConditionalStatementsAdvanced-Exercise\02.SummerOutfit\obj\Debug\net6.0\02.SummerOutfit.AssemblyInfo.cs
+D:\ProgramsScool\PB-september.2023\06.ConditionalStatementsAdvanced-Exercise\02.SummerOutfit\obj\Debug\net6.0\02.SummerOutfit.csproj.CoreCompileInputs.cache
+D:\ProgramsScool\PB-september.2023\06.ConditionalStatementsAdvanced-Exercise\02.SummerOutfit\obj\Debug\net6.0\02.SummerOutfit.dll
+D:\ProgramsScool\PB-september.2023\06.ConditionalStatementsAdvanced-Exercise\02.SummerOutfit\obj\Debug\net6.0\refint\02.SummerOutfit.dll
+D:\ProgramsScool\PB-september.2023\06.ConditionalStatementsAdvanced-Exercise\02.SummerOutfit\obj\Debug\net6.0\02.SummerOutfit.pdb
+D:\ProgramsScool\PB-september.2023\06.ConditionalStatementsAdvanced-Exercise\02.SummerOutfit\obj\Debug\net6.0\02.SummerOutfit.genruntimeconfig.cache
+D:\ProgramsScool\PB-september.2023\06.ConditionalStatementsAdvanced-Exercise\02.SummerOutfit\obj\Debug\net6.0\ref\02.SummerOutfit.dll

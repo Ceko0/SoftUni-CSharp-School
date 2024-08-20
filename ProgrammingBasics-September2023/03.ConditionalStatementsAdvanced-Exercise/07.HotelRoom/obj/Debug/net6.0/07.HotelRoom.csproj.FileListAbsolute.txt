@@ -1,0 +1,15 @@
+D:\ProgramsScool\PB-september.2023\06.ConditionalStatementsAdvanced-Exercise\07.HotelRoom\bin\Debug\net6.0\07.HotelRoom.exe
+D:\ProgramsScool\PB-september.2023\06.ConditionalStatementsAdvanced-Exercise\07.HotelRoom\bin\Debug\net6.0\07.HotelRoom.deps.json
+D:\ProgramsScool\PB-september.2023\06.ConditionalStatementsAdvanced-Exercise\07.HotelRoom\bin\Debug\net6.0\07.HotelRoom.runtimeconfig.json
+D:\ProgramsScool\PB-september.2023\06.ConditionalStatementsAdvanced-Exercise\07.HotelRoom\bin\Debug\net6.0\07.HotelRoom.dll
+D:\ProgramsScool\PB-september.2023\06.ConditionalStatementsAdvanced-Exercise\07.HotelRoom\bin\Debug\net6.0\07.HotelRoom.pdb
+D:\ProgramsScool\PB-september.2023\06.ConditionalStatementsAdvanced-Exercise\07.HotelRoom\obj\Debug\net6.0\07.HotelRoom.csproj.AssemblyReference.cache
+D:\ProgramsScool\PB-september.2023\06.ConditionalStatementsAdvanced-Exercise\07.HotelRoom\obj\Debug\net6.0\07.HotelRoom.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProgramsScool\PB-september.2023\06.ConditionalStatementsAdvanced-Exercise\07.HotelRoom\obj\Debug\net6.0\07.HotelRoom.AssemblyInfoInputs.cache
+D:\ProgramsScool\PB-september.2023\06.ConditionalStatementsAdvanced-Exercise\07.HotelRoom\obj\Debug\net6.0\07.HotelRoom.AssemblyInfo.cs
+D:\ProgramsScool\PB-september.2023\06.ConditionalStatementsAdvanced-Exercise\07.HotelRoom\obj\Debug\net6.0\07.HotelRoom.csproj.CoreCompileInputs.cache
+D:\ProgramsScool\PB-september.2023\06.ConditionalStatementsAdvanced-Exercise\07.HotelRoom\obj\Debug\net6.0\07.HotelRoom.dll
+D:\ProgramsScool\PB-september.2023\06.ConditionalStatementsAdvanced-Exercise\07.HotelRoom\obj\Debug\net6.0\refint\07.HotelRoom.dll
+D:\ProgramsScool\PB-september.2023\06.ConditionalStatementsAdvanced-Exercise\07.HotelRoom\obj\Debug\net6.0\07.HotelRoom.pdb
+D:\ProgramsScool\PB-september.2023\06.ConditionalStatementsAdvanced-Exercise\07.HotelRoom\obj\Debug\net6.0\07.HotelRoom.genruntimeconfig.cache
+D:\ProgramsScool\PB-september.2023\06.ConditionalStatementsAdvanced-Exercise\07.HotelRoom\obj\Debug\net6.0\ref\07.HotelRoom.dll

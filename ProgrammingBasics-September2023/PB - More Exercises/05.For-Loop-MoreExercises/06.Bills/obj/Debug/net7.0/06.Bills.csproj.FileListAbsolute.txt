@@ -1,0 +1,15 @@
+D:\ProgramsScool\Git Hub\SoftUni-school\SoftUni-school\Programming Basics - September 2023\PB - More Exercises\05.For-Loop-MoreExercises\06.Bills\bin\Debug\net7.0\06.Bills.exe
+D:\ProgramsScool\Git Hub\SoftUni-school\SoftUni-school\Programming Basics - September 2023\PB - More Exercises\05.For-Loop-MoreExercises\06.Bills\bin\Debug\net7.0\06.Bills.deps.json
+D:\ProgramsScool\Git Hub\SoftUni-school\SoftUni-school\Programming Basics - September 2023\PB - More Exercises\05.For-Loop-MoreExercises\06.Bills\bin\Debug\net7.0\06.Bills.runtimeconfig.json
+D:\ProgramsScool\Git Hub\SoftUni-school\SoftUni-school\Programming Basics - September 2023\PB - More Exercises\05.For-Loop-MoreExercises\06.Bills\bin\Debug\net7.0\06.Bills.dll
+D:\ProgramsScool\Git Hub\SoftUni-school\SoftUni-school\Programming Basics - September 2023\PB - More Exercises\05.For-Loop-MoreExercises\06.Bills\bin\Debug\net7.0\06.Bills.pdb
+D:\ProgramsScool\Git Hub\SoftUni-school\SoftUni-school\Programming Basics - September 2023\PB - More Exercises\05.For-Loop-MoreExercises\06.Bills\obj\Debug\net7.0\06.Bills.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProgramsScool\Git Hub\SoftUni-school\SoftUni-school\Programming Basics - September 2023\PB - More Exercises\05.For-Loop-MoreExercises\06.Bills\obj\Debug\net7.0\06.Bills.AssemblyInfoInputs.cache
+D:\ProgramsScool\Git Hub\SoftUni-school\SoftUni-school\Programming Basics - September 2023\PB - More Exercises\05.For-Loop-MoreExercises\06.Bills\obj\Debug\net7.0\06.Bills.AssemblyInfo.cs
+D:\ProgramsScool\Git Hub\SoftUni-school\SoftUni-school\Programming Basics - September 2023\PB - More Exercises\05.For-Loop-MoreExercises\06.Bills\obj\Debug\net7.0\06.Bills.csproj.CoreCompileInputs.cache
+D:\ProgramsScool\Git Hub\SoftUni-school\SoftUni-school\Programming Basics - September 2023\PB - More Exercises\05.For-Loop-MoreExercises\06.Bills\obj\Debug\net7.0\06.Bills.sourcelink.json
+D:\ProgramsScool\Git Hub\SoftUni-school\SoftUni-school\Programming Basics - September 2023\PB - More Exercises\05.For-Loop-MoreExercises\06.Bills\obj\Debug\net7.0\06.Bills.dll
+D:\ProgramsScool\Git Hub\SoftUni-school\SoftUni-school\Programming Basics - September 2023\PB - More Exercises\05.For-Loop-MoreExercises\06.Bills\obj\Debug\net7.0\refint\06.Bills.dll
+D:\ProgramsScool\Git Hub\SoftUni-school\SoftUni-school\Programming Basics - September 2023\PB - More Exercises\05.For-Loop-MoreExercises\06.Bills\obj\Debug\net7.0\06.Bills.pdb
+D:\ProgramsScool\Git Hub\SoftUni-school\SoftUni-school\Programming Basics - September 2023\PB - More Exercises\05.For-Loop-MoreExercises\06.Bills\obj\Debug\net7.0\06.Bills.genruntimeconfig.cache
+D:\ProgramsScool\Git Hub\SoftUni-school\SoftUni-school\Programming Basics - September 2023\PB - More Exercises\05.For-Loop-MoreExercises\06.Bills\obj\Debug\net7.0\ref\06.Bills.dll

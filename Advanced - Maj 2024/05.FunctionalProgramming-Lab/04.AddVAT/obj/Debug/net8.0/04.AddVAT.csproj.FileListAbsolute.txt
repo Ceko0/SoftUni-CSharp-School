@@ -1,0 +1,15 @@
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\05.FunctionalProgramming-Lab\04.AddVAT\bin\Debug\net8.0\04.AddVAT.exe
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\05.FunctionalProgramming-Lab\04.AddVAT\bin\Debug\net8.0\04.AddVAT.deps.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\05.FunctionalProgramming-Lab\04.AddVAT\bin\Debug\net8.0\04.AddVAT.runtimeconfig.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\05.FunctionalProgramming-Lab\04.AddVAT\bin\Debug\net8.0\04.AddVAT.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\05.FunctionalProgramming-Lab\04.AddVAT\bin\Debug\net8.0\04.AddVAT.pdb
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\05.FunctionalProgramming-Lab\04.AddVAT\obj\Debug\net8.0\04.AddVAT.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\05.FunctionalProgramming-Lab\04.AddVAT\obj\Debug\net8.0\04.AddVAT.AssemblyInfoInputs.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\05.FunctionalProgramming-Lab\04.AddVAT\obj\Debug\net8.0\04.AddVAT.AssemblyInfo.cs
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\05.FunctionalProgramming-Lab\04.AddVAT\obj\Debug\net8.0\04.AddVAT.csproj.CoreCompileInputs.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\05.FunctionalProgramming-Lab\04.AddVAT\obj\Debug\net8.0\04.AddVAT.sourcelink.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\05.FunctionalProgramming-Lab\04.AddVAT\obj\Debug\net8.0\04.AddVAT.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\05.FunctionalProgramming-Lab\04.AddVAT\obj\Debug\net8.0\refint\04.AddVAT.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\05.FunctionalProgramming-Lab\04.AddVAT\obj\Debug\net8.0\04.AddVAT.pdb
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\05.FunctionalProgramming-Lab\04.AddVAT\obj\Debug\net8.0\04.AddVAT.genruntimeconfig.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\05.FunctionalProgramming-Lab\04.AddVAT\obj\Debug\net8.0\ref\04.AddVAT.dll

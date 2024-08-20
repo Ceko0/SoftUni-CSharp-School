@@ -1,0 +1,15 @@
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\02.MultidimensionalArrays-Exercise\1.DiagonalDifference\bin\Debug\net8.0\1.DiagonalDifference.exe
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\02.MultidimensionalArrays-Exercise\1.DiagonalDifference\bin\Debug\net8.0\1.DiagonalDifference.deps.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\02.MultidimensionalArrays-Exercise\1.DiagonalDifference\bin\Debug\net8.0\1.DiagonalDifference.runtimeconfig.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\02.MultidimensionalArrays-Exercise\1.DiagonalDifference\bin\Debug\net8.0\1.DiagonalDifference.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\02.MultidimensionalArrays-Exercise\1.DiagonalDifference\bin\Debug\net8.0\1.DiagonalDifference.pdb
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\02.MultidimensionalArrays-Exercise\1.DiagonalDifference\obj\Debug\net8.0\1.DiagonalDifference.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\02.MultidimensionalArrays-Exercise\1.DiagonalDifference\obj\Debug\net8.0\1.DiagonalDifference.AssemblyInfoInputs.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\02.MultidimensionalArrays-Exercise\1.DiagonalDifference\obj\Debug\net8.0\1.DiagonalDifference.AssemblyInfo.cs
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\02.MultidimensionalArrays-Exercise\1.DiagonalDifference\obj\Debug\net8.0\1.DiagonalDifference.csproj.CoreCompileInputs.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\02.MultidimensionalArrays-Exercise\1.DiagonalDifference\obj\Debug\net8.0\1.DiagonalDifference.sourcelink.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\02.MultidimensionalArrays-Exercise\1.DiagonalDifference\obj\Debug\net8.0\1.DiagonalDifference.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\02.MultidimensionalArrays-Exercise\1.DiagonalDifference\obj\Debug\net8.0\refint\1.DiagonalDifference.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\02.MultidimensionalArrays-Exercise\1.DiagonalDifference\obj\Debug\net8.0\1.DiagonalDifference.pdb
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\02.MultidimensionalArrays-Exercise\1.DiagonalDifference\obj\Debug\net8.0\1.DiagonalDifference.genruntimeconfig.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\02.MultidimensionalArrays-Exercise\1.DiagonalDifference\obj\Debug\net8.0\ref\1.DiagonalDifference.dll

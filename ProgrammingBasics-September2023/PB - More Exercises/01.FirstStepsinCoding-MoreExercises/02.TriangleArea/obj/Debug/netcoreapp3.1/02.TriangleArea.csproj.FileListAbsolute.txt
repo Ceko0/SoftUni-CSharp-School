@@ -1,0 +1,14 @@
+D:\ProgramsScool\FirstStepsinCoding-MoreExercises\02.TriangleArea\bin\Debug\netcoreapp3.1\02.TriangleArea.exe
+D:\ProgramsScool\FirstStepsinCoding-MoreExercises\02.TriangleArea\bin\Debug\netcoreapp3.1\02.TriangleArea.deps.json
+D:\ProgramsScool\FirstStepsinCoding-MoreExercises\02.TriangleArea\bin\Debug\netcoreapp3.1\02.TriangleArea.runtimeconfig.json
+D:\ProgramsScool\FirstStepsinCoding-MoreExercises\02.TriangleArea\bin\Debug\netcoreapp3.1\02.TriangleArea.runtimeconfig.dev.json
+D:\ProgramsScool\FirstStepsinCoding-MoreExercises\02.TriangleArea\bin\Debug\netcoreapp3.1\02.TriangleArea.dll
+D:\ProgramsScool\FirstStepsinCoding-MoreExercises\02.TriangleArea\bin\Debug\netcoreapp3.1\02.TriangleArea.pdb
+D:\ProgramsScool\FirstStepsinCoding-MoreExercises\02.TriangleArea\obj\Debug\netcoreapp3.1\02.TriangleArea.csproj.AssemblyReference.cache
+D:\ProgramsScool\FirstStepsinCoding-MoreExercises\02.TriangleArea\obj\Debug\netcoreapp3.1\02.TriangleArea.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProgramsScool\FirstStepsinCoding-MoreExercises\02.TriangleArea\obj\Debug\netcoreapp3.1\02.TriangleArea.AssemblyInfoInputs.cache
+D:\ProgramsScool\FirstStepsinCoding-MoreExercises\02.TriangleArea\obj\Debug\netcoreapp3.1\02.TriangleArea.AssemblyInfo.cs
+D:\ProgramsScool\FirstStepsinCoding-MoreExercises\02.TriangleArea\obj\Debug\netcoreapp3.1\02.TriangleArea.csproj.CoreCompileInputs.cache
+D:\ProgramsScool\FirstStepsinCoding-MoreExercises\02.TriangleArea\obj\Debug\netcoreapp3.1\02.TriangleArea.dll
+D:\ProgramsScool\FirstStepsinCoding-MoreExercises\02.TriangleArea\obj\Debug\netcoreapp3.1\02.TriangleArea.pdb
+D:\ProgramsScool\FirstStepsinCoding-MoreExercises\02.TriangleArea\obj\Debug\netcoreapp3.1\02.TriangleArea.genruntimeconfig.cache

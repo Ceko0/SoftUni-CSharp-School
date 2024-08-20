@@ -1,0 +1,15 @@
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\02.MultidimensionalArrays-Exercise\3.MaximalSum\bin\Debug\net8.0\3.MaximalSum.exe
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\02.MultidimensionalArrays-Exercise\3.MaximalSum\bin\Debug\net8.0\3.MaximalSum.deps.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\02.MultidimensionalArrays-Exercise\3.MaximalSum\bin\Debug\net8.0\3.MaximalSum.runtimeconfig.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\02.MultidimensionalArrays-Exercise\3.MaximalSum\bin\Debug\net8.0\3.MaximalSum.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\02.MultidimensionalArrays-Exercise\3.MaximalSum\bin\Debug\net8.0\3.MaximalSum.pdb
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\02.MultidimensionalArrays-Exercise\3.MaximalSum\obj\Debug\net8.0\3.MaximalSum.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\02.MultidimensionalArrays-Exercise\3.MaximalSum\obj\Debug\net8.0\3.MaximalSum.AssemblyInfoInputs.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\02.MultidimensionalArrays-Exercise\3.MaximalSum\obj\Debug\net8.0\3.MaximalSum.AssemblyInfo.cs
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\02.MultidimensionalArrays-Exercise\3.MaximalSum\obj\Debug\net8.0\3.MaximalSum.csproj.CoreCompileInputs.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\02.MultidimensionalArrays-Exercise\3.MaximalSum\obj\Debug\net8.0\3.MaximalSum.sourcelink.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\02.MultidimensionalArrays-Exercise\3.MaximalSum\obj\Debug\net8.0\3.MaximalSum.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\02.MultidimensionalArrays-Exercise\3.MaximalSum\obj\Debug\net8.0\refint\3.MaximalSum.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\02.MultidimensionalArrays-Exercise\3.MaximalSum\obj\Debug\net8.0\3.MaximalSum.pdb
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\02.MultidimensionalArrays-Exercise\3.MaximalSum\obj\Debug\net8.0\3.MaximalSum.genruntimeconfig.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\02.MultidimensionalArrays-Exercise\3.MaximalSum\obj\Debug\net8.0\ref\3.MaximalSum.dll

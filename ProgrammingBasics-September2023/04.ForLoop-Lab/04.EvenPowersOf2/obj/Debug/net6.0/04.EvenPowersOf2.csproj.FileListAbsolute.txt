@@ -1,0 +1,15 @@
+D:\ProgramsScool\PB-september.2023\07,ForLoop-Lab\04.EvenPowersOf2\bin\Debug\net6.0\04.EvenPowersOf2.exe
+D:\ProgramsScool\PB-september.2023\07,ForLoop-Lab\04.EvenPowersOf2\bin\Debug\net6.0\04.EvenPowersOf2.deps.json
+D:\ProgramsScool\PB-september.2023\07,ForLoop-Lab\04.EvenPowersOf2\bin\Debug\net6.0\04.EvenPowersOf2.runtimeconfig.json
+D:\ProgramsScool\PB-september.2023\07,ForLoop-Lab\04.EvenPowersOf2\bin\Debug\net6.0\04.EvenPowersOf2.dll
+D:\ProgramsScool\PB-september.2023\07,ForLoop-Lab\04.EvenPowersOf2\bin\Debug\net6.0\04.EvenPowersOf2.pdb
+D:\ProgramsScool\PB-september.2023\07,ForLoop-Lab\04.EvenPowersOf2\obj\Debug\net6.0\04.EvenPowersOf2.csproj.AssemblyReference.cache
+D:\ProgramsScool\PB-september.2023\07,ForLoop-Lab\04.EvenPowersOf2\obj\Debug\net6.0\04.EvenPowersOf2.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProgramsScool\PB-september.2023\07,ForLoop-Lab\04.EvenPowersOf2\obj\Debug\net6.0\04.EvenPowersOf2.AssemblyInfoInputs.cache
+D:\ProgramsScool\PB-september.2023\07,ForLoop-Lab\04.EvenPowersOf2\obj\Debug\net6.0\04.EvenPowersOf2.AssemblyInfo.cs
+D:\ProgramsScool\PB-september.2023\07,ForLoop-Lab\04.EvenPowersOf2\obj\Debug\net6.0\04.EvenPowersOf2.csproj.CoreCompileInputs.cache
+D:\ProgramsScool\PB-september.2023\07,ForLoop-Lab\04.EvenPowersOf2\obj\Debug\net6.0\04.EvenPowersOf2.dll
+D:\ProgramsScool\PB-september.2023\07,ForLoop-Lab\04.EvenPowersOf2\obj\Debug\net6.0\refint\04.EvenPowersOf2.dll
+D:\ProgramsScool\PB-september.2023\07,ForLoop-Lab\04.EvenPowersOf2\obj\Debug\net6.0\04.EvenPowersOf2.pdb
+D:\ProgramsScool\PB-september.2023\07,ForLoop-Lab\04.EvenPowersOf2\obj\Debug\net6.0\04.EvenPowersOf2.genruntimeconfig.cache
+D:\ProgramsScool\PB-september.2023\07,ForLoop-Lab\04.EvenPowersOf2\obj\Debug\net6.0\ref\04.EvenPowersOf2.dll

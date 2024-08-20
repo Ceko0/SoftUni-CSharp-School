@@ -1,0 +1,15 @@
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\OOP - June 2024\ExamPreparation\C#OOPRegularExam-09December2023\Railway-Skeleton\Railway\bin\Debug\net6.0\Railway.exe
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\OOP - June 2024\ExamPreparation\C#OOPRegularExam-09December2023\Railway-Skeleton\Railway\bin\Debug\net6.0\Railway.deps.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\OOP - June 2024\ExamPreparation\C#OOPRegularExam-09December2023\Railway-Skeleton\Railway\bin\Debug\net6.0\Railway.runtimeconfig.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\OOP - June 2024\ExamPreparation\C#OOPRegularExam-09December2023\Railway-Skeleton\Railway\bin\Debug\net6.0\Railway.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\OOP - June 2024\ExamPreparation\C#OOPRegularExam-09December2023\Railway-Skeleton\Railway\bin\Debug\net6.0\Railway.pdb
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\OOP - June 2024\ExamPreparation\C#OOPRegularExam-09December2023\Railway-Skeleton\Railway\obj\Debug\net6.0\Railway.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\OOP - June 2024\ExamPreparation\C#OOPRegularExam-09December2023\Railway-Skeleton\Railway\obj\Debug\net6.0\Railway.AssemblyInfoInputs.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\OOP - June 2024\ExamPreparation\C#OOPRegularExam-09December2023\Railway-Skeleton\Railway\obj\Debug\net6.0\Railway.AssemblyInfo.cs
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\OOP - June 2024\ExamPreparation\C#OOPRegularExam-09December2023\Railway-Skeleton\Railway\obj\Debug\net6.0\Railway.csproj.CoreCompileInputs.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\OOP - June 2024\ExamPreparation\C#OOPRegularExam-09December2023\Railway-Skeleton\Railway\obj\Debug\net6.0\Railway.sourcelink.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\OOP - June 2024\ExamPreparation\C#OOPRegularExam-09December2023\Railway-Skeleton\Railway\obj\Debug\net6.0\Railway.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\OOP - June 2024\ExamPreparation\C#OOPRegularExam-09December2023\Railway-Skeleton\Railway\obj\Debug\net6.0\refint\Railway.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\OOP - June 2024\ExamPreparation\C#OOPRegularExam-09December2023\Railway-Skeleton\Railway\obj\Debug\net6.0\Railway.pdb
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\OOP - June 2024\ExamPreparation\C#OOPRegularExam-09December2023\Railway-Skeleton\Railway\obj\Debug\net6.0\Railway.genruntimeconfig.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\OOP - June 2024\ExamPreparation\C#OOPRegularExam-09December2023\Railway-Skeleton\Railway\obj\Debug\net6.0\ref\Railway.dll

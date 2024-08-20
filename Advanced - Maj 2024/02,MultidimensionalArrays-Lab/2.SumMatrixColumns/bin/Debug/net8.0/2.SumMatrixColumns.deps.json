@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "2.SumMatrixColumns/1.0.0": {
+        "runtime": {
+          "2.SumMatrixColumns.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "2.SumMatrixColumns/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

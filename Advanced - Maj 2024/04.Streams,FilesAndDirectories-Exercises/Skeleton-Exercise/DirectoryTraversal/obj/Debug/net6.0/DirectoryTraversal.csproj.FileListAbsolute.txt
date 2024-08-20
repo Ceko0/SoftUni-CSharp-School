@@ -1,0 +1,15 @@
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\04.Streams,FilesAndDirectories-Exercises\Skeleton-Exercise\DirectoryTraversal\bin\Debug\net6.0\DirectoryTraversal.exe
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\04.Streams,FilesAndDirectories-Exercises\Skeleton-Exercise\DirectoryTraversal\bin\Debug\net6.0\DirectoryTraversal.deps.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\04.Streams,FilesAndDirectories-Exercises\Skeleton-Exercise\DirectoryTraversal\bin\Debug\net6.0\DirectoryTraversal.runtimeconfig.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\04.Streams,FilesAndDirectories-Exercises\Skeleton-Exercise\DirectoryTraversal\bin\Debug\net6.0\DirectoryTraversal.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\04.Streams,FilesAndDirectories-Exercises\Skeleton-Exercise\DirectoryTraversal\bin\Debug\net6.0\DirectoryTraversal.pdb
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\04.Streams,FilesAndDirectories-Exercises\Skeleton-Exercise\DirectoryTraversal\obj\Debug\net6.0\DirectoryTraversal.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\04.Streams,FilesAndDirectories-Exercises\Skeleton-Exercise\DirectoryTraversal\obj\Debug\net6.0\DirectoryTraversal.AssemblyInfoInputs.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\04.Streams,FilesAndDirectories-Exercises\Skeleton-Exercise\DirectoryTraversal\obj\Debug\net6.0\DirectoryTraversal.AssemblyInfo.cs
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\04.Streams,FilesAndDirectories-Exercises\Skeleton-Exercise\DirectoryTraversal\obj\Debug\net6.0\DirectoryTraversal.csproj.CoreCompileInputs.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\04.Streams,FilesAndDirectories-Exercises\Skeleton-Exercise\DirectoryTraversal\obj\Debug\net6.0\DirectoryTraversal.sourcelink.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\04.Streams,FilesAndDirectories-Exercises\Skeleton-Exercise\DirectoryTraversal\obj\Debug\net6.0\DirectoryTraversal.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\04.Streams,FilesAndDirectories-Exercises\Skeleton-Exercise\DirectoryTraversal\obj\Debug\net6.0\refint\DirectoryTraversal.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\04.Streams,FilesAndDirectories-Exercises\Skeleton-Exercise\DirectoryTraversal\obj\Debug\net6.0\DirectoryTraversal.pdb
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\04.Streams,FilesAndDirectories-Exercises\Skeleton-Exercise\DirectoryTraversal\obj\Debug\net6.0\DirectoryTraversal.genruntimeconfig.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\04.Streams,FilesAndDirectories-Exercises\Skeleton-Exercise\DirectoryTraversal\obj\Debug\net6.0\ref\DirectoryTraversal.dll

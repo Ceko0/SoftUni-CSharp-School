@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\Fundamentals-January2024\\MyFundamentalsExams\\FinalExam\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1D3D7C9D-9278-4B30-92B4-554B7356946C}|02.BossRush\\02.BossRush.csproj|d:\\programsscool\\git hub\\softuni-csharp\\fundamentals-january2024\\myfundamentalsexams\\finalexam\\02.bossrush\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D3D7C9D-9278-4B30-92B4-554B7356946C}|02.BossRush\\02.BossRush.csproj|solutionrelative:02.bossrush\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C658C1B-E334-4034-97EA-5E8142FF4179}|03.HeroRecruitment\\03.HeroRecruitment.csproj|d:\\programsscool\\git hub\\softuni-csharp\\fundamentals-january2024\\myfundamentalsexams\\finalexam\\03.herorecruitment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C658C1B-E334-4034-97EA-5E8142FF4179}|03.HeroRecruitment\\03.HeroRecruitment.csproj|solutionrelative:03.herorecruitment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{327EF1A8-2D89-4D48-AEA6-FCB2A8440D1C}|01.Hogwarts\\01.Hogwarts.csproj|d:\\programsscool\\git hub\\softuni-csharp\\fundamentals-january2024\\myfundamentalsexams\\finalexam\\01.hogwarts\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{327EF1A8-2D89-4D48-AEA6-FCB2A8440D1C}|01.Hogwarts\\01.Hogwarts.csproj|solutionrelative:01.hogwarts\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\Fundamentals-January2024\\MyFundamentalsExams\\FinalExam\\01.Hogwarts\\Program.cs",
+              "RelativeDocumentMoniker": "01.Hogwarts\\Program.cs",
+              "ToolTip": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\Fundamentals-January2024\\MyFundamentalsExams\\FinalExam\\01.Hogwarts\\Program.cs",
+              "RelativeToolTip": "01.Hogwarts\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-01T17:16:32.77Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\Fundamentals-January2024\\MyFundamentalsExams\\FinalExam\\03.HeroRecruitment\\Program.cs",
+              "RelativeDocumentMoniker": "03.HeroRecruitment\\Program.cs",
+              "ToolTip": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\Fundamentals-January2024\\MyFundamentalsExams\\FinalExam\\03.HeroRecruitment\\Program.cs",
+              "RelativeToolTip": "03.HeroRecruitment\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFMAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-01T17:19:01.479Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\Fundamentals-January2024\\MyFundamentalsExams\\FinalExam\\02.BossRush\\Program.cs",
+              "RelativeDocumentMoniker": "02.BossRush\\Program.cs",
+              "ToolTip": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\Fundamentals-January2024\\MyFundamentalsExams\\FinalExam\\02.BossRush\\Program.cs",
+              "RelativeToolTip": "02.BossRush\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-01T17:17:58.96Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+C:\Users\falen\source\repos\06.DrawingFiguresWithLoops-MoreExercises\04.TriangleOfDollars\bin\Debug\net7.0\04.TriangleOfDollars.exe
+C:\Users\falen\source\repos\06.DrawingFiguresWithLoops-MoreExercises\04.TriangleOfDollars\bin\Debug\net7.0\04.TriangleOfDollars.deps.json
+C:\Users\falen\source\repos\06.DrawingFiguresWithLoops-MoreExercises\04.TriangleOfDollars\bin\Debug\net7.0\04.TriangleOfDollars.runtimeconfig.json
+C:\Users\falen\source\repos\06.DrawingFiguresWithLoops-MoreExercises\04.TriangleOfDollars\bin\Debug\net7.0\04.TriangleOfDollars.dll
+C:\Users\falen\source\repos\06.DrawingFiguresWithLoops-MoreExercises\04.TriangleOfDollars\bin\Debug\net7.0\04.TriangleOfDollars.pdb
+C:\Users\falen\source\repos\06.DrawingFiguresWithLoops-MoreExercises\04.TriangleOfDollars\obj\Debug\net7.0\04.TriangleOfDollars.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\falen\source\repos\06.DrawingFiguresWithLoops-MoreExercises\04.TriangleOfDollars\obj\Debug\net7.0\04.TriangleOfDollars.AssemblyInfoInputs.cache
+C:\Users\falen\source\repos\06.DrawingFiguresWithLoops-MoreExercises\04.TriangleOfDollars\obj\Debug\net7.0\04.TriangleOfDollars.AssemblyInfo.cs
+C:\Users\falen\source\repos\06.DrawingFiguresWithLoops-MoreExercises\04.TriangleOfDollars\obj\Debug\net7.0\04.TriangleOfDollars.csproj.CoreCompileInputs.cache
+C:\Users\falen\source\repos\06.DrawingFiguresWithLoops-MoreExercises\04.TriangleOfDollars\obj\Debug\net7.0\04.TriangleOfDollars.dll
+C:\Users\falen\source\repos\06.DrawingFiguresWithLoops-MoreExercises\04.TriangleOfDollars\obj\Debug\net7.0\refint\04.TriangleOfDollars.dll
+C:\Users\falen\source\repos\06.DrawingFiguresWithLoops-MoreExercises\04.TriangleOfDollars\obj\Debug\net7.0\04.TriangleOfDollars.pdb
+C:\Users\falen\source\repos\06.DrawingFiguresWithLoops-MoreExercises\04.TriangleOfDollars\obj\Debug\net7.0\04.TriangleOfDollars.genruntimeconfig.cache
+C:\Users\falen\source\repos\06.DrawingFiguresWithLoops-MoreExercises\04.TriangleOfDollars\obj\Debug\net7.0\ref\04.TriangleOfDollars.dll

@@ -1,0 +1,15 @@
+D:\ProgramsScool\Git Hub\SoftUni-school\Programming Basics - September 2023\PB - More Exercises\05.For-Loop-MoreExercises\11.OddEvenPosition\bin\Debug\net7.0\11.OddEvenPosition.exe
+D:\ProgramsScool\Git Hub\SoftUni-school\Programming Basics - September 2023\PB - More Exercises\05.For-Loop-MoreExercises\11.OddEvenPosition\bin\Debug\net7.0\11.OddEvenPosition.deps.json
+D:\ProgramsScool\Git Hub\SoftUni-school\Programming Basics - September 2023\PB - More Exercises\05.For-Loop-MoreExercises\11.OddEvenPosition\bin\Debug\net7.0\11.OddEvenPosition.runtimeconfig.json
+D:\ProgramsScool\Git Hub\SoftUni-school\Programming Basics - September 2023\PB - More Exercises\05.For-Loop-MoreExercises\11.OddEvenPosition\bin\Debug\net7.0\11.OddEvenPosition.dll
+D:\ProgramsScool\Git Hub\SoftUni-school\Programming Basics - September 2023\PB - More Exercises\05.For-Loop-MoreExercises\11.OddEvenPosition\bin\Debug\net7.0\11.OddEvenPosition.pdb
+D:\ProgramsScool\Git Hub\SoftUni-school\Programming Basics - September 2023\PB - More Exercises\05.For-Loop-MoreExercises\11.OddEvenPosition\obj\Debug\net7.0\11.OddEvenPosition.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProgramsScool\Git Hub\SoftUni-school\Programming Basics - September 2023\PB - More Exercises\05.For-Loop-MoreExercises\11.OddEvenPosition\obj\Debug\net7.0\11.OddEvenPosition.AssemblyInfoInputs.cache
+D:\ProgramsScool\Git Hub\SoftUni-school\Programming Basics - September 2023\PB - More Exercises\05.For-Loop-MoreExercises\11.OddEvenPosition\obj\Debug\net7.0\11.OddEvenPosition.AssemblyInfo.cs
+D:\ProgramsScool\Git Hub\SoftUni-school\Programming Basics - September 2023\PB - More Exercises\05.For-Loop-MoreExercises\11.OddEvenPosition\obj\Debug\net7.0\11.OddEvenPosition.csproj.CoreCompileInputs.cache
+D:\ProgramsScool\Git Hub\SoftUni-school\Programming Basics - September 2023\PB - More Exercises\05.For-Loop-MoreExercises\11.OddEvenPosition\obj\Debug\net7.0\11.OddEvenPosition.sourcelink.json
+D:\ProgramsScool\Git Hub\SoftUni-school\Programming Basics - September 2023\PB - More Exercises\05.For-Loop-MoreExercises\11.OddEvenPosition\obj\Debug\net7.0\11.OddEvenPosition.dll
+D:\ProgramsScool\Git Hub\SoftUni-school\Programming Basics - September 2023\PB - More Exercises\05.For-Loop-MoreExercises\11.OddEvenPosition\obj\Debug\net7.0\refint\11.OddEvenPosition.dll
+D:\ProgramsScool\Git Hub\SoftUni-school\Programming Basics - September 2023\PB - More Exercises\05.For-Loop-MoreExercises\11.OddEvenPosition\obj\Debug\net7.0\11.OddEvenPosition.pdb
+D:\ProgramsScool\Git Hub\SoftUni-school\Programming Basics - September 2023\PB - More Exercises\05.For-Loop-MoreExercises\11.OddEvenPosition\obj\Debug\net7.0\11.OddEvenPosition.genruntimeconfig.cache
+D:\ProgramsScool\Git Hub\SoftUni-school\Programming Basics - September 2023\PB - More Exercises\05.For-Loop-MoreExercises\11.OddEvenPosition\obj\Debug\net7.0\ref\11.OddEvenPosition.dll

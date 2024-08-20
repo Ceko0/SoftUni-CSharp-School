@@ -1,0 +1,15 @@
+D:\ProgramsScool\Git Hub\SoftUni-school\SoftUni-school\Programming Basics - September 2023\PB - More Exercises\05.For-Loop-MoreExercises\05.GameOfIntervals\bin\Debug\net7.0\05.GameOfIntervals.exe
+D:\ProgramsScool\Git Hub\SoftUni-school\SoftUni-school\Programming Basics - September 2023\PB - More Exercises\05.For-Loop-MoreExercises\05.GameOfIntervals\bin\Debug\net7.0\05.GameOfIntervals.deps.json
+D:\ProgramsScool\Git Hub\SoftUni-school\SoftUni-school\Programming Basics - September 2023\PB - More Exercises\05.For-Loop-MoreExercises\05.GameOfIntervals\bin\Debug\net7.0\05.GameOfIntervals.runtimeconfig.json
+D:\ProgramsScool\Git Hub\SoftUni-school\SoftUni-school\Programming Basics - September 2023\PB - More Exercises\05.For-Loop-MoreExercises\05.GameOfIntervals\bin\Debug\net7.0\05.GameOfIntervals.dll
+D:\ProgramsScool\Git Hub\SoftUni-school\SoftUni-school\Programming Basics - September 2023\PB - More Exercises\05.For-Loop-MoreExercises\05.GameOfIntervals\bin\Debug\net7.0\05.GameOfIntervals.pdb
+D:\ProgramsScool\Git Hub\SoftUni-school\SoftUni-school\Programming Basics - September 2023\PB - More Exercises\05.For-Loop-MoreExercises\05.GameOfIntervals\obj\Debug\net7.0\05.GameOfIntervals.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProgramsScool\Git Hub\SoftUni-school\SoftUni-school\Programming Basics - September 2023\PB - More Exercises\05.For-Loop-MoreExercises\05.GameOfIntervals\obj\Debug\net7.0\05.GameOfIntervals.AssemblyInfoInputs.cache
+D:\ProgramsScool\Git Hub\SoftUni-school\SoftUni-school\Programming Basics - September 2023\PB - More Exercises\05.For-Loop-MoreExercises\05.GameOfIntervals\obj\Debug\net7.0\05.GameOfIntervals.AssemblyInfo.cs
+D:\ProgramsScool\Git Hub\SoftUni-school\SoftUni-school\Programming Basics - September 2023\PB - More Exercises\05.For-Loop-MoreExercises\05.GameOfIntervals\obj\Debug\net7.0\05.GameOfIntervals.csproj.CoreCompileInputs.cache
+D:\ProgramsScool\Git Hub\SoftUni-school\SoftUni-school\Programming Basics - September 2023\PB - More Exercises\05.For-Loop-MoreExercises\05.GameOfIntervals\obj\Debug\net7.0\05.GameOfIntervals.sourcelink.json
+D:\ProgramsScool\Git Hub\SoftUni-school\SoftUni-school\Programming Basics - September 2023\PB - More Exercises\05.For-Loop-MoreExercises\05.GameOfIntervals\obj\Debug\net7.0\05.GameOfIntervals.dll
+D:\ProgramsScool\Git Hub\SoftUni-school\SoftUni-school\Programming Basics - September 2023\PB - More Exercises\05.For-Loop-MoreExercises\05.GameOfIntervals\obj\Debug\net7.0\refint\05.GameOfIntervals.dll
+D:\ProgramsScool\Git Hub\SoftUni-school\SoftUni-school\Programming Basics - September 2023\PB - More Exercises\05.For-Loop-MoreExercises\05.GameOfIntervals\obj\Debug\net7.0\05.GameOfIntervals.pdb
+D:\ProgramsScool\Git Hub\SoftUni-school\SoftUni-school\Programming Basics - September 2023\PB - More Exercises\05.For-Loop-MoreExercises\05.GameOfIntervals\obj\Debug\net7.0\05.GameOfIntervals.genruntimeconfig.cache
+D:\ProgramsScool\Git Hub\SoftUni-school\SoftUni-school\Programming Basics - September 2023\PB - More Exercises\05.For-Loop-MoreExercises\05.GameOfIntervals\obj\Debug\net7.0\ref\05.GameOfIntervals.dll

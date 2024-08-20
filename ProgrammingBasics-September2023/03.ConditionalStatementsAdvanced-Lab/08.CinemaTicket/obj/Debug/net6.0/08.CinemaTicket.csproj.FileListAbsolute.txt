@@ -1,0 +1,5 @@
+D:\ProgramsScool\PB-september.2023\PB-MoreExercises\05.ConditionalStatementsAdvanced-Lab\08.CinemaTicket\obj\Debug\net6.0\08.CinemaTicket.csproj.AssemblyReference.cache
+D:\ProgramsScool\PB-september.2023\PB-MoreExercises\05.ConditionalStatementsAdvanced-Lab\08.CinemaTicket\obj\Debug\net6.0\08.CinemaTicket.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProgramsScool\PB-september.2023\PB-MoreExercises\05.ConditionalStatementsAdvanced-Lab\08.CinemaTicket\obj\Debug\net6.0\08.CinemaTicket.AssemblyInfoInputs.cache
+D:\ProgramsScool\PB-september.2023\PB-MoreExercises\05.ConditionalStatementsAdvanced-Lab\08.CinemaTicket\obj\Debug\net6.0\08.CinemaTicket.AssemblyInfo.cs
+D:\ProgramsScool\PB-september.2023\PB-MoreExercises\05.ConditionalStatementsAdvanced-Lab\08.CinemaTicket\obj\Debug\net6.0\08.CinemaTicket.csproj.CoreCompileInputs.cache

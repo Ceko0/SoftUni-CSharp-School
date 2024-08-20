@@ -1,0 +1,15 @@
+D:\ProgramsScool\PB-september.2023\ProgrammingBasicsOnlinePre-Exam-14and15October2023\05.BestPlayer\obj\Debug\net6.0\05.BestPlayer.csproj.AssemblyReference.cache
+D:\ProgramsScool\PB-september.2023\ProgrammingBasicsOnlinePre-Exam-14and15October2023\05.BestPlayer\obj\Debug\net6.0\05.BestPlayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProgramsScool\PB-september.2023\ProgrammingBasicsOnlinePre-Exam-14and15October2023\05.BestPlayer\obj\Debug\net6.0\05.BestPlayer.AssemblyInfoInputs.cache
+D:\ProgramsScool\PB-september.2023\ProgrammingBasicsOnlinePre-Exam-14and15October2023\05.BestPlayer\obj\Debug\net6.0\05.BestPlayer.AssemblyInfo.cs
+D:\ProgramsScool\PB-september.2023\ProgrammingBasicsOnlinePre-Exam-14and15October2023\05.BestPlayer\obj\Debug\net6.0\05.BestPlayer.csproj.CoreCompileInputs.cache
+D:\ProgramsScool\PB-september.2023\ProgrammingBasicsOnlinePre-Exam-14and15October2023\05.BestPlayer\bin\Debug\net6.0\05.BestPlayer.exe
+D:\ProgramsScool\PB-september.2023\ProgrammingBasicsOnlinePre-Exam-14and15October2023\05.BestPlayer\bin\Debug\net6.0\05.BestPlayer.deps.json
+D:\ProgramsScool\PB-september.2023\ProgrammingBasicsOnlinePre-Exam-14and15October2023\05.BestPlayer\bin\Debug\net6.0\05.BestPlayer.runtimeconfig.json
+D:\ProgramsScool\PB-september.2023\ProgrammingBasicsOnlinePre-Exam-14and15October2023\05.BestPlayer\bin\Debug\net6.0\05.BestPlayer.dll
+D:\ProgramsScool\PB-september.2023\ProgrammingBasicsOnlinePre-Exam-14and15October2023\05.BestPlayer\bin\Debug\net6.0\05.BestPlayer.pdb
+D:\ProgramsScool\PB-september.2023\ProgrammingBasicsOnlinePre-Exam-14and15October2023\05.BestPlayer\obj\Debug\net6.0\05.BestPlayer.dll
+D:\ProgramsScool\PB-september.2023\ProgrammingBasicsOnlinePre-Exam-14and15October2023\05.BestPlayer\obj\Debug\net6.0\refint\05.BestPlayer.dll
+D:\ProgramsScool\PB-september.2023\ProgrammingBasicsOnlinePre-Exam-14and15October2023\05.BestPlayer\obj\Debug\net6.0\05.BestPlayer.pdb
+D:\ProgramsScool\PB-september.2023\ProgrammingBasicsOnlinePre-Exam-14and15October2023\05.BestPlayer\obj\Debug\net6.0\05.BestPlayer.genruntimeconfig.cache
+D:\ProgramsScool\PB-september.2023\ProgrammingBasicsOnlinePre-Exam-14and15October2023\05.BestPlayer\obj\Debug\net6.0\ref\05.BestPlayer.dll

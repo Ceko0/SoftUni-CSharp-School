@@ -1,0 +1,15 @@
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\05.ListsExercise\04.ListOperations\bin\Debug\net7.0\04.ListOperations.exe
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\05.ListsExercise\04.ListOperations\bin\Debug\net7.0\04.ListOperations.deps.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\05.ListsExercise\04.ListOperations\bin\Debug\net7.0\04.ListOperations.runtimeconfig.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\05.ListsExercise\04.ListOperations\bin\Debug\net7.0\04.ListOperations.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\05.ListsExercise\04.ListOperations\bin\Debug\net7.0\04.ListOperations.pdb
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\05.ListsExercise\04.ListOperations\obj\Debug\net7.0\04.ListOperations.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\05.ListsExercise\04.ListOperations\obj\Debug\net7.0\04.ListOperations.AssemblyInfoInputs.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\05.ListsExercise\04.ListOperations\obj\Debug\net7.0\04.ListOperations.AssemblyInfo.cs
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\05.ListsExercise\04.ListOperations\obj\Debug\net7.0\04.ListOperations.csproj.CoreCompileInputs.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\05.ListsExercise\04.ListOperations\obj\Debug\net7.0\04.ListOperations.sourcelink.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\05.ListsExercise\04.ListOperations\obj\Debug\net7.0\04.ListOperations.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\05.ListsExercise\04.ListOperations\obj\Debug\net7.0\refint\04.ListOperations.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\05.ListsExercise\04.ListOperations\obj\Debug\net7.0\04.ListOperations.pdb
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\05.ListsExercise\04.ListOperations\obj\Debug\net7.0\04.ListOperations.genruntimeconfig.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\05.ListsExercise\04.ListOperations\obj\Debug\net7.0\ref\04.ListOperations.dll

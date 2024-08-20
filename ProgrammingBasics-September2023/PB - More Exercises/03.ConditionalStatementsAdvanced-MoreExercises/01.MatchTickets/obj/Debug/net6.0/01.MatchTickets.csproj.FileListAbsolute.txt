@@ -1,0 +1,15 @@
+D:\ProgramsScool\PB-september.2023\PB-MoreExercises\ConditionalStatementsAdvanced-MoreExercises\01.MatchTickets\bin\Debug\net6.0\01.MatchTickets.exe
+D:\ProgramsScool\PB-september.2023\PB-MoreExercises\ConditionalStatementsAdvanced-MoreExercises\01.MatchTickets\bin\Debug\net6.0\01.MatchTickets.deps.json
+D:\ProgramsScool\PB-september.2023\PB-MoreExercises\ConditionalStatementsAdvanced-MoreExercises\01.MatchTickets\bin\Debug\net6.0\01.MatchTickets.runtimeconfig.json
+D:\ProgramsScool\PB-september.2023\PB-MoreExercises\ConditionalStatementsAdvanced-MoreExercises\01.MatchTickets\bin\Debug\net6.0\01.MatchTickets.dll
+D:\ProgramsScool\PB-september.2023\PB-MoreExercises\ConditionalStatementsAdvanced-MoreExercises\01.MatchTickets\bin\Debug\net6.0\01.MatchTickets.pdb
+D:\ProgramsScool\PB-september.2023\PB-MoreExercises\ConditionalStatementsAdvanced-MoreExercises\01.MatchTickets\obj\Debug\net6.0\01.MatchTickets.csproj.AssemblyReference.cache
+D:\ProgramsScool\PB-september.2023\PB-MoreExercises\ConditionalStatementsAdvanced-MoreExercises\01.MatchTickets\obj\Debug\net6.0\01.MatchTickets.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProgramsScool\PB-september.2023\PB-MoreExercises\ConditionalStatementsAdvanced-MoreExercises\01.MatchTickets\obj\Debug\net6.0\01.MatchTickets.AssemblyInfoInputs.cache
+D:\ProgramsScool\PB-september.2023\PB-MoreExercises\ConditionalStatementsAdvanced-MoreExercises\01.MatchTickets\obj\Debug\net6.0\01.MatchTickets.AssemblyInfo.cs
+D:\ProgramsScool\PB-september.2023\PB-MoreExercises\ConditionalStatementsAdvanced-MoreExercises\01.MatchTickets\obj\Debug\net6.0\01.MatchTickets.csproj.CoreCompileInputs.cache
+D:\ProgramsScool\PB-september.2023\PB-MoreExercises\ConditionalStatementsAdvanced-MoreExercises\01.MatchTickets\obj\Debug\net6.0\01.MatchTickets.dll
+D:\ProgramsScool\PB-september.2023\PB-MoreExercises\ConditionalStatementsAdvanced-MoreExercises\01.MatchTickets\obj\Debug\net6.0\refint\01.MatchTickets.dll
+D:\ProgramsScool\PB-september.2023\PB-MoreExercises\ConditionalStatementsAdvanced-MoreExercises\01.MatchTickets\obj\Debug\net6.0\01.MatchTickets.pdb
+D:\ProgramsScool\PB-september.2023\PB-MoreExercises\ConditionalStatementsAdvanced-MoreExercises\01.MatchTickets\obj\Debug\net6.0\01.MatchTickets.genruntimeconfig.cache
+D:\ProgramsScool\PB-september.2023\PB-MoreExercises\ConditionalStatementsAdvanced-MoreExercises\01.MatchTickets\obj\Debug\net6.0\ref\01.MatchTickets.dll

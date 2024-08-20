@@ -1,0 +1,15 @@
+D:\ProgramsScool\PB-september.2023\06.ConditionalStatementsAdvanced-Exercise\01.Cinema\bin\Debug\net6.0\01.Cinema.exe
+D:\ProgramsScool\PB-september.2023\06.ConditionalStatementsAdvanced-Exercise\01.Cinema\bin\Debug\net6.0\01.Cinema.deps.json
+D:\ProgramsScool\PB-september.2023\06.ConditionalStatementsAdvanced-Exercise\01.Cinema\bin\Debug\net6.0\01.Cinema.runtimeconfig.json
+D:\ProgramsScool\PB-september.2023\06.ConditionalStatementsAdvanced-Exercise\01.Cinema\bin\Debug\net6.0\01.Cinema.dll
+D:\ProgramsScool\PB-september.2023\06.ConditionalStatementsAdvanced-Exercise\01.Cinema\bin\Debug\net6.0\01.Cinema.pdb
+D:\ProgramsScool\PB-september.2023\06.ConditionalStatementsAdvanced-Exercise\01.Cinema\obj\Debug\net6.0\01.Cinema.csproj.AssemblyReference.cache
+D:\ProgramsScool\PB-september.2023\06.ConditionalStatementsAdvanced-Exercise\01.Cinema\obj\Debug\net6.0\01.Cinema.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProgramsScool\PB-september.2023\06.ConditionalStatementsAdvanced-Exercise\01.Cinema\obj\Debug\net6.0\01.Cinema.AssemblyInfoInputs.cache
+D:\ProgramsScool\PB-september.2023\06.ConditionalStatementsAdvanced-Exercise\01.Cinema\obj\Debug\net6.0\01.Cinema.AssemblyInfo.cs
+D:\ProgramsScool\PB-september.2023\06.ConditionalStatementsAdvanced-Exercise\01.Cinema\obj\Debug\net6.0\01.Cinema.csproj.CoreCompileInputs.cache
+D:\ProgramsScool\PB-september.2023\06.ConditionalStatementsAdvanced-Exercise\01.Cinema\obj\Debug\net6.0\01.Cinema.dll
+D:\ProgramsScool\PB-september.2023\06.ConditionalStatementsAdvanced-Exercise\01.Cinema\obj\Debug\net6.0\refint\01.Cinema.dll
+D:\ProgramsScool\PB-september.2023\06.ConditionalStatementsAdvanced-Exercise\01.Cinema\obj\Debug\net6.0\01.Cinema.pdb
+D:\ProgramsScool\PB-september.2023\06.ConditionalStatementsAdvanced-Exercise\01.Cinema\obj\Debug\net6.0\01.Cinema.genruntimeconfig.cache
+D:\ProgramsScool\PB-september.2023\06.ConditionalStatementsAdvanced-Exercise\01.Cinema\obj\Debug\net6.0\ref\01.Cinema.dll

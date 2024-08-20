@@ -1,0 +1,15 @@
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\02.ProgrammingFundamentalsFinalExam\02.DestinationMapper\bin\Debug\net7.0\02.DestinationMapper.exe
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\02.ProgrammingFundamentalsFinalExam\02.DestinationMapper\bin\Debug\net7.0\02.DestinationMapper.deps.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\02.ProgrammingFundamentalsFinalExam\02.DestinationMapper\bin\Debug\net7.0\02.DestinationMapper.runtimeconfig.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\02.ProgrammingFundamentalsFinalExam\02.DestinationMapper\bin\Debug\net7.0\02.DestinationMapper.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\02.ProgrammingFundamentalsFinalExam\02.DestinationMapper\bin\Debug\net7.0\02.DestinationMapper.pdb
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\02.ProgrammingFundamentalsFinalExam\02.DestinationMapper\obj\Debug\net7.0\02.DestinationMapper.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\02.ProgrammingFundamentalsFinalExam\02.DestinationMapper\obj\Debug\net7.0\02.DestinationMapper.AssemblyInfoInputs.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\02.ProgrammingFundamentalsFinalExam\02.DestinationMapper\obj\Debug\net7.0\02.DestinationMapper.AssemblyInfo.cs
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\02.ProgrammingFundamentalsFinalExam\02.DestinationMapper\obj\Debug\net7.0\02.DestinationMapper.csproj.CoreCompileInputs.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\02.ProgrammingFundamentalsFinalExam\02.DestinationMapper\obj\Debug\net7.0\02.DestinationMapper.sourcelink.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\02.ProgrammingFundamentalsFinalExam\02.DestinationMapper\obj\Debug\net7.0\02.DestinationMapper.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\02.ProgrammingFundamentalsFinalExam\02.DestinationMapper\obj\Debug\net7.0\refint\02.DestinationMapper.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\02.ProgrammingFundamentalsFinalExam\02.DestinationMapper\obj\Debug\net7.0\02.DestinationMapper.pdb
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\02.ProgrammingFundamentalsFinalExam\02.DestinationMapper\obj\Debug\net7.0\02.DestinationMapper.genruntimeconfig.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\02.ProgrammingFundamentalsFinalExam\02.DestinationMapper\obj\Debug\net7.0\ref\02.DestinationMapper.dll

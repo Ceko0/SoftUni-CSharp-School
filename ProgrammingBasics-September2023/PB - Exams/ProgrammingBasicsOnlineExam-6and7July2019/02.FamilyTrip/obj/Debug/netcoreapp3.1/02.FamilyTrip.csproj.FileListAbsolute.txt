@@ -1,0 +1,14 @@
+D:\ProgramsScool\ProgrammingBasicsOnlineExam-6and7July2019\02.FamilyTrip\bin\Debug\netcoreapp3.1\02.FamilyTrip.exe
+D:\ProgramsScool\ProgrammingBasicsOnlineExam-6and7July2019\02.FamilyTrip\bin\Debug\netcoreapp3.1\02.FamilyTrip.deps.json
+D:\ProgramsScool\ProgrammingBasicsOnlineExam-6and7July2019\02.FamilyTrip\bin\Debug\netcoreapp3.1\02.FamilyTrip.runtimeconfig.json
+D:\ProgramsScool\ProgrammingBasicsOnlineExam-6and7July2019\02.FamilyTrip\bin\Debug\netcoreapp3.1\02.FamilyTrip.runtimeconfig.dev.json
+D:\ProgramsScool\ProgrammingBasicsOnlineExam-6and7July2019\02.FamilyTrip\bin\Debug\netcoreapp3.1\02.FamilyTrip.dll
+D:\ProgramsScool\ProgrammingBasicsOnlineExam-6and7July2019\02.FamilyTrip\bin\Debug\netcoreapp3.1\02.FamilyTrip.pdb
+D:\ProgramsScool\ProgrammingBasicsOnlineExam-6and7July2019\02.FamilyTrip\obj\Debug\netcoreapp3.1\02.FamilyTrip.csproj.AssemblyReference.cache
+D:\ProgramsScool\ProgrammingBasicsOnlineExam-6and7July2019\02.FamilyTrip\obj\Debug\netcoreapp3.1\02.FamilyTrip.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProgramsScool\ProgrammingBasicsOnlineExam-6and7July2019\02.FamilyTrip\obj\Debug\netcoreapp3.1\02.FamilyTrip.AssemblyInfoInputs.cache
+D:\ProgramsScool\ProgrammingBasicsOnlineExam-6and7July2019\02.FamilyTrip\obj\Debug\netcoreapp3.1\02.FamilyTrip.AssemblyInfo.cs
+D:\ProgramsScool\ProgrammingBasicsOnlineExam-6and7July2019\02.FamilyTrip\obj\Debug\netcoreapp3.1\02.FamilyTrip.csproj.CoreCompileInputs.cache
+D:\ProgramsScool\ProgrammingBasicsOnlineExam-6and7July2019\02.FamilyTrip\obj\Debug\netcoreapp3.1\02.FamilyTrip.dll
+D:\ProgramsScool\ProgrammingBasicsOnlineExam-6and7July2019\02.FamilyTrip\obj\Debug\netcoreapp3.1\02.FamilyTrip.pdb
+D:\ProgramsScool\ProgrammingBasicsOnlineExam-6and7July2019\02.FamilyTrip\obj\Debug\netcoreapp3.1\02.FamilyTrip.genruntimeconfig.cache

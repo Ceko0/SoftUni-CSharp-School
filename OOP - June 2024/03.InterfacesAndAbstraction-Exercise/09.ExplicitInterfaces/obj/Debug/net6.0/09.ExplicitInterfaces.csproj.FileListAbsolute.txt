@@ -1,0 +1,15 @@
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\OOP - June 2024\03.InterfacesAndAbstraction-Exercise\09.ExplicitInterfaces\bin\Debug\net6.0\09.ExplicitInterfaces.exe
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\OOP - June 2024\03.InterfacesAndAbstraction-Exercise\09.ExplicitInterfaces\bin\Debug\net6.0\09.ExplicitInterfaces.deps.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\OOP - June 2024\03.InterfacesAndAbstraction-Exercise\09.ExplicitInterfaces\bin\Debug\net6.0\09.ExplicitInterfaces.runtimeconfig.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\OOP - June 2024\03.InterfacesAndAbstraction-Exercise\09.ExplicitInterfaces\bin\Debug\net6.0\09.ExplicitInterfaces.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\OOP - June 2024\03.InterfacesAndAbstraction-Exercise\09.ExplicitInterfaces\bin\Debug\net6.0\09.ExplicitInterfaces.pdb
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\OOP - June 2024\03.InterfacesAndAbstraction-Exercise\09.ExplicitInterfaces\obj\Debug\net6.0\09.ExplicitInterfaces.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\OOP - June 2024\03.InterfacesAndAbstraction-Exercise\09.ExplicitInterfaces\obj\Debug\net6.0\09.ExplicitInterfaces.AssemblyInfoInputs.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\OOP - June 2024\03.InterfacesAndAbstraction-Exercise\09.ExplicitInterfaces\obj\Debug\net6.0\09.ExplicitInterfaces.AssemblyInfo.cs
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\OOP - June 2024\03.InterfacesAndAbstraction-Exercise\09.ExplicitInterfaces\obj\Debug\net6.0\09.ExplicitInterfaces.csproj.CoreCompileInputs.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\OOP - June 2024\03.InterfacesAndAbstraction-Exercise\09.ExplicitInterfaces\obj\Debug\net6.0\09.ExplicitInterfaces.sourcelink.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\OOP - June 2024\03.InterfacesAndAbstraction-Exercise\09.ExplicitInterfaces\obj\Debug\net6.0\09.ExplicitInterfaces.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\OOP - June 2024\03.InterfacesAndAbstraction-Exercise\09.ExplicitInterfaces\obj\Debug\net6.0\refint\09.ExplicitInterfaces.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\OOP - June 2024\03.InterfacesAndAbstraction-Exercise\09.ExplicitInterfaces\obj\Debug\net6.0\09.ExplicitInterfaces.pdb
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\OOP - June 2024\03.InterfacesAndAbstraction-Exercise\09.ExplicitInterfaces\obj\Debug\net6.0\09.ExplicitInterfaces.genruntimeconfig.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\OOP - June 2024\03.InterfacesAndAbstraction-Exercise\09.ExplicitInterfaces\obj\Debug\net6.0\ref\09.ExplicitInterfaces.dll

@@ -1,0 +1,15 @@
+D:\ProgramsScool\Fundamental C# 2024\testingSwitchExpresion\03.Flowers\bin\Debug\net6.0\03.Flowers.exe
+D:\ProgramsScool\Fundamental C# 2024\testingSwitchExpresion\03.Flowers\bin\Debug\net6.0\03.Flowers.deps.json
+D:\ProgramsScool\Fundamental C# 2024\testingSwitchExpresion\03.Flowers\bin\Debug\net6.0\03.Flowers.runtimeconfig.json
+D:\ProgramsScool\Fundamental C# 2024\testingSwitchExpresion\03.Flowers\bin\Debug\net6.0\03.Flowers.dll
+D:\ProgramsScool\Fundamental C# 2024\testingSwitchExpresion\03.Flowers\bin\Debug\net6.0\03.Flowers.pdb
+D:\ProgramsScool\Fundamental C# 2024\testingSwitchExpresion\03.Flowers\obj\Debug\net6.0\03.Flowers.csproj.AssemblyReference.cache
+D:\ProgramsScool\Fundamental C# 2024\testingSwitchExpresion\03.Flowers\obj\Debug\net6.0\03.Flowers.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProgramsScool\Fundamental C# 2024\testingSwitchExpresion\03.Flowers\obj\Debug\net6.0\03.Flowers.AssemblyInfoInputs.cache
+D:\ProgramsScool\Fundamental C# 2024\testingSwitchExpresion\03.Flowers\obj\Debug\net6.0\03.Flowers.AssemblyInfo.cs
+D:\ProgramsScool\Fundamental C# 2024\testingSwitchExpresion\03.Flowers\obj\Debug\net6.0\03.Flowers.csproj.CoreCompileInputs.cache
+D:\ProgramsScool\Fundamental C# 2024\testingSwitchExpresion\03.Flowers\obj\Debug\net6.0\03.Flowers.dll
+D:\ProgramsScool\Fundamental C# 2024\testingSwitchExpresion\03.Flowers\obj\Debug\net6.0\refint\03.Flowers.dll
+D:\ProgramsScool\Fundamental C# 2024\testingSwitchExpresion\03.Flowers\obj\Debug\net6.0\03.Flowers.pdb
+D:\ProgramsScool\Fundamental C# 2024\testingSwitchExpresion\03.Flowers\obj\Debug\net6.0\03.Flowers.genruntimeconfig.cache
+D:\ProgramsScool\Fundamental C# 2024\testingSwitchExpresion\03.Flowers\obj\Debug\net6.0\ref\03.Flowers.dll

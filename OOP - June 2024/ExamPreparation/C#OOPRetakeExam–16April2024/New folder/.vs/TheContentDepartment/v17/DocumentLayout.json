@@ -1,0 +1,291 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\OOP - June 2024\\ExamPreparation\\C#OOPRetakeExam\u201316April2024\\New folder\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0612EFE4-3A4A-4613-965F-5167FCA0FD0A}|TheContentDepartment.csproj|d:\\programsscool\\git hub\\softuni-csharp\\oop - june 2024\\exampreparation\\c#oopretakeexam\u201316april2024\\new folder\\core\\controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0612EFE4-3A4A-4613-965F-5167FCA0FD0A}|TheContentDepartment.csproj|solutionrelative:core\\controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0612EFE4-3A4A-4613-965F-5167FCA0FD0A}|TheContentDepartment.csproj|d:\\programsscool\\git hub\\softuni-csharp\\oop - june 2024\\exampreparation\\c#oopretakeexam\u201316april2024\\new folder\\models\\class\\resourcechild\\exam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0612EFE4-3A4A-4613-965F-5167FCA0FD0A}|TheContentDepartment.csproj|solutionrelative:models\\class\\resourcechild\\exam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0612EFE4-3A4A-4613-965F-5167FCA0FD0A}|TheContentDepartment.csproj|d:\\programsscool\\git hub\\softuni-csharp\\oop - june 2024\\exampreparation\\c#oopretakeexam\u201316april2024\\new folder\\models\\class\\resourcechild\\presentation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0612EFE4-3A4A-4613-965F-5167FCA0FD0A}|TheContentDepartment.csproj|solutionrelative:models\\class\\resourcechild\\presentation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0612EFE4-3A4A-4613-965F-5167FCA0FD0A}|TheContentDepartment.csproj|d:\\programsscool\\git hub\\softuni-csharp\\oop - june 2024\\exampreparation\\c#oopretakeexam\u201316april2024\\new folder\\models\\class\\resourcechild\\workshop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0612EFE4-3A4A-4613-965F-5167FCA0FD0A}|TheContentDepartment.csproj|solutionrelative:models\\class\\resourcechild\\workshop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0612EFE4-3A4A-4613-965F-5167FCA0FD0A}|TheContentDepartment.csproj|d:\\programsscool\\git hub\\softuni-csharp\\oop - june 2024\\exampreparation\\c#oopretakeexam\u201316april2024\\new folder\\models\\class\\teammemberchild\\teamlead.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0612EFE4-3A4A-4613-965F-5167FCA0FD0A}|TheContentDepartment.csproj|solutionrelative:models\\class\\teammemberchild\\teamlead.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0612EFE4-3A4A-4613-965F-5167FCA0FD0A}|TheContentDepartment.csproj|d:\\programsscool\\git hub\\softuni-csharp\\oop - june 2024\\exampreparation\\c#oopretakeexam\u201316april2024\\new folder\\models\\class\\resource.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0612EFE4-3A4A-4613-965F-5167FCA0FD0A}|TheContentDepartment.csproj|solutionrelative:models\\class\\resource.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0612EFE4-3A4A-4613-965F-5167FCA0FD0A}|TheContentDepartment.csproj|d:\\programsscool\\git hub\\softuni-csharp\\oop - june 2024\\exampreparation\\c#oopretakeexam\u201316april2024\\new folder\\models\\class\\teammember.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0612EFE4-3A4A-4613-965F-5167FCA0FD0A}|TheContentDepartment.csproj|solutionrelative:models\\class\\teammember.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0612EFE4-3A4A-4613-965F-5167FCA0FD0A}|TheContentDepartment.csproj|d:\\programsscool\\git hub\\softuni-csharp\\oop - june 2024\\exampreparation\\c#oopretakeexam\u201316april2024\\new folder\\models\\contracts\\iresource.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0612EFE4-3A4A-4613-965F-5167FCA0FD0A}|TheContentDepartment.csproj|solutionrelative:models\\contracts\\iresource.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0612EFE4-3A4A-4613-965F-5167FCA0FD0A}|TheContentDepartment.csproj|d:\\programsscool\\git hub\\softuni-csharp\\oop - june 2024\\exampreparation\\c#oopretakeexam\u201316april2024\\new folder\\models\\contracts\\iteammember.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0612EFE4-3A4A-4613-965F-5167FCA0FD0A}|TheContentDepartment.csproj|solutionrelative:models\\contracts\\iteammember.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0612EFE4-3A4A-4613-965F-5167FCA0FD0A}|TheContentDepartment.csproj|d:\\programsscool\\git hub\\softuni-csharp\\oop - june 2024\\exampreparation\\c#oopretakeexam\u201316april2024\\new folder\\repositories\\resourcerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0612EFE4-3A4A-4613-965F-5167FCA0FD0A}|TheContentDepartment.csproj|solutionrelative:repositories\\resourcerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0612EFE4-3A4A-4613-965F-5167FCA0FD0A}|TheContentDepartment.csproj|d:\\programsscool\\git hub\\softuni-csharp\\oop - june 2024\\exampreparation\\c#oopretakeexam\u201316april2024\\new folder\\repositories\\memberrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0612EFE4-3A4A-4613-965F-5167FCA0FD0A}|TheContentDepartment.csproj|solutionrelative:repositories\\memberrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0612EFE4-3A4A-4613-965F-5167FCA0FD0A}|TheContentDepartment.csproj|d:\\programsscool\\git hub\\softuni-csharp\\oop - june 2024\\exampreparation\\c#oopretakeexam\u201316april2024\\new folder\\models\\class\\teammemberchild\\contentmember.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0612EFE4-3A4A-4613-965F-5167FCA0FD0A}|TheContentDepartment.csproj|solutionrelative:models\\class\\teammemberchild\\contentmember.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0612EFE4-3A4A-4613-965F-5167FCA0FD0A}|TheContentDepartment.csproj|d:\\programsscool\\git hub\\softuni-csharp\\oop - june 2024\\exampreparation\\c#oopretakeexam\u201316april2024\\new folder\\enums\\contentmemberpath.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0612EFE4-3A4A-4613-965F-5167FCA0FD0A}|TheContentDepartment.csproj|solutionrelative:enums\\contentmemberpath.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0612EFE4-3A4A-4613-965F-5167FCA0FD0A}|TheContentDepartment.csproj|d:\\programsscool\\git hub\\softuni-csharp\\oop - june 2024\\exampreparation\\c#oopretakeexam\u201316april2024\\new folder\\utilities\\results\\actual.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{0612EFE4-3A4A-4613-965F-5167FCA0FD0A}|TheContentDepartment.csproj|solutionrelative:utilities\\results\\actual.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0612EFE4-3A4A-4613-965F-5167FCA0FD0A}|TheContentDepartment.csproj|d:\\programsscool\\git hub\\softuni-csharp\\oop - june 2024\\exampreparation\\c#oopretakeexam\u201316april2024\\new folder\\utilities\\results\\ecpected.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{0612EFE4-3A4A-4613-965F-5167FCA0FD0A}|TheContentDepartment.csproj|solutionrelative:utilities\\results\\ecpected.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ResourceRepository.cs",
+              "DocumentMoniker": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\OOP - June 2024\\ExamPreparation\\C#OOPRetakeExam\u201316April2024\\New folder\\Repositories\\ResourceRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\ResourceRepository.cs",
+              "ToolTip": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\OOP - June 2024\\ExamPreparation\\C#OOPRetakeExam\u201316April2024\\New folder\\Repositories\\ResourceRepository.cs",
+              "RelativeToolTip": "Repositories\\ResourceRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T21:53:33.307Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ITeamMember.cs",
+              "DocumentMoniker": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\OOP - June 2024\\ExamPreparation\\C#OOPRetakeExam\u201316April2024\\New folder\\Models\\Contracts\\ITeamMember.cs",
+              "RelativeDocumentMoniker": "Models\\Contracts\\ITeamMember.cs",
+              "ToolTip": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\OOP - June 2024\\ExamPreparation\\C#OOPRetakeExam\u201316April2024\\New folder\\Models\\Contracts\\ITeamMember.cs",
+              "RelativeToolTip": "Models\\Contracts\\ITeamMember.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T21:48:13.77Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Controller.cs",
+              "DocumentMoniker": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\OOP - June 2024\\ExamPreparation\\C#OOPRetakeExam\u201316April2024\\New folder\\Core\\Controller.cs",
+              "RelativeDocumentMoniker": "Core\\Controller.cs",
+              "ToolTip": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\OOP - June 2024\\ExamPreparation\\C#OOPRetakeExam\u201316April2024\\New folder\\Core\\Controller.cs",
+              "RelativeToolTip": "Core\\Controller.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEcAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T21:39:49.361Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MemberRepository.cs",
+              "DocumentMoniker": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\OOP - June 2024\\ExamPreparation\\C#OOPRetakeExam\u201316April2024\\New folder\\Repositories\\MemberRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\MemberRepository.cs",
+              "ToolTip": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\OOP - June 2024\\ExamPreparation\\C#OOPRetakeExam\u201316April2024\\New folder\\Repositories\\MemberRepository.cs",
+              "RelativeToolTip": "Repositories\\MemberRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T21:40:13.755Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Ecpected.txt",
+              "DocumentMoniker": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\OOP - June 2024\\ExamPreparation\\C#OOPRetakeExam\u201316April2024\\New folder\\Utilities\\Results\\Ecpected.txt",
+              "RelativeDocumentMoniker": "Utilities\\Results\\Ecpected.txt",
+              "ToolTip": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\OOP - June 2024\\ExamPreparation\\C#OOPRetakeExam\u201316April2024\\New folder\\Utilities\\Results\\Ecpected.txt",
+              "RelativeToolTip": "Utilities\\Results\\Ecpected.txt",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAuwCwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-08-03T21:38:18.141Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Actual.txt",
+              "DocumentMoniker": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\OOP - June 2024\\ExamPreparation\\C#OOPRetakeExam\u201316April2024\\New folder\\Utilities\\Results\\Actual.txt",
+              "RelativeDocumentMoniker": "Utilities\\Results\\Actual.txt",
+              "ToolTip": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\OOP - June 2024\\ExamPreparation\\C#OOPRetakeExam\u201316April2024\\New folder\\Utilities\\Results\\Actual.txt",
+              "RelativeToolTip": "Utilities\\Results\\Actual.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-08-03T21:38:14.813Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ContentMemberPath.cs",
+              "DocumentMoniker": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\OOP - June 2024\\ExamPreparation\\C#OOPRetakeExam\u201316April2024\\New folder\\Enums\\ContentMemberPath.cs",
+              "RelativeDocumentMoniker": "Enums\\ContentMemberPath.cs",
+              "ToolTip": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\OOP - June 2024\\ExamPreparation\\C#OOPRetakeExam\u201316April2024\\New folder\\Enums\\ContentMemberPath.cs",
+              "RelativeToolTip": "Enums\\ContentMemberPath.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T16:23:06.764Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TeamLead.cs",
+              "DocumentMoniker": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\OOP - June 2024\\ExamPreparation\\C#OOPRetakeExam\u201316April2024\\New folder\\Models\\Class\\TeamMemberChild\\TeamLead.cs",
+              "RelativeDocumentMoniker": "Models\\Class\\TeamMemberChild\\TeamLead.cs",
+              "ToolTip": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\OOP - June 2024\\ExamPreparation\\C#OOPRetakeExam\u201316April2024\\New folder\\Models\\Class\\TeamMemberChild\\TeamLead.cs",
+              "RelativeToolTip": "Models\\Class\\TeamMemberChild\\TeamLead.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T15:59:52.976Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ContentMember.cs",
+              "DocumentMoniker": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\OOP - June 2024\\ExamPreparation\\C#OOPRetakeExam\u201316April2024\\New folder\\Models\\Class\\TeamMemberChild\\ContentMember.cs",
+              "RelativeDocumentMoniker": "Models\\Class\\TeamMemberChild\\ContentMember.cs",
+              "ToolTip": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\OOP - June 2024\\ExamPreparation\\C#OOPRetakeExam\u201316April2024\\New folder\\Models\\Class\\TeamMemberChild\\ContentMember.cs",
+              "RelativeToolTip": "Models\\Class\\TeamMemberChild\\ContentMember.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T15:59:12.008Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Workshop.cs",
+              "DocumentMoniker": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\OOP - June 2024\\ExamPreparation\\C#OOPRetakeExam\u201316April2024\\New folder\\Models\\Class\\ResourceChild\\Workshop.cs",
+              "RelativeDocumentMoniker": "Models\\Class\\ResourceChild\\Workshop.cs",
+              "ToolTip": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\OOP - June 2024\\ExamPreparation\\C#OOPRetakeExam\u201316April2024\\New folder\\Models\\Class\\ResourceChild\\Workshop.cs",
+              "RelativeToolTip": "Models\\Class\\ResourceChild\\Workshop.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAD4vwYAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T15:58:49.695Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Presentation.cs",
+              "DocumentMoniker": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\OOP - June 2024\\ExamPreparation\\C#OOPRetakeExam\u201316April2024\\New folder\\Models\\Class\\ResourceChild\\Presentation.cs",
+              "RelativeDocumentMoniker": "Models\\Class\\ResourceChild\\Presentation.cs",
+              "ToolTip": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\OOP - June 2024\\ExamPreparation\\C#OOPRetakeExam\u201316April2024\\New folder\\Models\\Class\\ResourceChild\\Presentation.cs",
+              "RelativeToolTip": "Models\\Class\\ResourceChild\\Presentation.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T15:58:26.304Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Exam.cs",
+              "DocumentMoniker": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\OOP - June 2024\\ExamPreparation\\C#OOPRetakeExam\u201316April2024\\New folder\\Models\\Class\\ResourceChild\\Exam.cs",
+              "RelativeDocumentMoniker": "Models\\Class\\ResourceChild\\Exam.cs",
+              "ToolTip": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\OOP - June 2024\\ExamPreparation\\C#OOPRetakeExam\u201316April2024\\New folder\\Models\\Class\\ResourceChild\\Exam.cs",
+              "RelativeToolTip": "Models\\Class\\ResourceChild\\Exam.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T15:56:38.718Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TeamMember.cs",
+              "DocumentMoniker": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\OOP - June 2024\\ExamPreparation\\C#OOPRetakeExam\u201316April2024\\New folder\\Models\\Class\\TeamMember.cs",
+              "RelativeDocumentMoniker": "Models\\Class\\TeamMember.cs",
+              "ToolTip": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\OOP - June 2024\\ExamPreparation\\C#OOPRetakeExam\u201316April2024\\New folder\\Models\\Class\\TeamMember.cs",
+              "RelativeToolTip": "Models\\Class\\TeamMember.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAAA4AAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T15:51:31.435Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IResource.cs",
+              "DocumentMoniker": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\OOP - June 2024\\ExamPreparation\\C#OOPRetakeExam\u201316April2024\\New folder\\Models\\Contracts\\IResource.cs",
+              "RelativeDocumentMoniker": "Models\\Contracts\\IResource.cs",
+              "ToolTip": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\OOP - June 2024\\ExamPreparation\\C#OOPRetakeExam\u201316April2024\\New folder\\Models\\Contracts\\IResource.cs",
+              "RelativeToolTip": "Models\\Contracts\\IResource.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T15:49:36.022Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Resource.cs",
+              "DocumentMoniker": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\OOP - June 2024\\ExamPreparation\\C#OOPRetakeExam\u201316April2024\\New folder\\Models\\Class\\Resource.cs",
+              "RelativeDocumentMoniker": "Models\\Class\\Resource.cs",
+              "ToolTip": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\OOP - June 2024\\ExamPreparation\\C#OOPRetakeExam\u201316April2024\\New folder\\Models\\Class\\Resource.cs",
+              "RelativeToolTip": "Models\\Class\\Resource.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABQAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T15:42:03.754Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,5 @@
+D:\ProgramsScool\PB-september.2023\PB-MoreExercises\ConditionalStatementsAdvanced-MoreExercises\07.SchoolCamp\obj\Debug\net6.0\07.SchoolCamp.csproj.AssemblyReference.cache
+D:\ProgramsScool\PB-september.2023\PB-MoreExercises\ConditionalStatementsAdvanced-MoreExercises\07.SchoolCamp\obj\Debug\net6.0\07.SchoolCamp.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProgramsScool\PB-september.2023\PB-MoreExercises\ConditionalStatementsAdvanced-MoreExercises\07.SchoolCamp\obj\Debug\net6.0\07.SchoolCamp.AssemblyInfoInputs.cache
+D:\ProgramsScool\PB-september.2023\PB-MoreExercises\ConditionalStatementsAdvanced-MoreExercises\07.SchoolCamp\obj\Debug\net6.0\07.SchoolCamp.AssemblyInfo.cs
+D:\ProgramsScool\PB-september.2023\PB-MoreExercises\ConditionalStatementsAdvanced-MoreExercises\07.SchoolCamp\obj\Debug\net6.0\07.SchoolCamp.csproj.CoreCompileInputs.cache

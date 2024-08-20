@@ -1,0 +1,15 @@
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\02.DataTypesAndVariables-MoreExercise\03.FloatingEquality\bin\Debug\net6.0\03.FloatingEquality.exe
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\02.DataTypesAndVariables-MoreExercise\03.FloatingEquality\bin\Debug\net6.0\03.FloatingEquality.deps.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\02.DataTypesAndVariables-MoreExercise\03.FloatingEquality\bin\Debug\net6.0\03.FloatingEquality.runtimeconfig.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\02.DataTypesAndVariables-MoreExercise\03.FloatingEquality\bin\Debug\net6.0\03.FloatingEquality.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\02.DataTypesAndVariables-MoreExercise\03.FloatingEquality\bin\Debug\net6.0\03.FloatingEquality.pdb
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\02.DataTypesAndVariables-MoreExercise\03.FloatingEquality\obj\Debug\net6.0\03.FloatingEquality.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\02.DataTypesAndVariables-MoreExercise\03.FloatingEquality\obj\Debug\net6.0\03.FloatingEquality.AssemblyInfoInputs.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\02.DataTypesAndVariables-MoreExercise\03.FloatingEquality\obj\Debug\net6.0\03.FloatingEquality.AssemblyInfo.cs
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\02.DataTypesAndVariables-MoreExercise\03.FloatingEquality\obj\Debug\net6.0\03.FloatingEquality.csproj.CoreCompileInputs.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\02.DataTypesAndVariables-MoreExercise\03.FloatingEquality\obj\Debug\net6.0\03.FloatingEquality.sourcelink.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\02.DataTypesAndVariables-MoreExercise\03.FloatingEquality\obj\Debug\net6.0\03.FloatingEquality.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\02.DataTypesAndVariables-MoreExercise\03.FloatingEquality\obj\Debug\net6.0\refint\03.FloatingEquality.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\02.DataTypesAndVariables-MoreExercise\03.FloatingEquality\obj\Debug\net6.0\03.FloatingEquality.pdb
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\02.DataTypesAndVariables-MoreExercise\03.FloatingEquality\obj\Debug\net6.0\03.FloatingEquality.genruntimeconfig.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\02.DataTypesAndVariables-MoreExercise\03.FloatingEquality\obj\Debug\net6.0\ref\03.FloatingEquality.dll

@@ -1,0 +1,15 @@
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\04.MethodsExercise\02.VowelsCount\bin\Debug\net7.0\02.VowelsCount.exe
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\04.MethodsExercise\02.VowelsCount\bin\Debug\net7.0\02.VowelsCount.deps.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\04.MethodsExercise\02.VowelsCount\bin\Debug\net7.0\02.VowelsCount.runtimeconfig.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\04.MethodsExercise\02.VowelsCount\bin\Debug\net7.0\02.VowelsCount.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\04.MethodsExercise\02.VowelsCount\bin\Debug\net7.0\02.VowelsCount.pdb
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\04.MethodsExercise\02.VowelsCount\obj\Debug\net7.0\02.VowelsCount.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\04.MethodsExercise\02.VowelsCount\obj\Debug\net7.0\02.VowelsCount.AssemblyInfoInputs.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\04.MethodsExercise\02.VowelsCount\obj\Debug\net7.0\02.VowelsCount.AssemblyInfo.cs
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\04.MethodsExercise\02.VowelsCount\obj\Debug\net7.0\02.VowelsCount.csproj.CoreCompileInputs.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\04.MethodsExercise\02.VowelsCount\obj\Debug\net7.0\02.VowelsCount.sourcelink.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\04.MethodsExercise\02.VowelsCount\obj\Debug\net7.0\02.VowelsCount.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\04.MethodsExercise\02.VowelsCount\obj\Debug\net7.0\refint\02.VowelsCount.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\04.MethodsExercise\02.VowelsCount\obj\Debug\net7.0\02.VowelsCount.pdb
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\04.MethodsExercise\02.VowelsCount\obj\Debug\net7.0\02.VowelsCount.genruntimeconfig.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\04.MethodsExercise\02.VowelsCount\obj\Debug\net7.0\ref\02.VowelsCount.dll

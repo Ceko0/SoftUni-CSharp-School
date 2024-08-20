@@ -1,0 +1,15 @@
+D:\ProgramsScool\Fundamental C# 2024\01.BasicSyntax,ConditionalStatementsAndLoops-Lab\09.SumOfOddNumbers\bin\Debug\net6.0\09.SumOfOddNumbers.exe
+D:\ProgramsScool\Fundamental C# 2024\01.BasicSyntax,ConditionalStatementsAndLoops-Lab\09.SumOfOddNumbers\bin\Debug\net6.0\09.SumOfOddNumbers.deps.json
+D:\ProgramsScool\Fundamental C# 2024\01.BasicSyntax,ConditionalStatementsAndLoops-Lab\09.SumOfOddNumbers\bin\Debug\net6.0\09.SumOfOddNumbers.runtimeconfig.json
+D:\ProgramsScool\Fundamental C# 2024\01.BasicSyntax,ConditionalStatementsAndLoops-Lab\09.SumOfOddNumbers\bin\Debug\net6.0\09.SumOfOddNumbers.dll
+D:\ProgramsScool\Fundamental C# 2024\01.BasicSyntax,ConditionalStatementsAndLoops-Lab\09.SumOfOddNumbers\bin\Debug\net6.0\09.SumOfOddNumbers.pdb
+D:\ProgramsScool\Fundamental C# 2024\01.BasicSyntax,ConditionalStatementsAndLoops-Lab\09.SumOfOddNumbers\obj\Debug\net6.0\09.SumOfOddNumbers.csproj.AssemblyReference.cache
+D:\ProgramsScool\Fundamental C# 2024\01.BasicSyntax,ConditionalStatementsAndLoops-Lab\09.SumOfOddNumbers\obj\Debug\net6.0\09.SumOfOddNumbers.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProgramsScool\Fundamental C# 2024\01.BasicSyntax,ConditionalStatementsAndLoops-Lab\09.SumOfOddNumbers\obj\Debug\net6.0\09.SumOfOddNumbers.AssemblyInfoInputs.cache
+D:\ProgramsScool\Fundamental C# 2024\01.BasicSyntax,ConditionalStatementsAndLoops-Lab\09.SumOfOddNumbers\obj\Debug\net6.0\09.SumOfOddNumbers.AssemblyInfo.cs
+D:\ProgramsScool\Fundamental C# 2024\01.BasicSyntax,ConditionalStatementsAndLoops-Lab\09.SumOfOddNumbers\obj\Debug\net6.0\09.SumOfOddNumbers.csproj.CoreCompileInputs.cache
+D:\ProgramsScool\Fundamental C# 2024\01.BasicSyntax,ConditionalStatementsAndLoops-Lab\09.SumOfOddNumbers\obj\Debug\net6.0\09.SumOfOddNumbers.dll
+D:\ProgramsScool\Fundamental C# 2024\01.BasicSyntax,ConditionalStatementsAndLoops-Lab\09.SumOfOddNumbers\obj\Debug\net6.0\refint\09.SumOfOddNumbers.dll
+D:\ProgramsScool\Fundamental C# 2024\01.BasicSyntax,ConditionalStatementsAndLoops-Lab\09.SumOfOddNumbers\obj\Debug\net6.0\09.SumOfOddNumbers.pdb
+D:\ProgramsScool\Fundamental C# 2024\01.BasicSyntax,ConditionalStatementsAndLoops-Lab\09.SumOfOddNumbers\obj\Debug\net6.0\09.SumOfOddNumbers.genruntimeconfig.cache
+D:\ProgramsScool\Fundamental C# 2024\01.BasicSyntax,ConditionalStatementsAndLoops-Lab\09.SumOfOddNumbers\obj\Debug\net6.0\ref\09.SumOfOddNumbers.dll

@@ -1,0 +1,15 @@
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\01.BasicSyntax-MoreExercise\03.GamingStore\bin\Debug\net6.0\03.GamingStore.exe
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\01.BasicSyntax-MoreExercise\03.GamingStore\bin\Debug\net6.0\03.GamingStore.deps.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\01.BasicSyntax-MoreExercise\03.GamingStore\bin\Debug\net6.0\03.GamingStore.runtimeconfig.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\01.BasicSyntax-MoreExercise\03.GamingStore\bin\Debug\net6.0\03.GamingStore.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\01.BasicSyntax-MoreExercise\03.GamingStore\bin\Debug\net6.0\03.GamingStore.pdb
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\01.BasicSyntax-MoreExercise\03.GamingStore\obj\Debug\net6.0\03.GamingStore.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\01.BasicSyntax-MoreExercise\03.GamingStore\obj\Debug\net6.0\03.GamingStore.AssemblyInfoInputs.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\01.BasicSyntax-MoreExercise\03.GamingStore\obj\Debug\net6.0\03.GamingStore.AssemblyInfo.cs
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\01.BasicSyntax-MoreExercise\03.GamingStore\obj\Debug\net6.0\03.GamingStore.csproj.CoreCompileInputs.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\01.BasicSyntax-MoreExercise\03.GamingStore\obj\Debug\net6.0\03.GamingStore.sourcelink.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\01.BasicSyntax-MoreExercise\03.GamingStore\obj\Debug\net6.0\03.GamingStore.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\01.BasicSyntax-MoreExercise\03.GamingStore\obj\Debug\net6.0\refint\03.GamingStore.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\01.BasicSyntax-MoreExercise\03.GamingStore\obj\Debug\net6.0\03.GamingStore.pdb
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\01.BasicSyntax-MoreExercise\03.GamingStore\obj\Debug\net6.0\03.GamingStore.genruntimeconfig.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\01.BasicSyntax-MoreExercise\03.GamingStore\obj\Debug\net6.0\ref\03.GamingStore.dll

@@ -1,0 +1,15 @@
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\01.StacksAndQueues-Exercise\09.SimpleTextEditor\bin\Debug\net8.0\09.SimpleTextEditor.exe
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\01.StacksAndQueues-Exercise\09.SimpleTextEditor\bin\Debug\net8.0\09.SimpleTextEditor.deps.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\01.StacksAndQueues-Exercise\09.SimpleTextEditor\bin\Debug\net8.0\09.SimpleTextEditor.runtimeconfig.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\01.StacksAndQueues-Exercise\09.SimpleTextEditor\bin\Debug\net8.0\09.SimpleTextEditor.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\01.StacksAndQueues-Exercise\09.SimpleTextEditor\bin\Debug\net8.0\09.SimpleTextEditor.pdb
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\01.StacksAndQueues-Exercise\09.SimpleTextEditor\obj\Debug\net8.0\09.SimpleTextEditor.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\01.StacksAndQueues-Exercise\09.SimpleTextEditor\obj\Debug\net8.0\09.SimpleTextEditor.AssemblyInfoInputs.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\01.StacksAndQueues-Exercise\09.SimpleTextEditor\obj\Debug\net8.0\09.SimpleTextEditor.AssemblyInfo.cs
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\01.StacksAndQueues-Exercise\09.SimpleTextEditor\obj\Debug\net8.0\09.SimpleTextEditor.csproj.CoreCompileInputs.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\01.StacksAndQueues-Exercise\09.SimpleTextEditor\obj\Debug\net8.0\09.SimpleTextEditor.sourcelink.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\01.StacksAndQueues-Exercise\09.SimpleTextEditor\obj\Debug\net8.0\09.SimpleTextEditor.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\01.StacksAndQueues-Exercise\09.SimpleTextEditor\obj\Debug\net8.0\refint\09.SimpleTextEditor.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\01.StacksAndQueues-Exercise\09.SimpleTextEditor\obj\Debug\net8.0\09.SimpleTextEditor.pdb
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\01.StacksAndQueues-Exercise\09.SimpleTextEditor\obj\Debug\net8.0\09.SimpleTextEditor.genruntimeconfig.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\01.StacksAndQueues-Exercise\09.SimpleTextEditor\obj\Debug\net8.0\ref\09.SimpleTextEditor.dll

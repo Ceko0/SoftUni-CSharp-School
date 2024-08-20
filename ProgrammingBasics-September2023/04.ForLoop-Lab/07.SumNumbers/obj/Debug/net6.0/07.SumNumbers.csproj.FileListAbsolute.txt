@@ -1,0 +1,15 @@
+D:\ProgramsScool\PB-september.2023\07,ForLoop-Lab\07.SumNumbers\bin\Debug\net6.0\07.SumNumbers.exe
+D:\ProgramsScool\PB-september.2023\07,ForLoop-Lab\07.SumNumbers\bin\Debug\net6.0\07.SumNumbers.deps.json
+D:\ProgramsScool\PB-september.2023\07,ForLoop-Lab\07.SumNumbers\bin\Debug\net6.0\07.SumNumbers.runtimeconfig.json
+D:\ProgramsScool\PB-september.2023\07,ForLoop-Lab\07.SumNumbers\bin\Debug\net6.0\07.SumNumbers.dll
+D:\ProgramsScool\PB-september.2023\07,ForLoop-Lab\07.SumNumbers\bin\Debug\net6.0\07.SumNumbers.pdb
+D:\ProgramsScool\PB-september.2023\07,ForLoop-Lab\07.SumNumbers\obj\Debug\net6.0\07.SumNumbers.csproj.AssemblyReference.cache
+D:\ProgramsScool\PB-september.2023\07,ForLoop-Lab\07.SumNumbers\obj\Debug\net6.0\07.SumNumbers.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProgramsScool\PB-september.2023\07,ForLoop-Lab\07.SumNumbers\obj\Debug\net6.0\07.SumNumbers.AssemblyInfoInputs.cache
+D:\ProgramsScool\PB-september.2023\07,ForLoop-Lab\07.SumNumbers\obj\Debug\net6.0\07.SumNumbers.AssemblyInfo.cs
+D:\ProgramsScool\PB-september.2023\07,ForLoop-Lab\07.SumNumbers\obj\Debug\net6.0\07.SumNumbers.csproj.CoreCompileInputs.cache
+D:\ProgramsScool\PB-september.2023\07,ForLoop-Lab\07.SumNumbers\obj\Debug\net6.0\07.SumNumbers.dll
+D:\ProgramsScool\PB-september.2023\07,ForLoop-Lab\07.SumNumbers\obj\Debug\net6.0\refint\07.SumNumbers.dll
+D:\ProgramsScool\PB-september.2023\07,ForLoop-Lab\07.SumNumbers\obj\Debug\net6.0\07.SumNumbers.pdb
+D:\ProgramsScool\PB-september.2023\07,ForLoop-Lab\07.SumNumbers\obj\Debug\net6.0\07.SumNumbers.genruntimeconfig.cache
+D:\ProgramsScool\PB-september.2023\07,ForLoop-Lab\07.SumNumbers\obj\Debug\net6.0\ref\07.SumNumbers.dll

@@ -1,0 +1,15 @@
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\03.Arrays-Exercise\02.CommonElements\bin\Debug\net6.0\02.CommonElements.exe
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\03.Arrays-Exercise\02.CommonElements\bin\Debug\net6.0\02.CommonElements.deps.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\03.Arrays-Exercise\02.CommonElements\bin\Debug\net6.0\02.CommonElements.runtimeconfig.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\03.Arrays-Exercise\02.CommonElements\bin\Debug\net6.0\02.CommonElements.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\03.Arrays-Exercise\02.CommonElements\bin\Debug\net6.0\02.CommonElements.pdb
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\03.Arrays-Exercise\02.CommonElements\obj\Debug\net6.0\02.CommonElements.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\03.Arrays-Exercise\02.CommonElements\obj\Debug\net6.0\02.CommonElements.AssemblyInfoInputs.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\03.Arrays-Exercise\02.CommonElements\obj\Debug\net6.0\02.CommonElements.AssemblyInfo.cs
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\03.Arrays-Exercise\02.CommonElements\obj\Debug\net6.0\02.CommonElements.csproj.CoreCompileInputs.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\03.Arrays-Exercise\02.CommonElements\obj\Debug\net6.0\02.CommonElements.sourcelink.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\03.Arrays-Exercise\02.CommonElements\obj\Debug\net6.0\02.CommonElements.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\03.Arrays-Exercise\02.CommonElements\obj\Debug\net6.0\refint\02.CommonElements.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\03.Arrays-Exercise\02.CommonElements\obj\Debug\net6.0\02.CommonElements.pdb
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\03.Arrays-Exercise\02.CommonElements\obj\Debug\net6.0\02.CommonElements.genruntimeconfig.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\03.Arrays-Exercise\02.CommonElements\obj\Debug\net6.0\ref\02.CommonElements.dll

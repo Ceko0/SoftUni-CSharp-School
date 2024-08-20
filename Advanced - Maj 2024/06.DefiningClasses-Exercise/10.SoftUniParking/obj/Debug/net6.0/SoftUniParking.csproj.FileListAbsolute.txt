@@ -1,0 +1,15 @@
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\06.DefiningClasses-Exercise\10.SoftUniParking\bin\Debug\net6.0\SoftUniParking.exe
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\06.DefiningClasses-Exercise\10.SoftUniParking\bin\Debug\net6.0\SoftUniParking.deps.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\06.DefiningClasses-Exercise\10.SoftUniParking\bin\Debug\net6.0\SoftUniParking.runtimeconfig.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\06.DefiningClasses-Exercise\10.SoftUniParking\bin\Debug\net6.0\SoftUniParking.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\06.DefiningClasses-Exercise\10.SoftUniParking\bin\Debug\net6.0\SoftUniParking.pdb
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\06.DefiningClasses-Exercise\10.SoftUniParking\obj\Debug\net6.0\SoftUniParking.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\06.DefiningClasses-Exercise\10.SoftUniParking\obj\Debug\net6.0\SoftUniParking.AssemblyInfoInputs.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\06.DefiningClasses-Exercise\10.SoftUniParking\obj\Debug\net6.0\SoftUniParking.AssemblyInfo.cs
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\06.DefiningClasses-Exercise\10.SoftUniParking\obj\Debug\net6.0\SoftUniParking.csproj.CoreCompileInputs.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\06.DefiningClasses-Exercise\10.SoftUniParking\obj\Debug\net6.0\SoftUniParking.sourcelink.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\06.DefiningClasses-Exercise\10.SoftUniParking\obj\Debug\net6.0\SoftUniParking.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\06.DefiningClasses-Exercise\10.SoftUniParking\obj\Debug\net6.0\refint\SoftUniParking.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\06.DefiningClasses-Exercise\10.SoftUniParking\obj\Debug\net6.0\SoftUniParking.pdb
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\06.DefiningClasses-Exercise\10.SoftUniParking\obj\Debug\net6.0\SoftUniParking.genruntimeconfig.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\06.DefiningClasses-Exercise\10.SoftUniParking\obj\Debug\net6.0\ref\SoftUniParking.dll

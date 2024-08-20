@@ -1,0 +1,15 @@
+D:\ProgramsScool\PB-september.2023\PB-MoreExercises\ConditionalStatements-MoreExercises\05.Pets\bin\Debug\net6.0\05.Pets.exe
+D:\ProgramsScool\PB-september.2023\PB-MoreExercises\ConditionalStatements-MoreExercises\05.Pets\bin\Debug\net6.0\05.Pets.deps.json
+D:\ProgramsScool\PB-september.2023\PB-MoreExercises\ConditionalStatements-MoreExercises\05.Pets\bin\Debug\net6.0\05.Pets.runtimeconfig.json
+D:\ProgramsScool\PB-september.2023\PB-MoreExercises\ConditionalStatements-MoreExercises\05.Pets\bin\Debug\net6.0\05.Pets.dll
+D:\ProgramsScool\PB-september.2023\PB-MoreExercises\ConditionalStatements-MoreExercises\05.Pets\bin\Debug\net6.0\05.Pets.pdb
+D:\ProgramsScool\PB-september.2023\PB-MoreExercises\ConditionalStatements-MoreExercises\05.Pets\obj\Debug\net6.0\05.Pets.csproj.AssemblyReference.cache
+D:\ProgramsScool\PB-september.2023\PB-MoreExercises\ConditionalStatements-MoreExercises\05.Pets\obj\Debug\net6.0\05.Pets.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProgramsScool\PB-september.2023\PB-MoreExercises\ConditionalStatements-MoreExercises\05.Pets\obj\Debug\net6.0\05.Pets.AssemblyInfoInputs.cache
+D:\ProgramsScool\PB-september.2023\PB-MoreExercises\ConditionalStatements-MoreExercises\05.Pets\obj\Debug\net6.0\05.Pets.AssemblyInfo.cs
+D:\ProgramsScool\PB-september.2023\PB-MoreExercises\ConditionalStatements-MoreExercises\05.Pets\obj\Debug\net6.0\05.Pets.csproj.CoreCompileInputs.cache
+D:\ProgramsScool\PB-september.2023\PB-MoreExercises\ConditionalStatements-MoreExercises\05.Pets\obj\Debug\net6.0\05.Pets.dll
+D:\ProgramsScool\PB-september.2023\PB-MoreExercises\ConditionalStatements-MoreExercises\05.Pets\obj\Debug\net6.0\refint\05.Pets.dll
+D:\ProgramsScool\PB-september.2023\PB-MoreExercises\ConditionalStatements-MoreExercises\05.Pets\obj\Debug\net6.0\05.Pets.pdb
+D:\ProgramsScool\PB-september.2023\PB-MoreExercises\ConditionalStatements-MoreExercises\05.Pets\obj\Debug\net6.0\05.Pets.genruntimeconfig.cache
+D:\ProgramsScool\PB-september.2023\PB-MoreExercises\ConditionalStatements-MoreExercises\05.Pets\obj\Debug\net6.0\ref\05.Pets.dll

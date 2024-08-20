@@ -1,0 +1,15 @@
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\02.MultidimensionalArrays-Exercise\2.SquaresInMatrix\bin\Debug\net8.0\2.SquaresInMatrix.exe
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\02.MultidimensionalArrays-Exercise\2.SquaresInMatrix\bin\Debug\net8.0\2.SquaresInMatrix.deps.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\02.MultidimensionalArrays-Exercise\2.SquaresInMatrix\bin\Debug\net8.0\2.SquaresInMatrix.runtimeconfig.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\02.MultidimensionalArrays-Exercise\2.SquaresInMatrix\bin\Debug\net8.0\2.SquaresInMatrix.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\02.MultidimensionalArrays-Exercise\2.SquaresInMatrix\bin\Debug\net8.0\2.SquaresInMatrix.pdb
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\02.MultidimensionalArrays-Exercise\2.SquaresInMatrix\obj\Debug\net8.0\2.SquaresInMatrix.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\02.MultidimensionalArrays-Exercise\2.SquaresInMatrix\obj\Debug\net8.0\2.SquaresInMatrix.AssemblyInfoInputs.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\02.MultidimensionalArrays-Exercise\2.SquaresInMatrix\obj\Debug\net8.0\2.SquaresInMatrix.AssemblyInfo.cs
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\02.MultidimensionalArrays-Exercise\2.SquaresInMatrix\obj\Debug\net8.0\2.SquaresInMatrix.csproj.CoreCompileInputs.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\02.MultidimensionalArrays-Exercise\2.SquaresInMatrix\obj\Debug\net8.0\2.SquaresInMatrix.sourcelink.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\02.MultidimensionalArrays-Exercise\2.SquaresInMatrix\obj\Debug\net8.0\2.SquaresInMatrix.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\02.MultidimensionalArrays-Exercise\2.SquaresInMatrix\obj\Debug\net8.0\refint\2.SquaresInMatrix.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\02.MultidimensionalArrays-Exercise\2.SquaresInMatrix\obj\Debug\net8.0\2.SquaresInMatrix.pdb
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\02.MultidimensionalArrays-Exercise\2.SquaresInMatrix\obj\Debug\net8.0\2.SquaresInMatrix.genruntimeconfig.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\02.MultidimensionalArrays-Exercise\2.SquaresInMatrix\obj\Debug\net8.0\ref\2.SquaresInMatrix.dll

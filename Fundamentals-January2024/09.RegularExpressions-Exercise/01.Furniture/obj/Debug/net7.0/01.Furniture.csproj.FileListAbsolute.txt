@@ -1,0 +1,15 @@
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\09.RegularExpressions-Exercise\01.Furniture\bin\Debug\net7.0\01.Furniture.exe
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\09.RegularExpressions-Exercise\01.Furniture\bin\Debug\net7.0\01.Furniture.deps.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\09.RegularExpressions-Exercise\01.Furniture\bin\Debug\net7.0\01.Furniture.runtimeconfig.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\09.RegularExpressions-Exercise\01.Furniture\bin\Debug\net7.0\01.Furniture.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\09.RegularExpressions-Exercise\01.Furniture\bin\Debug\net7.0\01.Furniture.pdb
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\09.RegularExpressions-Exercise\01.Furniture\obj\Debug\net7.0\01.Furniture.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\09.RegularExpressions-Exercise\01.Furniture\obj\Debug\net7.0\01.Furniture.AssemblyInfoInputs.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\09.RegularExpressions-Exercise\01.Furniture\obj\Debug\net7.0\01.Furniture.AssemblyInfo.cs
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\09.RegularExpressions-Exercise\01.Furniture\obj\Debug\net7.0\01.Furniture.csproj.CoreCompileInputs.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\09.RegularExpressions-Exercise\01.Furniture\obj\Debug\net7.0\01.Furniture.sourcelink.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\09.RegularExpressions-Exercise\01.Furniture\obj\Debug\net7.0\01.Furniture.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\09.RegularExpressions-Exercise\01.Furniture\obj\Debug\net7.0\refint\01.Furniture.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\09.RegularExpressions-Exercise\01.Furniture\obj\Debug\net7.0\01.Furniture.pdb
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\09.RegularExpressions-Exercise\01.Furniture\obj\Debug\net7.0\01.Furniture.genruntimeconfig.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\09.RegularExpressions-Exercise\01.Furniture\obj\Debug\net7.0\ref\01.Furniture.dll

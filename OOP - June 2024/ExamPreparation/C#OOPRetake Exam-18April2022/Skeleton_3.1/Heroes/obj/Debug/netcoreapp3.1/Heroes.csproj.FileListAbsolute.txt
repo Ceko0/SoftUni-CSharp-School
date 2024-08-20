@@ -1,0 +1,14 @@
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\OOP - June 2024\ExamPreparation\C#OOPRetake Exam-18April2022\Skeleton_3.1\Heroes\bin\Debug\netcoreapp3.1\Heroes.exe
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\OOP - June 2024\ExamPreparation\C#OOPRetake Exam-18April2022\Skeleton_3.1\Heroes\bin\Debug\netcoreapp3.1\Heroes.deps.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\OOP - June 2024\ExamPreparation\C#OOPRetake Exam-18April2022\Skeleton_3.1\Heroes\bin\Debug\netcoreapp3.1\Heroes.runtimeconfig.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\OOP - June 2024\ExamPreparation\C#OOPRetake Exam-18April2022\Skeleton_3.1\Heroes\bin\Debug\netcoreapp3.1\Heroes.runtimeconfig.dev.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\OOP - June 2024\ExamPreparation\C#OOPRetake Exam-18April2022\Skeleton_3.1\Heroes\bin\Debug\netcoreapp3.1\Heroes.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\OOP - June 2024\ExamPreparation\C#OOPRetake Exam-18April2022\Skeleton_3.1\Heroes\bin\Debug\netcoreapp3.1\Heroes.pdb
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\OOP - June 2024\ExamPreparation\C#OOPRetake Exam-18April2022\Skeleton_3.1\Heroes\obj\Debug\netcoreapp3.1\Heroes.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\OOP - June 2024\ExamPreparation\C#OOPRetake Exam-18April2022\Skeleton_3.1\Heroes\obj\Debug\netcoreapp3.1\Heroes.AssemblyInfoInputs.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\OOP - June 2024\ExamPreparation\C#OOPRetake Exam-18April2022\Skeleton_3.1\Heroes\obj\Debug\netcoreapp3.1\Heroes.AssemblyInfo.cs
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\OOP - June 2024\ExamPreparation\C#OOPRetake Exam-18April2022\Skeleton_3.1\Heroes\obj\Debug\netcoreapp3.1\Heroes.csproj.CoreCompileInputs.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\OOP - June 2024\ExamPreparation\C#OOPRetake Exam-18April2022\Skeleton_3.1\Heroes\obj\Debug\netcoreapp3.1\Heroes.sourcelink.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\OOP - June 2024\ExamPreparation\C#OOPRetake Exam-18April2022\Skeleton_3.1\Heroes\obj\Debug\netcoreapp3.1\Heroes.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\OOP - June 2024\ExamPreparation\C#OOPRetake Exam-18April2022\Skeleton_3.1\Heroes\obj\Debug\netcoreapp3.1\Heroes.pdb
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\OOP - June 2024\ExamPreparation\C#OOPRetake Exam-18April2022\Skeleton_3.1\Heroes\obj\Debug\netcoreapp3.1\Heroes.genruntimeconfig.cache

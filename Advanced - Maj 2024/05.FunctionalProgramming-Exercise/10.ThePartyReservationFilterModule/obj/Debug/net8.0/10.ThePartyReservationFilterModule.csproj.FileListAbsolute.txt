@@ -1,0 +1,15 @@
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\05.FunctionalProgramming-Exercise\10.ThePartyReservationFilterModule\bin\Debug\net8.0\10.ThePartyReservationFilterModule.exe
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\05.FunctionalProgramming-Exercise\10.ThePartyReservationFilterModule\bin\Debug\net8.0\10.ThePartyReservationFilterModule.deps.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\05.FunctionalProgramming-Exercise\10.ThePartyReservationFilterModule\bin\Debug\net8.0\10.ThePartyReservationFilterModule.runtimeconfig.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\05.FunctionalProgramming-Exercise\10.ThePartyReservationFilterModule\bin\Debug\net8.0\10.ThePartyReservationFilterModule.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\05.FunctionalProgramming-Exercise\10.ThePartyReservationFilterModule\bin\Debug\net8.0\10.ThePartyReservationFilterModule.pdb
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\05.FunctionalProgramming-Exercise\10.ThePartyReservationFilterModule\obj\Debug\net8.0\10.ThePartyReservationFilterModule.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\05.FunctionalProgramming-Exercise\10.ThePartyReservationFilterModule\obj\Debug\net8.0\10.ThePartyReservationFilterModule.AssemblyInfoInputs.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\05.FunctionalProgramming-Exercise\10.ThePartyReservationFilterModule\obj\Debug\net8.0\10.ThePartyReservationFilterModule.AssemblyInfo.cs
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\05.FunctionalProgramming-Exercise\10.ThePartyReservationFilterModule\obj\Debug\net8.0\10.ThePartyReservationFilterModule.csproj.CoreCompileInputs.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\05.FunctionalProgramming-Exercise\10.ThePartyReservationFilterModule\obj\Debug\net8.0\10.ThePartyReservationFilterModule.sourcelink.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\05.FunctionalProgramming-Exercise\10.ThePartyReservationFilterModule\obj\Debug\net8.0\10.ThePartyReservationFilterModule.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\05.FunctionalProgramming-Exercise\10.ThePartyReservationFilterModule\obj\Debug\net8.0\refint\10.ThePartyReservationFilterModule.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\05.FunctionalProgramming-Exercise\10.ThePartyReservationFilterModule\obj\Debug\net8.0\10.ThePartyReservationFilterModule.pdb
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\05.FunctionalProgramming-Exercise\10.ThePartyReservationFilterModule\obj\Debug\net8.0\10.ThePartyReservationFilterModule.genruntimeconfig.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\05.FunctionalProgramming-Exercise\10.ThePartyReservationFilterModule\obj\Debug\net8.0\ref\10.ThePartyReservationFilterModule.dll

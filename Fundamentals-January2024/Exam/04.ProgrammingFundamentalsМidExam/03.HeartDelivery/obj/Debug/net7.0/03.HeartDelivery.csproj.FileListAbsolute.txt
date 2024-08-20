@@ -1,0 +1,15 @@
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\04.ProgrammingFundamentalsМidExam\03.HeartDelivery\bin\Debug\net7.0\03.HeartDelivery.exe
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\04.ProgrammingFundamentalsМidExam\03.HeartDelivery\bin\Debug\net7.0\03.HeartDelivery.deps.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\04.ProgrammingFundamentalsМidExam\03.HeartDelivery\bin\Debug\net7.0\03.HeartDelivery.runtimeconfig.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\04.ProgrammingFundamentalsМidExam\03.HeartDelivery\bin\Debug\net7.0\03.HeartDelivery.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\04.ProgrammingFundamentalsМidExam\03.HeartDelivery\bin\Debug\net7.0\03.HeartDelivery.pdb
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\04.ProgrammingFundamentalsМidExam\03.HeartDelivery\obj\Debug\net7.0\03.HeartDelivery.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\04.ProgrammingFundamentalsМidExam\03.HeartDelivery\obj\Debug\net7.0\03.HeartDelivery.AssemblyInfoInputs.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\04.ProgrammingFundamentalsМidExam\03.HeartDelivery\obj\Debug\net7.0\03.HeartDelivery.AssemblyInfo.cs
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\04.ProgrammingFundamentalsМidExam\03.HeartDelivery\obj\Debug\net7.0\03.HeartDelivery.csproj.CoreCompileInputs.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\04.ProgrammingFundamentalsМidExam\03.HeartDelivery\obj\Debug\net7.0\03.HeartDelivery.sourcelink.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\04.ProgrammingFundamentalsМidExam\03.HeartDelivery\obj\Debug\net7.0\03.HeartDelivery.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\04.ProgrammingFundamentalsМidExam\03.HeartDelivery\obj\Debug\net7.0\refint\03.HeartDelivery.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\04.ProgrammingFundamentalsМidExam\03.HeartDelivery\obj\Debug\net7.0\03.HeartDelivery.pdb
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\04.ProgrammingFundamentalsМidExam\03.HeartDelivery\obj\Debug\net7.0\03.HeartDelivery.genruntimeconfig.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\04.ProgrammingFundamentalsМidExam\03.HeartDelivery\obj\Debug\net7.0\ref\03.HeartDelivery.dll

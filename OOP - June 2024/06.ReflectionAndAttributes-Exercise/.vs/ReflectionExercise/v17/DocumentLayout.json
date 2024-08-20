@@ -1,0 +1,227 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\OOP - June 2024\\06.ReflectionAndAttributes-Exercise\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F6434B66-8D22-4B97-9153-5F4360B5C278}|ValidationAttributes\\ValidationAttributes.csproj|d:\\programsscool\\git hub\\softuni-csharp\\oop - june 2024\\06.reflectionandattributes-exercise\\validationattributes\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6434B66-8D22-4B97-9153-5F4360B5C278}|ValidationAttributes\\ValidationAttributes.csproj|solutionrelative:validationattributes\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6434B66-8D22-4B97-9153-5F4360B5C278}|ValidationAttributes\\ValidationAttributes.csproj|d:\\programsscool\\git hub\\softuni-csharp\\oop - june 2024\\06.reflectionandattributes-exercise\\validationattributes\\models\\validator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6434B66-8D22-4B97-9153-5F4360B5C278}|ValidationAttributes\\ValidationAttributes.csproj|solutionrelative:validationattributes\\models\\validator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6434B66-8D22-4B97-9153-5F4360B5C278}|ValidationAttributes\\ValidationAttributes.csproj|d:\\programsscool\\git hub\\softuni-csharp\\oop - june 2024\\06.reflectionandattributes-exercise\\validationattributes\\attributes\\myrangeattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6434B66-8D22-4B97-9153-5F4360B5C278}|ValidationAttributes\\ValidationAttributes.csproj|solutionrelative:validationattributes\\attributes\\myrangeattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6434B66-8D22-4B97-9153-5F4360B5C278}|ValidationAttributes\\ValidationAttributes.csproj|d:\\programsscool\\git hub\\softuni-csharp\\oop - june 2024\\06.reflectionandattributes-exercise\\validationattributes\\models\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6434B66-8D22-4B97-9153-5F4360B5C278}|ValidationAttributes\\ValidationAttributes.csproj|solutionrelative:validationattributes\\models\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6434B66-8D22-4B97-9153-5F4360B5C278}|ValidationAttributes\\ValidationAttributes.csproj|d:\\programsscool\\git hub\\softuni-csharp\\oop - june 2024\\06.reflectionandattributes-exercise\\validationattributes\\attributes\\myrequiredattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6434B66-8D22-4B97-9153-5F4360B5C278}|ValidationAttributes\\ValidationAttributes.csproj|solutionrelative:validationattributes\\attributes\\myrequiredattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6434B66-8D22-4B97-9153-5F4360B5C278}|ValidationAttributes\\ValidationAttributes.csproj|d:\\programsscool\\git hub\\softuni-csharp\\oop - june 2024\\06.reflectionandattributes-exercise\\validationattributes\\attributes\\myvalidationattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6434B66-8D22-4B97-9153-5F4360B5C278}|ValidationAttributes\\ValidationAttributes.csproj|solutionrelative:validationattributes\\attributes\\myvalidationattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43D01CAD-5F3E-4393-BCDA-8373A35CED49}|CommandPattern\\CommandPattern.csproj|d:\\programsscool\\git hub\\softuni-csharp\\oop - june 2024\\06.reflectionandattributes-exercise\\commandpattern\\core\\models\\commandinterpreter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43D01CAD-5F3E-4393-BCDA-8373A35CED49}|CommandPattern\\CommandPattern.csproj|solutionrelative:commandpattern\\core\\models\\commandinterpreter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43D01CAD-5F3E-4393-BCDA-8373A35CED49}|CommandPattern\\CommandPattern.csproj|d:\\programsscool\\git hub\\softuni-csharp\\oop - june 2024\\06.reflectionandattributes-exercise\\commandpattern\\core\\models\\hellocommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43D01CAD-5F3E-4393-BCDA-8373A35CED49}|CommandPattern\\CommandPattern.csproj|solutionrelative:commandpattern\\core\\models\\hellocommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43D01CAD-5F3E-4393-BCDA-8373A35CED49}|CommandPattern\\CommandPattern.csproj|d:\\programsscool\\git hub\\softuni-csharp\\oop - june 2024\\06.reflectionandattributes-exercise\\commandpattern\\core\\models\\exitcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43D01CAD-5F3E-4393-BCDA-8373A35CED49}|CommandPattern\\CommandPattern.csproj|solutionrelative:commandpattern\\core\\models\\exitcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43D01CAD-5F3E-4393-BCDA-8373A35CED49}|CommandPattern\\CommandPattern.csproj|d:\\programsscool\\git hub\\softuni-csharp\\oop - june 2024\\06.reflectionandattributes-exercise\\commandpattern\\core\\models\\engine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43D01CAD-5F3E-4393-BCDA-8373A35CED49}|CommandPattern\\CommandPattern.csproj|solutionrelative:commandpattern\\core\\models\\engine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43D01CAD-5F3E-4393-BCDA-8373A35CED49}|CommandPattern\\CommandPattern.csproj|d:\\programsscool\\git hub\\softuni-csharp\\oop - june 2024\\06.reflectionandattributes-exercise\\commandpattern\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43D01CAD-5F3E-4393-BCDA-8373A35CED49}|CommandPattern\\CommandPattern.csproj|solutionrelative:commandpattern\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StartUp.cs",
+              "DocumentMoniker": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\OOP - June 2024\\06.ReflectionAndAttributes-Exercise\\ValidationAttributes\\StartUp.cs",
+              "RelativeDocumentMoniker": "ValidationAttributes\\StartUp.cs",
+              "ToolTip": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\OOP - June 2024\\06.ReflectionAndAttributes-Exercise\\ValidationAttributes\\StartUp.cs",
+              "RelativeToolTip": "ValidationAttributes\\StartUp.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T12:44:21.092Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Validator.cs",
+              "DocumentMoniker": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\OOP - June 2024\\06.ReflectionAndAttributes-Exercise\\ValidationAttributes\\Models\\Validator.cs",
+              "RelativeDocumentMoniker": "ValidationAttributes\\Models\\Validator.cs",
+              "ToolTip": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\OOP - June 2024\\06.ReflectionAndAttributes-Exercise\\ValidationAttributes\\Models\\Validator.cs",
+              "RelativeToolTip": "ValidationAttributes\\Models\\Validator.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T13:35:38.471Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Person.cs",
+              "DocumentMoniker": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\OOP - June 2024\\06.ReflectionAndAttributes-Exercise\\ValidationAttributes\\Models\\Person.cs",
+              "RelativeDocumentMoniker": "ValidationAttributes\\Models\\Person.cs",
+              "ToolTip": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\OOP - June 2024\\06.ReflectionAndAttributes-Exercise\\ValidationAttributes\\Models\\Person.cs",
+              "RelativeToolTip": "ValidationAttributes\\Models\\Person.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T13:28:02.973Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MyRequiredAttribute.cs",
+              "DocumentMoniker": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\OOP - June 2024\\06.ReflectionAndAttributes-Exercise\\ValidationAttributes\\Attributes\\MyRequiredAttribute.cs",
+              "RelativeDocumentMoniker": "ValidationAttributes\\Attributes\\MyRequiredAttribute.cs",
+              "ToolTip": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\OOP - June 2024\\06.ReflectionAndAttributes-Exercise\\ValidationAttributes\\Attributes\\MyRequiredAttribute.cs",
+              "RelativeToolTip": "ValidationAttributes\\Attributes\\MyRequiredAttribute.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T13:15:58.12Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MyRangeAttribute.cs",
+              "DocumentMoniker": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\OOP - June 2024\\06.ReflectionAndAttributes-Exercise\\ValidationAttributes\\Attributes\\MyRangeAttribute.cs",
+              "RelativeDocumentMoniker": "ValidationAttributes\\Attributes\\MyRangeAttribute.cs",
+              "ToolTip": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\OOP - June 2024\\06.ReflectionAndAttributes-Exercise\\ValidationAttributes\\Attributes\\MyRangeAttribute.cs",
+              "RelativeToolTip": "ValidationAttributes\\Attributes\\MyRangeAttribute.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T13:15:45.306Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MyValidationAttribute.cs",
+              "DocumentMoniker": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\OOP - June 2024\\06.ReflectionAndAttributes-Exercise\\ValidationAttributes\\Attributes\\MyValidationAttribute.cs",
+              "RelativeDocumentMoniker": "ValidationAttributes\\Attributes\\MyValidationAttribute.cs",
+              "ToolTip": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\OOP - June 2024\\06.ReflectionAndAttributes-Exercise\\ValidationAttributes\\Attributes\\MyValidationAttribute.cs",
+              "RelativeToolTip": "ValidationAttributes\\Attributes\\MyValidationAttribute.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T13:15:32.571Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "StartUp.cs",
+              "DocumentMoniker": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\OOP - June 2024\\06.ReflectionAndAttributes-Exercise\\CommandPattern\\StartUp.cs",
+              "RelativeDocumentMoniker": "CommandPattern\\StartUp.cs",
+              "ToolTip": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\OOP - June 2024\\06.ReflectionAndAttributes-Exercise\\CommandPattern\\StartUp.cs",
+              "RelativeToolTip": "CommandPattern\\StartUp.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T12:22:14.567Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Engine.cs",
+              "DocumentMoniker": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\OOP - June 2024\\06.ReflectionAndAttributes-Exercise\\CommandPattern\\Core\\Models\\Engine.cs",
+              "RelativeDocumentMoniker": "CommandPattern\\Core\\Models\\Engine.cs",
+              "ToolTip": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\OOP - June 2024\\06.ReflectionAndAttributes-Exercise\\CommandPattern\\Core\\Models\\Engine.cs",
+              "RelativeToolTip": "CommandPattern\\Core\\Models\\Engine.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAgwB8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T12:24:05.225Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CommandInterpreter.cs",
+              "DocumentMoniker": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\OOP - June 2024\\06.ReflectionAndAttributes-Exercise\\CommandPattern\\Core\\Models\\CommandInterpreter.cs",
+              "RelativeDocumentMoniker": "CommandPattern\\Core\\Models\\CommandInterpreter.cs",
+              "ToolTip": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\OOP - June 2024\\06.ReflectionAndAttributes-Exercise\\CommandPattern\\Core\\Models\\CommandInterpreter.cs",
+              "RelativeToolTip": "CommandPattern\\Core\\Models\\CommandInterpreter.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAAABYAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T11:52:43.705Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ExitCommand.cs",
+              "DocumentMoniker": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\OOP - June 2024\\06.ReflectionAndAttributes-Exercise\\CommandPattern\\Core\\Models\\ExitCommand.cs",
+              "RelativeDocumentMoniker": "CommandPattern\\Core\\Models\\ExitCommand.cs",
+              "ToolTip": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\OOP - June 2024\\06.ReflectionAndAttributes-Exercise\\CommandPattern\\Core\\Models\\ExitCommand.cs",
+              "RelativeToolTip": "CommandPattern\\Core\\Models\\ExitCommand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T11:49:18.349Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "HelloCommand.cs",
+              "DocumentMoniker": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\OOP - June 2024\\06.ReflectionAndAttributes-Exercise\\CommandPattern\\Core\\Models\\HelloCommand.cs",
+              "RelativeDocumentMoniker": "CommandPattern\\Core\\Models\\HelloCommand.cs",
+              "ToolTip": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\OOP - June 2024\\06.ReflectionAndAttributes-Exercise\\CommandPattern\\Core\\Models\\HelloCommand.cs",
+              "RelativeToolTip": "CommandPattern\\Core\\Models\\HelloCommand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T11:45:20.138Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

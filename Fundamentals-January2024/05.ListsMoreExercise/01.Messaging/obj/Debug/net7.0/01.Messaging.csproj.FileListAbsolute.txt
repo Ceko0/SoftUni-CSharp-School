@@ -1,0 +1,15 @@
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\05.ListsMoreExercise\01.Messaging\bin\Debug\net7.0\01.Messaging.exe
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\05.ListsMoreExercise\01.Messaging\bin\Debug\net7.0\01.Messaging.deps.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\05.ListsMoreExercise\01.Messaging\bin\Debug\net7.0\01.Messaging.runtimeconfig.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\05.ListsMoreExercise\01.Messaging\bin\Debug\net7.0\01.Messaging.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\05.ListsMoreExercise\01.Messaging\bin\Debug\net7.0\01.Messaging.pdb
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\05.ListsMoreExercise\01.Messaging\obj\Debug\net7.0\01.Messaging.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\05.ListsMoreExercise\01.Messaging\obj\Debug\net7.0\01.Messaging.AssemblyInfoInputs.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\05.ListsMoreExercise\01.Messaging\obj\Debug\net7.0\01.Messaging.AssemblyInfo.cs
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\05.ListsMoreExercise\01.Messaging\obj\Debug\net7.0\01.Messaging.csproj.CoreCompileInputs.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\05.ListsMoreExercise\01.Messaging\obj\Debug\net7.0\01.Messaging.sourcelink.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\05.ListsMoreExercise\01.Messaging\obj\Debug\net7.0\01.Messaging.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\05.ListsMoreExercise\01.Messaging\obj\Debug\net7.0\refint\01.Messaging.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\05.ListsMoreExercise\01.Messaging\obj\Debug\net7.0\01.Messaging.pdb
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\05.ListsMoreExercise\01.Messaging\obj\Debug\net7.0\01.Messaging.genruntimeconfig.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\05.ListsMoreExercise\01.Messaging\obj\Debug\net7.0\ref\01.Messaging.dll

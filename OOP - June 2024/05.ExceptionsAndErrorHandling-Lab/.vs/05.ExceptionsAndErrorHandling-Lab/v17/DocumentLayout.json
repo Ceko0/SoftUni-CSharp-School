@@ -1,0 +1,172 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\OOP - June 2024\\05.ExceptionsAndErrorHandling-Lab\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0766466A-6A2A-40E8-95AB-66855E36ACE6}|05.PlayCatch\\05.PlayCatch.csproj|d:\\programsscool\\git hub\\softuni-csharp\\oop - june 2024\\05.exceptionsanderrorhandling-lab\\05.playcatch\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0766466A-6A2A-40E8-95AB-66855E36ACE6}|05.PlayCatch\\05.PlayCatch.csproj|solutionrelative:05.playcatch\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0766466A-6A2A-40E8-95AB-66855E36ACE6}|05.PlayCatch\\05.PlayCatch.csproj|d:\\programsscool\\git hub\\softuni-csharp\\oop - june 2024\\05.exceptionsanderrorhandling-lab\\05.playcatch\\05.playcatch.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{0766466A-6A2A-40E8-95AB-66855E36ACE6}|05.PlayCatch\\05.PlayCatch.csproj|solutionrelative:05.playcatch\\05.playcatch.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C93EA819-4A8A-4A16-BC56-C11AE11BE5FB}|04.SumOfIntegers\\04.SumOfIntegers.csproj|d:\\programsscool\\git hub\\softuni-csharp\\oop - june 2024\\05.exceptionsanderrorhandling-lab\\04.sumofintegers\\04.sumofintegers.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C93EA819-4A8A-4A16-BC56-C11AE11BE5FB}|04.SumOfIntegers\\04.SumOfIntegers.csproj|solutionrelative:04.sumofintegers\\04.sumofintegers.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C93EA819-4A8A-4A16-BC56-C11AE11BE5FB}|04.SumOfIntegers\\04.SumOfIntegers.csproj|d:\\programsscool\\git hub\\softuni-csharp\\oop - june 2024\\05.exceptionsanderrorhandling-lab\\04.sumofintegers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C93EA819-4A8A-4A16-BC56-C11AE11BE5FB}|04.SumOfIntegers\\04.SumOfIntegers.csproj|solutionrelative:04.sumofintegers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D1101C7-5261-4706-BAD5-7031B5B9BAF6}|03.Cards\\03.Cards.csproj|d:\\programsscool\\git hub\\softuni-csharp\\oop - june 2024\\05.exceptionsanderrorhandling-lab\\03.cards\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D1101C7-5261-4706-BAD5-7031B5B9BAF6}|03.Cards\\03.Cards.csproj|solutionrelative:03.cards\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D1101C7-5261-4706-BAD5-7031B5B9BAF6}|03.Cards\\03.Cards.csproj|d:\\programsscool\\git hub\\softuni-csharp\\oop - june 2024\\05.exceptionsanderrorhandling-lab\\03.cards\\03.cards.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{1D1101C7-5261-4706-BAD5-7031B5B9BAF6}|03.Cards\\03.Cards.csproj|solutionrelative:03.cards\\03.cards.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF3CC4F7-1495-4CD1-BB18-B71FB1B4B0BE}|02.EnterNumbers\\02.EnterNumbers.csproj|d:\\programsscool\\git hub\\softuni-csharp\\oop - june 2024\\05.exceptionsanderrorhandling-lab\\02.enternumbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF3CC4F7-1495-4CD1-BB18-B71FB1B4B0BE}|02.EnterNumbers\\02.EnterNumbers.csproj|solutionrelative:02.enternumbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6FB257F-A7EB-48F6-BEA6-3209A1EF778F}|01.SquareRoot\\01.SquareRoot.csproj|d:\\programsscool\\git hub\\softuni-csharp\\oop - june 2024\\05.exceptionsanderrorhandling-lab\\01.squareroot\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6FB257F-A7EB-48F6-BEA6-3209A1EF778F}|01.SquareRoot\\01.SquareRoot.csproj|solutionrelative:01.squareroot\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "05.PlayCatch",
+              "DocumentMoniker": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\OOP - June 2024\\05.ExceptionsAndErrorHandling-Lab\\05.PlayCatch\\05.PlayCatch.csproj",
+              "RelativeDocumentMoniker": "05.PlayCatch\\05.PlayCatch.csproj",
+              "ToolTip": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\OOP - June 2024\\05.ExceptionsAndErrorHandling-Lab\\05.PlayCatch\\05.PlayCatch.csproj",
+              "RelativeToolTip": "05.PlayCatch\\05.PlayCatch.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-18T15:37:53.825Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\OOP - June 2024\\05.ExceptionsAndErrorHandling-Lab\\05.PlayCatch\\Program.cs",
+              "RelativeDocumentMoniker": "05.PlayCatch\\Program.cs",
+              "ToolTip": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\OOP - June 2024\\05.ExceptionsAndErrorHandling-Lab\\05.PlayCatch\\Program.cs",
+              "RelativeToolTip": "05.PlayCatch\\Program.cs",
+              "ViewState": "AQIAADwAAAAAAAAAAAAmwFQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T15:05:54.181Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "04.SumOfIntegers",
+              "DocumentMoniker": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\OOP - June 2024\\05.ExceptionsAndErrorHandling-Lab\\04.SumOfIntegers\\04.SumOfIntegers.csproj",
+              "RelativeDocumentMoniker": "04.SumOfIntegers\\04.SumOfIntegers.csproj",
+              "ToolTip": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\OOP - June 2024\\05.ExceptionsAndErrorHandling-Lab\\04.SumOfIntegers\\04.SumOfIntegers.csproj",
+              "RelativeToolTip": "04.SumOfIntegers\\04.SumOfIntegers.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-18T15:05:22.891Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\OOP - June 2024\\05.ExceptionsAndErrorHandling-Lab\\04.SumOfIntegers\\Program.cs",
+              "RelativeDocumentMoniker": "04.SumOfIntegers\\Program.cs",
+              "ToolTip": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\OOP - June 2024\\05.ExceptionsAndErrorHandling-Lab\\04.SumOfIntegers\\Program.cs",
+              "RelativeToolTip": "04.SumOfIntegers\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T15:01:13.835Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "03.Cards",
+              "DocumentMoniker": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\OOP - June 2024\\05.ExceptionsAndErrorHandling-Lab\\03.Cards\\03.Cards.csproj",
+              "RelativeDocumentMoniker": "03.Cards\\03.Cards.csproj",
+              "ToolTip": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\OOP - June 2024\\05.ExceptionsAndErrorHandling-Lab\\03.Cards\\03.Cards.csproj",
+              "RelativeToolTip": "03.Cards\\03.Cards.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-18T14:59:00.728Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\OOP - June 2024\\05.ExceptionsAndErrorHandling-Lab\\03.Cards\\Program.cs",
+              "RelativeDocumentMoniker": "03.Cards\\Program.cs",
+              "ToolTip": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\OOP - June 2024\\05.ExceptionsAndErrorHandling-Lab\\03.Cards\\Program.cs",
+              "RelativeToolTip": "03.Cards\\Program.cs",
+              "ViewState": "AQIAAEoAAAAAAAAAAAAgwGEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T14:58:53.815Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\OOP - June 2024\\05.ExceptionsAndErrorHandling-Lab\\02.EnterNumbers\\Program.cs",
+              "RelativeDocumentMoniker": "02.EnterNumbers\\Program.cs",
+              "ToolTip": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\OOP - June 2024\\05.ExceptionsAndErrorHandling-Lab\\02.EnterNumbers\\Program.cs",
+              "RelativeToolTip": "02.EnterNumbers\\Program.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAQwCwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T18:11:06.411Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\OOP - June 2024\\05.ExceptionsAndErrorHandling-Lab\\01.SquareRoot\\Program.cs",
+              "RelativeDocumentMoniker": "01.SquareRoot\\Program.cs",
+              "ToolTip": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\OOP - June 2024\\05.ExceptionsAndErrorHandling-Lab\\01.SquareRoot\\Program.cs",
+              "RelativeToolTip": "01.SquareRoot\\Program.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAA3wBcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T16:49:16.195Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\01.StacksAndQueues-Exercise\12.CupsAndBottles\bin\Debug\net8.0\12.CupsAndBottles.exe
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\01.StacksAndQueues-Exercise\12.CupsAndBottles\bin\Debug\net8.0\12.CupsAndBottles.deps.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\01.StacksAndQueues-Exercise\12.CupsAndBottles\bin\Debug\net8.0\12.CupsAndBottles.runtimeconfig.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\01.StacksAndQueues-Exercise\12.CupsAndBottles\bin\Debug\net8.0\12.CupsAndBottles.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\01.StacksAndQueues-Exercise\12.CupsAndBottles\bin\Debug\net8.0\12.CupsAndBottles.pdb
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\01.StacksAndQueues-Exercise\12.CupsAndBottles\obj\Debug\net8.0\12.CupsAndBottles.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\01.StacksAndQueues-Exercise\12.CupsAndBottles\obj\Debug\net8.0\12.CupsAndBottles.AssemblyInfoInputs.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\01.StacksAndQueues-Exercise\12.CupsAndBottles\obj\Debug\net8.0\12.CupsAndBottles.AssemblyInfo.cs
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\01.StacksAndQueues-Exercise\12.CupsAndBottles\obj\Debug\net8.0\12.CupsAndBottles.csproj.CoreCompileInputs.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\01.StacksAndQueues-Exercise\12.CupsAndBottles\obj\Debug\net8.0\12.CupsAndBottles.sourcelink.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\01.StacksAndQueues-Exercise\12.CupsAndBottles\obj\Debug\net8.0\12.CupsAndBottles.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\01.StacksAndQueues-Exercise\12.CupsAndBottles\obj\Debug\net8.0\refint\12.CupsAndBottles.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\01.StacksAndQueues-Exercise\12.CupsAndBottles\obj\Debug\net8.0\12.CupsAndBottles.pdb
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\01.StacksAndQueues-Exercise\12.CupsAndBottles\obj\Debug\net8.0\12.CupsAndBottles.genruntimeconfig.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\01.StacksAndQueues-Exercise\12.CupsAndBottles\obj\Debug\net8.0\ref\12.CupsAndBottles.dll

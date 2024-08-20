@@ -1,0 +1,15 @@
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\08.TextProcessing-Lab\02.RepeatStrings\bin\Debug\net7.0\02.RepeatStrings.exe
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\08.TextProcessing-Lab\02.RepeatStrings\bin\Debug\net7.0\02.RepeatStrings.deps.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\08.TextProcessing-Lab\02.RepeatStrings\bin\Debug\net7.0\02.RepeatStrings.runtimeconfig.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\08.TextProcessing-Lab\02.RepeatStrings\bin\Debug\net7.0\02.RepeatStrings.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\08.TextProcessing-Lab\02.RepeatStrings\bin\Debug\net7.0\02.RepeatStrings.pdb
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\08.TextProcessing-Lab\02.RepeatStrings\obj\Debug\net7.0\02.RepeatStrings.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\08.TextProcessing-Lab\02.RepeatStrings\obj\Debug\net7.0\02.RepeatStrings.AssemblyInfoInputs.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\08.TextProcessing-Lab\02.RepeatStrings\obj\Debug\net7.0\02.RepeatStrings.AssemblyInfo.cs
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\08.TextProcessing-Lab\02.RepeatStrings\obj\Debug\net7.0\02.RepeatStrings.csproj.CoreCompileInputs.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\08.TextProcessing-Lab\02.RepeatStrings\obj\Debug\net7.0\02.RepeatStrings.sourcelink.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\08.TextProcessing-Lab\02.RepeatStrings\obj\Debug\net7.0\02.RepeatStrings.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\08.TextProcessing-Lab\02.RepeatStrings\obj\Debug\net7.0\refint\02.RepeatStrings.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\08.TextProcessing-Lab\02.RepeatStrings\obj\Debug\net7.0\02.RepeatStrings.pdb
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\08.TextProcessing-Lab\02.RepeatStrings\obj\Debug\net7.0\02.RepeatStrings.genruntimeconfig.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\08.TextProcessing-Lab\02.RepeatStrings\obj\Debug\net7.0\ref\02.RepeatStrings.dll

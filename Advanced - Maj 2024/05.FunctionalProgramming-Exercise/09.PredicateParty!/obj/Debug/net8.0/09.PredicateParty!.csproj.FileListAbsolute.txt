@@ -1,0 +1,15 @@
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\05.FunctionalProgramming-Exercise\09.PredicateParty!\bin\Debug\net8.0\09.PredicateParty!.exe
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\05.FunctionalProgramming-Exercise\09.PredicateParty!\bin\Debug\net8.0\09.PredicateParty!.deps.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\05.FunctionalProgramming-Exercise\09.PredicateParty!\bin\Debug\net8.0\09.PredicateParty!.runtimeconfig.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\05.FunctionalProgramming-Exercise\09.PredicateParty!\bin\Debug\net8.0\09.PredicateParty!.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\05.FunctionalProgramming-Exercise\09.PredicateParty!\bin\Debug\net8.0\09.PredicateParty!.pdb
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\05.FunctionalProgramming-Exercise\09.PredicateParty!\obj\Debug\net8.0\09.PredicateParty!.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\05.FunctionalProgramming-Exercise\09.PredicateParty!\obj\Debug\net8.0\09.PredicateParty!.AssemblyInfoInputs.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\05.FunctionalProgramming-Exercise\09.PredicateParty!\obj\Debug\net8.0\09.PredicateParty!.AssemblyInfo.cs
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\05.FunctionalProgramming-Exercise\09.PredicateParty!\obj\Debug\net8.0\09.PredicateParty!.csproj.CoreCompileInputs.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\05.FunctionalProgramming-Exercise\09.PredicateParty!\obj\Debug\net8.0\09.PredicateParty!.sourcelink.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\05.FunctionalProgramming-Exercise\09.PredicateParty!\obj\Debug\net8.0\09.PredicateParty!.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\05.FunctionalProgramming-Exercise\09.PredicateParty!\obj\Debug\net8.0\refint\09.PredicateParty!.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\05.FunctionalProgramming-Exercise\09.PredicateParty!\obj\Debug\net8.0\09.PredicateParty!.pdb
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\05.FunctionalProgramming-Exercise\09.PredicateParty!\obj\Debug\net8.0\09.PredicateParty!.genruntimeconfig.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\05.FunctionalProgramming-Exercise\09.PredicateParty!\obj\Debug\net8.0\ref\09.PredicateParty!.dll

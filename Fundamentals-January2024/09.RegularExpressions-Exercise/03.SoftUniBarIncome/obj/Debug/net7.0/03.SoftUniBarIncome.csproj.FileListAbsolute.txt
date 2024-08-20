@@ -1,0 +1,15 @@
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\09.RegularExpressions-Exercise\03.SoftUniBarIncome\bin\Debug\net7.0\03.SoftUniBarIncome.exe
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\09.RegularExpressions-Exercise\03.SoftUniBarIncome\bin\Debug\net7.0\03.SoftUniBarIncome.deps.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\09.RegularExpressions-Exercise\03.SoftUniBarIncome\bin\Debug\net7.0\03.SoftUniBarIncome.runtimeconfig.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\09.RegularExpressions-Exercise\03.SoftUniBarIncome\bin\Debug\net7.0\03.SoftUniBarIncome.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\09.RegularExpressions-Exercise\03.SoftUniBarIncome\bin\Debug\net7.0\03.SoftUniBarIncome.pdb
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\09.RegularExpressions-Exercise\03.SoftUniBarIncome\obj\Debug\net7.0\03.SoftUniBarIncome.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\09.RegularExpressions-Exercise\03.SoftUniBarIncome\obj\Debug\net7.0\03.SoftUniBarIncome.AssemblyInfoInputs.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\09.RegularExpressions-Exercise\03.SoftUniBarIncome\obj\Debug\net7.0\03.SoftUniBarIncome.AssemblyInfo.cs
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\09.RegularExpressions-Exercise\03.SoftUniBarIncome\obj\Debug\net7.0\03.SoftUniBarIncome.csproj.CoreCompileInputs.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\09.RegularExpressions-Exercise\03.SoftUniBarIncome\obj\Debug\net7.0\03.SoftUniBarIncome.sourcelink.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\09.RegularExpressions-Exercise\03.SoftUniBarIncome\obj\Debug\net7.0\03.SoftUniBarIncome.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\09.RegularExpressions-Exercise\03.SoftUniBarIncome\obj\Debug\net7.0\refint\03.SoftUniBarIncome.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\09.RegularExpressions-Exercise\03.SoftUniBarIncome\obj\Debug\net7.0\03.SoftUniBarIncome.pdb
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\09.RegularExpressions-Exercise\03.SoftUniBarIncome\obj\Debug\net7.0\03.SoftUniBarIncome.genruntimeconfig.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\09.RegularExpressions-Exercise\03.SoftUniBarIncome\obj\Debug\net7.0\ref\03.SoftUniBarIncome.dll

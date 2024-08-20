@@ -1,0 +1,15 @@
+D:\ProgramsScool\PB-september.2023\07,ForLoop-Lab\06.VowelsSum\bin\Debug\net6.0\06.VowelsSum.exe
+D:\ProgramsScool\PB-september.2023\07,ForLoop-Lab\06.VowelsSum\bin\Debug\net6.0\06.VowelsSum.deps.json
+D:\ProgramsScool\PB-september.2023\07,ForLoop-Lab\06.VowelsSum\bin\Debug\net6.0\06.VowelsSum.runtimeconfig.json
+D:\ProgramsScool\PB-september.2023\07,ForLoop-Lab\06.VowelsSum\bin\Debug\net6.0\06.VowelsSum.dll
+D:\ProgramsScool\PB-september.2023\07,ForLoop-Lab\06.VowelsSum\bin\Debug\net6.0\06.VowelsSum.pdb
+D:\ProgramsScool\PB-september.2023\07,ForLoop-Lab\06.VowelsSum\obj\Debug\net6.0\06.VowelsSum.csproj.AssemblyReference.cache
+D:\ProgramsScool\PB-september.2023\07,ForLoop-Lab\06.VowelsSum\obj\Debug\net6.0\06.VowelsSum.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProgramsScool\PB-september.2023\07,ForLoop-Lab\06.VowelsSum\obj\Debug\net6.0\06.VowelsSum.AssemblyInfoInputs.cache
+D:\ProgramsScool\PB-september.2023\07,ForLoop-Lab\06.VowelsSum\obj\Debug\net6.0\06.VowelsSum.AssemblyInfo.cs
+D:\ProgramsScool\PB-september.2023\07,ForLoop-Lab\06.VowelsSum\obj\Debug\net6.0\06.VowelsSum.csproj.CoreCompileInputs.cache
+D:\ProgramsScool\PB-september.2023\07,ForLoop-Lab\06.VowelsSum\obj\Debug\net6.0\06.VowelsSum.dll
+D:\ProgramsScool\PB-september.2023\07,ForLoop-Lab\06.VowelsSum\obj\Debug\net6.0\refint\06.VowelsSum.dll
+D:\ProgramsScool\PB-september.2023\07,ForLoop-Lab\06.VowelsSum\obj\Debug\net6.0\06.VowelsSum.pdb
+D:\ProgramsScool\PB-september.2023\07,ForLoop-Lab\06.VowelsSum\obj\Debug\net6.0\06.VowelsSum.genruntimeconfig.cache
+D:\ProgramsScool\PB-september.2023\07,ForLoop-Lab\06.VowelsSum\obj\Debug\net6.0\ref\06.VowelsSum.dll

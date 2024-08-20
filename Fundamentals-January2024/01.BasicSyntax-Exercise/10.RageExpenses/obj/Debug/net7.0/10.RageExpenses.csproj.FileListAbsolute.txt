@@ -1,0 +1,15 @@
+D:\ProgramsScool\Git Hub\SoftUni-school\Fundamentals - January 2024\01.BasicSyntax-Exercise\10.RageExpenses\bin\Debug\net7.0\10.RageExpenses.exe
+D:\ProgramsScool\Git Hub\SoftUni-school\Fundamentals - January 2024\01.BasicSyntax-Exercise\10.RageExpenses\bin\Debug\net7.0\10.RageExpenses.deps.json
+D:\ProgramsScool\Git Hub\SoftUni-school\Fundamentals - January 2024\01.BasicSyntax-Exercise\10.RageExpenses\bin\Debug\net7.0\10.RageExpenses.runtimeconfig.json
+D:\ProgramsScool\Git Hub\SoftUni-school\Fundamentals - January 2024\01.BasicSyntax-Exercise\10.RageExpenses\bin\Debug\net7.0\10.RageExpenses.dll
+D:\ProgramsScool\Git Hub\SoftUni-school\Fundamentals - January 2024\01.BasicSyntax-Exercise\10.RageExpenses\bin\Debug\net7.0\10.RageExpenses.pdb
+D:\ProgramsScool\Git Hub\SoftUni-school\Fundamentals - January 2024\01.BasicSyntax-Exercise\10.RageExpenses\obj\Debug\net7.0\10.RageExpenses.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProgramsScool\Git Hub\SoftUni-school\Fundamentals - January 2024\01.BasicSyntax-Exercise\10.RageExpenses\obj\Debug\net7.0\10.RageExpenses.AssemblyInfoInputs.cache
+D:\ProgramsScool\Git Hub\SoftUni-school\Fundamentals - January 2024\01.BasicSyntax-Exercise\10.RageExpenses\obj\Debug\net7.0\10.RageExpenses.AssemblyInfo.cs
+D:\ProgramsScool\Git Hub\SoftUni-school\Fundamentals - January 2024\01.BasicSyntax-Exercise\10.RageExpenses\obj\Debug\net7.0\10.RageExpenses.csproj.CoreCompileInputs.cache
+D:\ProgramsScool\Git Hub\SoftUni-school\Fundamentals - January 2024\01.BasicSyntax-Exercise\10.RageExpenses\obj\Debug\net7.0\10.RageExpenses.sourcelink.json
+D:\ProgramsScool\Git Hub\SoftUni-school\Fundamentals - January 2024\01.BasicSyntax-Exercise\10.RageExpenses\obj\Debug\net7.0\10.RageExpenses.dll
+D:\ProgramsScool\Git Hub\SoftUni-school\Fundamentals - January 2024\01.BasicSyntax-Exercise\10.RageExpenses\obj\Debug\net7.0\refint\10.RageExpenses.dll
+D:\ProgramsScool\Git Hub\SoftUni-school\Fundamentals - January 2024\01.BasicSyntax-Exercise\10.RageExpenses\obj\Debug\net7.0\10.RageExpenses.pdb
+D:\ProgramsScool\Git Hub\SoftUni-school\Fundamentals - January 2024\01.BasicSyntax-Exercise\10.RageExpenses\obj\Debug\net7.0\10.RageExpenses.genruntimeconfig.cache
+D:\ProgramsScool\Git Hub\SoftUni-school\Fundamentals - January 2024\01.BasicSyntax-Exercise\10.RageExpenses\obj\Debug\net7.0\ref\10.RageExpenses.dll

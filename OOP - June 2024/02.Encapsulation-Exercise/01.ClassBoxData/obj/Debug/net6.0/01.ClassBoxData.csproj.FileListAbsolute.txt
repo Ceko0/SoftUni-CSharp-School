@@ -1,0 +1,15 @@
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\OOP - June 2024\02.Encapsulation-Exercise\01.ClassBoxData\bin\Debug\net6.0\01.ClassBoxData.exe
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\OOP - June 2024\02.Encapsulation-Exercise\01.ClassBoxData\bin\Debug\net6.0\01.ClassBoxData.deps.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\OOP - June 2024\02.Encapsulation-Exercise\01.ClassBoxData\bin\Debug\net6.0\01.ClassBoxData.runtimeconfig.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\OOP - June 2024\02.Encapsulation-Exercise\01.ClassBoxData\bin\Debug\net6.0\01.ClassBoxData.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\OOP - June 2024\02.Encapsulation-Exercise\01.ClassBoxData\bin\Debug\net6.0\01.ClassBoxData.pdb
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\OOP - June 2024\02.Encapsulation-Exercise\01.ClassBoxData\obj\Debug\net6.0\01.ClassBoxData.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\OOP - June 2024\02.Encapsulation-Exercise\01.ClassBoxData\obj\Debug\net6.0\01.ClassBoxData.AssemblyInfoInputs.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\OOP - June 2024\02.Encapsulation-Exercise\01.ClassBoxData\obj\Debug\net6.0\01.ClassBoxData.AssemblyInfo.cs
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\OOP - June 2024\02.Encapsulation-Exercise\01.ClassBoxData\obj\Debug\net6.0\01.ClassBoxData.csproj.CoreCompileInputs.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\OOP - June 2024\02.Encapsulation-Exercise\01.ClassBoxData\obj\Debug\net6.0\01.ClassBoxData.sourcelink.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\OOP - June 2024\02.Encapsulation-Exercise\01.ClassBoxData\obj\Debug\net6.0\01.ClassBoxData.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\OOP - June 2024\02.Encapsulation-Exercise\01.ClassBoxData\obj\Debug\net6.0\refint\01.ClassBoxData.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\OOP - June 2024\02.Encapsulation-Exercise\01.ClassBoxData\obj\Debug\net6.0\01.ClassBoxData.pdb
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\OOP - June 2024\02.Encapsulation-Exercise\01.ClassBoxData\obj\Debug\net6.0\01.ClassBoxData.genruntimeconfig.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\OOP - June 2024\02.Encapsulation-Exercise\01.ClassBoxData\obj\Debug\net6.0\ref\01.ClassBoxData.dll

@@ -1,0 +1,15 @@
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\OOP - June 2024\ExamPreparation\C#OOPRetakeExam–16April2024\RecourceCloud\bin\Debug\net6.0\RecourceCloud.exe
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\OOP - June 2024\ExamPreparation\C#OOPRetakeExam–16April2024\RecourceCloud\obj\Debug\net6.0\RecourceCloud.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\OOP - June 2024\ExamPreparation\C#OOPRetakeExam–16April2024\RecourceCloud\obj\Debug\net6.0\RecourceCloud.AssemblyInfoInputs.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\OOP - June 2024\ExamPreparation\C#OOPRetakeExam–16April2024\RecourceCloud\obj\Debug\net6.0\RecourceCloud.AssemblyInfo.cs
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\OOP - June 2024\ExamPreparation\C#OOPRetakeExam–16April2024\RecourceCloud\bin\Debug\net6.0\RecourceCloud.deps.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\OOP - June 2024\ExamPreparation\C#OOPRetakeExam–16April2024\RecourceCloud\bin\Debug\net6.0\RecourceCloud.runtimeconfig.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\OOP - June 2024\ExamPreparation\C#OOPRetakeExam–16April2024\RecourceCloud\bin\Debug\net6.0\RecourceCloud.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\OOP - June 2024\ExamPreparation\C#OOPRetakeExam–16April2024\RecourceCloud\bin\Debug\net6.0\RecourceCloud.pdb
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\OOP - June 2024\ExamPreparation\C#OOPRetakeExam–16April2024\RecourceCloud\obj\Debug\net6.0\RecourceCloud.csproj.CoreCompileInputs.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\OOP - June 2024\ExamPreparation\C#OOPRetakeExam–16April2024\RecourceCloud\obj\Debug\net6.0\RecourceCloud.sourcelink.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\OOP - June 2024\ExamPreparation\C#OOPRetakeExam–16April2024\RecourceCloud\obj\Debug\net6.0\RecourceCloud.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\OOP - June 2024\ExamPreparation\C#OOPRetakeExam–16April2024\RecourceCloud\obj\Debug\net6.0\refint\RecourceCloud.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\OOP - June 2024\ExamPreparation\C#OOPRetakeExam–16April2024\RecourceCloud\obj\Debug\net6.0\RecourceCloud.pdb
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\OOP - June 2024\ExamPreparation\C#OOPRetakeExam–16April2024\RecourceCloud\obj\Debug\net6.0\RecourceCloud.genruntimeconfig.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\OOP - June 2024\ExamPreparation\C#OOPRetakeExam–16April2024\RecourceCloud\obj\Debug\net6.0\ref\RecourceCloud.dll

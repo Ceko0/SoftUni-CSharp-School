@@ -1,0 +1,41 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "DataCenter/1.0.0": {
+        "dependencies": {
+          "xunit.assert": "2.8.1"
+        },
+        "runtime": {
+          "DataCenter.dll": {}
+        }
+      },
+      "xunit.assert/2.8.1": {
+        "runtime": {
+          "lib/net6.0/xunit.assert.dll": {
+            "assemblyVersion": "2.8.1.0",
+            "fileVersion": "2.8.1.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DataCenter/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "xunit.assert/2.8.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-DDM18ur+PeNFhQ4w/vO+uvCUy8hA3OS5+AMf/CFov9Wco7Le49zzj0hovRWwa8f/3vaUfjL5r+IkPvqEHu2IIg==",
+      "path": "xunit.assert/2.8.1",
+      "hashPath": "xunit.assert.2.8.1.nupkg.sha512"
+    }
+  }
+}

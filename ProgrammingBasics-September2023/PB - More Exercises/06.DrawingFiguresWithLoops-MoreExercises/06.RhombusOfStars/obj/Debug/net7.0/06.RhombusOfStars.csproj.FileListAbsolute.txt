@@ -1,0 +1,14 @@
+C:\Users\falen\source\repos\06.DrawingFiguresWithLoops-MoreExercises\06.RhombusOfStars\bin\Debug\net7.0\06.RhombusOfStars.exe
+C:\Users\falen\source\repos\06.DrawingFiguresWithLoops-MoreExercises\06.RhombusOfStars\bin\Debug\net7.0\06.RhombusOfStars.deps.json
+C:\Users\falen\source\repos\06.DrawingFiguresWithLoops-MoreExercises\06.RhombusOfStars\bin\Debug\net7.0\06.RhombusOfStars.runtimeconfig.json
+C:\Users\falen\source\repos\06.DrawingFiguresWithLoops-MoreExercises\06.RhombusOfStars\bin\Debug\net7.0\06.RhombusOfStars.dll
+C:\Users\falen\source\repos\06.DrawingFiguresWithLoops-MoreExercises\06.RhombusOfStars\bin\Debug\net7.0\06.RhombusOfStars.pdb
+C:\Users\falen\source\repos\06.DrawingFiguresWithLoops-MoreExercises\06.RhombusOfStars\obj\Debug\net7.0\06.RhombusOfStars.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\falen\source\repos\06.DrawingFiguresWithLoops-MoreExercises\06.RhombusOfStars\obj\Debug\net7.0\06.RhombusOfStars.AssemblyInfoInputs.cache
+C:\Users\falen\source\repos\06.DrawingFiguresWithLoops-MoreExercises\06.RhombusOfStars\obj\Debug\net7.0\06.RhombusOfStars.AssemblyInfo.cs
+C:\Users\falen\source\repos\06.DrawingFiguresWithLoops-MoreExercises\06.RhombusOfStars\obj\Debug\net7.0\06.RhombusOfStars.csproj.CoreCompileInputs.cache
+C:\Users\falen\source\repos\06.DrawingFiguresWithLoops-MoreExercises\06.RhombusOfStars\obj\Debug\net7.0\06.RhombusOfStars.dll
+C:\Users\falen\source\repos\06.DrawingFiguresWithLoops-MoreExercises\06.RhombusOfStars\obj\Debug\net7.0\refint\06.RhombusOfStars.dll
+C:\Users\falen\source\repos\06.DrawingFiguresWithLoops-MoreExercises\06.RhombusOfStars\obj\Debug\net7.0\06.RhombusOfStars.pdb
+C:\Users\falen\source\repos\06.DrawingFiguresWithLoops-MoreExercises\06.RhombusOfStars\obj\Debug\net7.0\06.RhombusOfStars.genruntimeconfig.cache
+C:\Users\falen\source\repos\06.DrawingFiguresWithLoops-MoreExercises\06.RhombusOfStars\obj\Debug\net7.0\ref\06.RhombusOfStars.dll

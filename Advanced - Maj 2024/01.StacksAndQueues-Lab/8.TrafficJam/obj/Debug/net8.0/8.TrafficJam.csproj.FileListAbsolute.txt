@@ -1,0 +1,15 @@
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\01.StacksAndQueues-Lab\8.TrafficJam\bin\Debug\net8.0\8.TrafficJam.exe
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\01.StacksAndQueues-Lab\8.TrafficJam\bin\Debug\net8.0\8.TrafficJam.deps.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\01.StacksAndQueues-Lab\8.TrafficJam\bin\Debug\net8.0\8.TrafficJam.runtimeconfig.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\01.StacksAndQueues-Lab\8.TrafficJam\bin\Debug\net8.0\8.TrafficJam.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\01.StacksAndQueues-Lab\8.TrafficJam\bin\Debug\net8.0\8.TrafficJam.pdb
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\01.StacksAndQueues-Lab\8.TrafficJam\obj\Debug\net8.0\8.TrafficJam.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\01.StacksAndQueues-Lab\8.TrafficJam\obj\Debug\net8.0\8.TrafficJam.AssemblyInfoInputs.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\01.StacksAndQueues-Lab\8.TrafficJam\obj\Debug\net8.0\8.TrafficJam.AssemblyInfo.cs
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\01.StacksAndQueues-Lab\8.TrafficJam\obj\Debug\net8.0\8.TrafficJam.csproj.CoreCompileInputs.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\01.StacksAndQueues-Lab\8.TrafficJam\obj\Debug\net8.0\8.TrafficJam.sourcelink.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\01.StacksAndQueues-Lab\8.TrafficJam\obj\Debug\net8.0\8.TrafficJam.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\01.StacksAndQueues-Lab\8.TrafficJam\obj\Debug\net8.0\refint\8.TrafficJam.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\01.StacksAndQueues-Lab\8.TrafficJam\obj\Debug\net8.0\8.TrafficJam.pdb
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\01.StacksAndQueues-Lab\8.TrafficJam\obj\Debug\net8.0\8.TrafficJam.genruntimeconfig.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\01.StacksAndQueues-Lab\8.TrafficJam\obj\Debug\net8.0\ref\8.TrafficJam.dll

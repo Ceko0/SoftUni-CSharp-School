@@ -1,0 +1,87 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\OOP - June 2024\\ExamPreparation\\C#OOPRetakeExam\u201315August2023\\SmartDevice_Skeleton_6.0\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F240C839-50AE-4CBC-9A59-762ED5A5EF82}|SmartDevice\\SmartDevice.csproj|d:\\programsscool\\git hub\\softuni-csharp\\oop - june 2024\\exampreparation\\c#oopretakeexam\u201315august2023\\smartdevice_skeleton_6.0\\smartdevice\\device.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F240C839-50AE-4CBC-9A59-762ED5A5EF82}|SmartDevice\\SmartDevice.csproj|solutionrelative:smartdevice\\device.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F240C839-50AE-4CBC-9A59-762ED5A5EF82}|SmartDevice\\SmartDevice.csproj|d:\\programsscool\\git hub\\softuni-csharp\\oop - june 2024\\exampreparation\\c#oopretakeexam\u201315august2023\\smartdevice_skeleton_6.0\\smartdevice\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F240C839-50AE-4CBC-9A59-762ED5A5EF82}|SmartDevice\\SmartDevice.csproj|solutionrelative:smartdevice\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8F53BB1-EA5B-4404-B4AA-A7C6598EB40A}|SmartDevice.Tests\\SmartDevice.Tests.csproj|d:\\programsscool\\git hub\\softuni-csharp\\oop - june 2024\\exampreparation\\c#oopretakeexam\u201315august2023\\smartdevice_skeleton_6.0\\smartdevice.tests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8F53BB1-EA5B-4404-B4AA-A7C6598EB40A}|SmartDevice.Tests\\SmartDevice.Tests.csproj|solutionrelative:smartdevice.tests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Device.cs",
+              "DocumentMoniker": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\OOP - June 2024\\ExamPreparation\\C#OOPRetakeExam\u201315August2023\\SmartDevice_Skeleton_6.0\\SmartDevice\\Device.cs",
+              "RelativeDocumentMoniker": "SmartDevice\\Device.cs",
+              "ToolTip": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\OOP - June 2024\\ExamPreparation\\C#OOPRetakeExam\u201315August2023\\SmartDevice_Skeleton_6.0\\SmartDevice\\Device.cs",
+              "RelativeToolTip": "SmartDevice\\Device.cs",
+              "ViewState": "AQIAACkAAAAAAAAAAAAuwAUAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T15:38:11.837Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StartUp.cs",
+              "DocumentMoniker": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\OOP - June 2024\\ExamPreparation\\C#OOPRetakeExam\u201315August2023\\SmartDevice_Skeleton_6.0\\SmartDevice\\StartUp.cs",
+              "RelativeDocumentMoniker": "SmartDevice\\StartUp.cs",
+              "ToolTip": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\OOP - June 2024\\ExamPreparation\\C#OOPRetakeExam\u201315August2023\\SmartDevice_Skeleton_6.0\\SmartDevice\\StartUp.cs",
+              "RelativeToolTip": "SmartDevice\\StartUp.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T15:38:09.227Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\OOP - June 2024\\ExamPreparation\\C#OOPRetakeExam\u201315August2023\\SmartDevice_Skeleton_6.0\\SmartDevice.Tests\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "SmartDevice.Tests\\UnitTest1.cs",
+              "ToolTip": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\OOP - June 2024\\ExamPreparation\\C#OOPRetakeExam\u201315August2023\\SmartDevice_Skeleton_6.0\\SmartDevice.Tests\\UnitTest1.cs",
+              "RelativeToolTip": "SmartDevice.Tests\\UnitTest1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T15:38:05.087Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

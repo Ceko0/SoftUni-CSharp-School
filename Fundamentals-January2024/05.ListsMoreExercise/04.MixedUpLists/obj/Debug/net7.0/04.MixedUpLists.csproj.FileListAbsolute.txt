@@ -1,0 +1,15 @@
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\05.ListsMoreExercise\04.MixedUpLists\bin\Debug\net7.0\04.MixedUpLists.exe
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\05.ListsMoreExercise\04.MixedUpLists\bin\Debug\net7.0\04.MixedUpLists.deps.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\05.ListsMoreExercise\04.MixedUpLists\bin\Debug\net7.0\04.MixedUpLists.runtimeconfig.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\05.ListsMoreExercise\04.MixedUpLists\bin\Debug\net7.0\04.MixedUpLists.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\05.ListsMoreExercise\04.MixedUpLists\bin\Debug\net7.0\04.MixedUpLists.pdb
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\05.ListsMoreExercise\04.MixedUpLists\obj\Debug\net7.0\04.MixedUpLists.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\05.ListsMoreExercise\04.MixedUpLists\obj\Debug\net7.0\04.MixedUpLists.AssemblyInfoInputs.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\05.ListsMoreExercise\04.MixedUpLists\obj\Debug\net7.0\04.MixedUpLists.AssemblyInfo.cs
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\05.ListsMoreExercise\04.MixedUpLists\obj\Debug\net7.0\04.MixedUpLists.csproj.CoreCompileInputs.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\05.ListsMoreExercise\04.MixedUpLists\obj\Debug\net7.0\04.MixedUpLists.sourcelink.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\05.ListsMoreExercise\04.MixedUpLists\obj\Debug\net7.0\04.MixedUpLists.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\05.ListsMoreExercise\04.MixedUpLists\obj\Debug\net7.0\refint\04.MixedUpLists.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\05.ListsMoreExercise\04.MixedUpLists\obj\Debug\net7.0\04.MixedUpLists.pdb
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\05.ListsMoreExercise\04.MixedUpLists\obj\Debug\net7.0\04.MixedUpLists.genruntimeconfig.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\05.ListsMoreExercise\04.MixedUpLists\obj\Debug\net7.0\ref\04.MixedUpLists.dll

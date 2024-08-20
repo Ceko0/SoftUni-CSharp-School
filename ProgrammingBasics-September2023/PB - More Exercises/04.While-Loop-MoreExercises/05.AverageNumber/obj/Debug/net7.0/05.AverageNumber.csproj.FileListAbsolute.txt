@@ -1,0 +1,14 @@
+D:\ProgramsScool\PB-september.2023\PB-MoreExercises\While-Loop-MoreExercises\05.AverageNumber\bin\Debug\net7.0\05.AverageNumber.exe
+D:\ProgramsScool\PB-september.2023\PB-MoreExercises\While-Loop-MoreExercises\05.AverageNumber\bin\Debug\net7.0\05.AverageNumber.deps.json
+D:\ProgramsScool\PB-september.2023\PB-MoreExercises\While-Loop-MoreExercises\05.AverageNumber\bin\Debug\net7.0\05.AverageNumber.runtimeconfig.json
+D:\ProgramsScool\PB-september.2023\PB-MoreExercises\While-Loop-MoreExercises\05.AverageNumber\bin\Debug\net7.0\05.AverageNumber.dll
+D:\ProgramsScool\PB-september.2023\PB-MoreExercises\While-Loop-MoreExercises\05.AverageNumber\bin\Debug\net7.0\05.AverageNumber.pdb
+D:\ProgramsScool\PB-september.2023\PB-MoreExercises\While-Loop-MoreExercises\05.AverageNumber\obj\Debug\net7.0\05.AverageNumber.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProgramsScool\PB-september.2023\PB-MoreExercises\While-Loop-MoreExercises\05.AverageNumber\obj\Debug\net7.0\05.AverageNumber.AssemblyInfoInputs.cache
+D:\ProgramsScool\PB-september.2023\PB-MoreExercises\While-Loop-MoreExercises\05.AverageNumber\obj\Debug\net7.0\05.AverageNumber.AssemblyInfo.cs
+D:\ProgramsScool\PB-september.2023\PB-MoreExercises\While-Loop-MoreExercises\05.AverageNumber\obj\Debug\net7.0\05.AverageNumber.csproj.CoreCompileInputs.cache
+D:\ProgramsScool\PB-september.2023\PB-MoreExercises\While-Loop-MoreExercises\05.AverageNumber\obj\Debug\net7.0\05.AverageNumber.dll
+D:\ProgramsScool\PB-september.2023\PB-MoreExercises\While-Loop-MoreExercises\05.AverageNumber\obj\Debug\net7.0\refint\05.AverageNumber.dll
+D:\ProgramsScool\PB-september.2023\PB-MoreExercises\While-Loop-MoreExercises\05.AverageNumber\obj\Debug\net7.0\05.AverageNumber.pdb
+D:\ProgramsScool\PB-september.2023\PB-MoreExercises\While-Loop-MoreExercises\05.AverageNumber\obj\Debug\net7.0\05.AverageNumber.genruntimeconfig.cache
+D:\ProgramsScool\PB-september.2023\PB-MoreExercises\While-Loop-MoreExercises\05.AverageNumber\obj\Debug\net7.0\ref\05.AverageNumber.dll

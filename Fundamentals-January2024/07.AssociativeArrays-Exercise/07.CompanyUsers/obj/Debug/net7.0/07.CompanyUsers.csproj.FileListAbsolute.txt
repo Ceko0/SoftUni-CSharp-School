@@ -1,0 +1,15 @@
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\07.AssociativeArrays-Exercise\07.CompanyUsers\bin\Debug\net7.0\07.CompanyUsers.exe
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\07.AssociativeArrays-Exercise\07.CompanyUsers\bin\Debug\net7.0\07.CompanyUsers.deps.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\07.AssociativeArrays-Exercise\07.CompanyUsers\bin\Debug\net7.0\07.CompanyUsers.runtimeconfig.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\07.AssociativeArrays-Exercise\07.CompanyUsers\bin\Debug\net7.0\07.CompanyUsers.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\07.AssociativeArrays-Exercise\07.CompanyUsers\bin\Debug\net7.0\07.CompanyUsers.pdb
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\07.AssociativeArrays-Exercise\07.CompanyUsers\obj\Debug\net7.0\07.CompanyUsers.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\07.AssociativeArrays-Exercise\07.CompanyUsers\obj\Debug\net7.0\07.CompanyUsers.AssemblyInfoInputs.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\07.AssociativeArrays-Exercise\07.CompanyUsers\obj\Debug\net7.0\07.CompanyUsers.AssemblyInfo.cs
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\07.AssociativeArrays-Exercise\07.CompanyUsers\obj\Debug\net7.0\07.CompanyUsers.csproj.CoreCompileInputs.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\07.AssociativeArrays-Exercise\07.CompanyUsers\obj\Debug\net7.0\07.CompanyUsers.sourcelink.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\07.AssociativeArrays-Exercise\07.CompanyUsers\obj\Debug\net7.0\07.CompanyUsers.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\07.AssociativeArrays-Exercise\07.CompanyUsers\obj\Debug\net7.0\refint\07.CompanyUsers.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\07.AssociativeArrays-Exercise\07.CompanyUsers\obj\Debug\net7.0\07.CompanyUsers.pdb
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\07.AssociativeArrays-Exercise\07.CompanyUsers\obj\Debug\net7.0\07.CompanyUsers.genruntimeconfig.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\07.AssociativeArrays-Exercise\07.CompanyUsers\obj\Debug\net7.0\ref\07.CompanyUsers.dll

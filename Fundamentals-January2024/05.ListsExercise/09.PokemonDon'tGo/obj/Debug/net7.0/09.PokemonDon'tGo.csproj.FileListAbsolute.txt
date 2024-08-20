@@ -1,0 +1,15 @@
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\05.ListsExercise\09.PokemonDon'tGo\bin\Debug\net7.0\09.PokemonDon'tGo.exe
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\05.ListsExercise\09.PokemonDon'tGo\bin\Debug\net7.0\09.PokemonDon'tGo.deps.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\05.ListsExercise\09.PokemonDon'tGo\bin\Debug\net7.0\09.PokemonDon'tGo.runtimeconfig.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\05.ListsExercise\09.PokemonDon'tGo\bin\Debug\net7.0\09.PokemonDon'tGo.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\05.ListsExercise\09.PokemonDon'tGo\bin\Debug\net7.0\09.PokemonDon'tGo.pdb
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\05.ListsExercise\09.PokemonDon'tGo\obj\Debug\net7.0\09.PokemonDon'tGo.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\05.ListsExercise\09.PokemonDon'tGo\obj\Debug\net7.0\09.PokemonDon'tGo.AssemblyInfoInputs.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\05.ListsExercise\09.PokemonDon'tGo\obj\Debug\net7.0\09.PokemonDon'tGo.AssemblyInfo.cs
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\05.ListsExercise\09.PokemonDon'tGo\obj\Debug\net7.0\09.PokemonDon'tGo.csproj.CoreCompileInputs.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\05.ListsExercise\09.PokemonDon'tGo\obj\Debug\net7.0\09.PokemonDon'tGo.sourcelink.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\05.ListsExercise\09.PokemonDon'tGo\obj\Debug\net7.0\09.PokemonDon'tGo.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\05.ListsExercise\09.PokemonDon'tGo\obj\Debug\net7.0\refint\09.PokemonDon'tGo.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\05.ListsExercise\09.PokemonDon'tGo\obj\Debug\net7.0\09.PokemonDon'tGo.pdb
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\05.ListsExercise\09.PokemonDon'tGo\obj\Debug\net7.0\09.PokemonDon'tGo.genruntimeconfig.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\05.ListsExercise\09.PokemonDon'tGo\obj\Debug\net7.0\ref\09.PokemonDon'tGo.dll

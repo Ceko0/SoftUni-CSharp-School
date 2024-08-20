@@ -1,0 +1,15 @@
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\04.MethodsMoreExercise\02.CenterPoint\bin\Debug\net7.0\02.CenterPoint.exe
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\04.MethodsMoreExercise\02.CenterPoint\bin\Debug\net7.0\02.CenterPoint.deps.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\04.MethodsMoreExercise\02.CenterPoint\bin\Debug\net7.0\02.CenterPoint.runtimeconfig.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\04.MethodsMoreExercise\02.CenterPoint\bin\Debug\net7.0\02.CenterPoint.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\04.MethodsMoreExercise\02.CenterPoint\bin\Debug\net7.0\02.CenterPoint.pdb
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\04.MethodsMoreExercise\02.CenterPoint\obj\Debug\net7.0\02.CenterPoint.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\04.MethodsMoreExercise\02.CenterPoint\obj\Debug\net7.0\02.CenterPoint.AssemblyInfoInputs.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\04.MethodsMoreExercise\02.CenterPoint\obj\Debug\net7.0\02.CenterPoint.AssemblyInfo.cs
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\04.MethodsMoreExercise\02.CenterPoint\obj\Debug\net7.0\02.CenterPoint.csproj.CoreCompileInputs.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\04.MethodsMoreExercise\02.CenterPoint\obj\Debug\net7.0\02.CenterPoint.sourcelink.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\04.MethodsMoreExercise\02.CenterPoint\obj\Debug\net7.0\02.CenterPoint.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\04.MethodsMoreExercise\02.CenterPoint\obj\Debug\net7.0\refint\02.CenterPoint.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\04.MethodsMoreExercise\02.CenterPoint\obj\Debug\net7.0\02.CenterPoint.pdb
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\04.MethodsMoreExercise\02.CenterPoint\obj\Debug\net7.0\02.CenterPoint.genruntimeconfig.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\04.MethodsMoreExercise\02.CenterPoint\obj\Debug\net7.0\ref\02.CenterPoint.dll

@@ -1,0 +1,15 @@
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\FinalExam\05.ProgrammingFundamentalsFinalExam\01.ActivationKeys\bin\Debug\net7.0\01.ActivationKeys.exe
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\FinalExam\05.ProgrammingFundamentalsFinalExam\01.ActivationKeys\bin\Debug\net7.0\01.ActivationKeys.deps.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\FinalExam\05.ProgrammingFundamentalsFinalExam\01.ActivationKeys\bin\Debug\net7.0\01.ActivationKeys.runtimeconfig.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\FinalExam\05.ProgrammingFundamentalsFinalExam\01.ActivationKeys\bin\Debug\net7.0\01.ActivationKeys.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\FinalExam\05.ProgrammingFundamentalsFinalExam\01.ActivationKeys\bin\Debug\net7.0\01.ActivationKeys.pdb
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\FinalExam\05.ProgrammingFundamentalsFinalExam\01.ActivationKeys\obj\Debug\net7.0\01.ActivationKeys.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\FinalExam\05.ProgrammingFundamentalsFinalExam\01.ActivationKeys\obj\Debug\net7.0\01.ActivationKeys.AssemblyInfoInputs.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\FinalExam\05.ProgrammingFundamentalsFinalExam\01.ActivationKeys\obj\Debug\net7.0\01.ActivationKeys.AssemblyInfo.cs
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\FinalExam\05.ProgrammingFundamentalsFinalExam\01.ActivationKeys\obj\Debug\net7.0\01.ActivationKeys.csproj.CoreCompileInputs.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\FinalExam\05.ProgrammingFundamentalsFinalExam\01.ActivationKeys\obj\Debug\net7.0\01.ActivationKeys.sourcelink.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\FinalExam\05.ProgrammingFundamentalsFinalExam\01.ActivationKeys\obj\Debug\net7.0\01.ActivationKeys.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\FinalExam\05.ProgrammingFundamentalsFinalExam\01.ActivationKeys\obj\Debug\net7.0\refint\01.ActivationKeys.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\FinalExam\05.ProgrammingFundamentalsFinalExam\01.ActivationKeys\obj\Debug\net7.0\01.ActivationKeys.pdb
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\FinalExam\05.ProgrammingFundamentalsFinalExam\01.ActivationKeys\obj\Debug\net7.0\01.ActivationKeys.genruntimeconfig.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\FinalExam\05.ProgrammingFundamentalsFinalExam\01.ActivationKeys\obj\Debug\net7.0\ref\01.ActivationKeys.dll

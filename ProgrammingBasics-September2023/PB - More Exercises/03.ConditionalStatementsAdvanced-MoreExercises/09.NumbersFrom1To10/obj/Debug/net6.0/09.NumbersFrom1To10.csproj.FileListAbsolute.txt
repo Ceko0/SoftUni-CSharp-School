@@ -1,0 +1,15 @@
+D:\ProgramsScool\PB-september.2023\PB-MoreExercises\ConditionalStatementsAdvanced-MoreExercises\09.NumbersFrom1To10\bin\Debug\net6.0\09.NumbersFrom1To10.exe
+D:\ProgramsScool\PB-september.2023\PB-MoreExercises\ConditionalStatementsAdvanced-MoreExercises\09.NumbersFrom1To10\bin\Debug\net6.0\09.NumbersFrom1To10.deps.json
+D:\ProgramsScool\PB-september.2023\PB-MoreExercises\ConditionalStatementsAdvanced-MoreExercises\09.NumbersFrom1To10\bin\Debug\net6.0\09.NumbersFrom1To10.runtimeconfig.json
+D:\ProgramsScool\PB-september.2023\PB-MoreExercises\ConditionalStatementsAdvanced-MoreExercises\09.NumbersFrom1To10\bin\Debug\net6.0\09.NumbersFrom1To10.dll
+D:\ProgramsScool\PB-september.2023\PB-MoreExercises\ConditionalStatementsAdvanced-MoreExercises\09.NumbersFrom1To10\bin\Debug\net6.0\09.NumbersFrom1To10.pdb
+D:\ProgramsScool\PB-september.2023\PB-MoreExercises\ConditionalStatementsAdvanced-MoreExercises\09.NumbersFrom1To10\obj\Debug\net6.0\09.NumbersFrom1To10.csproj.AssemblyReference.cache
+D:\ProgramsScool\PB-september.2023\PB-MoreExercises\ConditionalStatementsAdvanced-MoreExercises\09.NumbersFrom1To10\obj\Debug\net6.0\09.NumbersFrom1To10.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProgramsScool\PB-september.2023\PB-MoreExercises\ConditionalStatementsAdvanced-MoreExercises\09.NumbersFrom1To10\obj\Debug\net6.0\09.NumbersFrom1To10.AssemblyInfoInputs.cache
+D:\ProgramsScool\PB-september.2023\PB-MoreExercises\ConditionalStatementsAdvanced-MoreExercises\09.NumbersFrom1To10\obj\Debug\net6.0\09.NumbersFrom1To10.AssemblyInfo.cs
+D:\ProgramsScool\PB-september.2023\PB-MoreExercises\ConditionalStatementsAdvanced-MoreExercises\09.NumbersFrom1To10\obj\Debug\net6.0\09.NumbersFrom1To10.csproj.CoreCompileInputs.cache
+D:\ProgramsScool\PB-september.2023\PB-MoreExercises\ConditionalStatementsAdvanced-MoreExercises\09.NumbersFrom1To10\obj\Debug\net6.0\09.NumbersFrom1To10.dll
+D:\ProgramsScool\PB-september.2023\PB-MoreExercises\ConditionalStatementsAdvanced-MoreExercises\09.NumbersFrom1To10\obj\Debug\net6.0\refint\09.NumbersFrom1To10.dll
+D:\ProgramsScool\PB-september.2023\PB-MoreExercises\ConditionalStatementsAdvanced-MoreExercises\09.NumbersFrom1To10\obj\Debug\net6.0\09.NumbersFrom1To10.pdb
+D:\ProgramsScool\PB-september.2023\PB-MoreExercises\ConditionalStatementsAdvanced-MoreExercises\09.NumbersFrom1To10\obj\Debug\net6.0\09.NumbersFrom1To10.genruntimeconfig.cache
+D:\ProgramsScool\PB-september.2023\PB-MoreExercises\ConditionalStatementsAdvanced-MoreExercises\09.NumbersFrom1To10\obj\Debug\net6.0\ref\09.NumbersFrom1To10.dll

@@ -1,0 +1,15 @@
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\Exams\AdvancedRegularExam-17February2024\01.ChickenSnack\bin\Debug\net6.0\01.ChickenSnack.exe
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\Exams\AdvancedRegularExam-17February2024\01.ChickenSnack\bin\Debug\net6.0\01.ChickenSnack.deps.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\Exams\AdvancedRegularExam-17February2024\01.ChickenSnack\bin\Debug\net6.0\01.ChickenSnack.runtimeconfig.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\Exams\AdvancedRegularExam-17February2024\01.ChickenSnack\bin\Debug\net6.0\01.ChickenSnack.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\Exams\AdvancedRegularExam-17February2024\01.ChickenSnack\bin\Debug\net6.0\01.ChickenSnack.pdb
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\Exams\AdvancedRegularExam-17February2024\01.ChickenSnack\obj\Debug\net6.0\01.ChickenSnack.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\Exams\AdvancedRegularExam-17February2024\01.ChickenSnack\obj\Debug\net6.0\01.ChickenSnack.AssemblyInfoInputs.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\Exams\AdvancedRegularExam-17February2024\01.ChickenSnack\obj\Debug\net6.0\01.ChickenSnack.AssemblyInfo.cs
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\Exams\AdvancedRegularExam-17February2024\01.ChickenSnack\obj\Debug\net6.0\01.ChickenSnack.csproj.CoreCompileInputs.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\Exams\AdvancedRegularExam-17February2024\01.ChickenSnack\obj\Debug\net6.0\01.ChickenSnack.sourcelink.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\Exams\AdvancedRegularExam-17February2024\01.ChickenSnack\obj\Debug\net6.0\01.ChickenSnack.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\Exams\AdvancedRegularExam-17February2024\01.ChickenSnack\obj\Debug\net6.0\refint\01.ChickenSnack.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\Exams\AdvancedRegularExam-17February2024\01.ChickenSnack\obj\Debug\net6.0\01.ChickenSnack.pdb
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\Exams\AdvancedRegularExam-17February2024\01.ChickenSnack\obj\Debug\net6.0\01.ChickenSnack.genruntimeconfig.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Advanced - Maj 2024\Exams\AdvancedRegularExam-17February2024\01.ChickenSnack\obj\Debug\net6.0\ref\01.ChickenSnack.dll

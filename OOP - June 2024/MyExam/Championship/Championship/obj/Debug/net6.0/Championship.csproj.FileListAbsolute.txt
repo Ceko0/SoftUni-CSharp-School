@@ -1,0 +1,15 @@
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\OOP - June 2024\MyExam\Championship\Championship\bin\Debug\net6.0\Championship.exe
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\OOP - June 2024\MyExam\Championship\Championship\bin\Debug\net6.0\Championship.deps.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\OOP - June 2024\MyExam\Championship\Championship\bin\Debug\net6.0\Championship.runtimeconfig.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\OOP - June 2024\MyExam\Championship\Championship\bin\Debug\net6.0\Championship.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\OOP - June 2024\MyExam\Championship\Championship\bin\Debug\net6.0\Championship.pdb
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\OOP - June 2024\MyExam\Championship\Championship\obj\Debug\net6.0\Championship.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\OOP - June 2024\MyExam\Championship\Championship\obj\Debug\net6.0\Championship.AssemblyInfoInputs.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\OOP - June 2024\MyExam\Championship\Championship\obj\Debug\net6.0\Championship.AssemblyInfo.cs
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\OOP - June 2024\MyExam\Championship\Championship\obj\Debug\net6.0\Championship.csproj.CoreCompileInputs.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\OOP - June 2024\MyExam\Championship\Championship\obj\Debug\net6.0\Championship.sourcelink.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\OOP - June 2024\MyExam\Championship\Championship\obj\Debug\net6.0\Championship.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\OOP - June 2024\MyExam\Championship\Championship\obj\Debug\net6.0\refint\Championship.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\OOP - June 2024\MyExam\Championship\Championship\obj\Debug\net6.0\Championship.pdb
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\OOP - June 2024\MyExam\Championship\Championship\obj\Debug\net6.0\Championship.genruntimeconfig.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\OOP - June 2024\MyExam\Championship\Championship\obj\Debug\net6.0\ref\Championship.dll

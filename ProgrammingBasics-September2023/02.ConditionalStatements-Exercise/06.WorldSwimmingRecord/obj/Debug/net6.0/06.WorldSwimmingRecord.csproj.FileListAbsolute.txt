@@ -1,0 +1,15 @@
+D:\ProgramsScool\PB-september.2023\04.ConditionalStatements-Exercise\06.WorldSwimmingRecord\bin\Debug\net6.0\06.WorldSwimmingRecord.exe
+D:\ProgramsScool\PB-september.2023\04.ConditionalStatements-Exercise\06.WorldSwimmingRecord\bin\Debug\net6.0\06.WorldSwimmingRecord.deps.json
+D:\ProgramsScool\PB-september.2023\04.ConditionalStatements-Exercise\06.WorldSwimmingRecord\bin\Debug\net6.0\06.WorldSwimmingRecord.runtimeconfig.json
+D:\ProgramsScool\PB-september.2023\04.ConditionalStatements-Exercise\06.WorldSwimmingRecord\bin\Debug\net6.0\06.WorldSwimmingRecord.dll
+D:\ProgramsScool\PB-september.2023\04.ConditionalStatements-Exercise\06.WorldSwimmingRecord\bin\Debug\net6.0\06.WorldSwimmingRecord.pdb
+D:\ProgramsScool\PB-september.2023\04.ConditionalStatements-Exercise\06.WorldSwimmingRecord\obj\Debug\net6.0\06.WorldSwimmingRecord.csproj.AssemblyReference.cache
+D:\ProgramsScool\PB-september.2023\04.ConditionalStatements-Exercise\06.WorldSwimmingRecord\obj\Debug\net6.0\06.WorldSwimmingRecord.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProgramsScool\PB-september.2023\04.ConditionalStatements-Exercise\06.WorldSwimmingRecord\obj\Debug\net6.0\06.WorldSwimmingRecord.AssemblyInfoInputs.cache
+D:\ProgramsScool\PB-september.2023\04.ConditionalStatements-Exercise\06.WorldSwimmingRecord\obj\Debug\net6.0\06.WorldSwimmingRecord.AssemblyInfo.cs
+D:\ProgramsScool\PB-september.2023\04.ConditionalStatements-Exercise\06.WorldSwimmingRecord\obj\Debug\net6.0\06.WorldSwimmingRecord.csproj.CoreCompileInputs.cache
+D:\ProgramsScool\PB-september.2023\04.ConditionalStatements-Exercise\06.WorldSwimmingRecord\obj\Debug\net6.0\06.WorldSwimmingRecord.dll
+D:\ProgramsScool\PB-september.2023\04.ConditionalStatements-Exercise\06.WorldSwimmingRecord\obj\Debug\net6.0\refint\06.WorldSwimmingRecord.dll
+D:\ProgramsScool\PB-september.2023\04.ConditionalStatements-Exercise\06.WorldSwimmingRecord\obj\Debug\net6.0\06.WorldSwimmingRecord.pdb
+D:\ProgramsScool\PB-september.2023\04.ConditionalStatements-Exercise\06.WorldSwimmingRecord\obj\Debug\net6.0\06.WorldSwimmingRecord.genruntimeconfig.cache
+D:\ProgramsScool\PB-september.2023\04.ConditionalStatements-Exercise\06.WorldSwimmingRecord\obj\Debug\net6.0\ref\06.WorldSwimmingRecord.dll

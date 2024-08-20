@@ -1,0 +1,15 @@
+D:\ProgramsScool\PB-september.2023\ProgrammingBasicsOnlineExam-9Аnd10March2019\04.GameNumberWars\bin\Debug\net6.0\04.GameNumberWars.exe
+D:\ProgramsScool\PB-september.2023\ProgrammingBasicsOnlineExam-9Аnd10March2019\04.GameNumberWars\bin\Debug\net6.0\04.GameNumberWars.deps.json
+D:\ProgramsScool\PB-september.2023\ProgrammingBasicsOnlineExam-9Аnd10March2019\04.GameNumberWars\bin\Debug\net6.0\04.GameNumberWars.runtimeconfig.json
+D:\ProgramsScool\PB-september.2023\ProgrammingBasicsOnlineExam-9Аnd10March2019\04.GameNumberWars\bin\Debug\net6.0\04.GameNumberWars.dll
+D:\ProgramsScool\PB-september.2023\ProgrammingBasicsOnlineExam-9Аnd10March2019\04.GameNumberWars\bin\Debug\net6.0\04.GameNumberWars.pdb
+D:\ProgramsScool\PB-september.2023\ProgrammingBasicsOnlineExam-9Аnd10March2019\04.GameNumberWars\obj\Debug\net6.0\04.GameNumberWars.csproj.AssemblyReference.cache
+D:\ProgramsScool\PB-september.2023\ProgrammingBasicsOnlineExam-9Аnd10March2019\04.GameNumberWars\obj\Debug\net6.0\04.GameNumberWars.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProgramsScool\PB-september.2023\ProgrammingBasicsOnlineExam-9Аnd10March2019\04.GameNumberWars\obj\Debug\net6.0\04.GameNumberWars.AssemblyInfoInputs.cache
+D:\ProgramsScool\PB-september.2023\ProgrammingBasicsOnlineExam-9Аnd10March2019\04.GameNumberWars\obj\Debug\net6.0\04.GameNumberWars.AssemblyInfo.cs
+D:\ProgramsScool\PB-september.2023\ProgrammingBasicsOnlineExam-9Аnd10March2019\04.GameNumberWars\obj\Debug\net6.0\04.GameNumberWars.csproj.CoreCompileInputs.cache
+D:\ProgramsScool\PB-september.2023\ProgrammingBasicsOnlineExam-9Аnd10March2019\04.GameNumberWars\obj\Debug\net6.0\04.GameNumberWars.dll
+D:\ProgramsScool\PB-september.2023\ProgrammingBasicsOnlineExam-9Аnd10March2019\04.GameNumberWars\obj\Debug\net6.0\refint\04.GameNumberWars.dll
+D:\ProgramsScool\PB-september.2023\ProgrammingBasicsOnlineExam-9Аnd10March2019\04.GameNumberWars\obj\Debug\net6.0\04.GameNumberWars.pdb
+D:\ProgramsScool\PB-september.2023\ProgrammingBasicsOnlineExam-9Аnd10March2019\04.GameNumberWars\obj\Debug\net6.0\04.GameNumberWars.genruntimeconfig.cache
+D:\ProgramsScool\PB-september.2023\ProgrammingBasicsOnlineExam-9Аnd10March2019\04.GameNumberWars\obj\Debug\net6.0\ref\04.GameNumberWars.dll

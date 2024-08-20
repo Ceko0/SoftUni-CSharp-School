@@ -1,0 +1,15 @@
+D:\ProgramsScool\Fundamental C# 2024\testingSwitchExpresion\07.SchoolCamp\bin\Debug\net6.0\07.SchoolCamp.exe
+D:\ProgramsScool\Fundamental C# 2024\testingSwitchExpresion\07.SchoolCamp\bin\Debug\net6.0\07.SchoolCamp.deps.json
+D:\ProgramsScool\Fundamental C# 2024\testingSwitchExpresion\07.SchoolCamp\bin\Debug\net6.0\07.SchoolCamp.runtimeconfig.json
+D:\ProgramsScool\Fundamental C# 2024\testingSwitchExpresion\07.SchoolCamp\bin\Debug\net6.0\07.SchoolCamp.dll
+D:\ProgramsScool\Fundamental C# 2024\testingSwitchExpresion\07.SchoolCamp\bin\Debug\net6.0\07.SchoolCamp.pdb
+D:\ProgramsScool\Fundamental C# 2024\testingSwitchExpresion\07.SchoolCamp\obj\Debug\net6.0\07.SchoolCamp.csproj.AssemblyReference.cache
+D:\ProgramsScool\Fundamental C# 2024\testingSwitchExpresion\07.SchoolCamp\obj\Debug\net6.0\07.SchoolCamp.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProgramsScool\Fundamental C# 2024\testingSwitchExpresion\07.SchoolCamp\obj\Debug\net6.0\07.SchoolCamp.AssemblyInfoInputs.cache
+D:\ProgramsScool\Fundamental C# 2024\testingSwitchExpresion\07.SchoolCamp\obj\Debug\net6.0\07.SchoolCamp.AssemblyInfo.cs
+D:\ProgramsScool\Fundamental C# 2024\testingSwitchExpresion\07.SchoolCamp\obj\Debug\net6.0\07.SchoolCamp.csproj.CoreCompileInputs.cache
+D:\ProgramsScool\Fundamental C# 2024\testingSwitchExpresion\07.SchoolCamp\obj\Debug\net6.0\07.SchoolCamp.dll
+D:\ProgramsScool\Fundamental C# 2024\testingSwitchExpresion\07.SchoolCamp\obj\Debug\net6.0\refint\07.SchoolCamp.dll
+D:\ProgramsScool\Fundamental C# 2024\testingSwitchExpresion\07.SchoolCamp\obj\Debug\net6.0\07.SchoolCamp.pdb
+D:\ProgramsScool\Fundamental C# 2024\testingSwitchExpresion\07.SchoolCamp\obj\Debug\net6.0\07.SchoolCamp.genruntimeconfig.cache
+D:\ProgramsScool\Fundamental C# 2024\testingSwitchExpresion\07.SchoolCamp\obj\Debug\net6.0\ref\07.SchoolCamp.dll

@@ -1,0 +1,15 @@
+D:\ProgramsScool\Fundamental C# 2024\testingSwitchExpresion\04.CarToGo\bin\Debug\net6.0\04.CarToGo.exe
+D:\ProgramsScool\Fundamental C# 2024\testingSwitchExpresion\04.CarToGo\bin\Debug\net6.0\04.CarToGo.deps.json
+D:\ProgramsScool\Fundamental C# 2024\testingSwitchExpresion\04.CarToGo\bin\Debug\net6.0\04.CarToGo.runtimeconfig.json
+D:\ProgramsScool\Fundamental C# 2024\testingSwitchExpresion\04.CarToGo\bin\Debug\net6.0\04.CarToGo.dll
+D:\ProgramsScool\Fundamental C# 2024\testingSwitchExpresion\04.CarToGo\bin\Debug\net6.0\04.CarToGo.pdb
+D:\ProgramsScool\Fundamental C# 2024\testingSwitchExpresion\04.CarToGo\obj\Debug\net6.0\04.CarToGo.csproj.AssemblyReference.cache
+D:\ProgramsScool\Fundamental C# 2024\testingSwitchExpresion\04.CarToGo\obj\Debug\net6.0\04.CarToGo.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProgramsScool\Fundamental C# 2024\testingSwitchExpresion\04.CarToGo\obj\Debug\net6.0\04.CarToGo.AssemblyInfoInputs.cache
+D:\ProgramsScool\Fundamental C# 2024\testingSwitchExpresion\04.CarToGo\obj\Debug\net6.0\04.CarToGo.AssemblyInfo.cs
+D:\ProgramsScool\Fundamental C# 2024\testingSwitchExpresion\04.CarToGo\obj\Debug\net6.0\04.CarToGo.csproj.CoreCompileInputs.cache
+D:\ProgramsScool\Fundamental C# 2024\testingSwitchExpresion\04.CarToGo\obj\Debug\net6.0\04.CarToGo.dll
+D:\ProgramsScool\Fundamental C# 2024\testingSwitchExpresion\04.CarToGo\obj\Debug\net6.0\refint\04.CarToGo.dll
+D:\ProgramsScool\Fundamental C# 2024\testingSwitchExpresion\04.CarToGo\obj\Debug\net6.0\04.CarToGo.pdb
+D:\ProgramsScool\Fundamental C# 2024\testingSwitchExpresion\04.CarToGo\obj\Debug\net6.0\04.CarToGo.genruntimeconfig.cache
+D:\ProgramsScool\Fundamental C# 2024\testingSwitchExpresion\04.CarToGo\obj\Debug\net6.0\ref\04.CarToGo.dll

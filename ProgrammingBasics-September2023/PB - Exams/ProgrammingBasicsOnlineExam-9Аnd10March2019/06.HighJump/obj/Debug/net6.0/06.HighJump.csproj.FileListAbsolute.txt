@@ -1,0 +1,15 @@
+D:\ProgramsScool\PB-september.2023\ProgrammingBasicsOnlineExam-9Аnd10March2019\06.HighJump\bin\Debug\net6.0\06.HighJump.exe
+D:\ProgramsScool\PB-september.2023\ProgrammingBasicsOnlineExam-9Аnd10March2019\06.HighJump\bin\Debug\net6.0\06.HighJump.deps.json
+D:\ProgramsScool\PB-september.2023\ProgrammingBasicsOnlineExam-9Аnd10March2019\06.HighJump\bin\Debug\net6.0\06.HighJump.runtimeconfig.json
+D:\ProgramsScool\PB-september.2023\ProgrammingBasicsOnlineExam-9Аnd10March2019\06.HighJump\bin\Debug\net6.0\06.HighJump.dll
+D:\ProgramsScool\PB-september.2023\ProgrammingBasicsOnlineExam-9Аnd10March2019\06.HighJump\bin\Debug\net6.0\06.HighJump.pdb
+D:\ProgramsScool\PB-september.2023\ProgrammingBasicsOnlineExam-9Аnd10March2019\06.HighJump\obj\Debug\net6.0\06.HighJump.csproj.AssemblyReference.cache
+D:\ProgramsScool\PB-september.2023\ProgrammingBasicsOnlineExam-9Аnd10March2019\06.HighJump\obj\Debug\net6.0\06.HighJump.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProgramsScool\PB-september.2023\ProgrammingBasicsOnlineExam-9Аnd10March2019\06.HighJump\obj\Debug\net6.0\06.HighJump.AssemblyInfoInputs.cache
+D:\ProgramsScool\PB-september.2023\ProgrammingBasicsOnlineExam-9Аnd10March2019\06.HighJump\obj\Debug\net6.0\06.HighJump.AssemblyInfo.cs
+D:\ProgramsScool\PB-september.2023\ProgrammingBasicsOnlineExam-9Аnd10March2019\06.HighJump\obj\Debug\net6.0\06.HighJump.csproj.CoreCompileInputs.cache
+D:\ProgramsScool\PB-september.2023\ProgrammingBasicsOnlineExam-9Аnd10March2019\06.HighJump\obj\Debug\net6.0\06.HighJump.dll
+D:\ProgramsScool\PB-september.2023\ProgrammingBasicsOnlineExam-9Аnd10March2019\06.HighJump\obj\Debug\net6.0\refint\06.HighJump.dll
+D:\ProgramsScool\PB-september.2023\ProgrammingBasicsOnlineExam-9Аnd10March2019\06.HighJump\obj\Debug\net6.0\06.HighJump.pdb
+D:\ProgramsScool\PB-september.2023\ProgrammingBasicsOnlineExam-9Аnd10March2019\06.HighJump\obj\Debug\net6.0\06.HighJump.genruntimeconfig.cache
+D:\ProgramsScool\PB-september.2023\ProgrammingBasicsOnlineExam-9Аnd10March2019\06.HighJump\obj\Debug\net6.0\ref\06.HighJump.dll

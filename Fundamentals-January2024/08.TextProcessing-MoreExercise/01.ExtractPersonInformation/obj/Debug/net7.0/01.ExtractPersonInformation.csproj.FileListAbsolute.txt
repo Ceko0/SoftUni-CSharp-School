@@ -1,0 +1,15 @@
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\08.TextProcessing-MoreExercise\01.ExtractPersonInformation\bin\Debug\net7.0\01.ExtractPersonInformation.exe
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\08.TextProcessing-MoreExercise\01.ExtractPersonInformation\bin\Debug\net7.0\01.ExtractPersonInformation.deps.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\08.TextProcessing-MoreExercise\01.ExtractPersonInformation\bin\Debug\net7.0\01.ExtractPersonInformation.runtimeconfig.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\08.TextProcessing-MoreExercise\01.ExtractPersonInformation\bin\Debug\net7.0\01.ExtractPersonInformation.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\08.TextProcessing-MoreExercise\01.ExtractPersonInformation\bin\Debug\net7.0\01.ExtractPersonInformation.pdb
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\08.TextProcessing-MoreExercise\01.ExtractPersonInformation\obj\Debug\net7.0\01.ExtractPersonInformation.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\08.TextProcessing-MoreExercise\01.ExtractPersonInformation\obj\Debug\net7.0\01.ExtractPersonInformation.AssemblyInfoInputs.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\08.TextProcessing-MoreExercise\01.ExtractPersonInformation\obj\Debug\net7.0\01.ExtractPersonInformation.AssemblyInfo.cs
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\08.TextProcessing-MoreExercise\01.ExtractPersonInformation\obj\Debug\net7.0\01.ExtractPersonInformation.csproj.CoreCompileInputs.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\08.TextProcessing-MoreExercise\01.ExtractPersonInformation\obj\Debug\net7.0\01.ExtractPersonInformation.sourcelink.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\08.TextProcessing-MoreExercise\01.ExtractPersonInformation\obj\Debug\net7.0\01.ExtractPersonInformation.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\08.TextProcessing-MoreExercise\01.ExtractPersonInformation\obj\Debug\net7.0\refint\01.ExtractPersonInformation.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\08.TextProcessing-MoreExercise\01.ExtractPersonInformation\obj\Debug\net7.0\01.ExtractPersonInformation.pdb
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\08.TextProcessing-MoreExercise\01.ExtractPersonInformation\obj\Debug\net7.0\01.ExtractPersonInformation.genruntimeconfig.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Fundamentals-January2024\08.TextProcessing-MoreExercise\01.ExtractPersonInformation\obj\Debug\net7.0\ref\01.ExtractPersonInformation.dll

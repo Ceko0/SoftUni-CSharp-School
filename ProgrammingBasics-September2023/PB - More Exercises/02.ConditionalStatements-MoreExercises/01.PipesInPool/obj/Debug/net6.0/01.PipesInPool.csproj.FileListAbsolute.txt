@@ -1,0 +1,15 @@
+D:\ProgramsScool\PB-september.2023\PB-MoreExercises\ConditionalStatements-MoreExercises\01.PipesInPool\bin\Debug\net6.0\01.PipesInPool.exe
+D:\ProgramsScool\PB-september.2023\PB-MoreExercises\ConditionalStatements-MoreExercises\01.PipesInPool\bin\Debug\net6.0\01.PipesInPool.deps.json
+D:\ProgramsScool\PB-september.2023\PB-MoreExercises\ConditionalStatements-MoreExercises\01.PipesInPool\bin\Debug\net6.0\01.PipesInPool.runtimeconfig.json
+D:\ProgramsScool\PB-september.2023\PB-MoreExercises\ConditionalStatements-MoreExercises\01.PipesInPool\bin\Debug\net6.0\01.PipesInPool.dll
+D:\ProgramsScool\PB-september.2023\PB-MoreExercises\ConditionalStatements-MoreExercises\01.PipesInPool\bin\Debug\net6.0\01.PipesInPool.pdb
+D:\ProgramsScool\PB-september.2023\PB-MoreExercises\ConditionalStatements-MoreExercises\01.PipesInPool\obj\Debug\net6.0\01.PipesInPool.csproj.AssemblyReference.cache
+D:\ProgramsScool\PB-september.2023\PB-MoreExercises\ConditionalStatements-MoreExercises\01.PipesInPool\obj\Debug\net6.0\01.PipesInPool.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProgramsScool\PB-september.2023\PB-MoreExercises\ConditionalStatements-MoreExercises\01.PipesInPool\obj\Debug\net6.0\01.PipesInPool.AssemblyInfoInputs.cache
+D:\ProgramsScool\PB-september.2023\PB-MoreExercises\ConditionalStatements-MoreExercises\01.PipesInPool\obj\Debug\net6.0\01.PipesInPool.AssemblyInfo.cs
+D:\ProgramsScool\PB-september.2023\PB-MoreExercises\ConditionalStatements-MoreExercises\01.PipesInPool\obj\Debug\net6.0\01.PipesInPool.csproj.CoreCompileInputs.cache
+D:\ProgramsScool\PB-september.2023\PB-MoreExercises\ConditionalStatements-MoreExercises\01.PipesInPool\obj\Debug\net6.0\01.PipesInPool.dll
+D:\ProgramsScool\PB-september.2023\PB-MoreExercises\ConditionalStatements-MoreExercises\01.PipesInPool\obj\Debug\net6.0\refint\01.PipesInPool.dll
+D:\ProgramsScool\PB-september.2023\PB-MoreExercises\ConditionalStatements-MoreExercises\01.PipesInPool\obj\Debug\net6.0\01.PipesInPool.pdb
+D:\ProgramsScool\PB-september.2023\PB-MoreExercises\ConditionalStatements-MoreExercises\01.PipesInPool\obj\Debug\net6.0\01.PipesInPool.genruntimeconfig.cache
+D:\ProgramsScool\PB-september.2023\PB-MoreExercises\ConditionalStatements-MoreExercises\01.PipesInPool\obj\Debug\net6.0\ref\01.PipesInPool.dll
