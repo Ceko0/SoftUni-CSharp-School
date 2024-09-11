@@ -1,29 +1,29 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\ProgramsScool\\SimpleConsoleGames\\Breakout\\new Breakout\\Breakout\\",
+  "WorkspaceRootPath": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\OOP - June 2024\\MyGames\\Breakout\\Breakout\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1D1EA749-BFA6-440B-A53B-BBE5DB1CE02E}|Breakout\\Breakout.csproj|d:\\programsscool\\simpleconsolegames\\breakout\\new breakout\\breakout\\breakout\\models\\ball.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1D1EA749-BFA6-440B-A53B-BBE5DB1CE02E}|Breakout\\Breakout.csproj|d:\\programsscool\\git hub\\softuni-csharp\\oop - june 2024\\mygames\\breakout\\breakout\\breakout\\models\\ball.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1D1EA749-BFA6-440B-A53B-BBE5DB1CE02E}|Breakout\\Breakout.csproj|solutionrelative:breakout\\models\\ball.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1D1EA749-BFA6-440B-A53B-BBE5DB1CE02E}|Breakout\\Breakout.csproj|d:\\programsscool\\simpleconsolegames\\breakout\\new breakout\\breakout\\breakout\\models\\board.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1D1EA749-BFA6-440B-A53B-BBE5DB1CE02E}|Breakout\\Breakout.csproj|d:\\programsscool\\git hub\\softuni-csharp\\oop - june 2024\\mygames\\breakout\\breakout\\breakout\\models\\board.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1D1EA749-BFA6-440B-A53B-BBE5DB1CE02E}|Breakout\\Breakout.csproj|solutionrelative:breakout\\models\\board.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1D1EA749-BFA6-440B-A53B-BBE5DB1CE02E}|Breakout\\Breakout.csproj|d:\\programsscool\\simpleconsolegames\\breakout\\new breakout\\breakout\\breakout\\models\\engine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1D1EA749-BFA6-440B-A53B-BBE5DB1CE02E}|Breakout\\Breakout.csproj|d:\\programsscool\\git hub\\softuni-csharp\\oop - june 2024\\mygames\\breakout\\breakout\\breakout\\models\\engine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1D1EA749-BFA6-440B-A53B-BBE5DB1CE02E}|Breakout\\Breakout.csproj|solutionrelative:breakout\\models\\engine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1D1EA749-BFA6-440B-A53B-BBE5DB1CE02E}|Breakout\\Breakout.csproj|d:\\programsscool\\simpleconsolegames\\breakout\\new breakout\\breakout\\breakout\\models\\boxes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1D1EA749-BFA6-440B-A53B-BBE5DB1CE02E}|Breakout\\Breakout.csproj|d:\\programsscool\\git hub\\softuni-csharp\\oop - june 2024\\mygames\\breakout\\breakout\\breakout\\models\\boxes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1D1EA749-BFA6-440B-A53B-BBE5DB1CE02E}|Breakout\\Breakout.csproj|solutionrelative:breakout\\models\\boxes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1D1EA749-BFA6-440B-A53B-BBE5DB1CE02E}|Breakout\\Breakout.csproj|d:\\programsscool\\simpleconsolegames\\breakout\\new breakout\\breakout\\breakout\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1D1EA749-BFA6-440B-A53B-BBE5DB1CE02E}|Breakout\\Breakout.csproj|d:\\programsscool\\git hub\\softuni-csharp\\oop - june 2024\\mygames\\breakout\\breakout\\breakout\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1D1EA749-BFA6-440B-A53B-BBE5DB1CE02E}|Breakout\\Breakout.csproj|solutionrelative:breakout\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1D1EA749-BFA6-440B-A53B-BBE5DB1CE02E}|Breakout\\Breakout.csproj|d:\\programsscool\\simpleconsolegames\\breakout\\new breakout\\breakout\\breakout\\models\\wall.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1D1EA749-BFA6-440B-A53B-BBE5DB1CE02E}|Breakout\\Breakout.csproj|d:\\programsscool\\git hub\\softuni-csharp\\oop - june 2024\\mygames\\breakout\\breakout\\breakout\\models\\wall.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1D1EA749-BFA6-440B-A53B-BBE5DB1CE02E}|Breakout\\Breakout.csproj|solutionrelative:breakout\\models\\wall.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -34,59 +34,41 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 2,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
-            },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Board.cs",
-              "DocumentMoniker": "D:\\ProgramsScool\\SimpleConsoleGames\\Breakout\\new Breakout\\Breakout\\Breakout\\models\\Board.cs",
+              "DocumentMoniker": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\OOP - June 2024\\MyGames\\Breakout\\Breakout\\Breakout\\models\\Board.cs",
               "RelativeDocumentMoniker": "Breakout\\models\\Board.cs",
-              "ToolTip": "D:\\ProgramsScool\\SimpleConsoleGames\\Breakout\\new Breakout\\Breakout\\Breakout\\models\\Board.cs",
+              "ToolTip": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\OOP - June 2024\\MyGames\\Breakout\\Breakout\\Breakout\\models\\Board.cs",
               "RelativeToolTip": "Breakout\\models\\Board.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAiAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-20T12:59:16.55Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-20T12:59:16.55Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "boxes.cs",
-              "DocumentMoniker": "D:\\ProgramsScool\\SimpleConsoleGames\\Breakout\\new Breakout\\Breakout\\Breakout\\models\\boxes.cs",
+              "DocumentMoniker": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\OOP - June 2024\\MyGames\\Breakout\\Breakout\\Breakout\\models\\boxes.cs",
               "RelativeDocumentMoniker": "Breakout\\models\\boxes.cs",
-              "ToolTip": "D:\\ProgramsScool\\SimpleConsoleGames\\Breakout\\new Breakout\\Breakout\\Breakout\\models\\boxes.cs",
+              "ToolTip": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\OOP - June 2024\\MyGames\\Breakout\\Breakout\\Breakout\\models\\boxes.cs",
               "RelativeToolTip": "Breakout\\models\\boxes.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAlAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-20T12:52:45.548Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-20T12:52:45.548Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Ball.cs",
-              "DocumentMoniker": "D:\\ProgramsScool\\SimpleConsoleGames\\Breakout\\new Breakout\\Breakout\\Breakout\\models\\Ball.cs",
+              "DocumentMoniker": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\OOP - June 2024\\MyGames\\Breakout\\Breakout\\Breakout\\models\\Ball.cs",
               "RelativeDocumentMoniker": "Breakout\\models\\Ball.cs",
-              "ToolTip": "D:\\ProgramsScool\\SimpleConsoleGames\\Breakout\\new Breakout\\Breakout\\Breakout\\models\\Ball.cs",
+              "ToolTip": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\OOP - June 2024\\MyGames\\Breakout\\Breakout\\Breakout\\models\\Ball.cs",
               "RelativeToolTip": "Breakout\\models\\Ball.cs",
-              "ViewState": "AQIAAB8AAAAAAAAAAAAuwCoAAAAdAAAA",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAuwCoAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-20T12:40:16.4Z",
               "EditorCaption": ""
@@ -95,22 +77,21 @@
               "$type": "Document",
               "DocumentIndex": 5,
               "Title": "Wall.cs",
-              "DocumentMoniker": "D:\\ProgramsScool\\SimpleConsoleGames\\Breakout\\new Breakout\\Breakout\\Breakout\\models\\Wall.cs",
+              "DocumentMoniker": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\OOP - June 2024\\MyGames\\Breakout\\Breakout\\Breakout\\models\\Wall.cs",
               "RelativeDocumentMoniker": "Breakout\\models\\Wall.cs",
-              "ToolTip": "D:\\ProgramsScool\\SimpleConsoleGames\\Breakout\\new Breakout\\Breakout\\Breakout\\models\\Wall.cs",
+              "ToolTip": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\OOP - June 2024\\MyGames\\Breakout\\Breakout\\Breakout\\models\\Wall.cs",
               "RelativeToolTip": "Breakout\\models\\Wall.cs",
               "ViewState": "AQIAABQAAAAAAAAAAAAwwAYAAAAwAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-20T12:39:47.104Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-20T12:39:47.104Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "StartUp.cs",
-              "DocumentMoniker": "D:\\ProgramsScool\\SimpleConsoleGames\\Breakout\\new Breakout\\Breakout\\Breakout\\StartUp.cs",
+              "DocumentMoniker": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\OOP - June 2024\\MyGames\\Breakout\\Breakout\\Breakout\\StartUp.cs",
               "RelativeDocumentMoniker": "Breakout\\StartUp.cs",
-              "ToolTip": "D:\\ProgramsScool\\SimpleConsoleGames\\Breakout\\new Breakout\\Breakout\\Breakout\\StartUp.cs",
+              "ToolTip": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\OOP - June 2024\\MyGames\\Breakout\\Breakout\\Breakout\\StartUp.cs",
               "RelativeToolTip": "Breakout\\StartUp.cs",
               "ViewState": "AQIAAC8AAAAAAAAAAAAwwD4AAAAWAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -121,9 +102,9 @@
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "Engine.cs",
-              "DocumentMoniker": "D:\\ProgramsScool\\SimpleConsoleGames\\Breakout\\new Breakout\\Breakout\\Breakout\\models\\Engine.cs",
+              "DocumentMoniker": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\OOP - June 2024\\MyGames\\Breakout\\Breakout\\Breakout\\models\\Engine.cs",
               "RelativeDocumentMoniker": "Breakout\\models\\Engine.cs",
-              "ToolTip": "D:\\ProgramsScool\\SimpleConsoleGames\\Breakout\\new Breakout\\Breakout\\Breakout\\models\\Engine.cs",
+              "ToolTip": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\OOP - June 2024\\MyGames\\Breakout\\Breakout\\Breakout\\models\\Engine.cs",
               "RelativeToolTip": "Breakout\\models\\Engine.cs",
               "ViewState": "AQIAAA4AAAAAAAAAAAAQwCUAAAAQAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",

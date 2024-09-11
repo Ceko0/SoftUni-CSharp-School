@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Breakout
-build_property.ProjectDir = D:\ProgramsScool\SimpleConsoleGames\Breakout\new Breakout\Breakout\Breakout\
+build_property.ProjectDir = D:\ProgramsScool\Git Hub\SoftUni-CSharp\OOP - June 2024\MyGames\Breakout\Breakout\Breakout\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

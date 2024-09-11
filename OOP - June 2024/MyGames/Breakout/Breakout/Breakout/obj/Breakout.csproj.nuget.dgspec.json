@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\ProgramsScool\\SimpleConsoleGames\\Breakout\\new Breakout\\Breakout\\Breakout\\Breakout.csproj": {}
+    "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\OOP - June 2024\\MyGames\\Breakout\\Breakout\\Breakout\\Breakout.csproj": {}
   },
   "projects": {
-    "D:\\ProgramsScool\\SimpleConsoleGames\\Breakout\\new Breakout\\Breakout\\Breakout\\Breakout.csproj": {
+    "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\OOP - June 2024\\MyGames\\Breakout\\Breakout\\Breakout\\Breakout.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\ProgramsScool\\SimpleConsoleGames\\Breakout\\new Breakout\\Breakout\\Breakout\\Breakout.csproj",
+        "projectUniqueName": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\OOP - June 2024\\MyGames\\Breakout\\Breakout\\Breakout\\Breakout.csproj",
         "projectName": "Breakout",
-        "projectPath": "D:\\ProgramsScool\\SimpleConsoleGames\\Breakout\\new Breakout\\Breakout\\Breakout\\Breakout.csproj",
+        "projectPath": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\OOP - June 2024\\MyGames\\Breakout\\Breakout\\Breakout\\Breakout.csproj",
         "packagesPath": "C:\\Users\\falen\\.nuget\\packages\\",
-        "outputPath": "D:\\ProgramsScool\\SimpleConsoleGames\\Breakout\\new Breakout\\Breakout\\Breakout\\obj\\",
+        "outputPath": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\OOP - June 2024\\MyGames\\Breakout\\Breakout\\Breakout\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\falen\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -22,6 +22,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -60,7 +61,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     }

@@ -1,0 +1,2 @@
+D:\ProgramsScool\SimpleConsoleGames\sda\Breakout.pdb
+D:\ProgramsScool\SimpleConsoleGames\sda\Breakout.exe

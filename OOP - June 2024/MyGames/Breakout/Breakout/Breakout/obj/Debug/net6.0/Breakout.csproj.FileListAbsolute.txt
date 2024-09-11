@@ -12,3 +12,18 @@ D:\ProgramsScool\SimpleConsoleGames\Breakout\new Breakout\Breakout\Breakout\obj\
 D:\ProgramsScool\SimpleConsoleGames\Breakout\new Breakout\Breakout\Breakout\obj\Debug\net6.0\Breakout.pdb
 D:\ProgramsScool\SimpleConsoleGames\Breakout\new Breakout\Breakout\Breakout\obj\Debug\net6.0\Breakout.genruntimeconfig.cache
 D:\ProgramsScool\SimpleConsoleGames\Breakout\new Breakout\Breakout\Breakout\obj\Debug\net6.0\ref\Breakout.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\OOP - June 2024\MyGames\Breakout\Breakout\Breakout\bin\Debug\net6.0\Breakout.exe
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\OOP - June 2024\MyGames\Breakout\Breakout\Breakout\bin\Debug\net6.0\Breakout.deps.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\OOP - June 2024\MyGames\Breakout\Breakout\Breakout\bin\Debug\net6.0\Breakout.runtimeconfig.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\OOP - June 2024\MyGames\Breakout\Breakout\Breakout\bin\Debug\net6.0\Breakout.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\OOP - June 2024\MyGames\Breakout\Breakout\Breakout\bin\Debug\net6.0\Breakout.pdb
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\OOP - June 2024\MyGames\Breakout\Breakout\Breakout\obj\Debug\net6.0\Breakout.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\OOP - June 2024\MyGames\Breakout\Breakout\Breakout\obj\Debug\net6.0\Breakout.AssemblyInfoInputs.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\OOP - June 2024\MyGames\Breakout\Breakout\Breakout\obj\Debug\net6.0\Breakout.AssemblyInfo.cs
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\OOP - June 2024\MyGames\Breakout\Breakout\Breakout\obj\Debug\net6.0\Breakout.csproj.CoreCompileInputs.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\OOP - June 2024\MyGames\Breakout\Breakout\Breakout\obj\Debug\net6.0\Breakout.sourcelink.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\OOP - June 2024\MyGames\Breakout\Breakout\Breakout\obj\Debug\net6.0\Breakout.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\OOP - June 2024\MyGames\Breakout\Breakout\Breakout\obj\Debug\net6.0\refint\Breakout.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\OOP - June 2024\MyGames\Breakout\Breakout\Breakout\obj\Debug\net6.0\Breakout.pdb
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\OOP - June 2024\MyGames\Breakout\Breakout\Breakout\obj\Debug\net6.0\Breakout.genruntimeconfig.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\OOP - June 2024\MyGames\Breakout\Breakout\Breakout\obj\Debug\net6.0\ref\Breakout.dll
