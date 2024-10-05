@@ -1,0 +1,13 @@
+﻿@using ElProApp.Data.Models
+@model Employee
+
+<h2>Информация за служител </h2>
+
+<p><strong>Идентификатор:</strong> @Model.Id</p>
+<p><strong>Име:</strong> @Model.FirstName</p>
+<p><strong>Фамилия:</strong> @Model.LastName</p>
+<p><strong>Дневно възнаграждение:</strong> @Model.Wages лв</p>
+<p><strong>Заработка:</strong> @Model.MoneyToTake лв</p>
+
+<a asp-action="Index" class="btn btn-primary">Назад към списък със служители</a>
+<a asp-controller="Team" asp-action="Index" class="btn btn-primary">Назад към списък с екипи</a>
