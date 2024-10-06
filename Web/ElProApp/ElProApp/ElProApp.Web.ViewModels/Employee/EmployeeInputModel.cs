@@ -3,13 +3,14 @@
 namespace ElProApp.Web.ViewModels.Employee
 {
     using System.ComponentModel.DataAnnotations;
-    using ElProApp.Web.ViewModels.Team;
-    using static Common.EntityValidationConstants.employee;
+    using static Common.EntityValidationConstants.Employee;
     using static Common.EntityValidationErrorMessage.Employee;
     using static EntityValidationErrorMessage.Master;
     public class EmployeeInputModel
     {
         public Guid Id { get; set; }
+
+        public string LoginId { get; set; } = null!;
 
         [Required(ErrorMessage = ErrorMassageFieldForNameIsRequired)]
         [MinLength(NameMinLength, ErrorMessage = ErrorMassageNameMinLength)]

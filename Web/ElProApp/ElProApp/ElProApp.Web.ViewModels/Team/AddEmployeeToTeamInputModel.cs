@@ -1,7 +1,7 @@
 ﻿using System.ComponentModel.DataAnnotations;
 using ElProApp.Web.ViewModels.Employee;
 
-using static ElProApp.Common.EntityValidationConstants.employee;
+using static ElProApp.Common.EntityValidationConstants.Employee;
 
 namespace ElProApp.Web.ViewModels.Team
 {

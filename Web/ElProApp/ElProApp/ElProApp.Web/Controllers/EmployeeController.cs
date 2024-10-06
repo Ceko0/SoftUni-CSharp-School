@@ -25,9 +25,14 @@ namespace ElProApp.Web.Controllers
         }
 
         [HttpGet]
-        public IActionResult Create()
+        public IActionResult Create(string loginId)
         {
-            return View();
+            var model = new EmployeeInputModel
+            {
+                LoginId = loginId,
+                Id = Guid.NewGuid()
+            };
+            return View(model);
         }
 
         [HttpPost]
@@ -38,8 +43,11 @@ namespace ElProApp.Web.Controllers
                 return this.View(inputModel);
             }
 
+            string loginId = inputModel.LoginId;
+
             Employee employee = new()
             {
+                LoginId = loginId,
                 FirstName = inputModel.FirstName,
                 LastName = inputModel.LastName,
                 Wages = inputModel.Wages,

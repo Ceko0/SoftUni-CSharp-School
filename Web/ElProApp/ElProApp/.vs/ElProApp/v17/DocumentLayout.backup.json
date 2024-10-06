@@ -1,12 +1,326 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\Web\\ElProApp\\ElProApp\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D9C87035-0F74-4914-A910-7CEEB03CACFB}|ElProApp.Web\\ElProApp.Web.csproj|d:\\programsscool\\git hub\\softuni-csharp\\web\\elproapp\\elproapp\\elproapp.web\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9C87035-0F74-4914-A910-7CEEB03CACFB}|ElProApp.Web\\ElProApp.Web.csproj|solutionrelative:elproapp.web\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9C87035-0F74-4914-A910-7CEEB03CACFB}|ElProApp.Web\\ElProApp.Web.csproj|d:\\programsscool\\git hub\\softuni-csharp\\web\\elproapp\\elproapp\\elproapp.web\\areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9C87035-0F74-4914-A910-7CEEB03CACFB}|ElProApp.Web\\ElProApp.Web.csproj|solutionrelative:elproapp.web\\areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9C87035-0F74-4914-A910-7CEEB03CACFB}|ElProApp.Web\\ElProApp.Web.csproj|d:\\programsscool\\git hub\\softuni-csharp\\web\\elproapp\\elproapp\\elproapp.web\\areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D9C87035-0F74-4914-A910-7CEEB03CACFB}|ElProApp.Web\\ElProApp.Web.csproj|solutionrelative:elproapp.web\\areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{211B8AE2-1CAA-472C-AE0B-C3BE47C25021}|ElProApp.Web.ViewModels\\ElProApp.Web.ViewModels.csproj|d:\\programsscool\\git hub\\softuni-csharp\\web\\elproapp\\elproapp\\elproapp.web.viewmodels\\employee\\employeeinputmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{211B8AE2-1CAA-472C-AE0B-C3BE47C25021}|ElProApp.Web.ViewModels\\ElProApp.Web.ViewModels.csproj|solutionrelative:elproapp.web.viewmodels\\employee\\employeeinputmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9C87035-0F74-4914-A910-7CEEB03CACFB}|ElProApp.Web\\ElProApp.Web.csproj|d:\\programsscool\\git hub\\softuni-csharp\\web\\elproapp\\elproapp\\elproapp.web\\views\\employee\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D9C87035-0F74-4914-A910-7CEEB03CACFB}|ElProApp.Web\\ElProApp.Web.csproj|solutionrelative:elproapp.web\\views\\employee\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{211B8AE2-1CAA-472C-AE0B-C3BE47C25021}|ElProApp.Web.ViewModels\\ElProApp.Web.ViewModels.csproj|d:\\programsscool\\git hub\\softuni-csharp\\web\\elproapp\\elproapp\\elproapp.web.viewmodels\\employee\\employeeviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{211B8AE2-1CAA-472C-AE0B-C3BE47C25021}|ElProApp.Web.ViewModels\\ElProApp.Web.ViewModels.csproj|solutionrelative:elproapp.web.viewmodels\\employee\\employeeviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9C87035-0F74-4914-A910-7CEEB03CACFB}|ElProApp.Web\\ElProApp.Web.csproj|d:\\programsscool\\git hub\\softuni-csharp\\web\\elproapp\\elproapp\\elproapp.web\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9C87035-0F74-4914-A910-7CEEB03CACFB}|ElProApp.Web\\ElProApp.Web.csproj|solutionrelative:elproapp.web\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9C87035-0F74-4914-A910-7CEEB03CACFB}|ElProApp.Web\\ElProApp.Web.csproj|d:\\programsscool\\git hub\\softuni-csharp\\web\\elproapp\\elproapp\\elproapp.web\\controllers\\teamcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9C87035-0F74-4914-A910-7CEEB03CACFB}|ElProApp.Web\\ElProApp.Web.csproj|solutionrelative:elproapp.web\\controllers\\teamcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9C87035-0F74-4914-A910-7CEEB03CACFB}|ElProApp.Web\\ElProApp.Web.csproj|d:\\programsscool\\git hub\\softuni-csharp\\web\\elproapp\\elproapp\\elproapp.web\\views\\team\\addtoteam.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D9C87035-0F74-4914-A910-7CEEB03CACFB}|ElProApp.Web\\ElProApp.Web.csproj|solutionrelative:elproapp.web\\views\\team\\addtoteam.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\Web\\ElProApp\\ElProApp\\ElProApp.Data\\Migrations\\ElProAppDb\\20241006063938_addLoginToEmployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ElProApp.Data\\Migrations\\ElProAppDb\\20241006063938_addLoginToEmployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D4A51C8-DBC5-4AC6-9E06-F67A4121D3AE}|ElProApp.Data\\ElProApp.Data.csproj|d:\\programsscool\\git hub\\softuni-csharp\\web\\elproapp\\elproapp\\elproapp.data\\configurations\\employeeconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D4A51C8-DBC5-4AC6-9E06-F67A4121D3AE}|ElProApp.Data\\ElProApp.Data.csproj|solutionrelative:elproapp.data\\configurations\\employeeconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBAF7CFD-9FD0-4EB2-BFEC-46D5985B9372}|ElProApp.Data.Models\\ElProApp.Data.Models.csproj|d:\\programsscool\\git hub\\softuni-csharp\\web\\elproapp\\elproapp\\elproapp.data.models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBAF7CFD-9FD0-4EB2-BFEC-46D5985B9372}|ElProApp.Data.Models\\ElProApp.Data.Models.csproj|solutionrelative:elproapp.data.models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9C87035-0F74-4914-A910-7CEEB03CACFB}|ElProApp.Web\\ElProApp.Web.csproj|d:\\programsscool\\git hub\\softuni-csharp\\web\\elproapp\\elproapp\\elproapp.web\\areas\\identity\\pages\\account\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9C87035-0F74-4914-A910-7CEEB03CACFB}|ElProApp.Web\\ElProApp.Web.csproj|solutionrelative:elproapp.web\\areas\\identity\\pages\\account\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9C87035-0F74-4914-A910-7CEEB03CACFB}|ElProApp.Web\\ElProApp.Web.csproj|d:\\programsscool\\git hub\\softuni-csharp\\web\\elproapp\\elproapp\\elproapp.web\\areas\\identity\\pages\\account\\logout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D9C87035-0F74-4914-A910-7CEEB03CACFB}|ElProApp.Web\\ElProApp.Web.csproj|solutionrelative:elproapp.web\\areas\\identity\\pages\\account\\logout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9C87035-0F74-4914-A910-7CEEB03CACFB}|ElProApp.Web\\ElProApp.Web.csproj|d:\\programsscool\\git hub\\softuni-csharp\\web\\elproapp\\elproapp\\elproapp.web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D9C87035-0F74-4914-A910-7CEEB03CACFB}|ElProApp.Web\\ElProApp.Web.csproj|solutionrelative:elproapp.web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9C87035-0F74-4914-A910-7CEEB03CACFB}|ElProApp.Web\\ElProApp.Web.csproj|d:\\programsscool\\git hub\\softuni-csharp\\web\\elproapp\\elproapp\\elproapp.web\\areas\\identity\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D9C87035-0F74-4914-A910-7CEEB03CACFB}|ElProApp.Web\\ElProApp.Web.csproj|solutionrelative:elproapp.web\\areas\\identity\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9C87035-0F74-4914-A910-7CEEB03CACFB}|ElProApp.Web\\ElProApp.Web.csproj|d:\\programsscool\\git hub\\softuni-csharp\\web\\elproapp\\elproapp\\elproapp.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9C87035-0F74-4914-A910-7CEEB03CACFB}|ElProApp.Web\\ElProApp.Web.csproj|solutionrelative:elproapp.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9C87035-0F74-4914-A910-7CEEB03CACFB}|ElProApp.Web\\ElProApp.Web.csproj|d:\\programsscool\\git hub\\softuni-csharp\\web\\elproapp\\elproapp\\elproapp.web\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{D9C87035-0F74-4914-A910-7CEEB03CACFB}|ElProApp.Web\\ElProApp.Web.csproj|solutionrelative:elproapp.web\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TeamController.cs",
+              "DocumentMoniker": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\Web\\ElProApp\\ElProApp\\ElProApp.Web\\Controllers\\TeamController.cs",
+              "RelativeDocumentMoniker": "ElProApp.Web\\Controllers\\TeamController.cs",
+              "ToolTip": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\Web\\ElProApp\\ElProApp\\ElProApp.Web\\Controllers\\TeamController.cs",
+              "RelativeToolTip": "ElProApp.Web\\Controllers\\TeamController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T08:50:35.564Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\Web\\ElProApp\\ElProApp\\ElProApp.Web\\Views\\Employee\\Create.cshtml",
+              "RelativeDocumentMoniker": "ElProApp.Web\\Views\\Employee\\Create.cshtml",
+              "ToolTip": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\Web\\ElProApp\\ElProApp\\ElProApp.Web\\Views\\Employee\\Create.cshtml",
+              "RelativeToolTip": "ElProApp.Web\\Views\\Employee\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-06T06:45:37.813Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EmployeeViewModel.cs",
+              "DocumentMoniker": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\Web\\ElProApp\\ElProApp\\ElProApp.Web.ViewModels\\Employee\\EmployeeViewModel.cs",
+              "RelativeDocumentMoniker": "ElProApp.Web.ViewModels\\Employee\\EmployeeViewModel.cs",
+              "ToolTip": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\Web\\ElProApp\\ElProApp\\ElProApp.Web.ViewModels\\Employee\\EmployeeViewModel.cs",
+              "RelativeToolTip": "ElProApp.Web.ViewModels\\Employee\\EmployeeViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T06:51:06.489Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\Web\\ElProApp\\ElProApp\\ElProApp.Web\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "ElProApp.Web\\Controllers\\EmployeeController.cs",
+              "ToolTip": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\Web\\ElProApp\\ElProApp\\ElProApp.Web\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "ElProApp.Web\\Controllers\\EmployeeController.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAiwDsAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T06:48:20.868Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EmployeeInputModel.cs",
+              "DocumentMoniker": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\Web\\ElProApp\\ElProApp\\ElProApp.Web.ViewModels\\Employee\\EmployeeInputModel.cs",
+              "RelativeDocumentMoniker": "ElProApp.Web.ViewModels\\Employee\\EmployeeInputModel.cs",
+              "ToolTip": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\Web\\ElProApp\\ElProApp\\ElProApp.Web.ViewModels\\Employee\\EmployeeInputModel.cs",
+              "RelativeToolTip": "ElProApp.Web.ViewModels\\Employee\\EmployeeInputModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T06:44:19.913Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "20241006063938_addLoginToEmployee.cs",
+              "DocumentMoniker": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\Web\\ElProApp\\ElProApp\\ElProApp.Data\\Migrations\\ElProAppDb\\20241006063938_addLoginToEmployee.cs",
+              "RelativeDocumentMoniker": "ElProApp.Data\\Migrations\\ElProAppDb\\20241006063938_addLoginToEmployee.cs",
+              "ToolTip": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\Web\\ElProApp\\ElProApp\\ElProApp.Data\\Migrations\\ElProAppDb\\20241006063938_addLoginToEmployee.cs",
+              "RelativeToolTip": "ElProApp.Data\\Migrations\\ElProAppDb\\20241006063938_addLoginToEmployee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T06:39:38.345Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "EmployeeConfiguration.cs",
+              "DocumentMoniker": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\Web\\ElProApp\\ElProApp\\ElProApp.Data\\Configurations\\EmployeeConfiguration.cs",
+              "RelativeDocumentMoniker": "ElProApp.Data\\Configurations\\EmployeeConfiguration.cs",
+              "ToolTip": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\Web\\ElProApp\\ElProApp\\ElProApp.Data\\Configurations\\EmployeeConfiguration.cs",
+              "RelativeToolTip": "ElProApp.Data\\Configurations\\EmployeeConfiguration.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwCIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T06:20:30.009Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Register.cshtml.cs",
+              "DocumentMoniker": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\Web\\ElProApp\\ElProApp\\ElProApp.Web\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "RelativeDocumentMoniker": "ElProApp.Web\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "ToolTip": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\Web\\ElProApp\\ElProApp\\ElProApp.Web\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "RelativeToolTip": "ElProApp.Web\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "ViewState": "AgIAAHcAAAAAAAAAAAAIwH0AAABVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T05:40:19.227Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\Web\\ElProApp\\ElProApp\\ElProApp.Web\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "ElProApp.Web\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "ToolTip": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\Web\\ElProApp\\ElProApp\\ElProApp.Web\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "RelativeToolTip": "ElProApp.Web\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-06T05:40:17.004Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AddToTeam.cshtml",
+              "DocumentMoniker": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\Web\\ElProApp\\ElProApp\\ElProApp.Web\\Views\\Team\\AddToTeam.cshtml",
+              "RelativeDocumentMoniker": "ElProApp.Web\\Views\\Team\\AddToTeam.cshtml",
+              "ToolTip": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\Web\\ElProApp\\ElProApp\\ElProApp.Web\\Views\\Team\\AddToTeam.cshtml",
+              "RelativeToolTip": "ElProApp.Web\\Views\\Team\\AddToTeam.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-06T08:50:41.856Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\Web\\ElProApp\\ElProApp\\ElProApp.Web\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "ElProApp.Web\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\Web\\ElProApp\\ElProApp\\ElProApp.Web\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "ElProApp.Web\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T09:03:08.765Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\Web\\ElProApp\\ElProApp\\ElProApp.Web\\appsettings.json",
+              "RelativeDocumentMoniker": "ElProApp.Web\\appsettings.json",
+              "ToolTip": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\Web\\ElProApp\\ElProApp\\ElProApp.Web\\appsettings.json",
+              "RelativeToolTip": "ElProApp.Web\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-06T05:51:13.296Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\Web\\ElProApp\\ElProApp\\ElProApp.Data.Models\\Employee.cs",
+              "RelativeDocumentMoniker": "ElProApp.Data.Models\\Employee.cs",
+              "ToolTip": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\Web\\ElProApp\\ElProApp\\ElProApp.Data.Models\\Employee.cs",
+              "RelativeToolTip": "ElProApp.Data.Models\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T05:50:25.094Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Logout.cshtml",
+              "DocumentMoniker": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\Web\\ElProApp\\ElProApp\\ElProApp.Web\\Areas\\Identity\\Pages\\Account\\Logout.cshtml",
+              "RelativeDocumentMoniker": "ElProApp.Web\\Areas\\Identity\\Pages\\Account\\Logout.cshtml",
+              "ToolTip": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\Web\\ElProApp\\ElProApp\\ElProApp.Web\\Areas\\Identity\\Pages\\Account\\Logout.cshtml",
+              "RelativeToolTip": "ElProApp.Web\\Areas\\Identity\\Pages\\Account\\Logout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-06T05:40:04.093Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\Web\\ElProApp\\ElProApp\\ElProApp.Web\\Program.cs",
+              "RelativeDocumentMoniker": "ElProApp.Web\\Program.cs",
+              "ToolTip": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\Web\\ElProApp\\ElProApp\\ElProApp.Web\\Program.cs",
+              "RelativeToolTip": "ElProApp.Web\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T05:38:53.868Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Login.cshtml.cs",
+              "DocumentMoniker": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\Web\\ElProApp\\ElProApp\\ElProApp.Web\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "RelativeDocumentMoniker": "ElProApp.Web\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "ToolTip": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\Web\\ElProApp\\ElProApp\\ElProApp.Web\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "RelativeToolTip": "ElProApp.Web\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "ViewState": "AgIAAFsAAAAAAAAAAAAUwGoAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T05:35:52.076Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\Web\\ElProApp\\ElProApp\\ElProApp.Web\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "ElProApp.Web\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "ToolTip": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\Web\\ElProApp\\ElProApp\\ElProApp.Web\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "RelativeToolTip": "ElProApp.Web\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAcwCEAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-06T05:35:19.226Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ScaffoldingReadMe.txt",
+              "DocumentMoniker": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\Web\\ElProApp\\ElProApp\\ElProApp.Web\\ScaffoldingReadMe.txt",
+              "RelativeDocumentMoniker": "ElProApp.Web\\ScaffoldingReadMe.txt",
+              "ToolTip": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\Web\\ElProApp\\ElProApp\\ElProApp.Web\\ScaffoldingReadMe.txt",
+              "RelativeToolTip": "ElProApp.Web\\ScaffoldingReadMe.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-10-06T05:33:51.738Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }

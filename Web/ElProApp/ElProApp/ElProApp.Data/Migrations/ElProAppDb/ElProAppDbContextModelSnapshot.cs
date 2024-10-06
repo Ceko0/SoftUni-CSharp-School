@@ -41,6 +41,11 @@ namespace ElProApp.Data.Migrations.ElProAppDb
                         .HasMaxLength(20)
                         .HasColumnType("nvarchar(20)");
 
+                    b.Property<string>("LoginId")
+                        .IsRequired()
+                        .HasMaxLength(450)
+                        .HasColumnType("nvarchar(450)");
+
                     b.Property<decimal>("MoneyToTake")
                         .HasColumnType("decimal(6, 2)");
 
@@ -50,26 +55,6 @@ namespace ElProApp.Data.Migrations.ElProAppDb
                     b.HasKey("Id");
 
                     b.ToTable("Employees");
-
-                    b.HasData(
-                        new
-                        {
-                            Id = new Guid("acd24a8d-ee72-41c1-b485-55181b226727"),
-                            EmployeeTeamId = new Guid("00000000-0000-0000-0000-000000000000"),
-                            FirstName = "Georgi",
-                            LastName = "Petrov",
-                            MoneyToTake = 100.00m,
-                            Wages = 80.00m
-                        },
-                        new
-                        {
-                            Id = new Guid("3ed03724-0a27-43d1-8689-abf8ca8e9751"),
-                            EmployeeTeamId = new Guid("00000000-0000-0000-0000-000000000000"),
-                            FirstName = "Spas",
-                            LastName = "Georgiev",
-                            MoneyToTake = 100.00m,
-                            Wages = 90.00m
-                        });
                 });
 
             modelBuilder.Entity("ElProApp.Data.Models.EmployeeTeamMapping", b =>

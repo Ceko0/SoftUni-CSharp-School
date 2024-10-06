@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ElProApp.Common")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fe0ed33ef51dd7129078ab155d400d407437da3b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2af7713e8aca895c18d4ba90aaa5091d4aa5f1d2")]
 [assembly: System.Reflection.AssemblyProductAttribute("ElProApp.Common")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ElProApp.Common")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

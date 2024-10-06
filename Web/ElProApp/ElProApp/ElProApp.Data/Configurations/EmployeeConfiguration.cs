@@ -3,7 +3,7 @@
 
     using Microsoft.EntityFrameworkCore;
     using Microsoft.EntityFrameworkCore.Metadata.Builders;
-    using static Common.EntityValidationConstants.employee;
+    using static Common.EntityValidationConstants.Employee;
     using Models;
     public class EmployeeConfiguration : IEntityTypeConfiguration<Employee>
     {
@@ -11,6 +11,10 @@
         {
             builder
                 .HasKey(e => e.Id);
+            builder
+                .Property(e => e.LoginId)
+                .IsRequired()
+                .HasMaxLength(450);
 
             builder.Property(e => e.FirstName)
                 .IsRequired()
@@ -27,11 +31,7 @@
             builder
                 .Property(e => e.MoneyToTake)
                 .HasColumnType("decimal(6, 2)");
-
-
-
-            builder
-                .HasData(this.SeedEmployees());
+            builder.Property(e => e.LoginId);
 
         }
 

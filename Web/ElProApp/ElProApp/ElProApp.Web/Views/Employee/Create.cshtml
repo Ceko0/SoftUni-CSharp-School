@@ -5,24 +5,26 @@
 <h2>Добавяне на служител</h2>
 
 <form asp-action="Create" method="post">
+    <input type="hidden" asp-for="LoginId" value="@Model.LoginId" />
+    <input type="hidden" asp-for="Id" value="@Model.Id" />
     <div>
         <label for="FirstName">Име</label>
-        <input asp-for="FirstName" class="form-control" />
+        <input asp-for="FirstName" class="form-control"/>
         <span asp-validation-for="FirstName" class="text-primary"></span>
     </div>
     <div>
         <label for="LastName">Фамилия</label>
-        <input asp-for="LastName" class="form-control" />
+        <input asp-for="LastName" class="form-control"/>
         <span asp-validation-for="LastName" class="text-primary"></span>
     </div>
     <div>
         <label for="Wages">Дневно възнаграждение</label>
-        <input asp-for="Wages" class="form-control" />
+        <input asp-for="Wages" class="form-control"/>
         <span asp-validation-for="Wages" class="text-primary"></span>
     </div>
     <div>
         <label for="MoneyToTake">Останали пари за взимане</label>
-        <input asp-for="MoneyToTake" class="form-control" />
+        <input asp-for="MoneyToTake" class="form-control"/>
         <span asp-validation-for="MoneyToTake" class="text-primary"></span>
     </div>
 
