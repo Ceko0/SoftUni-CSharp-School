@@ -1,10 +1,11 @@
 ﻿namespace ElProApp.Data.Configurations
 {
-
     using Microsoft.EntityFrameworkCore;
     using Microsoft.EntityFrameworkCore.Metadata.Builders;
+
     using static Common.EntityValidationConstants.Employee;
     using Models;
+
     public class EmployeeConfiguration : IEntityTypeConfiguration<Employee>
     {
         public void Configure(EntityTypeBuilder<Employee> builder)

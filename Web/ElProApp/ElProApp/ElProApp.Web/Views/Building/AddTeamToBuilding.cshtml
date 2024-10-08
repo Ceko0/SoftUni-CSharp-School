@@ -1,0 +1,25 @@
+﻿@using ElProApp.Web.ViewModels.Building
+@using ElProApp.Web.ViewModels.Team
+
+@model AddTeamToBuildingInputModel
+
+<h2>Добавяне на екип към обект: @Model.name</h2>
+
+<form asp-action="AddTeamToBuilding">
+    <input type="hidden" name="teamId" value="@Model.Id" />
+
+    <div>
+        @foreach (TeamCheckBoxItemInputModel team in Model.TeamMapping)
+        {
+            <div>
+                <label>
+                    <input type="checkbox" name="TeamIds" value="@team.Id" />
+                    @team.Name
+                </label>
+            </div>
+        }
+    </div>
+
+    <button type="submit">Submit</button>
+</form>
+<a asp-controller="Home" asp-action="Index" class="btn btn-primary">Назад</a>

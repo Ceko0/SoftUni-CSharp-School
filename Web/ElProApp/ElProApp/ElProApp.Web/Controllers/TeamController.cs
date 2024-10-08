@@ -1,12 +1,14 @@
-﻿using ElProApp.Data;
-using ElProApp.Data.Models;
-using ElProApp.Web.ViewModels.Employee;
-using ElProApp.Web.ViewModels.Team;
-using Microsoft.AspNetCore.Mvc;
-using Microsoft.EntityFrameworkCore;
-
-namespace ElProApp.Web.Controllers
+﻿namespace ElProApp.Web.Controllers
 {
+    using Microsoft.AspNetCore.Mvc;
+    using Microsoft.EntityFrameworkCore;
+
+    using Data;
+    using Data.Models;
+    using Data.Models.Mapping;
+    using ViewModels.Employee;
+    using ViewModels.Team;
+    
     public class TeamController(ElProAppDbContext DbContext) : Controller
     {
         private readonly ElProAppDbContext dbContext = DbContext;
@@ -48,10 +50,10 @@ namespace ElProApp.Web.Controllers
         [HttpGet]
         public async Task<IActionResult> Details(Guid id)
         {
-        
+
             Team? team = await dbContext.Teams
                 .Include(t => t.EmployeesMapping)
-                .ThenInclude(etm => etm.Employee) 
+                .ThenInclude(etm => etm.Employee)
                 .FirstOrDefaultAsync(et => et.Id == id);
 
             if (team == null)
@@ -66,7 +68,7 @@ namespace ElProApp.Web.Controllers
                 EmployeeMapping = team.EmployeesMapping
                     .Select(etm => new EmployeeViewModel
                     {
-                        Id = etm.Employee.Id, 
+                        Id = etm.Employee.Id,
                         FirstName = etm.Employee.FirstName,
                         LastName = etm.Employee.LastName
                     })
@@ -80,7 +82,7 @@ namespace ElProApp.Web.Controllers
 
         public async Task<IActionResult> AddToTeam(Guid id)
         {
-       
+
             Team? team = await this.dbContext.Teams
                 .FirstOrDefaultAsync(et => et.Id == id);
 
@@ -95,15 +97,15 @@ namespace ElProApp.Web.Controllers
                 TeamName = team.Name,
                 Employees = await this.dbContext
                     .Employees
-                    .Include(e => e.EmployeeTeamsMapping)
+                    .Include(e => e.TeamsMapping)
                     .ThenInclude(et => et.Team)
                     .Select(e => new EmployeeCheckBoxItemInputModel()
                     {
                         Id = e.Id,
                         EmployeeFirstName = e.FirstName,
                         EmployeeLastName = e.LastName,
-                        IsSelected = e.EmployeeTeamsMapping
-                            .Any(etm => etm.EmployeeTeamId == id)
+                        IsSelected = e.TeamsMapping
+                            .Any(etm => etm.TeamId == id)
                     })
                     .ToArrayAsync()
             };
@@ -114,7 +116,7 @@ namespace ElProApp.Web.Controllers
         [HttpPost]
         public async Task<IActionResult> AddToTeam(Guid teamId, List<string> employeeIds)
         {
-      
+
             var team = await dbContext.Teams.FirstOrDefaultAsync(t => t.Id == teamId);
             if (team == null)
             {
@@ -126,15 +128,15 @@ namespace ElProApp.Web.Controllers
                 if (Guid.TryParse(employeeIdStr, out Guid employeeId))
                 {
                     bool isAlreadyInTeam = await dbContext.EmployeeTeamMappings
-                        .AnyAsync(etm => etm.EmployeeId == employeeId && etm.EmployeeTeamId == teamId);
+                        .AnyAsync(etm => etm.EmployeeId == employeeId && etm.TeamId == teamId);
 
                     if (!isAlreadyInTeam)
                     {
                         var employeeTeamMapping = new EmployeeTeamMapping
                         {
-                            id = (employeeId,teamId).ToString(),
+                            id = (employeeId, teamId).ToString(),
                             EmployeeId = employeeId,
-                            EmployeeTeamId = teamId
+                            TeamId = teamId
                         };
 
                         await dbContext.EmployeeTeamMappings.AddAsync(employeeTeamMapping);

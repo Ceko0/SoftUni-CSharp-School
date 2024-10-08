@@ -1,5 +1,5 @@
 ﻿@using ElProApp.Web.ViewModels.Team;
-@using Microsoft.AspNetCore.Mvc.TagHelpers
+
 @model TeamInputModel
 
 <h2>Добавяне на Екип</h2>
@@ -11,7 +11,8 @@
         <span asp-validation-for="Name" class="text-primary"></span>
     </div>
 
-    <button type="submit" class="btn btn-primary mt-2">Добави служител към екип</button>
+    <button type="submit" class="btn btn-primary mt-2">Добави екип</button>
 </form>
 
 <a asp-action="Index">Назад към списък екипи</a>
+<a asp-controller="Home" asp-action="Index" class="btn btn-primary">Назад</a>

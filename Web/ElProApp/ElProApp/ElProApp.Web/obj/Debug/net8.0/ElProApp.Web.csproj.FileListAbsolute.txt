@@ -448,3 +448,4 @@ D:\ProgramsScool\Git Hub\SoftUni-CSharp\Web\ElProApp\ElProApp\ElProApp.Web\bin\D
 D:\ProgramsScool\Git Hub\SoftUni-CSharp\Web\ElProApp\ElProApp\ElProApp.Web\bin\Debug\net8.0\runtimes\win-arm64\native\e_sqlite3.dll
 D:\ProgramsScool\Git Hub\SoftUni-CSharp\Web\ElProApp\ElProApp\ElProApp.Web\bin\Debug\net8.0\runtimes\win-x64\native\e_sqlite3.dll
 D:\ProgramsScool\Git Hub\SoftUni-CSharp\Web\ElProApp\ElProApp\ElProApp.Web\bin\Debug\net8.0\runtimes\win-x86\native\e_sqlite3.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Web\ElProApp\ElProApp\ElProApp.Web\bin\Debug\net8.0\System.ClientModel.dll

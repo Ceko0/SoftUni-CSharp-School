@@ -13,7 +13,7 @@ namespace ElProApp.Common
         {
             public const string ErrorMassageNameMinLength = "Името трябва да бъде поне 2 символа.";
             public const string ErrorMassageNameMaxLength = "Името не може да надвишава 20 символа.";
-            public const string ErrorMassageWages = "Стойността трябва да е с максимум 4 цифри преди и 2 след десетичната запетая.";
+            public const string ErrorMassageMoney = "Стойността трябва да е с максимум 4 цифри преди и 2 след десетичната запетая.";
         }
 
         public static class Building

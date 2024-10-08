@@ -1,33 +1,29 @@
-﻿using ElProApp.Data;
-using ElProApp.Data.Models;
-using ElProApp.Web.ViewModels.Employee;
-using Microsoft.AspNetCore.Mvc;
-using Microsoft.EntityFrameworkCore;
-
-
-namespace ElProApp.Web.Controllers
+﻿namespace ElProApp.Web.Controllers
 {
-    public class EmployeeController : Controller
-    {
-        private readonly ElProAppDbContext dbContext;
+    using Microsoft.AspNetCore.Mvc;
+    using Microsoft.EntityFrameworkCore;
 
-        public EmployeeController(ElProAppDbContext DbContext)
-        {
-            this.dbContext = DbContext;
-        }
+    using Data;
+    using Data.Models;
+    using ViewModels.Employee;
+    using ViewModels.Team;
+
+    public class EmployeeController(ElProAppDbContext dbContext) : Controller
+    {
         [HttpGet]
         public async Task<IActionResult> Index()
         {
             IEnumerable<Employee> allEmployees = await dbContext
                 .Employees
                 .ToListAsync();
+
             return View(allEmployees);
         }
 
         [HttpGet]
         public IActionResult Create(string loginId)
         {
-            var model = new EmployeeInputModel
+            EmployeeInputModel model = new EmployeeInputModel
             {
                 LoginId = loginId,
                 Id = Guid.NewGuid()
@@ -38,10 +34,7 @@ namespace ElProApp.Web.Controllers
         [HttpPost]
         public async Task<IActionResult> Create(EmployeeInputModel inputModel)
         {
-            if (!this.ModelState.IsValid)
-            {
-                return this.View(inputModel);
-            }
+            if (!this.ModelState.IsValid) return this.View(inputModel);
 
             string loginId = inputModel.LoginId;
 
@@ -54,8 +47,8 @@ namespace ElProApp.Web.Controllers
                 MoneyToTake = inputModel.MoneyToTake
             };
 
-            await this.dbContext.Employees.AddAsync(employee);
-            await this.dbContext.SaveChangesAsync();
+            await dbContext.Employees.AddAsync(employee);
+            await dbContext.SaveChangesAsync();
 
             return this.RedirectToAction(nameof(Index));
         }
@@ -66,8 +59,10 @@ namespace ElProApp.Web.Controllers
             bool isValidGuid = Guid.TryParse(id, out Guid guidId);
             if (!isValidGuid) return this.RedirectToAction(nameof(Index));
 
-            Employee? employee = await this.dbContext
+            Employee? employee = await dbContext
                 .Employees
+                .Include(e => e.TeamsMapping)
+                .ThenInclude(tm => tm.Team)
                 .FirstOrDefaultAsync(e => e.Id == guidId);
 
             if (employee == null)
@@ -75,7 +70,26 @@ namespace ElProApp.Web.Controllers
                 return RedirectToAction(nameof(Index));
             }
 
-            return View(employee);
+            EmployeeViewModel? viewModel = new EmployeeViewModel
+            {
+                Id = employee.Id,
+                LoginId = employee.LoginId,
+                FirstName = employee.FirstName,
+                LastName = employee.LastName,
+                Wages = employee.Wages,
+                MoneyToTake = employee.MoneyToTake,
+                TeamMapping = employee.TeamsMapping
+                    .Select(tm => new TeamViewModel
+                    {
+                        id = tm.Team.Id,
+                        Name = tm.Team.Name
+                    })
+                    .ToHashSet()
+
+            };
+
+            return View(viewModel);
         }
+
     }
 }

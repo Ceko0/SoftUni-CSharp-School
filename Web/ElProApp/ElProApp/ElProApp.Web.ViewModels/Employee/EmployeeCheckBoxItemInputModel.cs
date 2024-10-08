@@ -1,9 +1,9 @@
-﻿using System.ComponentModel.DataAnnotations;
-
-using static ElProApp.Common.EntityValidationConstants.Team;
-
-namespace ElProApp.Web.ViewModels.Employee
+﻿namespace ElProApp.Web.ViewModels.Employee
 {
+    using System.ComponentModel.DataAnnotations;
+
+    using static ElProApp.Common.EntityValidationConstants.Team;
+
     public class EmployeeCheckBoxItemInputModel
     {
         [Required]

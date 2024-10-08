@@ -9,10 +9,10 @@
 
         }
 
-        public static class building
+        public static class Building
         {
-            public const int BuildingNameMinLength = 3;
-            public const int BuildingNameMaxLength = 50;
+            public const int NameMinLength = 3;
+            public const int NameMaxLength = 50;
             public const int LocationMinLength = 10;
             public const int LocationMaxLength = 100;
         }

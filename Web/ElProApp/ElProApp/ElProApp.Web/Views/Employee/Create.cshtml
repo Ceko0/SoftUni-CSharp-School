@@ -23,12 +23,12 @@
         <span asp-validation-for="Wages" class="text-primary"></span>
     </div>
     <div>
-        <label for="MoneyToTake">Останали пари за взимане</label>
+        <label for="MoneyToTake">Останали пари за вземане</label>
         <input asp-for="MoneyToTake" class="form-control"/>
         <span asp-validation-for="MoneyToTake" class="text-primary"></span>
     </div>
 
     <button type="submit" class="btn btn-primary mt-2">Добави служител</button>
 </form>
-
+<a asp-controller="Home" asp-action="Index" class="btn btn-primary">Назад</a>
 <a asp-action="Index">Назад към списък служители</a>

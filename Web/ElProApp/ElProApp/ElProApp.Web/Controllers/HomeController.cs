@@ -1,9 +1,11 @@
-using ElProApp.Web.ViewModels;
-using Microsoft.AspNetCore.Mvc;
-using System.Diagnostics;
-
 namespace ElProApp.Web.Controllers
 {
+    using System.Diagnostics;
+    using Microsoft.AspNetCore.Mvc;
+
+    using ViewModels;
+
+
     public class HomeController : Controller
     {
         private readonly ILogger<HomeController> _logger;

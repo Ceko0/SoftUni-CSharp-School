@@ -1,0 +1,28 @@
+﻿@using ElProApp.Data.Models
+@model IEnumerable<Building>
+
+<h2>Всички обекти</h2>
+
+<table class="table table-striped">
+    <thead>
+        <tr>
+            <th>Име</th>
+            <th>Локация</th>
+            <th>Actions</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (Building building in Model)
+        {
+            <tr>
+                <td>@building.Name</td>
+                <td>@building.Location</td>
+                <td>
+                    <a asp-action="Details" asp-route-id="@building.Id" class="btn btn-info">Детайли</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+<a asp-controller="Home" asp-action="Index" class="btn btn-primary">Назад</a>
+<a asp-action="Create" class="btn btn-primary">Добави обект</a>

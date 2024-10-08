@@ -1,18 +1,19 @@
-﻿using System.ComponentModel.DataAnnotations;
-using ElProApp.Web.ViewModels.Employee;
-
-using static ElProApp.Common.EntityValidationConstants.Employee;
-
-namespace ElProApp.Web.ViewModels.Team
+﻿namespace ElProApp.Web.ViewModels.Team
 {
+    using System.ComponentModel.DataAnnotations;
+    using Employee;
+
+    using static ElProApp.Common.EntityValidationConstants.Employee;
+    using static Common.EntityValidationErrorMessage.Master;
+    using static Common.EntityValidationErrorMessage.Team;
+
     public class AddEmployeeToTeamInputModel
     {
-        [Required]
-        public  Guid Id { get; set; }
+        public Guid Id { get; set; }
 
-        [Required]
-        [MinLength(NameMinLength)]
-        [MaxLength(NameMaxLength)]
+        [Required(ErrorMessage = ErrorMassageFieldForNameIsRequired)]
+        [MinLength(NameMinLength, ErrorMessage = ErrorMassageNameMinLength)]
+        [MaxLength(NameMaxLength, ErrorMessage = ErrorMassageNameMaxLength)]
         public string TeamName { get; set; }
 
         public IEnumerable<EmployeeCheckBoxItemInputModel> Employees { get; set; } =

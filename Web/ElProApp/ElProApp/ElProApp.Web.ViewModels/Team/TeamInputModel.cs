@@ -1,12 +1,12 @@
-﻿using ElProApp.Common;
-
-namespace ElProApp.Web.ViewModels.Team
+﻿namespace ElProApp.Web.ViewModels.Team
 {
-    using Employee;
     using System.ComponentModel.DataAnnotations;
+
     using static Common.EntityValidationConstants.Team;
     using static Common.EntityValidationErrorMessage.Team;
-    using static EntityValidationErrorMessage.Master;
+    using static Common.EntityValidationErrorMessage.Master;
+    using Employee;
+
     public class TeamInputModel
     {
         public Guid Id { get; set; }

@@ -1,7 +1,6 @@
-﻿
+﻿@using Microsoft.AspNetCore.Mvc.TagHelpers
 @using ElProApp.Web.ViewModels.Employee
 @using ElProApp.Web.ViewModels.Team;
-@using Microsoft.AspNetCore.Mvc.TagHelpers
 
 @model TeamViewModel
 @{
@@ -31,6 +30,6 @@
         }
     </tbody>
 </table>
-
+<a asp-controller="Home" asp-action="Index" class="btn btn-primary">Назад</a>
 <a asp-action="Index" class="btn btn-primary">Назад към списъка с екипи</a>
 <a asp-action="AddToTeam" asp-route-id="@Model.id" class="btn btn-primary">Добави служител</a>
