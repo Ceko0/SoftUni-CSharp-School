@@ -89,7 +89,11 @@
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
-            "projectReferences": {}
+            "projectReferences": {
+              "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\Web\\ElProApp\\ElProApp\\ElProApp.Common\\ElProApp.Common.csproj": {
+                "projectPath": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\Web\\ElProApp\\ElProApp\\ElProApp.Common\\ElProApp.Common.csproj"
+              }
+            }
           }
         },
         "warningProperties": {
@@ -106,6 +110,12 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.Abstractions": {
+              "target": "Package",
+              "version": "[8.0.10, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -175,17 +185,19 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "dependencies": {
-            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
-              "target": "Package",
-              "version": "[8.0.8, )"
-            },
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
-              "version": "[8.0.8, )"
+              "version": "[8.0.10, )"
             },
             "Microsoft.EntityFrameworkCore.SqlServer": {
               "target": "Package",
-              "version": "[8.0.8, )"
+              "version": "[8.0.10, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.10, )"
             }
           },
           "imports": [
@@ -232,11 +244,7 @@
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
-            "projectReferences": {
-              "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\Web\\ElProApp\\ElProApp\\ElProApp.Common\\ElProApp.Common.csproj": {
-                "projectPath": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\Web\\ElProApp\\ElProApp\\ElProApp.Common\\ElProApp.Common.csproj"
-              }
-            }
+            "projectReferences": {}
           }
         },
         "warningProperties": {
@@ -298,6 +306,9 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
+              "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\Web\\ElProApp\\ElProApp\\ElProApp.Common\\ElProApp.Common.csproj": {
+                "projectPath": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\Web\\ElProApp\\ElProApp\\ElProApp.Common\\ElProApp.Common.csproj"
+              },
               "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\Web\\ElProApp\\ElProApp\\ElProApp.Data\\ElProApp.Data.csproj": {
                 "projectPath": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\Web\\ElProApp\\ElProApp\\ElProApp.Data\\ElProApp.Data.csproj"
               },
@@ -322,43 +333,27 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "dependencies": {
-            "Azure.Identity": {
+            "Microsoft.EntityFrameworkCore": {
               "target": "Package",
-              "version": "[1.12.1, )"
+              "version": "[8.0.10, )"
             },
-            "Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore": {
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
               "target": "Package",
-              "version": "[8.0.8, )"
-            },
-            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
-              "target": "Package",
-              "version": "[8.0.8, )"
-            },
-            "Microsoft.AspNetCore.Identity.UI": {
-              "target": "Package",
-              "version": "[8.0.8, )"
+              "version": "[8.0.10, )"
             },
             "Microsoft.EntityFrameworkCore.SqlServer": {
               "target": "Package",
-              "version": "[8.0.8, )"
-            },
-            "Microsoft.EntityFrameworkCore.Sqlite": {
-              "target": "Package",
-              "version": "[8.0.8, )"
+              "version": "[8.0.10, )"
             },
             "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
               "target": "Package",
-              "version": "[8.0.8, )"
+              "version": "[8.0.10, )"
             },
-            "Microsoft.Identity.Client": {
-              "target": "Package",
-              "version": "[4.65.0, )"
-            },
-            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
-              "target": "Package",
-              "version": "[8.0.5, )"
-            },
-            "System.Formats.Asn1": {
+            "Microsoft.Extensions.DependencyInjection": {
               "target": "Package",
               "version": "[8.0.1, )"
             }

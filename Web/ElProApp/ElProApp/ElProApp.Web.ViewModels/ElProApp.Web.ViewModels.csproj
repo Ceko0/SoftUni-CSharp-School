@@ -6,8 +6,4 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
-  <ItemGroup>
-    <ProjectReference Include="..\ElProApp.Common\ElProApp.Common.csproj" />
-  </ItemGroup>
-
 </Project>

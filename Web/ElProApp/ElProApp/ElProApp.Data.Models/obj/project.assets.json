@@ -1,11 +1,59 @@
 {
   "version": 3,
   "targets": {
-    "net8.0": {}
+    "net8.0": {
+      "Microsoft.EntityFrameworkCore.Abstractions/8.0.10": {
+        "type": "package",
+        "compile": {
+          "lib/net8.0/Microsoft.EntityFrameworkCore.Abstractions.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net8.0/Microsoft.EntityFrameworkCore.Abstractions.dll": {
+            "related": ".xml"
+          }
+        }
+      },
+      "ElProApp.Common/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/ElProApp.Common.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ElProApp.Common.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "Microsoft.EntityFrameworkCore.Abstractions/8.0.10": {
+      "sha512": "FV0QlcX9INY4kAD2o72uPtyOh0nZut2jB11Jf9mNYBtHay8gDLe+x4AbXFwuQg+eSvofjT7naV82e827zGfyMg==",
+      "type": "package",
+      "path": "microsoft.entityframeworkcore.abstractions/8.0.10",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "Icon.png",
+        "PACKAGE.md",
+        "lib/net8.0/Microsoft.EntityFrameworkCore.Abstractions.dll",
+        "lib/net8.0/Microsoft.EntityFrameworkCore.Abstractions.xml",
+        "microsoft.entityframeworkcore.abstractions.8.0.10.nupkg.sha512",
+        "microsoft.entityframeworkcore.abstractions.nuspec"
+      ]
+    },
+    "ElProApp.Common/1.0.0": {
+      "type": "project",
+      "path": "../ElProApp.Common/ElProApp.Common.csproj",
+      "msbuildProject": "../ElProApp.Common/ElProApp.Common.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    "net8.0": []
+    "net8.0": [
+      "ElProApp.Common >= 1.0.0",
+      "Microsoft.EntityFrameworkCore.Abstractions >= 8.0.10"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\falen\\.nuget\\packages\\": {}
@@ -34,7 +82,11 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\Web\\ElProApp\\ElProApp\\ElProApp.Common\\ElProApp.Common.csproj": {
+              "projectPath": "D:\\ProgramsScool\\Git Hub\\SoftUni-CSharp\\Web\\ElProApp\\ElProApp\\ElProApp.Common\\ElProApp.Common.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
@@ -51,6 +103,12 @@
     "frameworks": {
       "net8.0": {
         "targetAlias": "net8.0",
+        "dependencies": {
+          "Microsoft.EntityFrameworkCore.Abstractions": {
+            "target": "Package",
+            "version": "[8.0.10, )"
+          }
+        },
         "imports": [
           "net461",
           "net462",

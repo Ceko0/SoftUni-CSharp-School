@@ -1,20 +1,24 @@
 ﻿namespace ElProApp.Data
 {
-    using Microsoft.EntityFrameworkCore;
     using System.Reflection;
-
+    using Microsoft.EntityFrameworkCore;
+    
     using Models;
-    using Models.Mapping;
 
-    public class ElProAppDbContext(DbContextOptions<ElProAppDbContext> options) : DbContext(options)
+    public class ElProAppDbContext : DbContext
     {
-        public virtual DbSet<Employee> Employees { get; set; } = null!;
-        public virtual DbSet<Team> Teams { get; set; } = null!;
-        public virtual DbSet<EmployeeTeamMapping> EmployeeTeamMappings { get; set; } = null!;
-        public virtual DbSet<Building> Buildings { get; set; } = null!;
-        public virtual DbSet<BuildingTeamMapping> BuildingsTeamMappings { get; set; } = null!;
-        public virtual DbSet<JobDone> JobDone { get; set; } = null!;
-        public virtual DbSet<JobDoneTeamMapping> JobDoneTeamMappings { get; set; } = null!;
+        public ElProAppDbContext(DbContextOptions<ElProAppDbContext> option)
+            : base(option)
+        {
+            
+        }
+
+        public DbSet<Building> buildings { get; set; }
+        public DbSet<Employee> employees { get; set; }
+        public DbSet<Job> jobs { get; set; }
+        public DbSet<JobDone> jobsDone { get; set; }
+        public DbSet<Team> teams { get; set; }  
+
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
             modelBuilder.ApplyConfigurationsFromAssembly(Assembly.GetExecutingAssembly());

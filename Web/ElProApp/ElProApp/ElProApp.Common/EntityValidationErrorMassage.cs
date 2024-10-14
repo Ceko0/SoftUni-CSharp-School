@@ -1,19 +1,22 @@
 ﻿
 namespace ElProApp.Common
 {
+    using static EntityValidationConstants;
+
     public static class EntityValidationErrorMessage
     {
         public static class Master
         {
             public const string ErrorMassageFieldIsRequired = "Полето е задължително";
             public const string ErrorMassageFieldForNameIsRequired = "Полето за име е задължително";
+            public const string ErrorMassageQuantityPozitive = "Стойността трябва да е положително число";
         }
 
         public static class Employee
         {
             public const string ErrorMassageNameMinLength = "Името трябва да бъде поне 2 символа.";
             public const string ErrorMassageNameMaxLength = "Името не може да надвишава 20 символа.";
-            public const string ErrorMassageMoney = "Стойността трябва да е с максимум 4 цифри преди и 2 след десетичната запетая.";
+            public const string ErrorMassageWages = "Стойността трябва да е с максимум 4 цифри преди и 2 след десетичната запетая.";
         }
 
         public static class Building
@@ -37,7 +40,7 @@ namespace ElProApp.Common
             public const string ErrorMassagePrice = "Стойността трябва да е с максимум 4 цифри преди и 2 след десетичната запетая.";
         }
 
-        public static class jobDobe
+        public static class JobDobe
         {
             public const string ErrorMassageQuantity = "Стойността трябва да е с максимум 6 цифри преди и до 2 след десетичната запетая.";
             public const string ErrorMassageDaysForJob = "Дните за свършена работа трябва да са между 1 и 30.";

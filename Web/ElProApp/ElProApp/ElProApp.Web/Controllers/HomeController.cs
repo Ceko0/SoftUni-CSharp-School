@@ -1,7 +1,8 @@
+
 namespace ElProApp.Web.Controllers
 {
-    using System.Diagnostics;
     using Microsoft.AspNetCore.Mvc;
+    using System.Diagnostics;
 
     using ViewModels;
 
@@ -16,6 +17,11 @@ namespace ElProApp.Web.Controllers
         }
 
         public IActionResult Index()
+        {
+            return View();
+        }
+
+        public IActionResult Privacy()
         {
             return View();
         }
