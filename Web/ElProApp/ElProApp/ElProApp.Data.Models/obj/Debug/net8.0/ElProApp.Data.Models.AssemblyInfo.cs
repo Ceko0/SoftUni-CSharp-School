@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ElProApp.Data.Models")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ac9f6ab35a5828641bc845e86bacc6021c0a8af9")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bf9ef02484d515fbf8ecabba9d635f5de5e6657b")]
 [assembly: System.Reflection.AssemblyProductAttribute("ElProApp.Data.Models")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ElProApp.Data.Models")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

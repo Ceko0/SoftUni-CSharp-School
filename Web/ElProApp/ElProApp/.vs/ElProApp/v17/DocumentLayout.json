@@ -102,8 +102,16 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 4,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0174dea2-fdbe-4ef1-8f99-c0beae78880f}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 2,
@@ -114,8 +122,7 @@
               "RelativeToolTip": "ElProApp.Data\\Configuration\\TeamConfiguration.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-14T12:03:05.304Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-14T12:03:05.304Z"
             },
             {
               "$type": "Document",
@@ -127,8 +134,7 @@
               "RelativeToolTip": "ElProApp.Data\\Configuration\\JobConfiguration.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-14T11:24:32.744Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-14T11:24:32.744Z"
             },
             {
               "$type": "Document",
@@ -153,8 +159,7 @@
               "RelativeToolTip": "ElProApp.Data\\Configuration\\BuildingConfiguration.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-14T11:52:07.391Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-14T11:52:07.391Z"
             },
             {
               "$type": "Document",
@@ -166,8 +171,7 @@
               "RelativeToolTip": "ElProApp.Data\\Configuration\\Mapping\\JobDoneTeamMappingConfiguration.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-14T11:51:19.045Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-14T11:51:19.045Z"
             },
             {
               "$type": "Document",
@@ -179,8 +183,7 @@
               "RelativeToolTip": "ElProApp.Data\\Configuration\\Mapping\\BuildingTeamMappingConfiguration.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-14T11:49:01.482Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-14T11:49:01.482Z"
             },
             {
               "$type": "Document",
@@ -192,8 +195,7 @@
               "RelativeToolTip": "ElProApp.Data\\Configuration\\Mapping\\EmployeeTeamMappingConfiguration.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-14T11:44:42.558Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-14T11:44:42.558Z"
             },
             {
               "$type": "Document",
@@ -205,8 +207,7 @@
               "RelativeToolTip": "ElProApp.Data.Models\\Mappings\\BuildingTeamMapping.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-14T10:10:53.923Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-14T10:10:53.923Z"
             },
             {
               "$type": "Document",
@@ -218,8 +219,7 @@
               "RelativeToolTip": "ElProApp.Data\\Configuration\\JobDoneConfiguration.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-14T11:33:56.04Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-14T11:33:56.04Z"
             },
             {
               "$type": "Document",
@@ -231,8 +231,7 @@
               "RelativeToolTip": "ElProApp.Data.Models\\Building.cs",
               "ViewState": "AgIAAAsAAAAAAAAAAAAxwB0AAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-14T10:10:06.486Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-14T10:10:06.486Z"
             },
             {
               "$type": "Document",
@@ -244,8 +243,7 @@
               "RelativeToolTip": "ElProApp.Data.Models\\Team.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAB7AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-14T10:13:44.197Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-14T10:13:44.197Z"
             },
             {
               "$type": "Document",
@@ -257,8 +255,7 @@
               "RelativeToolTip": "ElProApp.Data.Models\\Mappings\\JobDoneTeamMapping.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-14T10:15:39.684Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-14T10:15:39.684Z"
             },
             {
               "$type": "Document",
@@ -270,8 +267,7 @@
               "RelativeToolTip": "ElProApp.Data.Models\\Mappings\\EmployeeTeamMapping.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-14T11:40:26.17Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-14T11:40:26.17Z"
             },
             {
               "$type": "Document",
@@ -283,8 +279,7 @@
               "RelativeToolTip": "ElProApp.Data.Models\\JobDone.cs",
               "ViewState": "AgIAAAoAAAAAAAAAAAAxwBMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-14T10:18:46.208Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-14T10:18:46.208Z"
             },
             {
               "$type": "Document",
@@ -296,16 +291,7 @@
               "RelativeToolTip": "ElProApp.Data.Models\\Job.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-14T11:24:11.448Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{0174dea2-fdbe-4ef1-8f99-c0beae78880f}"
+              "WhenOpened": "2024-10-14T11:24:11.448Z"
             },
             {
               "$type": "Document",
@@ -317,8 +303,7 @@
               "RelativeToolTip": "ElProApp.Data.Models\\Employee.cs",
               "ViewState": "AgIAAA4AAAAAAAAAAAA1wCkAAACCAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-14T10:10:10.836Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-14T10:10:10.836Z"
             },
             {
               "$type": "Document",
@@ -330,8 +315,7 @@
               "RelativeToolTip": "ElProApp.Web\\Views\\_ViewImports.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-14T10:09:39.312Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-14T10:09:39.312Z"
             },
             {
               "$type": "Document",
@@ -343,8 +327,7 @@
               "RelativeToolTip": "ElProApp.Web\\Controllers\\HomeController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-14T10:09:02.514Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-14T10:09:02.514Z"
             },
             {
               "$type": "Document",
@@ -356,8 +339,7 @@
               "RelativeToolTip": "ElProApp.Web\\Views\\Shared\\_Layout.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-14T10:08:42.12Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-14T10:08:42.12Z"
             },
             {
               "$type": "Document",
@@ -369,8 +351,7 @@
               "RelativeToolTip": "ElProApp.Web\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-14T10:08:40.277Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-14T10:08:40.277Z"
             },
             {
               "$type": "Document",
@@ -382,8 +363,7 @@
               "RelativeToolTip": "ElProApp.Web\\Views\\Shared\\Error.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-14T10:08:34.99Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-14T10:08:34.99Z"
             },
             {
               "$type": "Document",
@@ -395,8 +375,7 @@
               "RelativeToolTip": "ElProApp.Web.ViewModels\\ErrorViewModel.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-14T10:08:21.209Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-14T10:08:21.209Z"
             },
             {
               "$type": "Document",
@@ -408,8 +387,7 @@
               "RelativeToolTip": "ElProApp.Web\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-14T07:13:46.267Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-14T07:13:46.267Z"
             }
           ]
         }
