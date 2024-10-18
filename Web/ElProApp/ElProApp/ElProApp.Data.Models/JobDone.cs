@@ -23,7 +23,7 @@ namespace ElProApp.Data.Models
         public Job Job { get; set; } = null!;
         
         [Required(ErrorMessage = ErrorMassageFieldIsRequired)]
-        [Range(0.01, double.MaxValue, ErrorMessage = ErrorMassageQuantityPozitive)]
+        [Range(0.01, double.MaxValue, ErrorMessage = ErrorMassagePozitive)]
         [RegularExpression(@"^\d{1,6}(\.\d{1,2})?$", ErrorMessage = ErrorMassageQuantity)]
         [Comment("Quantity of work completed")]
         public decimal Quantity { get; set; }

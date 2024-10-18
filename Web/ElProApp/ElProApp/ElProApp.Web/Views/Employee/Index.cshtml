@@ -1,0 +1,27 @@
+﻿@using ElProApp.Data.Models
+@model IEnumerable<Employee>
+
+<h2>Всички служители</h2>
+
+<table class="table table-striped">
+    <thead>
+    <tr>
+        <th>Име</th>
+        <th>Фамилия</th>
+        <th>Actions</th>
+    </tr>
+    </thead>
+    <tbody>
+    @foreach (var employee in Model)
+    {
+        <tr>
+            <td>@employee.FirstName</td>
+            <td>@employee.LastName</td>
+            <td>
+                <a asp-action="Details" asp-route-id="@employee.Id" class="btn btn-info">Детайли</a>
+            </td>
+        </tr>
+    }
+    </tbody>
+</table>
+

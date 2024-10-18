@@ -9,13 +9,13 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Data", "Data", "{9F956262-B
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Web", "Web", "{45315417-F565-415A-A8CA-8DFB6DDB780E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ElProApp.Common", "ElProApp.Common\ElProApp.Common.csproj", "{E80A453C-8273-4F5C-B175-5EB8A4480B63}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ElProApp.Common", "ElProApp.Common\ElProApp.Common.csproj", "{E80A453C-8273-4F5C-B175-5EB8A4480B63}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ElProApp.Data", "ElProApp.Data\ElProApp.Data.csproj", "{3A15ED5E-1477-48CA-86DA-B02E6727C558}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ElProApp.Data", "ElProApp.Data\ElProApp.Data.csproj", "{3A15ED5E-1477-48CA-86DA-B02E6727C558}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ElProApp.Data.Models", "ElProApp.Data.Models\ElProApp.Data.Models.csproj", "{2F8309D1-B09C-4A5A-A83F-733B78945B95}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ElProApp.Data.Models", "ElProApp.Data.Models\ElProApp.Data.Models.csproj", "{2F8309D1-B09C-4A5A-A83F-733B78945B95}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ElProApp.Web.ViewModels", "ElProApp.Web.ViewModels\ElProApp.Web.ViewModels.csproj", "{706740E9-E18A-450C-84A5-AD6B20ADA593}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ElProApp.Web.ViewModels", "ElProApp.Web.ViewModels\ElProApp.Web.ViewModels.csproj", "{706740E9-E18A-450C-84A5-AD6B20ADA593}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

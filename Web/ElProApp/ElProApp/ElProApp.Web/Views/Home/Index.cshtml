@@ -1,8 +1,11 @@
 ﻿@{
-    ViewData["Title"] = "Home Page";
+    ViewData["Title"] = "Начална страница";
 }
 
 <div class="text-center">
-    <h1 class="display-4">Welcome</h1>
-    <p>Learn about <a href="https://learn.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+    <h1 class="display-4">El Pro BG</h1>
+    <p>Добре дошли в El Pro BG! Тук служителите могат лесно да въвеждат свършената работа за деня или за по-дълъг период.</p>
+    <p>Регистрирай се или влез в профила си, за да започнеш!</p>
+    <a class="btn btn-primary" href="@Url.Page("/Account/Login", new { area = "Identity" })">Вход</a>
+    <a class="btn btn-secondary" href="@Url.Page("/Account/Register", new { area = "Identity" })">Регистрация</a>
 </div>

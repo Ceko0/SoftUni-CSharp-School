@@ -1,0 +1,17 @@
+﻿@using Microsoft.AspNetCore.Mvc.TagHelpers
+@using ElProApp.Web.ViewModels.Team;
+@model TeamInputModel
+
+<h2>Добавяне на Екип</h2>
+
+<form asp-action="Create" method="post">
+    <div>
+        <label for="Name">Име</label>
+        <input asp-for="Name" class="form-control" />
+        <span asp-validation-for="Name" class="text-primary"></span>
+    </div>
+
+    <button type="submit" class="btn btn-primary mt-2">Добави служител към екип</button>
+</form>
+
+<a asp-action="Index">Назад към списък екипи</a>

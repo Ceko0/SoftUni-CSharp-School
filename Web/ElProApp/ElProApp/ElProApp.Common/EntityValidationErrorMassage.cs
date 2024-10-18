@@ -9,7 +9,7 @@ namespace ElProApp.Common
         {
             public const string ErrorMassageFieldIsRequired = "Полето е задължително";
             public const string ErrorMassageFieldForNameIsRequired = "Полето за име е задължително";
-            public const string ErrorMassageQuantityPozitive = "Стойността трябва да е положително число";
+            public const string ErrorMassagePozitive = "Стойността трябва да е положително число";
         }
 
         public static class Employee

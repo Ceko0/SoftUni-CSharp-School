@@ -1,0 +1,34 @@
+﻿@using ElProApp.Web.ViewModels.Team;
+@using ElProApp.Web.ViewModels.Employee;
+@model TeamViewModel
+
+@{
+    ViewData["Title"] = "Списък със служители в екипа";
+}
+
+<h2>Детайли за екипа: @Model.Name</h2>
+
+<table class="table table-striped">
+    <thead>
+        <tr>
+            <th>Име на служителя</th>
+            <th>Фамилия на служителя</th>
+            <th>Информация за служител</th>
+        </tr>
+    </thead>
+    <tbody>
+       @*  @foreach (EmployeeViewModel employee in Model.EmployeeViewModelList)
+        {
+            <tr>
+                <td>@employee.FirstName</td>
+                <td>@employee.LastName</td>
+                <td>
+                    <a asp-controller="Employee" asp-action="Details" asp-route-id="@employee.Id.ToString()" class="btn btn-info">Детайли</a>
+                </td>
+            </tr>
+        } *@
+    </tbody>
+</table>
+
+<a asp-action="Index" class="btn btn-primary">Назад към списъка с екипи</a>
+<a asp-action="AddToTeam" asp-route-id="@Model.id" class="btn btn-primary">Добави служител</a>

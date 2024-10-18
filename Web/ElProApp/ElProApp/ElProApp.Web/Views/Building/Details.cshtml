@@ -1,0 +1,33 @@
+﻿@using ElProApp.Data.Models
+@model Building
+
+<h2>Информация за обект </h2>
+
+<p><strong>Идентификатор:</strong> @Model.Id</p>
+<p><strong>Име:</strong> @Model.Name</p>
+<p><strong>Адрес:</strong> @Model.Location</p>
+
+<p><strong>Списък с екипи:</strong></p>
+<select id="teamSelect" onchange="location = this.value;">
+    <option value="">Изберете екип</option> 
+    @* @foreach (var teamMembership in Model.BuildingEmployeeTeamMemberships)
+    {
+        <option value="@Url.Action("Index", "Building", new { id = teamMembership.EmployeeTeam.Id })">
+            @teamMembership.EmployeeTeam.Name
+        </option>
+    } *@
+</select>
+<p><strong>Списък със свършена работа:</strong></p>
+<select>
+   @*  @foreach (var jobDoneMembership in Model.BuildingJobDoneMembership)
+    {
+        @foreach (var jobMembership in jobDoneMembership.JobDone.JobJobDoneMembership)
+        {
+            <option value="@jobMembership.Job.Id">
+                @jobMembership.Job.Name
+            </option>
+        }
+    } *@
+</select>
+
+<a asp-action="Index" class="btn btn-primary">Назад към списък със служители</a>

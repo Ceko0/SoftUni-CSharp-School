@@ -1,0 +1,22 @@
+﻿@using ElProApp.Web.ViewModels.Team
+@model AddEmployeeToTeamInputModel
+
+<h2>Add Employees to Team: @Model.TeamName</h2>
+
+<form asp-action="AddToTeam">
+    <input type="hidden" asp-for="Id" />
+    
+    <div>
+        @foreach (var employee in Model.Employees)
+        {
+            <div>
+                <label>
+                    <input type="checkbox" asp-for="@employee.IsSelected" />
+                    @employee.EmployeeFirstName @employee.EmployeeLastName
+                </label>
+            </div>
+        }
+    </div>
+    
+    <button type="submit">Submit</button>
+</form>

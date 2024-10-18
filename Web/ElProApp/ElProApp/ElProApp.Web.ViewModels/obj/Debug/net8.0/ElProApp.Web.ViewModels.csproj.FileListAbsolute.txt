@@ -1,11 +1,15 @@
 D:\ProgramsScool\Git Hub\SoftUni-CSharp\Web\ElProApp\ElProApp\ElProApp.Web.ViewModels\bin\Debug\net8.0\ElProApp.Web.ViewModels.deps.json
 D:\ProgramsScool\Git Hub\SoftUni-CSharp\Web\ElProApp\ElProApp\ElProApp.Web.ViewModels\bin\Debug\net8.0\ElProApp.Web.ViewModels.dll
 D:\ProgramsScool\Git Hub\SoftUni-CSharp\Web\ElProApp\ElProApp\ElProApp.Web.ViewModels\bin\Debug\net8.0\ElProApp.Web.ViewModels.pdb
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Web\ElProApp\ElProApp\ElProApp.Web.ViewModels\bin\Debug\net8.0\ElProApp.Common.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Web\ElProApp\ElProApp\ElProApp.Web.ViewModels\bin\Debug\net8.0\ElProApp.Common.pdb
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Web\ElProApp\ElProApp\ElProApp.Web.ViewModels\obj\Debug\net8.0\ElProApp.Web.ViewModels.csproj.AssemblyReference.cache
 D:\ProgramsScool\Git Hub\SoftUni-CSharp\Web\ElProApp\ElProApp\ElProApp.Web.ViewModels\obj\Debug\net8.0\ElProApp.Web.ViewModels.GeneratedMSBuildEditorConfig.editorconfig
 D:\ProgramsScool\Git Hub\SoftUni-CSharp\Web\ElProApp\ElProApp\ElProApp.Web.ViewModels\obj\Debug\net8.0\ElProApp.Web.ViewModels.AssemblyInfoInputs.cache
 D:\ProgramsScool\Git Hub\SoftUni-CSharp\Web\ElProApp\ElProApp\ElProApp.Web.ViewModels\obj\Debug\net8.0\ElProApp.Web.ViewModels.AssemblyInfo.cs
 D:\ProgramsScool\Git Hub\SoftUni-CSharp\Web\ElProApp\ElProApp\ElProApp.Web.ViewModels\obj\Debug\net8.0\ElProApp.Web.ViewModels.csproj.CoreCompileInputs.cache
 D:\ProgramsScool\Git Hub\SoftUni-CSharp\Web\ElProApp\ElProApp\ElProApp.Web.ViewModels\obj\Debug\net8.0\ElProApp.Web.ViewModels.sourcelink.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\Web\ElProApp\ElProApp\ElProApp.Web.ViewModels\obj\Debug\net8.0\ElProApp.54852E7C.Up2Date
 D:\ProgramsScool\Git Hub\SoftUni-CSharp\Web\ElProApp\ElProApp\ElProApp.Web.ViewModels\obj\Debug\net8.0\ElProApp.Web.ViewModels.dll
 D:\ProgramsScool\Git Hub\SoftUni-CSharp\Web\ElProApp\ElProApp\ElProApp.Web.ViewModels\obj\Debug\net8.0\refint\ElProApp.Web.ViewModels.dll
 D:\ProgramsScool\Git Hub\SoftUni-CSharp\Web\ElProApp\ElProApp\ElProApp.Web.ViewModels\obj\Debug\net8.0\ElProApp.Web.ViewModels.pdb

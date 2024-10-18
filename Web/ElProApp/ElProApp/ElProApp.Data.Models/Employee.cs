@@ -31,7 +31,7 @@
         public decimal Wages { get; set; }
 
         [Required(ErrorMessage = ErrorMassageFieldIsRequired)]
-        [Range(0.01, double.MaxValue, ErrorMessage = ErrorMassageQuantityPozitive)]
+        [Range(0.01, double.MaxValue, ErrorMessage = ErrorMassagePozitive)]
         [Comment("The money the employee has to take, must be a positive value.")]
         public decimal MoneyToTake { get; set; }
 

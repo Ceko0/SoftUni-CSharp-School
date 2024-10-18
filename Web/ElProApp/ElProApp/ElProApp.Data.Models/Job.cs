@@ -17,7 +17,7 @@
         public string Name { get; set; } = null!;
 
         [Required(ErrorMessage = ErrorMassageFieldIsRequired)]
-        [Range(0.01, 9999.99, ErrorMessage = ErrorMassagePrice)]
+        [Range(0.01, 9999.99, ErrorMessage = ErrorMassagePozitive)]
         [RegularExpression(@"^\d{1,4}(\.\d{1,2})?$", ErrorMessage = ErrorMassagePrice)]
         [Comment("The price of the job with up to 4 digits before the decimal point and up to 2 digits after.")]
         public decimal Price { get; set; }

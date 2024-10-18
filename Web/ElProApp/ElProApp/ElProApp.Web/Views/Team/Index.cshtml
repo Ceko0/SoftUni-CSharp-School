@@ -1,0 +1,26 @@
+﻿@using ElProApp.Data.Models
+@model IEnumerable<Team>
+
+<h2>Списък с екипи</h2>
+
+<table class="table table-striped">
+    <thead>
+    <tr>
+        <th>Име</th>
+        <th>Actions</th>
+    </tr>
+    </thead>
+    <tbody>
+    @foreach (var тeam in Model)
+    {
+        <tr>
+            <td>@тeam.Name</td>
+            <td>
+                <a asp-action="Details" asp-route-id="@тeam.Id" class="btn btn-info">Детайли</a>
+            </td>
+        </tr>
+    }
+    </tbody>
+</table>
+
+<a asp-action="Create" class="btn btn-primary">Добави екип</a>

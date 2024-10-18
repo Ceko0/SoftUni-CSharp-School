@@ -1,0 +1,21 @@
+﻿@using ElProApp.Web.ViewModels.Building;
+@model BuildingInputModel
+
+<h2>Добавяне на Обект</h2>
+
+<form asp-action="Create" method="post">
+    <div>
+        <label for="Name">Име</label>
+        <input asp-for="Name" class="form-control" />
+        <span asp-validation-for="Name" class="text-primary"></span>
+    </div>
+    <div>
+        <label for="Location">адрес</label>
+        <input asp-for="Location" class="form-control" />
+        <span asp-validation-for="Location" class="text-primary"></span>
+    </div>
+    
+    <button type="submit" class="btn btn-primary mt-2">Добави обект</button>
+</form>
+
+<a asp-action="Index">Назад към списък обекти</a>
