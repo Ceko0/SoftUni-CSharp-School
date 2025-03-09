@@ -1,0 +1,15 @@
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\DB-January2025\EntityFrameworkCore\05.AdvancedQueryingExercises\BookShop.Models\bin\Debug\net6.0\BookShop.Models.deps.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\DB-January2025\EntityFrameworkCore\05.AdvancedQueryingExercises\BookShop.Models\bin\Debug\net6.0\BookShop.Models.runtimeconfig.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\DB-January2025\EntityFrameworkCore\05.AdvancedQueryingExercises\BookShop.Models\bin\Debug\net6.0\BookShop.Models.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\DB-January2025\EntityFrameworkCore\05.AdvancedQueryingExercises\BookShop.Models\bin\Debug\net6.0\BookShop.Models.pdb
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\DB-January2025\EntityFrameworkCore\05.AdvancedQueryingExercises\BookShop.Models\obj\Debug\net6.0\BookShop.Models.csproj.AssemblyReference.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\DB-January2025\EntityFrameworkCore\05.AdvancedQueryingExercises\BookShop.Models\obj\Debug\net6.0\BookShop.Models.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\DB-January2025\EntityFrameworkCore\05.AdvancedQueryingExercises\BookShop.Models\obj\Debug\net6.0\BookShop.Models.AssemblyInfoInputs.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\DB-January2025\EntityFrameworkCore\05.AdvancedQueryingExercises\BookShop.Models\obj\Debug\net6.0\BookShop.Models.AssemblyInfo.cs
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\DB-January2025\EntityFrameworkCore\05.AdvancedQueryingExercises\BookShop.Models\obj\Debug\net6.0\BookShop.Models.csproj.CoreCompileInputs.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\DB-January2025\EntityFrameworkCore\05.AdvancedQueryingExercises\BookShop.Models\obj\Debug\net6.0\BookShop.Models.sourcelink.json
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\DB-January2025\EntityFrameworkCore\05.AdvancedQueryingExercises\BookShop.Models\obj\Debug\net6.0\BookShop.Models.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\DB-January2025\EntityFrameworkCore\05.AdvancedQueryingExercises\BookShop.Models\obj\Debug\net6.0\refint\BookShop.Models.dll
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\DB-January2025\EntityFrameworkCore\05.AdvancedQueryingExercises\BookShop.Models\obj\Debug\net6.0\BookShop.Models.pdb
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\DB-January2025\EntityFrameworkCore\05.AdvancedQueryingExercises\BookShop.Models\obj\Debug\net6.0\BookShop.Models.genruntimeconfig.cache
+D:\ProgramsScool\Git Hub\SoftUni-CSharp\DB-January2025\EntityFrameworkCore\05.AdvancedQueryingExercises\BookShop.Models\obj\Debug\net6.0\ref\BookShop.Models.dll
